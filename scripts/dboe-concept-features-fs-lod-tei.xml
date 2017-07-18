@@ -1,0 +1,3434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Feature Structure Conceptual Inventory DBOE; Collection of LOD uri's</title>
+            <author>Jack T. Bowers</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab><!-- should we keep this in separate document, combined with LOD tagged <fs> from fragebogen? -->
+            <fs type="concept" xml:id="plants">
+               <f name="name">
+                  <string xml:lang="de">Pflanzen</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="plants_cURL1"
+                  corresp="http://de.dbpedia.org/resource/Pflanzen"/>
+            </fs>
+            <fs type="concept" xml:id="TaraxacumofficinaleWeber">
+               <f name="name">
+                  <string xml:lang="la">Taraxacum officinale Weber</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Löwenzahn</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="TaraxacumofficinaleWeber_cURL1"
+                  corresp="http://dbpedia.org/resource/Taraxacum_officinale"/>
+            </fs>
+            <fs type="concept" xml:id="AchilleamillefoliumL">
+               <f name="name">
+                  <string xml:lang="la">Achillea millefolium L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Schafgarbe</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AchilleamillefoliumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Achillea_millefolium"/>
+            </fs>
+            <fs type="concept" xml:id="BellisperennisL">
+               <f name="name">
+                  <string xml:lang="la">Bellis perennis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Gänseblümchen</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Maßliebchen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="BellisperennisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Bellis_perennis"/>
+            </fs>
+            <fs type="concept" xml:id="AconitumnapellusL">
+               <f name="name">
+                  <string xml:lang="la">Aconitum napellus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Echter Eisenhut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Echter Sturmhut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AconitumnapellusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Aconitum_napellus"/>
+            </fs>
+            <fs type="concept" xml:id="ConvallariamajalisL">
+               <f name="name">
+                  <string xml:lang="la">Convallaria majalis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Maiglöckchen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ConvallariamajalisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lily_of_the_valley"/>
+            </fs>
+            <fs type="concept" xml:id="AchilleaclavenaeL">
+               <f name="name">
+                  <string xml:lang="la">Achillea clavenae L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weiße Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weißer Speik</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bittere Garbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Felsenschafgarbe</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AchilleaclavenaeL_cURL1"
+                  corresp="http://dbpedia.org/resource/Achillea_clavennae"/>
+            </fs>
+            <fs type="concept" xml:id="HederahelixL">
+               <f name="name">
+                  <string xml:lang="la">Hedera helix L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Efeu</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HederahelixL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hedera_helix"/>
+            </fs>
+            <fs type="concept" xml:id="AegopodiumpodagrariaL">
+               <f name="name">
+                  <string xml:lang="la">Aegopodium podagraria L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Geißfuß</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Giersch</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AegopodiumpodagrariaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Aegopodium_podagraria"/>
+            </fs>
+            <fs type="concept" xml:id="LarixdeciduaMill">
+               <f name="name">
+                  <string xml:lang="la">Larix decidua Mill.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Europ. Lärche</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LarixdeciduaMill_cURL1"
+                  corresp="http://dbpedia.org/resource/Honey"/>
+            </fs>
+            <fs type="concept" xml:id="AcercampestreL">
+               <f name="name">
+                  <string xml:lang="la">Acer campestre L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Feld-Ahorn</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Maßholder</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AcercampestreL_cURL1"
+                  corresp="http://dbpedia.org/resource/Acer_campestre"/>
+            </fs>
+            <fs type="concept" xml:id="HelianthusannuusL">
+               <f name="name">
+                  <string xml:lang="la">Helianthus annuus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Sonnenblume</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Echte/Große Sonnenblume</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HelianthusannuusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Carl_Linnaeus"/>
+            </fs>
+            <fs type="concept" xml:id="AesculushippocastanumL">
+               <f name="name">
+                  <string xml:lang="la">Aesculus hippocastanum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Roßkastanie</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weiße Roßkastanie</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AesculushippocastanumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Aesculus_hippocastanum"/>
+            </fs>
+            <fs type="concept" xml:id="GeumurbanumL">
+               <f name="name">
+                  <string xml:lang="la">Geum urbanum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Echte Nelkenwurz</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Busch-Nelkenwurz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GeumurbanumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Geum_urbanum"/>
+            </fs>
+            <fs type="concept" xml:id="AbiesalbaMill">
+               <f name="name">
+                  <string xml:lang="la">Abies alba Mill.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weiß-Tanne</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Edeltanne</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AbiesalbaMill_cURL1"
+                  corresp="http://dbpedia.org/resource/John_Stuart_Mill"/>
+            </fs>
+            <fs type="concept" xml:id="AcoruscalamusL">
+               <f name="name">
+                  <string xml:lang="la">Acorus calamus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Kalmus</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AcoruscalamusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Acorus_calamus"/>
+            </fs>
+            <fs type="concept" xml:id="AchilleamoschataWulf">
+               <f name="name">
+                  <string xml:lang="la">Achillea moschata Wulf.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Moschus-Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bisam-Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Iva-Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bisam-Garbe</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AchilleamoschataWulf_cURL1"
+                  corresp="http://dbpedia.org/resource/Achillea"/>
+            </fs>
+            <fs type="concept" xml:id="AcerplatanoidesL">
+               <f name="name">
+                  <string xml:lang="la">Acer platanoides L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Spitz- Ahorn</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Leimbaum</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AcerplatanoidesL_cURL1"
+                  corresp="http://dbpedia.org/resource/Acer_platanoides"/>
+            </fs>
+            <fs type="concept" xml:id="AchilleaatrataL">
+               <f name="name">
+                  <string xml:lang="la">Achillea atrata L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Schwarze Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Schwärzliche Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Falsche Edelraute</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Schwarzrand-Schafgarbe</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AchilleaatrataL_cURL1"
+                  corresp="http://dbpedia.org/resource/Achillea_atrata"/>
+            </fs>
+            <fs type="concept" xml:id="AdenostylesalliariaeKerner">
+               <f name="name">
+                  <string xml:lang="la">Adenostyles alliariae Kerner</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Grau-Alpendost</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AdenostylesalliariaeKerner_cURL1"
+                  corresp="http://dbpedia.org/resource/Justinus_Kerner"/>
+            </fs>
+            <fs type="concept" xml:id="AconitumvulpariaRchb">
+               <f name="name">
+                  <string xml:lang="la">Aconitum vulparia Rchb.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wolfs-Eisenhut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gelber Eisenhut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wolfshut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gelber Sturmhut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AconitumvulpariaRchb_cURL1"
+                  corresp="http://dbpedia.org/resource/Ludwig_Reichenbach"/>
+            </fs>
+            <fs type="concept" xml:id="HumuluslupulusL">
+               <f name="name">
+                  <string xml:lang="la">Humulus lupulus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Hopfen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HumuluslupulusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Bine_(botany)"/>
+            </fs>
+            <fs type="concept" xml:id="HelianthustuberosusL">
+               <f name="name">
+                  <string xml:lang="la">Helianthus tuberosus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Knollen-Sonnenblume</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Erdbirne</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Topinambur</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HelianthustuberosusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Helianthus"/>
+            </fs>
+            <fs type="concept" xml:id="HerniariaglabraL">
+               <f name="name">
+                  <string xml:lang="la">Herniaria glabra L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kahles Bruchkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HerniariaglabraL_cURL1"
+                  corresp="http://dbpedia.org/resource/Herniaria_glabra"/>
+            </fs>
+            <fs type="concept" xml:id="ActaeaspicataL">
+               <f name="name">
+                  <string xml:lang="la">Actaea spicata L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Christophskraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Christophoruskraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ActaeaspicataL_cURL1"
+                  corresp="http://dbpedia.org/resource/Actaea_spicata"/>
+            </fs>
+            <fs type="concept" xml:id="AdonisaestivalisL">
+               <f name="name">
+                  <string xml:lang="la">Adonis aestivalis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Sommer-Teufelsauge</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kleines Teufelsauge</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AdonisaestivalisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Adonis_aestivalis"/>
+            </fs>
+            <fs type="concept" xml:id="GratiolaofficinalisL">
+               <f name="name">
+                  <string xml:lang="la">Gratiola officinalis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Gnadenkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GratiolaofficinalisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Gratiola_officinalis"/>
+            </fs>
+            <fs type="concept" xml:id="AchilleaptarmicaL">
+               <f name="name">
+                  <string xml:lang="la">Achillea ptarmica L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bertram- Schafgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Sumpfgarbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Deutscher Bertram</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wilder Bertram</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AchilleaptarmicaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Achillea_ptarmica"/>
+            </fs>
+            <fs type="concept" xml:id="AethusacynapiumL">
+               <f name="name">
+                  <string xml:lang="la">Aethusa cynapium L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Hundspetersilie</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gleiße</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AethusacynapiumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Aethusa_cynapium"/>
+            </fs>
+            <fs type="concept" xml:id="AndromedapolifoliaL">
+               <f name="name">
+                  <string xml:lang="la">Andromeda polifolia L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Polei-Gränke</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AndromedapolifoliaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Andromeda_polifolia"/>
+            </fs>
+            <fs type="concept" xml:id="LaserpitiumlatifoliumL">
+               <f name="name">
+                  <string xml:lang="la">Laserpitium latifolium L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Breitbaltt-Laserkraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Breitblättriges Laserkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LaserpitiumlatifoliumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Laserpitium_latifolium"/>
+            </fs>
+            <fs type="concept" xml:id="HeliotropiumperuvianumL">
+               <f name="name">
+                  <string xml:lang="la">Heliotropium peruvianum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Vanillenstrauch</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Vanillenheliotrop</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HeliotropiumperuvianumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Heliotropium_arborescens"/>
+            </fs>
+            <fs type="concept" xml:id="AnemonepratensisL">
+               <f name="name">
+                  <string xml:lang="la">Anemone pratensis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Kuhschelle</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Nickende Kuhschelle</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Küchenschelle</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnemonepratensisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Pulsatilla_pratensis"/>
+            </fs>
+            <fs type="concept" xml:id="AlopecuruspratensisL">
+               <f name="name">
+                  <string xml:lang="la">Alopecurus pratensis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Fuchsschwanzgras</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Fuchsschwanz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AlopecuruspratensisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Alopecurus_pratensis"/>
+            </fs>
+            <fs type="concept" xml:id="HordeummurinumL">
+               <f name="name">
+                  <string xml:lang="la">Hordeum murinum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Mäuse-Gerste</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Schlief-Hansel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HordeummurinumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hordeum_murinum"/>
+            </fs>
+            <fs type="concept" xml:id="HyssopusofficinalisL">
+               <f name="name">
+                  <string xml:lang="la">Hyssopus officinalis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Ysop</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Echter Ysop</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HyssopusofficinalisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hyssopus_officinalis"/>
+            </fs>
+            <fs type="concept" xml:id="LamiumalbumL">
+               <f name="name">
+                  <string xml:lang="la">Lamium album L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weiße Taubnessel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LamiumalbumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lamium_album"/>
+            </fs>
+            <fs type="concept" xml:id="GladioluscommunisL">
+               <f name="name">
+                  <string xml:lang="la">Gladiolus communis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Garten-Siegwurz</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gemeine Siegwurz</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Saat-Siegwurz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GladioluscommunisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Gladiolus_communis"/>
+            </fs>
+            <fs type="concept" xml:id="LathraeasquamariaL">
+               <f name="name">
+                  <string xml:lang="la">Lathraea squamaria L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Schuppenwurz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LathraeasquamariaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lathraea_squamaria"/>
+            </fs>
+            <fs type="concept" xml:id="GlycyrrhizaglabraL">
+               <f name="name">
+                  <string xml:lang="la">Glycyrrhiza glabra L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kahles Süßholz</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew./Dt./Span. Süßholz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GlycyrrhizaglabraL_cURL1"
+                  corresp="http://dbpedia.org/resource/Liquorice"/>
+            </fs>
+            <fs type="concept" xml:id="HolcuslanatusL">
+               <f name="name">
+                  <string xml:lang="la">Holcus lanatus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wolliges Honiggras</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HolcuslanatusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Holcus_lanatus"/>
+            </fs>
+            <fs type="concept" xml:id="GlyceriafluitansRBr">
+               <f name="name">
+                  <string xml:lang="la">Glyceria fluitans R.Br.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Flut-Schwadengras</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Flutender Schwaden</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Manna-Schwadengras</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GlyceriafluitansRBr_cURL1"
+                  corresp="http://dbpedia.org/resource/Glyceria_fluitans"/>
+            </fs>
+            <fs type="concept" xml:id="AndropogonischaemumL">
+               <f name="name">
+                  <string xml:lang="la">Andropogon ischaemum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Bartgras</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AndropogonischaemumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Bothriochloa_ischaemum"/>
+            </fs>
+            <fs type="concept" xml:id="AndrosacealpinaLam">
+               <f name="name">
+                  <string xml:lang="la">Androsace alpina Lam.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Alpen-Mannsschild</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AndrosacealpinaLam_cURL1"
+                  corresp="http://dbpedia.org/resource/Mountain"/>
+            </fs>
+            <fs type="concept" xml:id="GnaphaliumuliginosumL">
+               <f name="name">
+                  <string xml:lang="la">Gnaphalium uliginosum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Sumpf-Ruhrkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GnaphaliumuliginosumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Gnaphalium_uliginosum"/>
+            </fs>
+            <fs type="concept" xml:id="IrispseudacorusL">
+               <f name="name">
+                  <string xml:lang="la">Iris pseudacorus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wasser-Schwertlilie</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="IrispseudacorusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Iris_pseudacorus"/>
+            </fs>
+            <fs type="concept" xml:id="GypsophilapaniculataL">
+               <f name="name">
+                  <string xml:lang="la">Gypsophila paniculata L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Rispen-Gipskraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Schleierkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GypsophilapaniculataL_cURL1"
+                  corresp="http://dbpedia.org/resource/Gypsophila_paniculata"/>
+            </fs>
+            <fs type="concept" xml:id="GlobulariaelongataHegetschw">
+               <f name="name">
+                  <string xml:lang="la">Globularia elongata Hegetschw.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Kugelblume</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Hochstiel-Kugelblume</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gemeine Kugelblume</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GlobulariaelongataHegetschw_cURL1"
+                  corresp="http://dbpedia.org/resource/Globularia_bisnagarica"/>
+            </fs>
+            <fs type="concept" xml:id="HorminumpyrenaicumL">
+               <f name="name">
+                  <string xml:lang="la">Horminum pyrenaicum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Pyrenäen-Drachenmaul</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HorminumpyrenaicumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Ornithogalum_pyrenaicum"/>
+            </fs>
+            <fs type="concept" xml:id="LegousiaspeculumvenerisChaix">
+               <f name="name">
+                  <string xml:lang="la">Legousia speculum-veneris Chaix</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Frauenspigel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Venusspiegel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LegousiaspeculumvenerisChaix_cURL1"
+                  corresp="http://dbpedia.org/resource/Chaix"/>
+            </fs>
+            <fs type="concept" xml:id="AsparagusofficinalisL">
+               <f name="name">
+                  <string xml:lang="la">Asparagus officinalis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Spargel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Garten-Spargel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AsparagusofficinalisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Asparagus"/>
+            </fs>
+            <fs type="concept" xml:id="AnthemiscotulaL">
+               <f name="name">
+                  <string xml:lang="la">Anthemis cotula L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Stinkende Hundskamille</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Stinkkamille</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnthemiscotulaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Anthemis_cotula"/>
+            </fs>
+            <fs type="concept" xml:id="AlchemillaalpinaL">
+               <f name="name">
+                  <string xml:lang="la">Alchemilla alpina L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Alpen-Sinau</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AlchemillaalpinaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Alchemilla_alpina"/>
+            </fs>
+            <fs type="concept" xml:id="HibiscustrionumL">
+               <f name="name">
+                  <string xml:lang="la">Hibiscus trionum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Stunden-Ibisch</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Stunden-Eibisch</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HibiscustrionumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hibiscus_trionum"/>
+            </fs>
+            <fs type="concept" xml:id="HeliospermaalpestreRchb">
+               <f name="name">
+                  <string xml:lang="la">Heliosperma alpestre Rchb.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Großer Strahlensame</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Alpen-strahlensame</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HeliospermaalpestreRchb_cURL1"
+                  corresp="http://dbpedia.org/resource/Ludwig_Reichenbach"/>
+            </fs>
+            <fs type="concept" xml:id="HelianthemumnummulariumMill">
+               <f name="name">
+                  <string xml:lang="la">Helianthemum nummularium Mill.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Zweifarbiges Sonnenröschen</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Heide-Sonnenröschen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HelianthemumnummulariumMill_cURL1"
+                  corresp="http://dbpedia.org/resource/Honey"/>
+            </fs>
+            <fs type="concept" xml:id="JuncusjacquiniiL">
+               <f name="name">
+                  <string xml:lang="la">Juncus jacquinii L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gemsen-Simse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Jacquin's Binse</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JuncusjacquiniiL_cURL1"
+                  corresp="http://dbpedia.org/resource/Juncus"/>
+            </fs>
+            <fs type="concept" xml:id="HordeumdistichonL">
+               <f name="name">
+                  <string xml:lang="la">Hordeum distichon L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Zweizeilige Gerste</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HordeumdistichonL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hordeum"/>
+            </fs>
+            <fs type="concept" xml:id="HippurisvulgarisL">
+               <f name="name">
+                  <string xml:lang="la">Hippuris vulgaris L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Tannenwedel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HippurisvulgarisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hippuris_vulgaris"/>
+            </fs>
+            <fs type="concept" xml:id="LamiumgaleobdolonNath">
+               <f name="name">
+                  <string xml:lang="la">Lamium galeobdolon Nath.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gelbe Taubnessel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Goldnessel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LamiumgaleobdolonNath_cURL1"
+                  corresp="http://dbpedia.org/resource/Nath"/>
+            </fs>
+            <fs type="concept" xml:id="HolcusmollisL">
+               <f name="name">
+                  <string xml:lang="la">Holcus mollis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weiches Honiggras</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HolcusmollisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Holcus_mollis"/>
+            </fs>
+            <fs type="concept" xml:id="AloysiacitriodoraOrtetPal">
+               <f name="name">
+                  <string xml:lang="la">Aloysia citriodora Ort. et Pal.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Zitronenkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AloysiacitriodoraOrtetPal_cURL1"
+                  corresp="http://dbpedia.org/resource/Detent"/>
+            </fs>
+            <fs type="concept" xml:id="HieraciumintybaceumAll">
+               <f name="name">
+                  <string xml:lang="la">Hieracium intybaceum All.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weißl. Habichtskraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Endivien-Habichtskraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HieraciumintybaceumAll_cURL1"
+                  corresp="http://dbpedia.org/resource/Hieracium"/>
+            </fs>
+            <fs type="concept" xml:id="HedysarumhedysaroidesSchinzetThell">
+               <f name="name">
+                  <string xml:lang="la">Hedysarum hedysaroides Schinz et Thell.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Alpen-Süßklee</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HedysarumhedysaroidesSchinzetThell_cURL1"
+                  corresp="http://dbpedia.org/resource/Albert_Thellung"/>
+            </fs>
+            <fs type="concept" xml:id="HydrocharismorsusranaeL">
+               <f name="name">
+                  <string xml:lang="la">Hydrocharis morsus-ranae L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Froschbiß</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HydrocharismorsusranaeL_cURL1"
+                  corresp="http://dbpedia.org/resource/Frogbit"/>
+            </fs>
+            <fs type="concept" xml:id="AnemoneranunculoidesL">
+               <f name="name">
+                  <string xml:lang="la">Anemone ranunculoides L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gelbes Windröschen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnemoneranunculoidesL_cURL1"
+                  corresp="http://dbpedia.org/resource/Anemone_ranunculoides"/>
+            </fs>
+            <fs type="concept" xml:id="AmygdaluscommunisL">
+               <f name="name">
+                  <string xml:lang="la">Amygdalus communis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Mandelbaum</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AmygdaluscommunisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Almond"/>
+            </fs>
+            <fs type="concept" xml:id="LavandulalatifoliaVill">
+               <f name="name">
+                  <string xml:lang="la">Lavandula latifolia Vill.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Großer Lavendel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Spik-Lavendel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Spike</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LavandulalatifoliaVill_cURL1"
+                  corresp="http://dbpedia.org/resource/Lavandula_latifolia"/>
+            </fs>
+            <fs type="concept" xml:id="AnacycluspyrethrumDC">
+               <f name="name">
+                  <string xml:lang="la">Anacyclus pyrethrum DC.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Röm. Bertram</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnacycluspyrethrumDC_cURL1"
+                  corresp="http://dbpedia.org/resource/Anacyclus_pyrethrum"/>
+            </fs>
+            <fs type="concept" xml:id="InulaconyzaDC">
+               <f name="name">
+                  <string xml:lang="la">Inula conyza DC.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Dürrwurz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="InulaconyzaDC_cURL1"
+                  corresp="http://dbpedia.org/resource/Conyza"/>
+            </fs>
+            <fs type="concept" xml:id="LathyrustuberosusL">
+               <f name="name">
+                  <string xml:lang="la">Lathyrus tuberosus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Knollen-Platterbse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Erdeichel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LathyrustuberosusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lathyrus"/>
+            </fs>
+            <fs type="concept" xml:id="AnemonenarcissifloraL">
+               <f name="name">
+                  <string xml:lang="la">Anemone narcissiflora L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Narzissen-Windröschen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnemonenarcissifloraL_cURL1"
+                  corresp="http://dbpedia.org/resource/Anemone_narcissiflora"/>
+            </fs>
+            <fs type="concept" xml:id="ArctostaphylosalpinaSpreng">
+               <f name="name">
+                  <string xml:lang="la">Arctostaphylos alpina Spreng.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Alpen-Bärentraube</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArctostaphylosalpinaSpreng_cURL1"
+                  corresp="http://dbpedia.org/resource/Sebastian_Spreng"/>
+            </fs>
+            <fs type="concept" xml:id="LamiummaculatumL">
+               <f name="name">
+                  <string xml:lang="la">Lamium maculatum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Flecken-Taubnessel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gefleckte Taubnessel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LamiummaculatumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lamium_maculatum"/>
+            </fs>
+            <fs type="concept" xml:id="AgrostisvulgarisWith">
+               <f name="name">
+                  <string xml:lang="la">Agrostis vulgaris With.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Rot-Straußgras</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Rotes Straußkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AgrostisvulgarisWith_cURL1"
+                  corresp="http://dbpedia.org/resource/Vespula_vulgaris"/>
+            </fs>
+            <fs type="concept" xml:id="JasminumofficinaleL">
+               <f name="name">
+                  <string xml:lang="la">Jasminum officinale L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Echter Jasmin</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JasminumofficinaleL_cURL1"
+                  corresp="http://dbpedia.org/resource/Jasminum_officinale"/>
+            </fs>
+            <fs type="concept" xml:id="AnacyclusofficinarumHayne">
+               <f name="name">
+                  <string xml:lang="la">Anacyclus officinarum Hayne</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Deutscher Bertram</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bertramswurzel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnacyclusofficinarumHayne_cURL1"
+                  corresp="http://dbpedia.org/resource/Friedrich_Gottlob_Hayne"/>
+            </fs>
+            <fs type="concept" xml:id="ArrhenatherumelatiusJetCPresl">
+               <f name="name">
+                  <string xml:lang="la">Arrhenatherum elatius J. et C. Presl</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Glatthafer</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Frz. Raygras</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Frz. Weidelgras</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArrhenatherumelatiusJetCPresl_cURL1"
+                  corresp="http://dbpedia.org/resource/Arrhenatherum_elatius"/>
+            </fs>
+            <fs type="concept" xml:id="AnthemistinctoriaL">
+               <f name="name">
+                  <string xml:lang="la">Anthemis tinctoria L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Färber-Hundskamille</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Färberkamille</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnthemistinctoriaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Cota_tinctoria"/>
+            </fs>
+            <fs type="concept" xml:id="AjugachamaepitysSchreb">
+               <f name="name">
+                  <string xml:lang="la">Ajuga chamaepitys Schreb.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Acker- Günsel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gelber Günsel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AjugachamaepitysSchreb_cURL1"
+                  corresp="http://dbpedia.org/resource/Johann_Christian_Daniel_von_Schreber"/>
+            </fs>
+            <fs type="concept" xml:id="AdoxamoschatellinaL">
+               <f name="name">
+                  <string xml:lang="la">Adoxa moschatellina L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Moschuskraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bisamkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AdoxamoschatellinaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Adoxa"/>
+            </fs>
+            <fs type="concept" xml:id="AlyssumcalycinumL">
+               <f name="name">
+                  <string xml:lang="la">Alyssum calycinum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kelch-Steinkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AlyssumcalycinumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Alyssum_alyssoides"/>
+            </fs>
+            <fs type="concept" xml:id="HordeumvulgareL">
+               <f name="name">
+                  <string xml:lang="la">Hordeum vulgare L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Mehrzeilige Gerste</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HordeumvulgareL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hordeum"/>
+            </fs>
+            <fs type="concept" xml:id="HomogynealpinaCass">
+               <f name="name">
+                  <string xml:lang="la">Homogyne alpina Cass.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Grün-Brandlattich</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HomogynealpinaCass_cURL1"
+                  corresp="http://dbpedia.org/resource/Homogyne_alpina"/>
+            </fs>
+            <fs type="concept" xml:id="AiraflexuosaL">
+               <f name="name">
+                  <string xml:lang="la">Aira flexuosa L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wald-Schmiele</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Draht-Schmiele</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Flatter-Schmiele</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AiraflexuosaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Deschampsia_flexuosa"/>
+            </fs>
+            <fs type="concept" xml:id="ArtemisianitidaBert">
+               <f name="name">
+                  <string xml:lang="la">Artemisia nitida Bert.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Glänzende Edelraute</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Glänzender Beifuß</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArtemisianitidaBert_cURL1"
+                  corresp="http://dbpedia.org/resource/Bert,_Allier"/>
+            </fs>
+            <fs type="concept" xml:id="LathyruspratensisL">
+               <f name="name">
+                  <string xml:lang="la">Lathyrus pratensis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Platterbse</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LathyruspratensisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lathyrus_pratensis"/>
+            </fs>
+            <fs type="concept" xml:id="HypericummaculatumCrantz">
+               <f name="name">
+                  <string xml:lang="la">Hypericum maculatum Crantz</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Flecken-Johanniskraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HypericummaculatumCrantz_cURL1"
+                  corresp="http://dbpedia.org/resource/Heinrich_Johann_Nepomuk_von_Crantz"/>
+            </fs>
+            <fs type="concept" xml:id="HolosteumumbellatumL">
+               <f name="name">
+                  <string xml:lang="la">Holosteum umbellatum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Spurre</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Dolden-Spurre</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HolosteumumbellatumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Holosteum_umbellatum"/>
+            </fs>
+            <fs type="concept" xml:id="KochiascopariaSchrad">
+               <f name="name">
+                  <string xml:lang="la">Kochia scoparia Schrad.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Besen-Radmelde</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Besenkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="KochiascopariaSchrad_cURL1"
+                  corresp="http://dbpedia.org/resource/Heinrich_Schrader_(botanist)"/>
+            </fs>
+            <fs type="concept" xml:id="LapsanacommunisL">
+               <f name="name">
+                  <string xml:lang="la">Lapsana communis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Rainkohl</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LapsanacommunisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lapsana"/>
+            </fs>
+            <fs type="concept" xml:id="JuncusbufoniusL">
+               <f name="name">
+                  <string xml:lang="la">Juncus bufonius L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kröten-Simse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kröten-Binse</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JuncusbufoniusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Juncus_bufonius"/>
+            </fs>
+            <fs type="concept" xml:id="AntirrhinumorontiumL">
+               <f name="name">
+                  <string xml:lang="la">Antirrhinum orontium L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kl. Löwenmaul</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Acker-Löwenmaul</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AntirrhinumorontiumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Orontium"/>
+            </fs>
+            <fs type="concept" xml:id="IberisumbellataL">
+               <f name="name">
+                  <string xml:lang="la">Iberis umbellata L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Dolden-Schleifenblume</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="IberisumbellataL_cURL1"
+                  corresp="http://dbpedia.org/resource/Iberis_umbellata"/>
+            </fs>
+            <fs type="concept" xml:id="ArtemisiacampestrisL">
+               <f name="name">
+                  <string xml:lang="la">Artemisia campestris L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Feld-Beifuß</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArtemisiacampestrisL_cURL1"
+                  corresp="http://dbpedia.org/resource/8776_Campestris"/>
+            </fs>
+            <fs type="concept" xml:id="JuniperusvirginianaL">
+               <f name="name">
+                  <string xml:lang="la">Juniperus virginiana L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Virgin. Wacholder</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JuniperusvirginianaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Juniperus_virginiana"/>
+            </fs>
+            <fs type="concept" xml:id="IrisflorentinaL">
+               <f name="name">
+                  <string xml:lang="la">Iris florentina L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weiße Schwertlilie</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="IrisflorentinaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Orris_root"/>
+            </fs>
+            <fs type="concept" xml:id="AsparagustenuifoliusLam">
+               <f name="name">
+                  <string xml:lang="la">Asparagus tenuifolius Lam.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Feinblatt-Spargel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wilder Spargel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AsparagustenuifoliusLam_cURL1"
+                  corresp="http://dbpedia.org/resource/Lama_(genus)"/>
+            </fs>
+            <fs type="concept" xml:id="ArnoserisminimaSchweiggetKoerte">
+               <f name="name">
+                  <string xml:lang="la">Arnoseris minima Schweigg. et Koerte</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kl. Lämmersalat</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Lammkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArnoserisminimaSchweiggetKoerte_cURL1"
+                  corresp="http://dbpedia.org/resource/Canine_tooth"/>
+            </fs>
+            <fs type="concept" xml:id="GoodyerarepensRBr">
+               <f name="name">
+                  <string xml:lang="la">Goodyera repens R.Br.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew.Kriechstendel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GoodyerarepensRBr_cURL1"
+                  corresp="http://dbpedia.org/resource/Goodyera_repens"/>
+            </fs>
+            <fs type="concept" xml:id="AconitumvariegatumL">
+               <f name="name">
+                  <string xml:lang="la">Aconitum variegatum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bunter Eisenhut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AconitumvariegatumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Aconitum"/>
+            </fs>
+            <fs type="concept" xml:id="ArabisturritaL">
+               <f name="name">
+                  <string xml:lang="la">Arabis turrita L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Bogenfrucht-Gänsekresse</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArabisturritaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Arabis_glabra"/>
+            </fs>
+            <fs type="concept" xml:id="LemnatrisulcaL">
+               <f name="name">
+                  <string xml:lang="la">Lemna trisulca L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Tauch-Wasserlinse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Furchen-Wasserlinse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kreuz-Wasserlinse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Tauchflott</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LemnatrisulcaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lemna_trisulca"/>
+            </fs>
+            <fs type="concept" xml:id="AposerisfoetidaLess">
+               <f name="name">
+                  <string xml:lang="la">Aposeris foetida Less.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gelber Stinkkohl</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Stinkender Hainsalat</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AposerisfoetidaLess_cURL1"
+                  corresp="http://dbpedia.org/resource/Aposeris"/>
+            </fs>
+            <fs type="concept" xml:id="HippocrepiscomosaL">
+               <f name="name">
+                  <string xml:lang="la">Hippocrepis comosa L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Hufeisenklee</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HippocrepiscomosaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hippocrepis_comosa"/>
+            </fs>
+            <fs type="concept" xml:id="ArtemisiaaustriacaJacq">
+               <f name="name">
+                  <string xml:lang="la">Artemisia austriaca Jacq.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Öst. Beifuß</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArtemisiaaustriacaJacq_cURL1"
+                  corresp="http://dbpedia.org/resource/Nikolaus_Joseph_von_Jacquin"/>
+            </fs>
+            <fs type="concept" xml:id="AlliariaofficinalisAndrz">
+               <f name="name">
+                  <string xml:lang="la">Alliaria officinalis Andrz.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Lauchkraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Knoblauchsrauke</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="AnaphalismargaritaceaBenthetHook">
+               <f name="name">
+                  <string xml:lang="la">Anaphalis margaritacea Benth. et Hook.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Perlblume</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Perlkörbchen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnaphalismargaritaceaBenthetHook_cURL1"
+                  corresp="http://dbpedia.org/resource/Hooking"/>
+            </fs>
+            <fs type="concept" xml:id="AilanthusglandulosaDesf">
+               <f name="name">
+                  <string xml:lang="la">Ailanthus glandulosa Desf.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Chines. Götterbaum</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AilanthusglandulosaDesf_cURL1"
+                  corresp="http://dbpedia.org/resource/Ailanthus_altissima"/>
+            </fs>
+            <fs type="concept" xml:id="AnthoxanthumodoratumL">
+               <f name="name">
+                  <string xml:lang="la">Anthoxanthum odoratum L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Ruchgras</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnthoxanthumodoratumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Anthoxanthum_odoratum"/>
+            </fs>
+            <fs type="concept" xml:id="HottoniapalustrisL">
+               <f name="name">
+                  <string xml:lang="la">Hottonia palustris L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Europäische Wasserfeder</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Sumpf-Wasserfeder</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HottoniapalustrisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hottonia_palustris"/>
+            </fs>
+            <fs type="concept" xml:id="ConvallariamajalisLMaiglöckchen">
+               <f name="name">
+                  <string xml:lang="la">Convallaria majalis L. (Maiglöckchen)</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ConvallariamajalisLMaiglöckchen_cURL1"
+                  corresp="http://dbpedia.org/resource/Lily_of_the_valley"/>
+            </fs>
+            <fs type="concept" xml:id="HelleborusdumetorumWK">
+               <f name="name">
+                  <string xml:lang="la">Helleborus dumetorum W.K.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Hecken-Nieswurz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HelleborusdumetorumWK_cURL1"
+                  corresp="http://dbpedia.org/resource/Hellebore"/>
+            </fs>
+            <fs type="concept" xml:id="InulabritannicaL">
+               <f name="name">
+                  <string xml:lang="la">Inula britannica L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Alant</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="InulabritannicaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Inula_britannica"/>
+            </fs>
+            <fs type="concept" xml:id="AgaveamericanaL">
+               <f name="name">
+                  <string xml:lang="la">Agave americana L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Agave</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Baum-Aloe als Zierpflanze</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AgaveamericanaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Agave_americana"/>
+            </fs>
+            <fs type="concept" xml:id="Achilleaclusiana">
+               <f name="name">
+                  <string xml:lang="la">Achillea clusiana</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Clusius-Schafgarbe</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="Achilleaclusiana_cURL1"
+                  corresp="http://dbpedia.org/resource/Achillea"/>
+            </fs>
+            <fs type="concept" xml:id="HelianthemumalpestreDC">
+               <f name="name">
+                  <string xml:lang="la">Helianthemum alpestre DC.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Alpen-Sonnenröschen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HelianthemumalpestreDC_cURL1"
+                  corresp="http://dbpedia.org/resource/Alpestre,_Rio_Grande_do_Sul"/>
+            </fs>
+            <fs type="concept" xml:id="ArtemisiascopariaWK">
+               <f name="name">
+                  <string xml:lang="la">Artemisia scoparia W.K.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Besen-Beifuß</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArtemisiascopariaWK_cURL1"
+                  corresp="http://dbpedia.org/resource/Artemisia_scoparia"/>
+            </fs>
+            <fs type="concept" xml:id="LappulamyosotisMoench">
+               <f name="name">
+                  <string xml:lang="la">Lappula myosotis Moench</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Igelsame</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LappulamyosotisMoench_cURL1"
+                  corresp="http://dbpedia.org/resource/Conrad_Moench"/>
+            </fs>
+            <fs type="concept" xml:id="JuncussphaerocarpusNees">
+               <f name="name">
+                  <string xml:lang="la">Juncus sphaerocarpus Nees</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kugelfrucht-Simse</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JuncussphaerocarpusNees_cURL1"
+                  corresp="http://dbpedia.org/resource/Christian_Gottfried_Daniel_Nees_von_Esenbeck"/>
+            </fs>
+            <fs type="concept" xml:id="HyacinthusorientalisL">
+               <f name="name">
+                  <string xml:lang="la">Hyacinthus orientalis L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Garten-Hyazinthe</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HyacinthusorientalisL_cURL1"
+                  corresp="http://dbpedia.org/resource/Hyacinthus_orientalis"/>
+            </fs>
+            <fs type="concept" xml:id="HerminiummonorchisRBr">
+               <f name="name">
+                  <string xml:lang="la">Herminium monorchis R.Br.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kl. Einknolle</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Elfenstendel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Einknöllchen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HerminiummonorchisRBr_cURL1"
+                  corresp="http://dbpedia.org/resource/Herminium_monorchis"/>
+            </fs>
+            <fs type="concept" xml:id="GnaphaliumluteoalbumL">
+               <f name="name">
+                  <string xml:lang="la">Gnaphalium luteo-album L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gelbliches Ruhrkraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Falbes Ruhrkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GnaphaliumluteoalbumL_cURL1"
+                  corresp="http://dbpedia.org/resource/Helichrysum_luteoalbum"/>
+            </fs>
+            <fs type="concept" xml:id="GnaphaliumcarpaticumWahlenb">
+               <f name="name">
+                  <string xml:lang="la">Gnaphalium carpaticum Wahlenb.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Karpaten-Ruhrkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GnaphaliumcarpaticumWahlenb_cURL1"
+                  corresp="http://dbpedia.org/resource/Göran_Wahlenberg"/>
+            </fs>
+            <fs type="concept" xml:id="ArabispetraeaMertetKoch">
+               <f name="name">
+                  <string xml:lang="la">Arabis petraea Mert. et Koch.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Felsen-Schaumkresse</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArabispetraeaMertetKoch_cURL1"
+                  corresp="http://dbpedia.org/resource/Cook_(profession)"/>
+            </fs>
+            <fs type="concept" xml:id="IrissibiricaL">
+               <f name="name">
+                  <string xml:lang="la">Iris sibirica L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Schwertlilie</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Sibir. Schwertlilie</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="IrissibiricaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Iris_sibirica"/>
+            </fs>
+            <fs type="concept" xml:id="JuncusmonanthosJacqEinblütigeSimseGamsgrasKä">
+               <f name="name">
+                  <string>Juncus monanthos Jacq., Einblütige Simse Gamsgras Kä.</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JuncusmonanthosJacqEinblütigeSimseGamsgrasKä_cURL1"
+                  corresp="http://dbpedia.org/resource/Nikolaus_Joseph_von_Jacquin"/>
+            </fs>
+            <fs type="concept" xml:id="HelianthemumovatumDun">
+               <f name="name">
+                  <string xml:lang="la">Helianthemum ovatum Dun.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Trübgrünes Sonnenröschen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="HelianthemumovatumDun_cURL1"
+                  corresp="http://dbpedia.org/resource/Dune"/>
+            </fs>
+            <fs type="concept" xml:id="ArabishalleriL">
+               <f name="name">
+                  <string xml:lang="la">Arabis halleri L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Kriech-Schaumkresse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Quellkresse</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="ArabishalleriL_cURL1"
+                  corresp="http://dbpedia.org/resource/Fish"/>
+            </fs>
+            <fs type="concept" xml:id="AnagalliscoeruleaSchreb">
+               <f name="name">
+                  <string xml:lang="la">Anagallis coerulea Schreb.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Blaues Gauchheil</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnagalliscoeruleaSchreb_cURL1"
+                  corresp="http://dbpedia.org/resource/Johann_Christian_Daniel_von_Schreber"/>
+            </fs>
+            <fs type="concept" xml:id="AnacamptispyramidalisLCRich">
+               <f name="name">
+                  <string xml:lang="la">Anacamptis pyramidalis L.C.Rich.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Pyramiden-Hundswurz</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Spitz-Orchis</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Kammknabenkraut</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AnacamptispyramidalisLCRich_cURL1"
+                  corresp="http://dbpedia.org/resource/Louis_Claude_Richard"/>
+            </fs>
+            <fs type="concept" xml:id="GlycyrrhizaglabraSüßholz">
+               <f name="name">
+                  <string xml:lang="la">Glycyrrhiza glabra (Süßholz)</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GlycyrrhizaglabraSüßholz_cURL1"
+                  corresp="http://dbpedia.org/resource/Liquorice"/>
+            </fs>
+            <fs type="concept" xml:id="LeontodonhispidusL">
+               <f name="name">
+                  <string xml:lang="la">Leontodon hispidus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Wiesen-Milchkraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Milchkraut</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Spieß-Löwenzahn</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LeontodonhispidusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Leontodon"/>
+            </fs>
+            <fs type="concept" xml:id="JuglansnigraL">
+               <f name="name">
+                  <string xml:lang="la">Juglans nigra L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Schwarznuß(baum)</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Amerikan. Nußbaum</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JuglansnigraL_cURL1"
+                  corresp="http://dbpedia.org/resource/Juglans_nigra"/>
+            </fs>
+            <fs type="concept" xml:id="LavaterathuringiacaL">
+               <f name="name">
+                  <string xml:lang="la">Lavatera thuringiaca L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Thüringer Strauchpappel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Thüring. Malve</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LavaterathuringiacaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lavatera_thuringiaca"/>
+            </fs>
+            <fs type="concept" xml:id="AgrostiscaninaL">
+               <f name="name">
+                  <string xml:lang="la">Agrostis canina L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Sumpf-Straußgras</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AgrostiscaninaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Agrostis_canina"/>
+            </fs>
+            <fs type="concept" xml:id="LagenariavulgarisSer">
+               <f name="name">
+                  <string xml:lang="la">Lagenaria vulgaris Ser.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Flaschenkürbis</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LagenariavulgarisSer_cURL1"
+                  corresp="http://dbpedia.org/resource/Garlic"/>
+            </fs>
+            <fs type="concept" xml:id="JasionemontanaL">
+               <f name="name">
+                  <string xml:lang="la">Jasione montana L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Sandrapunzel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Berg-Sandrapunzel</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Berg-Sandglöckchen</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="JasionemontanaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Jasione_montana"/>
+            </fs>
+            <fs type="concept" xml:id="LamiumorvalaL">
+               <f name="name">
+                  <string xml:lang="la">Lamium orvala L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Große Taubnessel</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LamiumorvalaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Lamium_orvala"/>
+            </fs>
+            <fs type="concept" xml:id="IrispallidaLam">
+               <f name="name">
+                  <string xml:lang="la">Iris pallida Lam.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Blasse Schwertlilie</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="IrispallidaLam_cURL1"
+                  corresp="http://dbpedia.org/resource/Lama_(genus)"/>
+            </fs>
+            <fs type="concept" xml:id="LathyrusodoratusL">
+               <f name="name">
+                  <string xml:lang="la">Lathyrus odoratus L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Duft-Platterbse</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Span. Wicke</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="LathyrusodoratusL_cURL1"
+                  corresp="http://dbpedia.org/resource/Sweet_pea"/>
+            </fs>
+            <fs type="concept" xml:id="AristolochiasiphoLHérit">
+               <f name="name">
+                  <string xml:lang="la">Aristolochia sipho L'Hérit</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Pfeifenstrauch</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Pfeifenblume</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AristolochiasiphoLHérit_cURL1"
+                  corresp="http://dbpedia.org/resource/Aristolochia_sipho"/>
+            </fs>
+            <fs type="concept" xml:id="GymnadeniaodoratissimaLCRich">
+               <f name="name">
+                  <string xml:lang="la">Gymnadenia odoratissima L.C.Rich.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Duft-Händelwurz</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="GymnadeniaodoratissimaLCRich_cURL1"
+                  corresp="http://dbpedia.org/resource/Louis_Claude_Richard"/>
+            </fs>
+            <fs type="concept" xml:id="IsopyrumthalictroidesL">
+               <f name="name">
+                  <string xml:lang="la">Isopyrum thalictroides L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gew. Muschelblümchen</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Tolldocke</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="IsopyrumthalictroidesL_cURL1"
+                  corresp="http://dbpedia.org/resource/Isopyrum"/>
+            </fs>
+            <fs type="concept" xml:id="AsparagusplumosusBak">
+               <f name="name">
+                  <string xml:lang="la">Asparagus plumosus Bak.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Asparagus Zierpflanze</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AsparagusplumosusBak_cURL1"
+                  corresp="http://dbpedia.org/resource/Asparagus_setaceus"/>
+            </fs>
+            <fs type="concept" xml:id="IrisgramineaL">
+               <f name="name">
+                  <string xml:lang="la">Iris graminea L.</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Gras-Schwertlilie</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="IrisgramineaL_cURL1"
+                  corresp="http://dbpedia.org/resource/Iris_graminea"/>
+            </fs>
+            <fs type="concept" xml:id="AconitumneomontanumKoelle">
+               <f name="name">
+                  <string xml:lang="la">Aconitum neomontanum Koelle</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Eisenhut- Sorte</string>
+               </f>
+               <f name="entityType">
+                  <string>plant</string>
+               </f>
+               <f name="conceptURL"
+                  xml:id="AconitumneomontanumKoelle_cURL1"
+                  corresp="http://dbpedia.org/resource/Johann_Ludwig_Christian_Koelle"/>
+            </fs>
+            <fs type="concept" xml:id="pilze">
+               <f name="pilze"
+                  corresp="http://de.dbpedia.org/resource/Pilze"
+                  xml:id="Pilze-dbp"/>
+            </fs>
+            <!-- months of the (Julian) calender year -->
+            <fs type="concept" xml:id="Körper">
+               <f name="Körper"
+                  corresp="http://de.dbpedia.org/resource/Menschlicher_Körper"
+                  xml:id="Körper-dbp">
+                  <string>Menschlicher Körper</string>
+                  <string>Körper</string>
+               </f>
+            </fs>
+            <!-- JB: the ontological relations between the body and it's parts can & should be further modeled/defined in some standoff method for rdf conversion -->
+            <fs type="concept" xml:id="Kopf">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kopf"
+                  xml:id="Kopf-dbp"/>
+               <f name="name">
+                  <string xml:lang="de">Kopf</string>
+               </f>
+               <f name="entityType">
+                  <string>body</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Auge">
+               <f name="Auge"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Auge"
+                  xml:id="Auge-dbp">
+                  <string>Auge</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Nase">
+               <f name="Nase"
+                  corresp="http://de.dbpedia.org/resource/Nase"
+                  xml:id="Nase-dbp">
+                  <string>Nase</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Ohr">
+               <f name="Ohr"
+                  corresp="http://de.dbpedia.org/resource/Ohr"
+                  xml:id="Ohr-dbp">
+                  <string>Ohr</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Arm">
+               <f name="Arm"
+                  corresp="http://dbpedia.imp.fu-berlin.de:49156/resource/Arm"
+                  xml:id="Arm-dbp">
+                  <string>Arm</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Hand">
+               <f name="Hand"
+                  corresp="http://dbpedia.imp.fu-berlin.de:49156/resource/Hand"
+                  xml:id="Hand-dbp">
+                  <string>Hand</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Finger">
+               <f name="Finger"
+                  corresp="http://de.dbpedia.org/resource/Finger"
+                  xml:id="Finger-dbp">
+                  <string>Finger</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Sehen">
+               <f name="Sehen"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Sehen"
+                  xml:id="Sehen-dbp"><!-- relations of abstract concept to action and anatomical entities should be defined -->
+                  <string>Sehen</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Hören">
+               <f name="Hören"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Hören"
+                  xml:id="Hören-dbp">
+                  <string>Hören</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Fühlen-dbp">
+               <f name="Fühlen-dbp" xml:id="Fühlen-dbp-dbp"><!-- Need to find appropriate uri (dbpedia very limited) -->
+                  <string>Fühlen</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Ostern">
+               <f name="Ostern"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Ostern"
+                  xml:id="Ostern-dbp">
+                  <string>Ostern</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Osterwoche">
+               <f name="Osterwoche"
+                  corresp="http://dbpedia.org/resource/Easter_Week"
+                  xml:id="Osterwoche-dbp">
+                  <string>Osterwoche</string>
+               </f>
+            </fs>
+            <!-- Note: the dbpedia uri for 'Osternwoche' is given in English because there isn't a German language version; (CONSIDER ADDING!)-->
+            <fs type="concept" xml:id="Palmsonntag">
+               <f name="Palmsonntag"
+                  corresp="http://de.dbpedia.org/resource/Palmsonntag"
+                  xml:id="Palmsonntag-dbp">
+                  <string>Palmsonntag</string>
+                  <string>Palmso.</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Fronleichnam">
+               <f name="Fronleichnam"
+                  corresp="http://de.dbpedia.org/resource/Fronleichnam"
+                  xml:id="Fronleichnam-dbp">
+                  <string>Fronleichnam</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Fastenzeit">
+               <f name="Fastenzeit"
+                  corresp="http://de.dbpedia.org/resource/Fastenzeit"
+                  xml:id="Fastenzeit-dbp">
+                  <string>Fastenzeit</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Hautkrankheit">
+               <f name="Hautkrankheit"
+                  corresp="http://de.dbpedia.org/resource/Hautkrankheit"
+                  xml:id="Hautkrankheit-dbp">
+                  <string>Hautkrankheiten</string>
+                  <string>Hautkrankheit</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Kleidung">
+               <f name="Kleidung"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Kleidung"
+                  xml:id="Kleidung-dbp">
+                  <string>Kleidung</string>
+               </f>
+            </fs>
+            <!-- Note: the dbpedia uri for 'Menschliches Haar' is given in English because there isn't a German language version; (CONSIDER ADDING!)-->
+            <fs type="concept" xml:id="MenschlichesHaar">
+               <f name="name">
+                  <string xml:lang="de">Menschliches Haar</string>
+               </f>
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Category:Human_hair"
+                  xml:id="Haar-dbp"/>
+               <f name="entityType">
+                  <string>human body</string>
+               </f>
+            </fs>
+            
+            <fs type="concept" xml:id="Rothaarig">
+               <f name="name">
+                  <string xml:lang="de">Rothaarig</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en">Red Hair</string>
+               </f>
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Rot_(Haarfarbe)"
+                  xml:id="Rothaarif-dbp"/>
+               <f name="entityType">
+                  <string>hair color</string>
+               </f>
+            </fs>
+            
+           
+            <fs type="concept" xml:id="Barthaar">
+               <f name="Barthaar"
+                  corresp="http://de.dbpedia.org/resource/Barthaar"
+                  xml:id="Bart-dbp">
+                  <string>Baart</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Hochzeit">
+               <f name="Hochzeit"
+                  corresp="http://de.dbpedia.org/resource/Hochzeitsfeier"
+                  xml:id="Hochzeit-dbp">
+                  <string>Hochzeitfeier</string>
+                  <string>Hochzeit</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Pflanzenwelt">
+               <f name="Pflanzenwelt"
+                  corresp="http://de.dbpedia.org/resource/Flora"
+                  xml:id="Flora-dbp">
+                  <string>Pflanzenwelt</string>
+                  <string>Flora</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Tier">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Tier"
+                  xml:id="Tier-dbp"/>
+               <!-- plural should also be associated, identified -->
+               <f name="name">
+                  <string xml:lang="de">Tier</string>
+               </f>
+            </fs>
+            <!-- JB: relations between 'Tier' and individual species should be defined -->
+            <fs type="concept" xml:id="Pferd">
+               <f name="Pferd"
+                  corresp="http://de.dbpedia.org/resource/Hauspferd"
+                  xml:id="Pferd-dbp">
+                  <string>Pferd</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Hund">
+               <f name="Hund"
+                  corresp="http://de.dbpedia.org/resource/Haushund"
+                  xml:id="Hund-dbp">
+                  <string>Hund</string>
+                  <string>Haushund</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Katze">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Hauskatze"
+                  xml:id="Katze-dbp"/>
+               <f name="name">
+                  <string xml:lang="de">Katze</string>
+                  <string xml:lang="de">Hauskatze</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Ziege">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Hausziege"
+                  xml:id="Ziege-dbp">
+                  <string>Ziege</string>
+                  <string>Hausziege</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Hausrind">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Hausrind"
+                  xml:id="Hausrind-dbp">
+                  <string>Hausrind</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Tierzucht">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Tierzucht"/>
+            </fs>
+            <!--  use @type (DECIDE ON TERMS!) to specify the relationship expressed in the <fs><f> structure? -->
+            <!-- intended to be a combination of the two; the ontological translation of this is that the Object of the process of Tierzucht is (Ziege) -->
+            <fs type="concept" xml:id="Schaf">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Hausschaf"
+                  xml:id="Schaf-dbp">
+                  <string>Schaf</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <!-- Schaf 'is_a: Tier' -->
+            <fs type="concept">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Tierzucht"
+                  sameAs="#Tierzucht"/>
+            </fs>
+            <fs type="concept" xml:id="Schafzucht">
+               <f name="concept" xml:id="Schafzucht-dbp">
+                  <string>Schafzucht</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Schweinzucht">
+               <f name="concept" xml:id="Schweinzucht-dbp">
+                  <string>Schweinzucht</string>
+               </f>
+            </fs>
+            <!--  use @type (DECIDE ON TERMS!) to specify the relationship expressed in the <fs><f> structure? -->
+            <!-- intended to be a combination of the two; the ontological translation of this is that the Object of the process of Tierzucht is (Schweine) -->
+            <fs type="concept" xml:id="Schwein">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Sus_(Schweine)"
+                  xml:id="Schwein-dbp"/>
+               <f name="name">
+                  <string xml:lang="de">Schwein</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <!-- Schwein 'is_a: Tier' -->
+            <fs type="concept">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Tierzucht"
+                  sameAs="#Tierzucht"/>
+            </fs>
+            <fs type="concept" xml:id="Geflügel">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Geflügel"
+                  xml:id="Geflügel-dbp">
+                  <string>Geflügel</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Fuchs">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Fuchs_(Säugetier)"
+                  xml:id="Fuchs-dbp"/>
+               <f name="name">
+                  <string xml:lang="de">Fuchs</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Säugetier</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en">Fox</string>
+               </f>
+               <f name="entityType">
+                  <string>animal</string>
+               </f>
+            </fs>
+            <!-- COLOR / COLORS / FARBE-->
+            <fs type="concept" xml:id="Farbe"><!-- at a higher level (rdf/owl) this should be defined as having instancesOf: (each individual color; e.g. 'typeOf:Farbe') -->
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Farbe"
+                  xml:id="Farbe-dbp"/>
+               <f name="name">
+                  <string xml:lang="de">Farbe</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en-US">Color</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en-UK">Colour</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Rot"><!-- at a higher level (rdf) this should be defined as a 'typeOf' Farbe -->
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Red"
+                  xml:id="Rot-dbp"/>
+               <f name="conceptURL"
+                  corresp="http://www.wikidata.org/wiki/Q3142"
+                  xml:id="Rot-wikidata"/>
+               <f name="name">
+                  <string xml:lang="de">Rot</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en">Red</string>
+               </f>
+               <f name="entityType"><!-- we should probably tage this fs with the tag for color (semantic/ontological relations would be defined at separate level) -->
+                  <string>color</string>
+               </f>
+            </fs>
+            
+            <fs type="concept" xml:id="Kirschrot">
+               <f name="conceptURL"
+                  corresp="https://www.wikidata.org/wiki/Q2334511"
+                  xml:id="Kirschrot-wikidata"/>
+               <f name="name">
+                  <string xml:lang="de">Kirschrot</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en">Cherry red</string>
+               </f>
+               <f name="entityType">
+                  <string>color</string>
+               </f>
+            </fs>
+            
+            <fs type="concept" xml:id="Schwarz"><!-- at a higher level (rdf) this should be defined as a 'typeOf' Farbe -->
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Black"
+                  xml:id="Black-dbp"/>
+               <f name="conceptURL"
+                  corresp="http://www.wikidata.org/wiki/Q23445"
+                  xml:id="Black-wikidata"/>
+               <f name="name">
+                  <string xml:lang="de">Schwarz</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en">Black</string>
+               </f>
+               <f name="entityType"><!-- we should probably tage this fs with the tag for color (semantic/ontological relations would be defined at separate level) -->
+                  <string>color</string>
+               </f>
+            </fs>
+            
+            
+            
+            <fs type="concept" xml:id="Feuer">
+               <f name="conceptURL"
+                  corresp="http://wikidata.org/entity/Q3196"
+                  xml:id="Feuer-dbp"/>
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Feuer"
+                  xml:id="Feuer-wikidata"/>
+               <f name="name">
+                  <string xml:lang="de">Feuer</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en">Fire</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Religion">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Religion"
+                  xml:id="Religion-dbp">
+                  <string>Religion</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Kirche">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Church"
+                  xml:id="Kirche-dbp">
+                  <string>Kirche</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Tod">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Tod"
+                  xml:id="Tod-dbp">
+                  <string>Tod</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Backen">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Backen"
+                  xml:id="Backen-dbp">
+                  <string>Backen</string>
+                  <string>backen</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Brot">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Brot"
+                  xml:id="Brot-dbp">
+                  <string>Brot</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Weißbrot">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Weißbrot"
+                  xml:id="Weißbrot-dbp"/>
+               <f name="name">
+                  <string xml:lang="de">Weißbrot</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Weißgebäck</string><!-- should this be "de-AT" ? -->
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Striezel">
+               <f name="name">
+                  <string xml:lang="de">Striezel</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Wecken">
+               <f name="name">
+                  <string xml:lang="de">Wecken</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Schwarzbrot">
+               <f name="conceptURL"
+                  corresp="http://www.wikidata.org/entity/Q1938644"
+                  xml:id="Mischbrot-wikidata"/>
+               <f name="name">
+                  <string xml:lang="de-DE">Mischbrot</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de-DE">Graubrot</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de-AT">Schwarzbrot</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Kind">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kind"
+                  xml:id="Kind-dbp">
+                  <string>Kind</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Jagd">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Jagd"
+                  xml:id="Jagd-dbp">
+                  <string>Jagd</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Forstwirtschaft">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Forstwirtschaft"
+                  xml:id="Forstwirtschaft-dbp">
+                  <string>Forstwirtschaft</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Wald">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Wald"
+                  xml:id="Wald-dbp">
+                  <string>Wald</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Milchwertschaft">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Milchverarbeitung"
+                  xml:id="Milchwertschaft-dbp">
+                  <string>Milchwertschaft</string>
+                  <string>Milchverarbeitung</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Wasser">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Wasser"
+                  xml:id="Wasser-dbp">
+                  <string>Wasser</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Licht">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Category:Light"
+                  xml:id="Licht-dbp">
+                  <string>Licht</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Gewerbe">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Category:Trade"
+                  xml:id="Gewerbe-dbp"><!-- no german uri -->
+                  <string>Gewerbe</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Wärme">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Warm"
+                  xml:id="Wärme-dbp">
+                  <string>Wärme</string>
+                  <string>Warm</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Eßzeug">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Essbesteck"
+                  xml:id="Eßzeug-dbp">
+                  <string>Eßzeug</string>
+                  <string>Essbesteck</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Waage">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Skala"
+                  xml:id="Waage-dbp">
+                  <string>Waage</string>
+                  <string>Skala</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Gewichte-Maße">
+               <f name="conceptURL"
+                  corresp="http://en.wikipedia.org/wiki/Weights_and_Measures"
+                  xml:id="Gewichte-Maße-dbp">
+                  <string>Gewichte und Maße</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Taufe">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Taufe"
+                  xml:id="Taufe-dbp">
+                  <string>Taufe</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Weinbau">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Weinbau"
+                  xml:id="Weinbau-dbp">
+                  <string>Weinbau</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Binderei">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Bindery"
+                  xml:id="Binderei-dbp"><!-- no german uri available in dbpedia -->
+                  <string>Binderei</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Himmel">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Himmel_(planetär)"
+                  xml:id="Himmel-dbp">
+                  <string>Himmel</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Mauerhandwerk">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Category:Masonry"
+                  xml:id="Mauerhandwerk-dbp">
+                  <string>Mauerhandwerk</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Bewegung">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Bewegung"
+                  xml:id="Bewegung-dbp">
+                  <string>Bewegung</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Versuchsflaechenanordnung">
+               <f name="conceptURL"
+                  corresp="http://aims.fao.org/aos/agrovoc/c_36811"
+                  xml:id="Versuchsflaechenanordnung-fao">
+                  <string>Versuchsflaechenanordnung</string>
+                  <string>Feldbestellung</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Geburt">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Geburt"
+                  xml:id="Geburt-dbp">
+                  <string>Geburt</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Wochenbett">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Wochenbett"
+                  xml:id="Wochenbett-dbp">
+                  <string>Wochenbett</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Schule">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Schule"
+                  xml:id="Schule-dbp">
+                  <string>Schule</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Mythologisches">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Mythologie"
+                  xml:id="Mythologisches-dbp">
+                  <string>Mythologisches</string>
+                  <string>Mythologie</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Gartenbau">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Gartenbau"
+                  xml:id="Gartenbau-dbp">
+                  <string>Gartenbau</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Stern">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Stern"
+                  xml:id="Stern-dbp">
+                  <string>Gestirne</string>
+                  <string>Sterne</string>
+                  <string>Stern</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Wetter">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Wetter"
+                  xml:id="Wetter-dbp">
+                  <string>Wetter</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Bierbrauerei">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Bierbrauen"
+                  xml:id="Bierbrauerei-dbp">
+                  <string>Bierbrauerei</string>
+                  <string>Bierbrauen</string>
+               </f>
+            </fs>
+            <!-- JB: Note the german language entry is under the dbpedia: '../Kategorie:' data type but not in the dbpedia: '../subject/'; however the actual articulated information about the profession is contained in the latter, thus currently not in German. Thus, until there is an update that fixes this gap in dbpedia, I have defined this as the combination of the two. -->
+            <fs type="concept" xml:id="Imkerei">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Imkerei"
+                  xml:id="Imkerei-dbp">
+                  <string>Imkerei</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Beekeeping">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Beekeeping"
+                  xml:id="Beekeeping-dbp">
+                  <string>Beekeeping</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Schifffahrt">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Schifffahrt"
+                  xml:id="Schifffahrt-dbp">
+                  <string>Schifffahrt</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Sprechen">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Sprechen"
+                  xml:id="Sprechen-dbp">
+                  <string>Sprechen</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Sprache">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Sprache"
+                  xml:id="Sprache-dbp"><!--JB: may want to combine with other uri's for language since there certainly are many -->
+                  <string>Sprache</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Schuster">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Schuster"
+                  xml:id="Schuster-dbp">
+                  <string>Schuster</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Bauernhof">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Bauernhof"
+                  xml:id="Bauernhof-dbp">
+                  <string>Bauernhof</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Fuhrwerk">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Fuhrwerk"
+                  xml:id="Fuhrwerke-dbp">
+                  <string>Fuhrwerke</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Blutsverwandtschaft">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Blutsverwandtschaft"
+                  xml:id="Blutsverwandtschaft-dbp">
+                  <string>Blutsverwandtschaft</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Altersstufen">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Category:Human_life_stages"
+                  xml:id="Altersstufen-dbp"><!-- JB: no geman entry, do we need to combine this with related categories?  -->
+                  <string>Altersstufen</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Unterricht">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Bildung"
+                  xml:id="Unterricht-dbp">
+                  <string>Unterricht</string>
+                  <!-- JB: no dbpedia for Unterricht, Bildung only partially matches.... -->
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Essen_und_Trinken">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Essen_und_Trinken"><!-- JB: frage herein actually fits both 97 and 99 --><!-- look more into this .... --></f>
+            </fs>
+            <fs type="concept" xml:id="Essen">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Lebensmittel"
+                  xml:id="Essen-dbp">
+                  <string>Essen</string>
+                  <string>Lebensmittel</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Getränk">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Getränk"
+                  xml:id="Getränk-dbp">
+                  <string>Getränk</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Trinken">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Trinken"
+                  xml:id="Trinken-dbp">
+                  <string>Trinken</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Verkehr">
+               <f name="conceptURL" xml:id="Verkehr-dbp"><!-- relationship is a combination of certain attributes from the concept in each <f> -->
+                  <string>Verkehr</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Verkehr-vehic">
+               <f name="Verkehr-vehic"
+                  corresp="http://de.dbpedia.org/resource/Verkehr"
+                  xml:id="Verkehr-vehic-dbp"/>
+            </fs>
+            <fs type="concept" xml:id="Traffic">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Traffic"
+                  xml:id="Traffic-dbp"/>
+            </fs>
+            <fs type="concept" xml:id="Wiese">
+               <f name="conceptURL"
+                  change="http://de.dbpedia.org/resource/Wiese_(Grünland)"
+                  xml:id="Wiese-dbp">
+                  <string>Wiese</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Heuarbeit">
+               <f name="conceptURL" xml:id="Heuarbeit-dbp">
+                  <string>Heuarbeit</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Heu">
+               <f name="conceptURL"  corresp="http://de.dbpedia.org/resource/Heu"/>
+            </fs>
+            <fs type="concept" xml:id="Ernte">
+               <f name="conceptURL" corresp="http://de.dbpedia.org/resource/Ernte"/>
+            </fs>
+            <fs type="concept" xml:id="Hanf">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Nutzhanf"
+                  xml:id="Hanf-dbp">
+                  <string>Hanf</string>
+               </f>
+            </fs>
+            <!-- JB: How to model the part about their exploitation?  -->
+            <fs type="concept" xml:id="Flachs">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Gemeiner_Lein"
+                  xml:id="Flachs-dbp">
+                  <string>Flachs</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Mittsommer">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Mittsommerfest"
+                  xml:id="Mittsommer-dbp">
+                  <string>Mittsommer</string>
+                  <string>Mittsommerfest</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Leibe">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Liebe"
+                  xml:id="Leibe-dbp">
+                  <string>Liebe</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Freundschaft">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Freundschaft"
+                  xml:id="Freundschaft-dbp">
+                  <string>Freundschaft</string>
+               </f>
+            </fs>
+            <!--  
+                  <f name="Geselligkeit" corresp="" xml:id="">
+                     <string></string>
+                  </f>
+                  -->
+            <fs type="concept" xml:id="Weg">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Weg"
+                  xml:id="Weg-dbp">
+                  <string>Weg</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Straße">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Straße"
+                  xml:id="Straße-dbp">
+                  <string>Straße</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Erde">
+               <f name="conceptURL"
+                  corresp="http://de.dbpedia.org/resource/Kategorie:Erde"
+                  xml:id="Erd-dbp">
+                  <string>Erde</string>
+                  <string>Erd</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Schneiderei">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Tailoring"
+                  xml:id="Schneiderei-dbp">
+                  <string>Schneiderei</string>
+                  <string>Tailoring</string>
+               </f>
+            </fs>
+            <!-- http://de.dbpedia.org/resource/Handwerk -->
+            <!-- if we add non-dbpedia sources to the LOD references, we should change the uri <f>'s to <fs> which is the collection of different sources for the same concept. The tags referenced in the dataset should be the higher level <fs> and thus will need to be changed -->
+            <fs type="concept" xml:id="Gesundheit">
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Gesundheit"
+                  xml:id="Gesundheit-dbp"/>
+               <f name="name">
+                  <string xml:lang="de">Gesundheit</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="en">Health</string>
+               </f>
+            </fs>
+            
+            <fs type="concept" xml:id="Bird">
+               <f name="ConceptUrl"
+                  corresp="http://dbpedia.org/resource/Bird"
+                  xml:id="Bird-dbp"/>
+               <f name="conceptUrl"
+                  corresp="http://wikidata.org/entity/Q5113"
+                  xml:id="Bird-wikidata"/>
+               <f name="name">
+                  <string xml:lang="en">Bird</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Vogel</string>
+               </f>
+               <f name="entityType">
+                  <string>Animal</string>
+               </f>
+            </fs>
+            <!-- raven http://babelnet.org/synset?word=bn:00022930n&details=1&lang=EN&orig=Raven -->
+            <fs type="concept" xml:id="Raven"><!-- typeOf:Bird -->
+               <f name="name">
+                  <string xml:lang="en">Raven</string>
+               </f>
+               <f name="name">
+                  <string xml:lang="de">Raben</string>
+               </f>
+               <f name="conceptURL"
+                  corresp="http://wikidata.org/entity/Q8335"
+                  xml:id="Raven-wikidata"/>
+               <f name="conceptURL"
+                  corresp="http://dbpedia.org/resource/Raven"
+                  xml:id="Raven-dbp"/>
+               <f name="entityType">
+                  <string>Bird</string>
+               </f>
+            </fs>   
+            <fs type="concept" xml:id="Rotblättlein">
+               <!-- this <fs> has two separate entries embedded within it because the term Rotblättlein may refer to separate species depending on the location so this term, which is not directly defined by a uri, is the generic, non bound term that could refer to either of the species defined herein -->
+               <f name="Rotblättlein">
+                  <string xml:lang="ba">Rotblättlein</string>
+                  <!-- the (underspecific language tag for 'Bavarian' tentatively given as in the question, it is not specific to subvariety) -->
+                  <fs type="concept" xml:id="CarduelisCannabina">
+                     <f name="name">
+                        <string xml:lang="la">Carduelis Cannabina</string>
+                     </f>
+                     <f name="name">
+                        <string xml:lang="en">Common Linnet</string>
+                     </f>
+                     <f name="name">
+                        <string xml:lang="de">Bluthänfling</string>
+                     </f>
+                     <f name="name">
+                        <string xml:lang="de">Hänfling</string>
+                     </f>
+                     <f name="conceptURL"
+                        corresp="https://www.wikidata.org/wiki/Q26034"
+                        xml:id="CarduelisCannabina-wikidata"/>
+                     <f name="conceptURL"
+                        corresp="http://dbpedia.org/resource/Common_linnet"
+                        xml:id="CarduelisCannabina-dbp"/>
+                     <f name="entityType"><!-- typeOf:Bird -->
+                        <string>Bird</string>
+                     </f>
+                  </fs>
+                  <fs type="concept" xml:id="CarduelisFlammea">
+                     <f name="name">
+                        <string xml:lang="en">Common Redpoll</string>
+                     </f>
+                     <f name="name">
+                        <string xml:lang="de">Birkenzeisig</string>
+                     </f>
+                     <f name="conceptURL"
+                        corresp="https://www.wikidata.org/wiki/Q206701"
+                        xml:id="CarduelisFlammea-wikidata"/>
+                     <f name="conceptURL"
+                        corresp="http://de.dbpedia.org/resource/Birkenzeisig"
+                        xml:id="CarduelisFlammea-dbp"/>
+                     <f name="entityType">
+                        <string>Bird</string>
+                     </f>
+                  </fs>
+               </f>
+            </fs>
+            <fs  type="concept" xml:id="Kartenspiel">
+               <f name="name"> 
+                  <string xml:lang="de">Kartenspiel</string>
+               </f>
+               <f corresp="https://www.wikidata.org/wiki/Q142714" name="conceptURL" xml:id="Kartenspiel-wikidata"/> 
+               <f name="entityType">
+                  <string>Spiel</string>
+               </f>
+            </fs>
+            <fs type="concept" xml:id="Kinderspiel">
+               <f name="name">
+                  <string xml:lang="de">Kinderspiel</string>
+               </f>
+               <f name="conceptURL"
+                  corresp="https://www.wikidata.org/wiki/Q1509934"
+                  xml:id="Kinderspiel-wikidata"/>
+               <f name="entityType">
+                  <string>Spiel</string>
+               </f>
+               
+            </fs> 
+            
+            <fs type="concept" xml:id="Vieh">
+               <f name="name">
+                  <string xml:lang="de">Vieh</string>
+               </f>
+               <f name="conceptURL"
+                  corresp=""
+                  xml:id="Vieh-"/>
+               <f name="entityType">
+                  <string></string>
+               </f>
+               
+            </fs> 
+            
+            <fs type="concept" xml:id="Öl">
+               <f name="name">
+                  <string xml:lang="de">Öl</string>
+               </f>
+               <f name="conceptURL"
+                  corresp=""
+                  xml:id="Öl-"/>
+               <f name="entityType">
+                  <string></string>
+               </f>
+               
+            </fs> 
+            <!-- Ölfarbe AD -->
+            <fs type="concept" xml:id="Ölfarbe">
+               <f name="name">
+                  <string xml:lang="de"></string>
+               </f>
+               <f name="conceptURL"
+                  corresp="https://www.wikidata.org/wiki/Q296955"
+                  xml:id="Ölfarbe-wikidata"/>
+               <f name="entityType">
+                  <string>Paint</string>
+               </f>
+               
+            </fs> 
+            
+            <fs type="concept" xml:id="">
+               <f name="name">
+                  <string xml:lang="de"></string>
+               </f>
+               <f name="conceptURL"
+                  corresp=""
+                  xml:id=""/>
+               <f name="entityType">
+                  <string></string>
+               </f>
+               
+            </fs> 
+            
+            <fs type="concept" xml:id="">
+               <f name="name">
+                  <string xml:lang="de"></string>
+               </f>
+               <f name="conceptURL"
+                  corresp=""
+                  xml:id=""/>
+               <f name="entityType">
+                  <string></string>
+               </f>
+               
+            </fs> 
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

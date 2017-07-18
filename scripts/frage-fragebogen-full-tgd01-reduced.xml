@@ -1,0 +1,2314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="fragebogen-annotation-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="de">DBOE Fragebogen (mit Frage)</title>
+            <title xml:lang="en">DBOE Questionnaire (with Questions)</title>
+            <respStmt>
+               <resp>TEI conversion and modeling</resp>
+               <persName>Jack Bowers</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Version <date>19.04.2016</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Dataset converted from Mysql dump from DBOE@ema digitization of original
+                        questionnaires. "kurzFrage" have been deleted.</p>
+         </sourceDesc>
+         <sourceDesc>
+            <list>
+               <head>SQL tables as XML dumps</head>
+               <item>
+                  <ref>fragebogen.xml</ref>
+               </item>
+               <item>
+                  <ref>frage.xml</ref>
+               </item>
+            </list>
+         </sourceDesc>
+      </fileDesc>
+         <encodingDesc>
+            <listPrefixDef>
+               <prefixDef ident="concept" matchPattern="([A-Z]+)" replacementPattern="dboe-concept-features-fs-lod-tei.xml#$1">
+                  <p> Private URIs using the <code>concept:</code> 
+                     prefix are pointers to <gi>person</gi> 
+                     elements in the dboe-concept-features-fs-lod-tei.xml file.
+                     For example, <code>concept:Rot</code> 
+                     dereferences to <code>dboe-concept-features-fs-lod-tei.xml#Rot</code>.
+                  </p>
+               </prefixDef>
+               <prefixDef ident="targetForm" matchPattern="([A-Z]+)" replacementPattern="lemma_wortat-tei-fs.xml#$1">
+                  <p> Private URIs using the <code>targetForm:</code> 
+                     prefix are pointers to <gi>f</gi> 
+                     elements in the lemma_wortat-tei-fs.xml file.
+                     Prefix should be used where question being annotated is specifically
+                     asking for forms which have given structural property (e.g. Compound, prefix, etc.) or grammatical property (e.g. Adj., Verb., etc.)
+                     These will mostly come from ISOcat features (except where missing).
+                     For example, <code>targetForm:Compound</code> 
+                     dereferences to <code>lemma_wortat-tei-fs.xml#Compound</code>.
+                  </p>
+               </prefixDef>
+            </listPrefixDef>
+            <tagsDecl xml:base="lemma_wortat-tei-fs.xml"/>
+            <!-- tags decl is the feature structure document containing the ISOcat features that make up the types of lexical and grammatical features in the data such as part of speech, as well as others such as word/lexical item forms (compound, component (of compound), prefix, suffix, participle, etc.) -->
+         </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list n="53">
+            <head>
+               <label>Fragebogen 53</label>
+               <pc>:</pc> Farbe</head>
+            <item n="A1" xml:id="Fb-53-A1">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186060">Farbe</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186064">Bed.</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186068">z.B.</seg>
+                  <seg xml:id="d1e186070">im</seg>
+                  <seg xml:id="d1e186072">Kartenspiel</seg>
+                  <pc>)</pc>
+                  <pc>;</pc>
+                  <seg xml:id="d1e186078">Wendungen</seg>
+                  <seg xml:id="d1e186080">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186085">heraus</seg>
+                  <seg xml:id="d1e186087">mit</seg>
+                  <seg xml:id="d1e186089">der</seg>
+                  <seg xml:id="d1e186091">Farbe</seg>
+                  <pc>!</pc>
+               </seg>
+               <interpGrp>
+                  <interp corresp="n-concept:Farbe" inst="#d1e186060 #d1e186091"/>
+                  <interp corresp="m-concept:Farbe" inst="#d1e186060 #d1e186091"/>
+                  <interp corresp="m-concept:Kartenspiel" inst="#d1e186072"/>
+                  <interp corresp="targetForm:Expression"/>
+               </interpGrp>
+            </item>
+            <item n="A2" xml:id="Fb-53-A2">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186101">Komp.</seg>
+                  <seg xml:id="d1e186103">m.</seg>
+                  <seg xml:id="d1e186105">Farbe</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186109">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186113">Ölfarbe</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186117">Farbvieh</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186121">Farbenspiel</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186126">Kinderspiel</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="n-concept:Farbe" inst="#d1e186105 #d1e186113 #d1e186117 #d1e186121"/>
+                  <interp corresp="m-concept:Farbe" inst="#d1e186105 #d1e186113 #d1e186117 #d1e186121"/>
+                  <interp corresp="concept:Ölfarbe" inst="#d1e186113"/>
+                  <interp corresp="concept:Öl" inst="#d1e186113" type="decomp"/>
+                  <interp corresp="concept:Farbvieh" inst="#d1e186117"/>
+                  <interp corresp="concept:Vieh" inst="#d1e186117" type="decomp"/>
+                  <interp corresp="concept:Farbenspiel" inst="#d1e186121"/>
+                  <interp corresp="concept:Kinderspiel" inst="#d1e186126"/>
+                  <interp corresp="concept:Kinder" inst="#d1e186126" type="decomp"/>
+                  <interp corresp="concept:Spiel" inst="#d1e186126 #d1e186121" type="decomp"/>
+               </interpGrp>
+              
+            </item>
+            <item n="A3" xml:id="Fb-53-A3">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186136">färbig</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186140">Komp.</seg>
+                  <seg xml:id="d1e186142">wie</seg>
+                  <seg xml:id="d1e186144">z.B.</seg>
+                  <seg xml:id="d1e186146">einfärbig</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Compound"/>  
+                  <interp corresp="concept:Färbig" inst="#d1e186136"/> 
+                  <interp corresp="concept:Färbig" inst="#d1e186146" type="decomp"/>
+                  <interp corresp="concept:Einfärbig" inst="#d1e186146"/>
+                  <interp corresp="concept:Ein" inst="#d1e186146" type="decomp"/>
+               </interpGrp>
+               
+            </item>
+            <item n="A4" xml:id="Fb-53-A4">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186154">Adj.</seg>
+                  <seg xml:id="d1e186156">zu</seg>
+                  <seg xml:id="d1e186158">Farbe</seg>
+                  <pc>;</pc>
+                  <seg xml:id="d1e186162">Komp.</seg>
+                  <seg xml:id="d1e186164">mit</seg>
+                  <seg xml:id="d1e186166" ana="#Sfx">
+                     <pc>-</pc>farb</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186172">en</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186179">z.B.</seg>
+                  <seg xml:id="d1e186181">abfarb</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186185">leibfarben</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Adjective"/> 
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="m-concept:Farbe" inst="#d1e186158 #d1e186166"/>
+                  <interp corresp="n-concept:Farbe" inst="#d1e186181 #d1e186185" type="decomp"/>
+                  <interp corresp="concept:abfarb" inst="#d1e186181"/>
+                  <interp inst="#d1e186181" type="decomp"/>
+                  <interp corresp="concept:leibfarben" inst="#d1e186185"/>
+                  <interp corresp="concept:leib" inst="#d1e186185" type="decomp"/> 
+               </interpGrp>
+               
+            </item>
+            <item n="A5" xml:id="Fb-53-A5">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186193">färben</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="concept:Farbe" inst="#d1e186193"/>
+                  <interp corresp="targetForm:Verb"/> 
+               </interpGrp> 
+            </item>
+            <item n="A5a" xml:id="Fb-53-A5a">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186201">färbeln</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186205">Bed.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Verb"/> 
+                  <interp corresp="concept:Farbe" inst="#d1e186201"/> 
+               </interpGrp> 
+            </item>
+            <item n="A6" xml:id="Fb-53-A6">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186215">Färber</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186219">Komp.</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="concept:Farbe" inst="#d1e186215"/> 
+               </interpGrp>
+            </item>
+            <item n="A6a" xml:id="Fb-53-A6a">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186227">Färberei</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186231">Komp.</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="concept:Farbe" inst="#d1e186227"/>
+                  <interp corresp="concept:Färberei" inst="#d1e186227" type="decomp"/> 
+                  <interp corresp="concept:Beruf" inst="#d1e186227"/>
+               </interpGrp>
+            </item>
+            <item n="A7" xml:id="Fb-53-A7">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186239">Volkstüml.</seg>
+                  <seg xml:id="d1e186241">Fachausdrücke</seg>
+                  <seg xml:id="d1e186243">der</seg>
+                  <seg xml:id="d1e186245">Färberei</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:Farbe" inst="#d1e186245"/> 
+                  <interp corresp="concept:Färberei" inst="#d1e186245"/> 
+                  <interp corresp="concept:Beruf" inst="#d1e186245"/>
+               </interpGrp>
+            </item>
+            <item n="A8" xml:id="Fb-53-A8">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186253">sonstige</seg>
+                  <seg xml:id="d1e186255">Abl.</seg>
+                  <seg xml:id="d1e186257">von</seg>
+                  <seg xml:id="d1e186259">Farbe</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="m-concept:Farbe" inst="#d1e186259"/>  
+               </interpGrp>
+            </item>
+            <item n="A9" xml:id="Fb-53-A9">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186268">bunt</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186272">verschiedenfarbig</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186276">z.B.</seg>
+                  <seg xml:id="d1e186278">fech</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186282">t</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186288">scheckig</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186293">Ausspr.</seg>
+                  <seg xml:id="d1e186295">k</seg>
+                  <seg xml:id="d1e186297">od.</seg>
+                  <seg xml:id="d1e186299">kh</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e186303">kch</seg>
+                  <pc>)</pc>
+                  <pc>;</pc>
+                  <seg xml:id="d1e186309">Ra.</seg>
+                  <seg xml:id="d1e186311">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186316">ja</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186320">schecket</seg>
+                  <pc>!</pc>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:Farbe" inst="#d1e186268 #d1e186272"/>
+                  <interp corresp="concept:bunt" inst="#d1e186268"/>
+                  <interp corresp="concept:verschiedenfarbig" inst="#d1e186272"/>
+                  <interp corresp="concept:Scheckig" inst="#d1e186288"/>
+                  <interp corresp="concept:Schecket" inst="#d1e186320"/>
+                  <interp corresp="concept:fech" inst="#d1e186278"/>
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="targetPron:k"/>
+                  <interp corresp="targetPron:kh"/>
+                  <interp corresp="targetPron:kch"/>
+               </interpGrp>
+            </item>
+            <item n="A10" xml:id="Fb-53-A10">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186330">Komp.</seg>
+                  <seg xml:id="d1e186332">wie</seg>
+                  <seg xml:id="d1e186334">rotschecket</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Compound"/>  
+                  <interp corresp="concept:Farbe" inst="#d1e186334"/> 
+                  <interp corresp="concept:Rotschecket" inst="#d1e186334" type="decomp"/>
+                  <interp corresp="concept:Rot" inst="#d1e186334" type="decomp"/> 
+               </interpGrp>
+            </item>
+            <item n="A11" xml:id="Fb-53-A11">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186342">Scheck</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186346">Bed.</seg>
+                  <seg xml:id="d1e186348">buntfarbiges</seg>
+                  <seg xml:id="d1e186350">Tier</seg>
+                  <pc>?</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186356">auch</seg>
+                  <seg xml:id="d1e186358">Mensch</seg>
+                  <seg xml:id="d1e186360">mit</seg>
+                  <seg xml:id="d1e186362">solchen</seg>
+                  <seg xml:id="d1e186365">Haaren</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>
+                  <interp corresp="n-concept:Scheck" inst="#d1e186342"/>
+                  <interp corresp="m-concept:Farbe" inst="#d1e186342"/>
+                  <interp corresp="m-concept:Tierfarbe" inst="#d1e186350"/>
+                  <interp corresp="m-concept:Haarfarbe" inst="#d1e186365"/>
+                  <interp corresp="targetForm:Expression"/>
+               </interpGrp>
+            </item>
+            <item n="A11a" xml:id="Fb-53-A11a">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186377">Komp.</seg>
+                  <seg xml:id="d1e186379">mit</seg>
+                  <seg xml:id="d1e186381">Scheck</seg>
+                  <seg xml:id="d1e186383">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186387">Rotscheck</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186391">Scheckpeter</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="n-concept:Scheck" inst="#d1e186381 #d1e186387 #d1e186391"/>
+                  <interp corresp="m-concept:Farbe" inst="#d1e186381"/>
+                  <interp corresp="concept:Rotscheck" inst="#d1e186387"/>
+                  <interp corresp="concept:Rot" inst="#d1e186387" type="decomp"/>
+                  <interp corresp="concept:Scheckpeter" inst="#d1e186391"/>
+               </interpGrp>
+            </item>
+            <item n="A12" xml:id="Fb-53-A12">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186399">Syn.</seg>
+                  <seg xml:id="d1e186401">für</seg>
+                  <seg xml:id="d1e186403">bunt</seg>
+                  <seg xml:id="d1e186405">und</seg>
+                  <seg xml:id="d1e186407">Verwandtes</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186411">gestreift</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186415">gefleckt</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186419">kariert</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186424">getupft</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186428">gesprengelt</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186432">gespritzt</seg>
+                  <pc>;</pc>
+                  <seg xml:id="d1e186436">Umschreibungen</seg>
+                  <seg xml:id="d1e186438">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186442">ein</seg>
+                  <seg xml:id="d1e186445">ganzes</seg>
+                  <seg xml:id="d1e186447">Farbenkastel</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186451" ana="#Sfx">
+                     <pc>-</pc>trüherl</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="senseRel:Synonym"/> 
+                  <interp corresp="concept:Farbe" inst="#d1e186403 #d1e186411 #d1e186415 #d1e186419 #d1e186424 #d1e186428 #d1e186432 #d1e186447"/>
+                  <interp corresp="n-concept:Bunt" inst="#d1e186403 #d1e186411 #d1e186415 #d1e186419 #d1e186424 #d1e186428 #d1e186432"/>
+                  <interp corresp="m-concept:Bunt" inst="#d1e186403 #d1e186411 #d1e186415 #d1e186419 #d1e186424 #d1e186428 #d1e186432"/>
+                  <interp corresp="concept:Gestreift" inst="#d1e186411"/> 
+                  <interp corresp="concept:Gefleckt" inst="#d1e186415"/>
+                  <interp corresp="concept:Kariert" inst="#d1e186419"/>
+                  <interp corresp="concept:Getupft" inst="#d1e186424"/>
+                  <interp corresp="concept:Gesprengelt" inst="#d1e186428"/>
+                  <interp corresp="concept:Gespritzt" inst="#d1e186432"/>
+                  <interp corresp="concept:Farbenkastel" inst="#d1e186447" type="decomp"/>
+                  <interp corresp="concept:Kastel" inst="#d1e186447" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="A13" xml:id="Fb-53-A13">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186461">Syn.</seg>
+                  <seg xml:id="d1e186463">f.</seg>
+                  <seg xml:id="d1e186465">farblos</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186469">von</seg>
+                  <seg xml:id="d1e186471">schmutziger</seg>
+                  <seg xml:id="d1e186473">Farbe</seg>
+                  <seg xml:id="d1e186475">und</seg>
+                  <seg xml:id="d1e186477">dgl.</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="senseRel:Synonym"/> 
+                  <interp corresp="n-concept:Farblos" inst="#d1e186465 #d1e186473"/>
+                  <interp corresp="m-concept:Farbe" inst="#d1e186473"/>
+                  <interp corresp="concept:Farblos" inst="#d1e186465"/>
+                  <interp corresp="concept:Schmutzig" inst="#d1e186471"/>
+               </interpGrp>
+            </item>
+            <item n="A13a" xml:id="Fb-53-A13a">
+               <label>Farbe</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186485">Farbbez.</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186489">die</seg>
+                  <seg xml:id="d1e186491">von</seg>
+                  <seg xml:id="d1e186493">best.</seg>
+                  <seg xml:id="d1e186495">Stoffen</seg>
+                  <seg xml:id="d1e186497">stammen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186501">z.B.</seg>
+                  <seg xml:id="d1e186503">kupfern</seg>
+                  <seg xml:id="d1e186505">für</seg>
+                  <seg xml:id="d1e186508">rötlich</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186512">silbern</seg>
+                  <seg xml:id="d1e186514">für</seg>
+                  <seg xml:id="d1e186516">weißlich</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="senseRel:Synonym"/> 
+                  <interp corresp="m-concept:Farbe" inst="#d1e186485 #d1e186512 #d1e186503 #d1e186508 #d1e186516"/>
+                  <interp corresp="concept:Silbern" inst="#d1e186512"/>
+                  <interp corresp="concept:Kupfern" inst="#d1e186503"/>
+                  <interp corresp="concept:Rötlich" inst="#d1e186508"/>
+                  <interp corresp="concept:Weißlich" inst="#d1e186516"/>
+               </interpGrp>
+            </item>
+            <item n="B1" xml:id="Fb-53-B1">
+               <label>
+                  <seg>weiß</seg>
+                  <pc>/</pc>
+                  <seg>schwarz</seg>
+                  <pc>:</pc>
+               </label>
+               <seg ana="question">
+                  <seg xml:id="d1e186529">weiß</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186533">kdl.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+                  <seg xml:id="d1e186539">Bed.</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186543">Wendungen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186547">Vergleiche</seg>
+                  <seg xml:id="d1e186549">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186554">weiß</seg>
+                  <seg xml:id="d1e186556">herschauen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186560">weiß</seg>
+                  <seg xml:id="d1e186562">wie</seg>
+                  <seg xml:id="d1e186564">Schnee</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Expression"/> 
+                  <interp corresp="targetForm:Comparison"/> 
+                  <interp corresp="concept:Weiß" inst="#d1e186529 #d1e186554 #d1e186560"/>
+                  <interp corresp="concept:Schnee" inst="#d1e186564"/> 
+                  <interp corresp="concept:Schwarz"/> 
+               </interpGrp>
+            </item>
+            <item n="B2" xml:id="Fb-53-B2">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186572">weißlich</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186576">weiß</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186580">e</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e186584">lecht</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:weißlich" inst="#d1e186572"/>
+                  <interp corresp="concept:weiß" inst="#d1e186576"/> 
+               </interpGrp>
+            </item>
+            <item n="B2a" xml:id="Fb-53-B2a">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186592">anweiß</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186596">Bed.</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:anweiß" inst="#d1e186592"/>
+                  <interp corresp="m-concept:weiß" inst="#d1e186592"/> 
+               </interpGrp>
+            </item>
+            <item n="B3" xml:id="Fb-53-B3">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186608">das</seg>
+                  <seg xml:id="d1e186610">Weiße</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186614">die</seg>
+                  <seg xml:id="d1e186616">Weiße</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:Weiße" inst="#d1e186610 #d1e186616"/> 
+               </interpGrp>
+            </item>
+            <item n="B3a" xml:id="Fb-53-B3a">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <pc>?</pc>
+                  <pc>?</pc>
+                  <seg xml:id="d1e186629">viell.</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186633">Weiß</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e186637">Weißel</seg>
+                  <seg xml:id="d1e186639">als</seg>
+                  <seg xml:id="d1e186641">TierN</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:Weiß" inst="#d1e186633"/>
+                  <interp corresp="concept:Weißel" inst="#d1e186637"/>
+                  <interp corresp="concept:Tiername" inst="#d1e186641 #d1e186637"/>
+               </interpGrp>
+            </item>
+            <item n="B3b" xml:id="Fb-53-B3b">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186649">Weißling</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:Weißling" inst="#d1e186649"/>
+               </interpGrp>
+            </item>
+            <item n="B3c" xml:id="Fb-53-B3c">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186657">Komp.</seg>
+                  <seg xml:id="d1e186659">mit</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186663">Syn.</seg>
+                  <seg xml:id="d1e186665">v.</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e186669">das</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e186673">die</seg>
+                  <seg xml:id="d1e186675">Weiße</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186680">Weißling</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="senseRel:Synonym"/> 
+                  <interp corresp="targetForm:Comparison"/> 
+                  <interp corresp="concept:Weißling" inst="#d1e186680"/>
+                  <interp corresp="concept:Weiße" inst="#d1e186675"/>
+               </interpGrp>
+            </item>
+            <item n="B4" xml:id="Fb-53-B4">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186688">weißen</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186692">b.</seg>
+                  <pc>;</pc>
+                  <seg xml:id="d1e186696">PPt.</seg>
+                  <seg xml:id="d1e186698">geweißt</seg>
+                  <seg xml:id="d1e186700">od.</seg>
+                  <seg xml:id="d1e186702">gewissen</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186711">weißigen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186715">weißeln</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="concept:Weißen" inst="#d1e186688"/>
+                  <interp corresp="concept:Gewissen" inst="#d1e186702"/>
+                  <interp corresp="concept:Weißigen" inst="#d1e186711"/>
+                  <interp corresp="concept:Weißeln" inst="#d1e186715"/>
+               </interpGrp>
+            </item>
+            <item n="B4a" xml:id="Fb-53-B4a">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186723">Komp.</seg>
+                  <seg xml:id="d1e186725">wie</seg>
+                  <seg xml:id="d1e186727" ana="#Prfx">aus<pc>-</pc>
+                  </seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186733">verweißen</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="targetForm:Comparison"/> 
+                  <interp corresp="concept:Verweißen" inst="#d1e186733"/>
+               </interpGrp>
+            </item>
+            <item n="B5" xml:id="Fb-53-B5">
+               <label>weiß</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186741">Komp.</seg>
+                  <seg xml:id="d1e186743">mit</seg>
+                  <seg xml:id="d1e186745">weiß</seg>
+                  <seg xml:id="d1e186747">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186751">weißärmlig</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186755">Weißarbeit</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186759">käseweiß</seg>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="concept:Weiß" inst="#d1e186745 #d1e186751 #d1e186755 #d1e186759"/>
+                  <interp corresp="concept:Weißärmlig" inst="#d1e186751" type="decomp"/>
+                  <interp corresp="concept:Ärmlig" inst="#d1e186751" type="decomp"/>
+                  <interp corresp="concept:Weißarbeit" inst="#d1e186755" type="decomp"/>
+                  <interp corresp="concept:Arbeit" inst="#d1e186755" type="decomp"/>
+                  <interp corresp="concept:Käseweiß" inst="#d1e186759" type="decomp"/>
+                  <interp corresp="concept:Käse" inst="#d1e186759" type="decomp"/> 
+               </interpGrp>
+            </item>
+            <item n="B6" xml:id="Fb-53-B6">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186767">schwarz</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186771">kdl.</seg>
+                  <pc>!</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186777">Bed.</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186781">Ra.</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186785">Vergleiche</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>
+                  <interp corresp="targetForm:Comparison"/> 
+                  <interp corresp="m-concept:Schwarz" inst="#d1e186767"/>
+                  <interp corresp="n-concept:Schwarz" inst="#d1e186767"/>
+               </interpGrp>
+            </item>
+            <item n="B7" xml:id="Fb-53-B7">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186795">schwärzlich</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Adjective"/> 
+                  <interp corresp="concept:Schwarz" inst="#d1e186795"/>
+               </interpGrp>
+            </item>
+            <item n="B8" xml:id="Fb-53-B8">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186803">das</seg>
+                  <seg xml:id="d1e186805">Schwarze</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186809">das</seg>
+                  <seg xml:id="d1e186811">Schwärzlein</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186815">in</seg>
+                  <seg xml:id="d1e186817">der</seg>
+                  <seg xml:id="d1e186819">Scheibe</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Schwarze" inst="#d1e186805"/>
+                  <interp corresp="concept:Schwärzlein" inst="#d1e186811"/>
+               </interpGrp>
+            </item>
+            <item n="B8a" xml:id="Fb-53-B8a">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186829">der</seg>
+                  <seg xml:id="d1e186831">Schwarze</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186835">ed.</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186841">die</seg>
+                  <seg xml:id="d1e186843">Schwarze</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186847">ed.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Schwarze" inst="#d1e186831 #d1e186843"/>
+               </interpGrp>
+            </item>
+            <item n="B8b" xml:id="Fb-53-B8b">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186857">Schwarz</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186861">Schwärzel</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186865">Tiername</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Schwarz" inst="#d1e186857"/>
+                  <interp corresp="concept:Schwärzel" inst="#d1e186861"/>
+                  <interp corresp="concept:Tiername" inst="#d1e186865 #d1e186861"/>
+               </interpGrp>
+            </item>
+            <item n="B9" xml:id="Fb-53-B9">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186876">die</seg>
+                  <seg xml:id="d1e186878">Schwärze</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Schwärze" inst="#d1e186878"/> 
+               </interpGrp>
+            </item>
+            <item n="B10" xml:id="Fb-53-B10">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186886">schwärzen</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186890">Komp.</seg>
+                  <seg xml:id="d1e186892">und</seg>
+                  <seg xml:id="d1e186894">Bed.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="concept:Schwärzen" inst="#d1e186886"/> 
+               </interpGrp>
+            </item>
+            <item n="B10a" xml:id="Fb-53-B10a">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186904">Schwärzer</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Schwärzer" inst="#d1e186904"/> 
+               </interpGrp>
+            </item>
+            <item n="B11" xml:id="Fb-53-B11">
+               <label>schwarz</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186912">Komp.</seg>
+                  <seg xml:id="d1e186914">mit</seg>
+                  <seg xml:id="d1e186916">schwarz</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186920">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186924">schwarzrücklecht</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186928">Schwarzblättlein</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186932">ed.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186941">pechschwarz</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="concept:Schwarz" inst="#d1e186916 #d1e186924 #d1e186928 #d1e186941"/>
+                  <interp corresp="concept:schwarzrücklecht" inst="#d1e186924" type="decomp"/>
+                  <interp corresp="concept:Schwarzblättlein" inst="#d1e186928" type="decomp"/> 
+                  <interp corresp="concept:Blättlein" inst="#d1e186928" type="decomp"/>
+                  <interp corresp="concept:Pechschwarz" inst="#d1e186941" type="decomp"/>
+                  <interp corresp="concept:Pech" inst="#d1e186941" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="C1" xml:id="Fb-53-C1">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186949">rot</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186953">Wendungen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186957">Vergleiche</seg>
+                  <pc>;</pc>
+                  <seg xml:id="d1e186961">Vkdl.</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e186965">Zauberfarbe</seg>
+                  <pc>!</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186972">z.B.</seg>
+                  <seg xml:id="d1e186974">rote</seg>
+                  <seg xml:id="d1e186976">Halsbänder</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e186980">Schellenbögen</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e186984">bei</seg>
+                  <seg xml:id="d1e186986">Kälbern</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Comparison"/> 
+                  <interp corresp="concept:Rot" inst="#d1e186949"/> 
+               </interpGrp>
+            </item>
+            <item n="C2" xml:id="Fb-53-C2">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e186994">rötlich</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e186998">rotlecht</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Adjective"/> 
+                  <interp corresp="concept:Rot" inst="#d1e186994 #d1e186998"/>
+                  <interp corresp="concept:Rötlich" inst="#d1e186994"/>
+                  <interp corresp="concept:Rotlecht" inst="#d1e186998"/>
+               </interpGrp>
+            </item>
+            <item n="C3" xml:id="Fb-53-C3">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187006">das</seg>
+                  <seg xml:id="d1e187008">Rot</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Rot" inst="#d1e187008"/>
+               </interpGrp>
+            </item>
+            <item n="C3a" xml:id="Fb-53-C3a">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187016">der</seg>
+                  <seg xml:id="d1e187018">Rote</seg> <!-- AD: tag gender, singular -->
+                  <pc>,</pc>
+                  <seg xml:id="d1e187022">die</seg>
+                  <seg xml:id="d1e187024">Rote</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e187028">ed.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Rote" inst="#d1e187018 #d1e187024"/>
+               </interpGrp>
+            </item>
+            <item n="C3b" xml:id="Fb-53-C3b">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187038">Rot</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187042">Rötel</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187046">Röte</seg>
+                  <seg xml:id="d1e187048">als</seg>
+                  <seg xml:id="d1e187050">Tiername</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="concept:Rot" inst="#d1e187038 #d1e187042 #d1e187046"/>
+                  <interp corresp="concept:Rötel" inst="#d1e187042"/>
+                  <interp corresp="concept:Röte" inst="#d1e187046"/>
+                  <interp corresp="concept:Tiername" inst="#d1e187050 #d1e187046 #d1e187042"/>
+               </interpGrp>
+            </item>
+            <item n="C3c" xml:id="Fb-53-C3c">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187058">die</seg>
+                  <seg xml:id="d1e187060">Röte</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187064">bedeutet</seg>
+                  <seg xml:id="d1e187066">es</seg>
+                  <seg xml:id="d1e187068">auch</seg>
+                  <seg xml:id="d1e187070">Blut</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/> 
+                  <interp corresp="n-concept:Röte" inst="#d1e187060"/>
+                  <interp corresp="concept:Blut" inst="#d1e187070"/>
+               </interpGrp>
+            </item>
+            <item n="C3d" xml:id="Fb-53-C3d">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187082">Komp.</seg>
+                  <seg xml:id="d1e187084">m.</seg>
+                  <seg xml:id="d1e187086">rot</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e187090">Röte</seg>
+                  <seg xml:id="d1e187092">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187096">Engelrot</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187100">Gamsröte</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="concept:Rot" inst="#d1e187086 #d1e187096"/>
+                  <interp corresp="concept:Röte" inst="#d1e187090"/>
+                  <interp corresp="concept:Engelrot" inst="#d1e187096" type="decomp"/>
+                  <interp corresp="concept:Engel" inst="#d1e187096" type="decomp"/>
+                  <interp corresp="concept:Gamsröte" inst="#d1e187100" type="decomp"/>
+                  <interp corresp="concept:Gams" inst="#d1e187100" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="C4" xml:id="Fb-53-C4">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187109">röten</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187113">auch</seg>
+                  <seg xml:id="d1e187115">blutharnen</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+                  <seg xml:id="d1e187121">und</seg>
+                  <seg xml:id="d1e187123">andere</seg>
+                  <seg xml:id="d1e187125">Vb.</seg>
+                  <seg xml:id="d1e187127">zu</seg>
+                  <seg xml:id="d1e187129">rot</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/> 
+                  <interp corresp="m-concept:Röten" inst="#d1e187109"/>
+                  <interp corresp="concept:Blutharnen" inst="#d1e187115"/>
+                  <interp corresp="concept:Rot" inst="#d1e187129"/>
+               </interpGrp>
+            </item>
+            <item n="C5" xml:id="Fb-53-C5">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187137">Komp.</seg>
+                  <seg xml:id="d1e187139">mit</seg>
+                  <seg xml:id="d1e187141">rot</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187145">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187149">rotfuchset</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187153">Rotblättlein</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187157">feuerrot</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/> 
+                  <interp corresp="m-concept:Rot" inst="#d1e187141 #d1e187149 #d1e187153 #d1e187157"/>
+                  <interp corresp="concept:Rotfuchset" inst="#d1e187149" type="decomp"/>
+                  <interp corresp="concept:Fuchset" inst="#d1e187149" type="decomp"/>
+                  <interp corresp="concept:Rotblättlein" inst="#d1e187153" type="decomp"/>
+                  <interp corresp="concept:Blättlein" inst="#d1e1871539" type="decomp"/>
+                  <interp corresp="concept:Feuerrot" inst="#d1e187157" type="decomp"/>
+                  <interp corresp="concept:Feuer" inst="#d1e187157" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="C6" xml:id="Fb-53-C6">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187165">Syn.</seg>
+                  <seg xml:id="d1e187167">für</seg>
+                  <seg xml:id="d1e187169">rot</seg>
+                  <seg xml:id="d1e187171">und</seg>
+                  <seg xml:id="d1e187173">seine</seg>
+                  <seg xml:id="d1e187175">Abstufungen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187179">z.B.</seg>
+                  <seg xml:id="d1e187181">für</seg>
+                  <seg xml:id="d1e187183">purpurn</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187188">der</seg>
+                  <seg xml:id="d1e187190">Purpur</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="senseRel:Synonym"/> 
+                  <interp corresp="m-concept:Rot" inst="#d1e187169 #d1e187183 #d1e187190"/>
+                  <interp corresp="concept:Purpurn" inst="#d1e187183"/>
+                  <interp corresp="concept:Purpur" inst="#d1e187190"/>
+               </interpGrp>
+            </item>
+            <item n="C7" xml:id="Fb-53-C7">
+               <label>rot</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187198">Komp.</seg>
+                  <seg xml:id="d1e187200">und</seg>
+                  <seg xml:id="d1e187202">Abl.</seg>
+                  <seg xml:id="d1e187204">zu</seg>
+                  <seg xml:id="d1e187206">den</seg>
+                  <seg xml:id="d1e187208">Syn.</seg>
+                  <seg xml:id="d1e187210">v.</seg>
+                  <seg xml:id="d1e187212">rot</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e187216">purpur</seg>
+                  <seg xml:id="d1e187218">etc.</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="senseRel:Synonym"/>
+                  <interp corresp="m-concept:Rot" inst="#d1e187212 #d1e187216"/>
+                  <interp corresp="concept:Purpur" inst="#d1e187216"/>
+               </interpGrp>
+            </item>
+            <item n="C8" xml:id="Fb-53-C8">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187226">braun</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187230">Wendungen</seg>
+                  <seg xml:id="d1e187232">und</seg>
+                  <seg xml:id="d1e187234">Ra.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="n-concept:Braun" inst="#d1e187226"/>
+                  <interp corresp="m-concept:Braun" inst="#d1e187226"/>
+               </interpGrp>
+            </item>
+            <item n="C9" xml:id="Fb-53-C9">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187244">bräunlich</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187248">braunlecht</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:Bräunlich" inst="#d1e187244"/>
+                  <interp corresp="concept:Braunlecht" inst="#d1e187248"/>
+               </interpGrp>
+            </item>
+            <item n="C9a" xml:id="Fb-53-C9a">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187256">braunett</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187260">brünett</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="concept:Braunett" inst="#d1e187256"/>
+                  <interp corresp="concept:Brünett" inst="#d1e187260"/>
+               </interpGrp>
+            </item>
+            <item n="C10" xml:id="Fb-53-C10">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187270">das</seg>
+                  <seg xml:id="d1e187272">Braun</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Braun" inst="#d1e187272"/>
+               </interpGrp>
+            </item>
+            <item n="C10a" xml:id="Fb-53-C10a">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187280">der</seg>
+                  <seg xml:id="d1e187282">Braune</seg> <!-- AD: tag gender, singular/plural -->
+               </seg>
+               <interpGrp>  
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Braune" inst="#d1e187282"/>
+               </interpGrp>
+            </item>
+            <item n="C10b" xml:id="Fb-53-C10b">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187290">Tiername</seg>
+                  <seg xml:id="d1e187292">wie</seg>
+                  <seg xml:id="d1e187294">Braun</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187298">Bräundl</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187302">a</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>
+                  <interp inst="#d1e187294" corresp="concept:Braun"/>
+                  <interp inst="#d1e187290" corresp="concept:Tiername"/>
+               </interpGrp>
+            </item>
+            <item n="C10c" xml:id="Fb-53-C10c">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187312">Bräune</seg>
+                  <seg xml:id="d1e187314">als</seg>
+                  <seg xml:id="d1e187316">KrankheitsN</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187320">Komp.</seg>
+                  <seg xml:id="d1e187322">wie</seg>
+                  <seg xml:id="d1e187324">Halsbräune</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Bräune" inst="#d1e187312"/>
+                  <interp corresp="concept:Krankheitsname" inst="#d1e187316"/>
+                  <interp corresp="concept:Halsbräune" inst="#d1e187324" type="decomp"/>
+                  <interp corresp="concept:Hals" inst="#d1e187324" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="C11" xml:id="Fb-53-C11">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187333">bräunen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187337">bräuneln</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187341">braunen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187345">braunieren</seg>
+                  <pc>(</pc>
+                  <pc>=</pc>
+                  <seg xml:id="d1e187351">braun</seg>
+                  <seg xml:id="d1e187353">machen</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Braun" inst="#d1e187351"/>
+                  <interp corresp="concept:Bräunen" inst="#d1e187333"/>
+                  <interp corresp="concept:Braunen" inst="#d1e187341"/>
+                  <interp corresp="concept:Bräuneln" inst="#d1e187337"/>
+                  <interp corresp="concept:Braunieren" inst="#d1e187345"/>
+               </interpGrp>
+            </item>
+            <item n="C12" xml:id="Fb-53-C12">
+               <label>braun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187364">Komp.</seg>
+                  <seg xml:id="d1e187366">mit</seg>
+                  <seg xml:id="d1e187368">braun</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187372">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187376">braunhelmecht</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187380">Braunnudel</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187384">kestenbraun</seg>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Braun" inst="#d1e187368 #d1e187376 #d1e187380 #d1e187384"/>
+                  <interp corresp="concept:Braunhelmecht" inst="#d1e187376" type="decomp"/>
+                  <interp corresp="concept:Helmecht" inst="#d1e187376" type="decomp"/>
+                  <interp corresp="concept:Braunnudel" inst="#d1e187380" type="decomp"/>
+                  <interp corresp="concept:Nudel" inst="#d1e187380" type="decomp"/>
+                  <interp corresp="concept:Kestenbraun" inst="#d1e187384" type="decomp"/> 
+               </interpGrp>
+            </item>
+            <item n="D1" xml:id="Fb-53-D1">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187392">blau</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187396">kdl.</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187400">Ra.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp>  
+                  <interp corresp="n-concept:Blau" inst="#d1e187392"/>
+               </interpGrp>
+            </item>
+            <item n="D2" xml:id="Fb-53-D2">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187410">bläulich</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187414">blaulecht</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="concept:Blau" inst="#d1e187410 #d1e187414"/>
+                  <interp corresp="concept:Bläulich" inst="#d1e187410"/>
+                  <interp corresp="concept:Blaulecht" inst="#d1e187414"/>
+               </interpGrp>
+            </item>
+            <item n="D3" xml:id="Fb-53-D3">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187422">das</seg>
+                  <seg xml:id="d1e187424">Blau</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e187428">e</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187434">das</seg>
+                  <seg xml:id="d1e187436">Blaue</seg>
+                  <seg xml:id="d1e187438">vom</seg>
+                  <seg xml:id="d1e187440">Himmel</seg>
+                  <seg xml:id="d1e187442">versprechen</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Blaue" inst="#d1e187424 #d1e187436"/>
+               </interpGrp>
+            </item>
+            <item n="D3a" xml:id="Fb-53-D3a">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187450">die</seg>
+                  <seg xml:id="d1e187452">Bläue</seg> <!-- AD: tag gender, plural -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e187456">n</seg>
+                  <pc>)</pc>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187462">nur</seg>
+                  <seg xml:id="d1e187464">Waschblau</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Bläue" inst="#d1e187452"/>
+                  <interp corresp="concept:Waschblau" inst="#d1e187464" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="D3b" xml:id="Fb-53-D3b">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187476">Bläuelein</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187480">welcher</seg>
+                  <seg xml:id="d1e187482">Vogel</seg>
+                  <pc>?</pc>
+                  <seg xml:id="d1e187486">sonstige</seg>
+                  <seg xml:id="d1e187488">Bed.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Bläuelein" inst="#d1e187476"/>
+                  <interp corresp="concept:Vogel" inst="#d1e187482"/>
+               </interpGrp>
+            </item>
+            <item n="D3c" xml:id="Fb-53-D3c">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187500">Blables</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187504">ein</seg>
+                  <seg xml:id="d1e187506">blaublühendes</seg>
+                  <seg xml:id="d1e187508">Unkraut</seg>
+                  <pc>?</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Blables" inst="#d1e187500"/>
+                  <interp corresp="concept:Unkraut" inst="#d1e187508"/>
+               </interpGrp>
+            </item>
+            <item n="D4" xml:id="Fb-53-D4">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <pc>(</pc>
+                  <seg xml:id="d1e187520">an</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e187524">bläuen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187528">in</seg>
+                  <seg xml:id="d1e187530">der</seg>
+                  <seg xml:id="d1e187532">Bed.</seg>
+                  <seg xml:id="d1e187534">betrügen</seg>
+                  <pc>?</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Anbläuen" inst="#d1e187520 #d1e187524"/>
+                  <interp corresp="concept:Betrügen" inst="#d1e187534"/>
+               </interpGrp>
+            </item>
+            <item n="D5" xml:id="Fb-53-D5">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187544">Komp.</seg>
+                  <seg xml:id="d1e187546">mit</seg>
+                  <seg xml:id="d1e187548">blau</seg>
+                  <seg xml:id="d1e187550">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187554">blaunaset</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187558">Blaufuß</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187562">himmelblau</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Blau" inst="#d1e187548 #d1e187554 #d1e187558 #d1e187562"/>
+                  <interp corresp="concept:Blaunaset" inst="#d1e187554" type="decomp"/>
+                  <interp corresp="concept:Naset" inst="#d1e187554" type="decomp"/>
+                  <interp corresp="concept:Blaufuß" inst="#d1e187558" type="decomp"/>
+                  <interp corresp="concept:Fuß" inst="#d1e187558" type="decomp"/>
+                  <interp corresp="concept:Himmelblau" inst="#d1e187562" type="decomp"/>
+                  <interp corresp="concept:Himmel" inst="#d1e187562" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="D6" xml:id="Fb-53-D6">
+               <label>blau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187570">Syn.</seg>
+                  <seg xml:id="d1e187572">f.</seg>
+                  <seg xml:id="d1e187574">blau</seg>
+                  <seg xml:id="d1e187576">und</seg>
+                  <seg xml:id="d1e187578">ähnl.</seg>
+                  <seg xml:id="d1e187580">Farben</seg>
+                  <seg xml:id="d1e187582">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187586">lila</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187590">violett</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187595">Komp.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="senseRel:Synonym"/>
+                  <interp corresp="concept:Blau" inst="#d1e187574"/>
+                  <interp corresp="concept:Lila" inst="#d1e187586"/>
+                  <interp corresp="concept:Violett" inst="#d1e187590"/>
+               </interpGrp>
+            </item>
+            <item n="D7" xml:id="Fb-53-D7">
+               <label>grün</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187606">grün</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187610">kdl.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+                  <pc>;</pc>
+                  <seg xml:id="d1e187618">Bed.</seg>
+                  <seg xml:id="d1e187620">wie</seg>
+                  <seg xml:id="d1e187622">unreif</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e187626">roh</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187631">Ra.</seg>
+                  <seg xml:id="d1e187633">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187637">grün</seg>
+                  <seg xml:id="d1e187639">und</seg>
+                  <seg xml:id="d1e187641">blau</seg>
+                  <seg xml:id="d1e187643">schlagen</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="concept:Grün" inst="#d1e187606 #d1e187637"/>
+                  <interp corresp="concept:Blau" inst="#d1e187641"/>
+                  <interp corresp="concept:Unreif" inst="#d1e187622"/>
+                  <interp corresp="concept:Roh" inst="#d1e187626"/>
+                  <interp corresp="concept:Schlagen" inst="#d1e187643"/>
+               </interpGrp>
+            </item>
+            <item n="D9" xml:id="Fb-53-D9">
+               <label>grün</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187651">der</seg>
+                  <seg xml:id="d1e187653">Grüne</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <pc>=</pc>
+                  <seg xml:id="d1e187659">Teufel</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="concept:Grün" inst="#d1e187653"/> 
+                  <interp corresp="concept:Teufel" inst="#d1e187659"/>
+               </interpGrp>
+            </item>
+            <item n="D9a" xml:id="Fb-53-D9a">
+               <label>grün</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187671">das</seg>
+                  <seg xml:id="d1e187673">Grüne</seg> <!-- AD: tag gender, singular -->
+                  <seg xml:id="d1e187675">Bed.</seg>
+                  <seg xml:id="d1e187677">angeben</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187681">Grünzeug</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187685">Spielkartenfarbe</seg>
+                  <pc>)</pc>
+                  <pc>;</pc>
+                  <seg xml:id="d1e187691">Komp.</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Grün" inst="#d1e187673 #d1e187554 #d1e187558 #d1e187562"/>
+                  <interp corresp="concept:Grünzeug" inst="#d1e187681" type="decomp"/>
+                  <interp corresp="concept:Angeben" inst="#d1e187677"/>
+                  <interp corresp="concept:Spielkartenfarbe" inst="#d1e187685" type="decomp"/>
+                  <interp corresp="concept:Farbe" inst="#d1e187685" type="decomp"/> 
+               </interpGrp>
+            </item>
+            <item n="D9b" xml:id="Fb-53-D9b">
+               <label>grün</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187699">die</seg>
+                  <seg xml:id="d1e187701">Grüne</seg> <!-- AD: tag gender, plural -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e187705">Farbe</seg>
+                  <seg xml:id="d1e187707">oder</seg>
+                  <seg xml:id="d1e187709">Fläche</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Grüne" inst="#d1e187701"/>
+                  <interp corresp="concept:Farbe" inst="#d1e187705"/>
+                  <interp corresp="concept:Fläche" inst="#d1e187709"/>
+               </interpGrp>
+            </item>
+            <item n="D10" xml:id="Fb-53-D10">
+               <label>grün</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187719">der</seg>
+                  <seg xml:id="d1e187721">Grünling</seg> <!-- AD: tag gender, plural -->
+                  <pc>,</pc>
+                  <seg xml:id="d1e187725">Grüner</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187729">Grünler</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187733">Name</seg>
+                  <seg xml:id="d1e187735">von</seg>
+                  <seg xml:id="d1e187737">Tieren</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187742">Menschen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187746">Pflanzen</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Grünling" inst="#d1e187721"/>
+                  <interp corresp="concept:Grüner" inst="#d1e187725"/>
+                  <interp corresp="concept:Grünler" inst="#d1e187729"/>
+                  <interp corresp="concept:Menschenname" inst="#d1e187742"/>
+                  <interp corresp="concept:Pflanzenname" inst="#d1e187746"/>
+                  <interp corresp="concept:Tiername" inst="#d1e187737"/>
+               </interpGrp>
+            </item>
+            <item n="D11" xml:id="Fb-53-D11">
+               <label>grün</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187756">grünen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187760">grüneln</seg>
+                  <pc>(</pc>
+                  <pc>=</pc>
+                  <seg xml:id="d1e187766">grün</seg>
+                  <seg xml:id="d1e187768">sein</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187772">grün</seg>
+                  <seg xml:id="d1e187774">werden</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Grünen" inst="#d1e187756"/>
+                  <interp corresp="concept:Grüneln" inst="#d1e187760"/>
+                  <interp corresp="concept:Grün" inst="#d1e187766 #d1e187772"/>
+               </interpGrp>
+            </item>
+            <item n="D12" xml:id="Fb-53-D12">
+               <label>grün</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187784">Komp.</seg>
+                  <seg xml:id="d1e187786">mit</seg>
+                  <seg xml:id="d1e187788">grün</seg>
+                  <seg xml:id="d1e187790">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187794">grünwachs</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187798">ed.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187807">Grünarbeit</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187811">lauchgrün</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187815">Wintergrün</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Grün" inst="#d1e187788 #d1e187794 #d1e187807 #d1e187811 #d1e187815"/>
+                  <interp corresp="concept:Grünwachs" inst="#d1e187794" type="decomp"/>
+                  <interp corresp="concept:Wachs" inst="#d1e187794" type="decomp"/>
+                  <interp corresp="concept:Grünarbeit" inst="#d1e187807"/>
+                  <interp corresp="concept:Arbeit" inst="#d1e187807"/>
+                  <interp corresp="concept:Lauchgrün" inst="#d1e187811" type="decomp"/>
+                  <interp corresp="concept:Lauch" inst="#d1e187811" type="decomp"/>
+                  <interp corresp="concept:Wintergrün" inst="#d1e187815" type="decomp"/> 
+                  <interp corresp="concept:Winter" inst="#d1e187815" type="decomp"/> 
+               </interpGrp>
+            </item>
+            <item n="E1" xml:id="Fb-53-E1">
+               <label>gelb</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187823">gelb</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187827">kdl.</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187833">Füg.</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e187837">Vgl.</seg>
+                  <seg xml:id="d1e187839">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e187843">gelb</seg>
+                  <seg xml:id="d1e187846">und</seg>
+                  <seg xml:id="d1e187848">grün</seg>
+                  <seg xml:id="d1e187850">vor</seg>
+                  <seg xml:id="d1e187852">Zorn</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187856">gelber</seg>
+                  <seg xml:id="d1e187858">Schelm</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187862">e.</seg>
+                  <seg xml:id="d1e187864">Krankheit</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+                  <pc>;</pc>
+                  <seg xml:id="d1e187873">sind</seg>
+                  <q>'</q>
+                  <seg xml:id="d1e187877">golden</seg>
+                  <q>'</q>
+                  <seg xml:id="d1e187881">und</seg>
+                  <seg xml:id="d1e187883">Komp.</seg>
+                  <seg xml:id="d1e187885">Syn.</seg>
+                  <pc>?</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="senseRel:Synonym" />
+                  <interp corresp="concept:Gelb" inst="#d1e187823 #d1e187843"/>
+                  <interp corresp="concept:Zorn" inst="#d1e187852"/>
+                  <interp corresp="concept:Golden" inst="#d1e187877"/>
+                  <interp corresp="concept:Krankheit" inst="#d1e187864"/>
+                  <interp corresp="concept:Grün" inst="#d1e187848"/>
+               </interpGrp>
+            </item>
+            <item n="E2" xml:id="Fb-53-E2">
+               <label>gelb</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187895">gelblich</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187899">gelblecht</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="concept:Gelblich" inst="#d1e187895"/>
+                  <interp corresp="concept:Gelblecht" inst="#d1e187899"/>
+               </interpGrp>
+            </item>
+            <item n="E3" xml:id="Fb-53-E3">
+               <label>gelb</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187907">das</seg>
+                  <seg xml:id="d1e187909">Gelb</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e187913">e</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Gelb" inst="#d1e187909"/>
+               </interpGrp>
+            </item>
+            <item n="E3a" xml:id="Fb-53-E3a">
+               <label>gelb</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187923">der</seg>
+                  <seg xml:id="d1e187925">Gelbe</seg> <!-- AD: tag gender, singular -->
+                  <pc>,</pc>
+                  <seg xml:id="d1e187929">die</seg>
+                  <seg xml:id="d1e187931">Gelben</seg> <!-- AD: tag gender, plural -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e187935">ed.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Gelb" inst="#d1e187925 #d1e187931"/>
+               </interpGrp>
+            </item>
+            <item n="E3b" xml:id="Fb-53-E3b">
+               <label>gelb</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187948">die</seg>
+                  <seg xml:id="d1e187950">Gel</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e187954">Krankheit</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187960">Gilbe</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Gel" inst="#d1e187950"/>
+                  <interp corresp="concept:Gilbe" inst="#d1e187960"/>
+                  <interp corresp="concept:Krankheit" inst="#d1e187954"/>
+               </interpGrp>
+            </item>
+            <item n="E4" xml:id="Fb-53-E4">
+               <label>gelb</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187968">gilben</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187972">gilbel</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e187976">e</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e187980">n</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e187984">vergilben</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Gilben" inst="#d1e187968"/>
+                  <interp corresp="concept:Gilbelen" inst="#d1e187972 #d1e187976 #d1e187980"/>
+                  <interp corresp="concept:Vergilben" inst="#d1e187984"/>
+               </interpGrp>
+            </item>
+            <item n="E5" xml:id="Fb-53-E5">
+               <label>gelb</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e187992">Komp.</seg>
+                  <seg xml:id="d1e187994">mit</seg>
+                  <seg xml:id="d1e187996">gelb</seg>
+                  <seg xml:id="d1e187998">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e188002">Gelbwurz</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188006">strohgelb</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Gelb" inst="#d1e187996 #d1e188002 #d1e188006"/>
+                  <interp corresp="concept:Gelbwurz" inst="#d1e188002" type="decomp"/>
+                  <interp corresp="concept:Wurz" inst="#d1e188002" type="decomp"/>
+                  <interp corresp="concept:Strohgelb" inst="#d1e188006" type="decomp"/>
+                  <interp corresp="concept:Stroh" inst="#d1e188006" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="E6" xml:id="Fb-53-E6">
+               <label>gelbbraun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188014">fahl</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188018">falb</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188022">falch</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Fahl" inst="#d1e188014"/>
+                  <interp corresp="concept:Falb" inst="#d1e188018"/>
+                  <interp corresp="concept:Falch" inst="#d1e188022"/>
+                  <interp corresp="concept:Gelbbraun"/>
+               </interpGrp>
+            </item>
+            <item n="E7" xml:id="Fb-53-E7">
+               <label>gelbbraun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188030">falchet</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188034">falchelet</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188038">falbelet</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Falchet" inst="#d1e188030"/>
+                  <interp corresp="concept:Falchelet" inst="#d1e188034"/>
+                  <interp corresp="concept:Falbelet" inst="#d1e188038"/>
+                  <interp corresp="concept:Gelbbraun"/>
+               </interpGrp>
+            </item>
+            <item n="E8" xml:id="Fb-53-E8">
+               <label>gelbbraun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188046">der</seg>
+                  <seg xml:id="d1e188048">Falb</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e188052">e</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188058">der</seg>
+                  <seg xml:id="d1e188060">Falch</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e188064">e</seg>
+                  <pc>)</pc>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188071">als</seg>
+                  <seg xml:id="d1e188073">TierN</seg>
+                  <seg xml:id="d1e188075">oder</seg>
+                  <seg xml:id="d1e188077">auch</seg>
+                  <seg xml:id="d1e188079">in</seg>
+                  <seg xml:id="d1e188081">anderer</seg>
+                  <seg xml:id="d1e188083">Bed.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Falb" inst="#d1e188048"/>
+                  <interp corresp="concept:Falch" inst="#d1e188060"/>
+                  <interp corresp="concept:Tiername" inst="#d1e188073 #d1e188048 #d1e188060"/>
+                  <interp corresp="concept:Gelbbraun"/>
+               </interpGrp>
+            </item>
+            <item n="E8a" xml:id="Fb-53-E8a">
+               <label>gelbbraun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188093">die</seg>
+                  <seg xml:id="d1e188095">Falbe</seg> <!-- AD: tag gender, singular -->
+                  <pc>,</pc>
+                  <seg xml:id="d1e188099">Falche</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188103">als</seg>
+                  <seg xml:id="d1e188105">Tiernamen</seg>
+                  <seg xml:id="d1e188107">oder</seg>
+                  <seg xml:id="d1e188109">auch</seg>
+                  <seg xml:id="d1e188111">in</seg>
+                  <seg xml:id="d1e188113">anderer</seg>
+                  <seg xml:id="d1e188116">Bed.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+                  <seg xml:id="d1e188122">Verkleinerung</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Falbe" inst="#d1e188095"/>
+                  <interp corresp="concept:Falche" inst="#d1e188099"/>
+                  <interp corresp="concept:Tiername" inst="#d1e188105 #d1e188099 #d1e188095"/>
+                  <interp corresp="concept:Verkleinerung" inst="#d1e188122"/>
+                  <interp corresp="concept:Gelbbraun"/>
+               </interpGrp>
+            </item>
+            <item n="E9" xml:id="Fb-53-E9">
+               <label>gelbbraun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188130">falben</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188134">falbelen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188138">falchelen</seg>
+                  <pc>(</pc>
+                  <pc>=</pc>
+                  <seg xml:id="d1e188144">falb</seg>
+                  <seg xml:id="d1e188146">machen</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Falben" inst="#d1e188130"/>
+                  <interp corresp="concept:Falbelen" inst="#d1e188134"/>
+                  <interp corresp="concept:Falchelen" inst="#d1e188138"/>
+                  <interp corresp="concept:Falb" inst="#d1e188144"/>
+                  <interp corresp="concept:Gelbbraun"/>
+               </interpGrp>
+            </item>
+            <item n="E10" xml:id="Fb-53-E10">
+               <label>gelbbraun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188156">Komp.</seg>
+                  <seg xml:id="d1e188158">mit</seg>
+                  <seg xml:id="d1e188160">falb</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188164">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e188168">falbwild</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188172">falbbrückelecht</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Falb" inst="#d1e188160 #d1e188168 #d1e188172"/>
+                  <interp corresp="concept:Falbbrückelecht" inst="#d1e188172" type="decomp"/>
+                  <interp corresp="concept:Rückelecht" inst="#d1e188172" type="decomp"/>
+                  <interp corresp="concept:Falbwild" inst="#d1e188168" type="decomp"/>
+                  <interp corresp="concept:Wild" inst="#d1e188168" type="decomp"/>
+                  <interp corresp="concept:Gelbbraun"/>
+               </interpGrp>
+            </item>
+            <item n="E11" xml:id="Fb-53-E11">
+               <label>gelbbraun</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188180">sonstige</seg>
+                  <seg xml:id="d1e188182">Ausdr.</seg>
+                  <seg xml:id="d1e188184">für</seg>
+                  <seg xml:id="d1e188186">Farbschattierg.</seg>
+                  <seg xml:id="d1e188188" ana="#Cmpnd">
+                     <seg ana="#Cmpnt">braun</seg> <!-- AD: why no ID with braun, gelb etc here? -->
+                     <pc>-</pc>
+                     <seg ana="#Cmpnt">gelb</seg>
+                  </seg>
+                  <seg xml:id="d1e188195">od.</seg>
+                  <seg xml:id="d1e188197" ana="#Cmpnd">
+                     <seg ana="#Cmpnt">gelb</seg>
+                     <pc>-</pc>
+                     <seg ana="#Cmpnt">grau</seg>
+                  </seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188206">z.B.</seg>
+                  <seg xml:id="d1e188208">erpf</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188213">en</seg>
+                  <pc>)</pc>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188219">alb</seg>
+                  <pc>;</pc>
+                  <seg xml:id="d1e188223">Komp.</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e188227">Abl.</seg>
+                  <seg xml:id="d1e188229">wie</seg>
+                  <seg xml:id="d1e188231">z.B.</seg>
+                  <seg xml:id="d1e188233">Elbschaf</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188238">elbelecht</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="concept:Alb" inst="#d1e188219" type="decomp"/>
+                  <interp corresp="concept:Erpf" inst="#d1e188208"/>
+                  <interp corresp="concept:Elbschaf" inst="#d1e188233" type="decomp"/>
+                  <interp corresp="concept:Schaf" inst="#d1e188233" type="decomp"/>
+                  <interp corresp="concept:Elbelecht" inst="#d1e188238"/>
+                  <interp corresp="concept:Gelbbraun"/>
+               </interpGrp>
+            </item>
+            <item n="E12" xml:id="Fb-53-E12">
+               <label>grau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188246">grau</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188250">grab</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188254">Wendungen</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="concept:Grau" inst="#d1e188246 #d1e188250"/>
+                  <interp corresp="concept:Grab" inst="#d1e188250"/>
+               </interpGrp>
+            </item>
+            <item n="E13" xml:id="Fb-53-E13">
+               <label>grau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188265">graulich</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188269">grawelet</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="concept:Graulich" inst="#d1e188265"/>
+                  <interp corresp="concept:Grawelet" inst="#d1e188269"/>
+               </interpGrp>
+            </item>
+            <item n="E14" xml:id="Fb-53-E14">
+               <label>grau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188277">das</seg> <!-- AD: tag gender, singular -->
+                  <seg xml:id="d1e188279">Grau</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188283">die</seg>
+                  <seg xml:id="d1e188285">Graue</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188289">ed.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="concept:Grau" inst="#d1e188279"/>
+                  <interp corresp="concept:Graue" inst="#d1e188285"/>
+               </interpGrp>
+            </item>
+            <item n="E15" xml:id="Fb-53-E15">
+               <label>grau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188301">grauen</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188305">grauel</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188309">e</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e188313">n</seg>
+                  <pc>/</pc>
+                  <seg xml:id="d1e188317">grawel</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188321">e</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e188326">n</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188330">grauetzen</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188334">ed.</seg>
+                  <pc>!</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Grauen" inst="#d1e188301"/>
+                  <interp corresp="concept:Grauetzen" inst="#d1e188330"/>
+                  <interp corresp="concept:Grauelen" inst="#d1e188305"/>
+                  <interp corresp="concept:Grawelen" inst="#d1e188317"/>
+               </interpGrp>
+            </item>
+            <item n="E16" xml:id="Fb-53-E16">
+               <label>grau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188346">Komp.</seg>
+                  <seg xml:id="d1e188348">m.</seg>
+                  <seg xml:id="d1e188350">grau</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188354">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e188358">kitzgrau</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188362">Grauamsel</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Grau" inst="#d1e188350 #d1e188358 #d1e188362"/>
+                  <interp corresp="concept:Kitzgrau" inst="#d1e188358"/>
+                  <interp corresp="concept:Kitz" inst="#d1e188358"/>
+                  <interp corresp="concept:Grauamsel" inst="#d1e188362" type="decomp"/>
+                  <interp corresp="concept:Amsel" inst="#d1e188362" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="E17" xml:id="Fb-53-E17">
+               <label>grau</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188370">sonstige</seg>
+                  <seg xml:id="d1e188372">Ausdrücke</seg>
+                  <seg xml:id="d1e188374">für</seg>
+                  <seg xml:id="d1e188376">grau</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188380">etwa</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e188384">greis</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188388">schimpel</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="concept:Grau" inst="#d1e188376 #d1e188384 #d1e188388"/>
+                  <interp corresp="concept:Greis" inst="#d1e188358"/>
+                  <interp corresp="concept:Schimpel" inst="#d1e188384"/>
+               </interpGrp>
+            </item>
+            <item n="F1" xml:id="Fb-53-F1">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188396">bleich</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188400">Wendungen</seg>
+                  <seg xml:id="d1e188402">und</seg>
+                  <seg xml:id="d1e188404">Ra.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="concept:Bleich" inst="#d1e188396"/>
+               </interpGrp>
+            </item>
+            <item n="F1a" xml:id="Fb-53-F1a">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188414">blöd</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188418">e</seg>
+                  <pc>)</pc>
+                  <seg xml:id="d1e188422">i.d.</seg>
+                  <seg xml:id="d1e188424">Bed.</seg>
+                  <seg xml:id="d1e188426">bleich</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Expression"/>
+                  <interp corresp="concept:Bleich" inst="#d1e188426"/>
+                  <interp corresp="concept:Blöd" inst="#d1e188414"/>
+               </interpGrp>
+            </item>
+            <item n="F1b" xml:id="Fb-53-F1b">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188434">ablechtig</seg>
+                  <seg xml:id="d1e188436">in</seg>
+                  <seg xml:id="d1e188438">der</seg>
+                  <seg xml:id="d1e188440">Bed.</seg>
+                  <seg xml:id="d1e188442">bleich</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Adjective"/>
+                  <interp corresp="concept:Bleich" inst="#d1e188442"/>
+                  <interp corresp="concept:Ablechtig" inst="#d1e188434"/>
+               </interpGrp>
+            </item>
+            <item n="F2" xml:id="Fb-53-F2">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188450">bleichlich</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Adjective"/>
+                  <interp corresp="concept:Bleichlich" inst="#d1e188450"/>
+               </interpGrp>
+            </item>
+            <item n="F2a" xml:id="Fb-53-F2a">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188458">anbleich</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Adjective"/>
+                  <interp corresp="concept:Anbleich" inst="#d1e188458"/>
+               </interpGrp>
+            </item>
+            <item n="F3" xml:id="Fb-53-F3">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188466">die</seg> <!-- AD: tag gender, singular -->
+                  <seg xml:id="d1e188468">Bleiche</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188472">in</seg>
+                  <seg xml:id="d1e188474">allen</seg>
+                  <seg xml:id="d1e188476">Bed.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Bleiche" inst="#d1e188468"/>
+               </interpGrp>
+            </item>
+            <item n="F3a" xml:id="Fb-53-F3a">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188487">bleichen</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188491">in</seg>
+                  <seg xml:id="d1e188493">allen</seg>
+                  <seg xml:id="d1e188495">Bed.</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Verb"/>
+                  <interp corresp="concept:Bleichen" inst="#d1e188487"/>
+               </interpGrp>
+            </item>
+            <item n="F3b" xml:id="Fb-53-F3b">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188505">erbleichen</seg>
+                  <pc>(</pc>
+                  <pc>=</pc>
+                  <seg xml:id="d1e188511">bleich</seg>
+                  <seg xml:id="d1e188513">werden</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Adjective"/>
+                  <interp corresp="concept:Erbleichen" inst="#d1e188505"/>
+                  <interp corresp="concept:Bleich" inst="#d1e188511"/>
+               </interpGrp>
+            </item>
+            <item n="F4" xml:id="Fb-53-F4">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188523">Komp.</seg>
+                  <seg xml:id="d1e188525">mit</seg>
+                  <seg xml:id="d1e188527">bleich</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Bleich" inst="#d1e188527" type="decomp"/>
+               </interpGrp>
+            </item>
+            <item n="F5" xml:id="Fb-53-F5">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188535">blaß</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188539">ist</seg>
+                  <seg xml:id="d1e188541">das</seg>
+                  <seg xml:id="d1e188543">Wort</seg>
+                  <seg xml:id="d1e188545">sehr</seg>
+                  <seg xml:id="d1e188547">üblich</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Adejctive"/>
+                  <interp corresp="concept:Blaß" inst="#d1e188535"/>
+               </interpGrp>
+            </item>
+            <item n="F6" xml:id="Fb-53-F6">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188559">die</seg>
+                  <seg xml:id="d1e188561">Blässe</seg> <!-- AD: tag gender, singular -->
+                  <pc>(</pc>
+                  <seg xml:id="d1e188565">in</seg>
+                  <seg xml:id="d1e188567">allen</seg>
+                  <seg xml:id="d1e188569">Bedeutungen</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Blässe" inst="#d1e188561"/>
+               </interpGrp>
+            </item>
+            <item n="F6a" xml:id="Fb-53-F6a">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188579">Blese</seg>
+                  <pc>(</pc>
+                  <pc>=</pc>
+                  <seg xml:id="d1e188585">Schmutzfleck</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188589">andere</seg>
+                  <seg xml:id="d1e188591">Bed.</seg>
+                  <pc>?</pc>
+                  <seg xml:id="d1e188595">Ltg.</seg>
+                  <seg xml:id="d1e188597">v.</seg>
+                  <seg xml:id="d1e188599">e</seg>
+                  <pc>?</pc>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Blese" inst="#d1e188579"/>
+                  <interp corresp="concept:Schmutzfleck" inst="#d1e188585"/>
+               </interpGrp>
+            </item>
+            <item n="F6b" xml:id="Fb-53-F6b">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188612">Blass</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188616">Blassel</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188620">Blasel</seg>
+                  <pc>(</pc>
+                  <seg xml:id="d1e188624">weißer</seg>
+                  <seg xml:id="d1e188626">Stirnfleck</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188630">Tier</seg>
+                  <seg xml:id="d1e188632">mit</seg>
+                  <seg xml:id="d1e188635">solchem</seg>
+                  <pc>)</pc>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Noun"/>
+                  <interp corresp="concept:Blass" inst="#d1e188612"/>
+                  <interp corresp="concept:Blassel" inst="#d1e188616"/>
+                  <interp corresp="concept:Blasel" inst="#d1e188620"/>
+                  <interp corresp="concept:Tier" inst="#d1e188630"/>
+                  <interp corresp="concept:Stirnfleck" inst="#d1e188626"/>
+               </interpGrp>
+            </item>
+            <item n="F7" xml:id="Fb-53-F7">
+               <label>bleich</label>
+               <pc>:</pc>
+               <seg ana="question">
+                  <seg xml:id="d1e188645">Komp.</seg>
+                  <seg xml:id="d1e188647">mit</seg>
+                  <seg xml:id="d1e188649">blaß</seg>
+                  <pc>,</pc>
+                  <seg xml:id="d1e188653">wie</seg>
+                  <pc>:</pc>
+                  <seg xml:id="d1e188657">leichenblaß</seg>
+               </seg>
+               <interpGrp> 
+                  <interp corresp="targetForm:Compound"/>
+                  <interp corresp="concept:Blass" inst="#d1e188649 #d1e188657"/>
+                  <interp corresp="concept:Leichenblaß" inst="#d1e188657" type="decomp"/>
+                  <interp corresp="concept:Leichen" inst="#d1e188657" type="decomp"/>
+               </interpGrp>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

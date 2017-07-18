@@ -10,19 +10,52 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="build/app.css">
+  <style>
+              svg {
+                border: 0px solid gray;
+                width: 100%
+                height: 100%;
+              }
+
+              body,html,#viz {
+                width: 100%;
+                height: 100%;
+                background-color: white;
+              }
+
+              g.am-axis text {
+                font-size: 8px;
+                fill: blue;
+              }
+
+              .domain {
+                fill: none;
+              }
+
+              rect {
+                fill: white;
+              }
+
+              /*rect.active {
+                fill: black;
+              }*/
+
+              .tick > line {
+                stroke: white;
+                stroke-width: 1px;
+                stroke-opacity: 0.25;
+              }
+            
+  </style>
 </head>
 
 <body>
 
-  <div class="container">
-    <div id="main" role="main">
-      <h1>Vis</h1>
-      <div id="vis"></div>
-    </div>
-  </div> <!--! end of #container -->
+<div id="viz">
+        <svg width="100%" height="100%"></svg>
+</div>
 
-  <script src="build/app.js"></script>
+<script src="build/app.js"></script>
 
 
   <!-- <script>  -->

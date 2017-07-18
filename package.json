@@ -29,19 +29,23 @@
     "css-loader": "^0.28.4",
     "eslint": "^3.9.1",
     "eslint-config-airbnb-base": "^9.0.0",
-    "eslint-loader": "^1.6.1",
-    "eslint-plugin-import": "^2.1.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.7.0",
     "extract-text-webpack-plugin": "^2.1.2",
     "file-loader": "^0.11.2",
     "html-loader": "^0.4.5",
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
+    "sockjs-client": "^1.1.4",
     "style-loader": "^0.18.2",
     "url-loader": "^0.5.9",
-    "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.5.0"
+    "webpack": "^2.6.0",
+    "webpack-dev-server": "^2.6.0"
   },
   "dependencies": {
-    "d3": "^4.3.0"
+    "d3": "^4.10.0",
+    "d3-ajacency-matrix-layout": "git+ssh://git@github.com/micahstubbs/d3-adjacency-matrix-layout.git",
+    "d3-v4-grid": "^2.0.1",
+    "underscore": "^1.8.3"
   }
 }

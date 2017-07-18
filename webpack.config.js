@@ -1,10 +1,7 @@
 var path = require('path');
 var webpack = require('webpack');
 
-var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var plugins = [];
-
-plugins.push(new ExtractTextPlugin("build/app.css"));
 
 var minimize = process.argv.indexOf('--minimize') === -1 ? false : true;
 
@@ -27,33 +24,11 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.js$/,
-        include: /src/,
-        use: ['babel-loader'],
-      },
-      {
-        test: /\.css$/,
-        // use: ExtractTextPlugin.extract("style","css")
-        use: ExtractTextPlugin.extract({ fallback: 'style-loader', use: 'css-loader' })
-      },
-      {
-        test: /\.scss$/,
-        use: ExtractTextPlugin.extract({
-          fallback: 'style-loader',
-          use: [{
-            loader: "css-loader",
-            options: {
-              sourceMap: true,
-              modules: true,
-              importLoaders: 2,
-            }
-          }, {
-            loader: "sass-loader",
-            options: {
-              sourceMap: true,
-            }
-          }]
-        })
+        test: /\.(js|jsx)$/,
+        use: [{
+            loader: 'babel-loader'
+        }],
+        exclude: /node_modules/
       },
       {
         test: /\.(ttf|eot|svg|woff(2)?)(\?[a-z0-9]+)?$/,
