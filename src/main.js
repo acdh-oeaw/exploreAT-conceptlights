@@ -4,4 +4,4 @@ import createChart from './chart';
 
 import '../index.html';
 
-d3.json('./data/fragebogen10-graph.json', createChart);
+d3.json('./data/fragebogen11-graph.json', createChart);

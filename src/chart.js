@@ -2,11 +2,13 @@
 import * as d3 from 'd3';
 import * as adjacencyMatrixLayout from 'd3-ajacency-matrix-layout';
 import stratumLayout from './d3StratumLayout';
+import * as scaleChromatic from 'd3-scale-chromatic';
 import * as _ from 'underscore';
 // import Grid from 'd3-v4-grid';
 
 export default function (data) {
-          
+            // console.log(`There are ${} associations`, )
+            console.log(scaleChromatic);
             const svg = d3.select("svg"),
               size = canvasSize('svg'),
               width = size[0],
@@ -27,6 +29,7 @@ export default function (data) {
                 .size(matrixSize)
                 .nodes(data.nodes)
                 .links(data.links)
+                .edgeWeight(d => d.weight)
                 .directed(false)
                 .nodeID(d => d.id);
 
@@ -35,14 +38,19 @@ export default function (data) {
 
             // const someColors = d3.scaleOrdinal()
             //     .range(d3.schemeCategory20b);
+            // const someColors = d3.scaleThreshold()
+            //                     .domain(d3.extent(data.links, (d) => d.weight))
+            //                     .range(["white", "blue", "red"]);
 
-            const someColors = d3.scaleThreshold()
-                                .domain([0, 1, 2])
-                                .range(["white", "blue", "red"]);
+            const someColors = d3.scaleSequential(scaleChromatic.interpolateReds).domain([0, d3.max(data.links, (d) => d.weight)]);
 
-            const defaultOpacity = (d) => {
-                return 0.15 + 0.2 * d.weight;
-            };
+            // console.log(someColors(0), someColors(1),someColors(2),someColors(3),someColors(4));
+
+            // const defaultOpacity = (d) => {
+            //     return 0.3 + 0.2 * d.weight;
+            // };
+
+
 
             d3.select('svg')
                 .append('g')
@@ -60,7 +68,7 @@ export default function (data) {
                     .style('stroke-width', '1px')
                     .style('stroke-opacity', .1)
                     .style('fill', d => someColors(d.weight))
-                    .style('fill-opacity', defaultOpacity)
+                    .style('fill-opacity', 0.5)
                     .on("mouseover", mouseover)
                     .on("mouseout", mouseout);
 
@@ -78,14 +86,14 @@ export default function (data) {
                 d3.selectAll("rect")
                     .classed("active", (d, i) => { return d.y == p.y || d.x == p.x; })
                     .style('fill-opacity', (d, i) => { 
-                        return d.y == p.y || d.x == p.x ? 0.20 + 0.3 * d.weight : defaultOpacity(d)
+                        return d.y == p.y || d.x == p.x ? 1 : 0.5;
                 });
             }
 
             function mouseout() {
                 d3.selectAll("rect")
                     .classed("active", false)
-                    .style('fill-opacity', defaultOpacity);
+                    .style('fill-opacity', 0.5);
             }
 
             const extractedConcepts = data.nodes.map((d) => d.concepts).reduce((a, b) => a.concat(b))
@@ -142,9 +150,40 @@ export default function (data) {
                           .attr("y", (d) => d.y) 
                           .attr("dy", ".35em")
                           .text((d) =>  d.name)
-                          .on("click", (d) => {console.log(d.name);});
+                          .on("mouseover", (c) => {
+                            console.log(c.name);
+                            const selection = d3.selectAll('rect').filter((d, i) => {
+                              return d.weight > 0 && 
+                                (d.source.concepts.includes(c.name) || 
+                                  d.target.concepts.includes(c.name))
+                            });
+                            selection.transition()
+                              .duration(250)
+                              .on("start", function repeat () {
+                                d3.active(this)
+                                    .style("fill-opacity", 1)
+                                  .transition()
+                                    .style("fill-opacity", .5)
+                                  .transition()
+                                    .on("start", repeat);
+                              })
+                          })
+                          .on("mouseout", (d) => {
+                            console.log('out')
+                            d3.selectAll("*").interrupt();
+                          })
+                          .on("click", function(d) {
+                            console.log(`click ${d.name}`)
+                            d3.selectAll("*").interrupt();
+                            d3.select(this)
+                              .style('fill', 'blue');
+                          })
 
            
+
+            // function coincidentNodes(term) {
+
+            // };
 
             function id(x) {return x;};
 
@@ -153,14 +192,14 @@ export default function (data) {
                 acc[map[k]] = (acc[map[k]] || []).concat((f || id)(k))
                 return acc
               },{})
-            }
+            };
 
             function mapFromReverseMap(rMap, f) {
               return Object.keys(rMap).reduce(function(acc, k) {
                 rMap[k].forEach(function(x){acc[x] = (f || id)(k)})
                 return acc
               },{})
-            }
+            };
 };
 
 // const makeHierarchy = (nodes) => {

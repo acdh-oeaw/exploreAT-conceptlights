@@ -45,6 +45,7 @@
   "dependencies": {
     "d3": "^4.10.0",
     "d3-ajacency-matrix-layout": "git+ssh://git@github.com/micahstubbs/d3-adjacency-matrix-layout.git",
+    "d3-scale-chromatic": "^1.1.1",
     "d3-v4-grid": "^2.0.1",
     "underscore": "^1.8.3"
   }
