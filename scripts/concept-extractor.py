@@ -23,6 +23,9 @@ def cleanXMLTagContent(stripped_text):
 
 concept_regex = re.compile(r"mconcept|concept:(.*)")
 
+concepts_num = []
+coincident_num = []
+
 with iopen('./frage-fragebogen-full-tgd01.xml') as frage_file,\
 	 iopen('./dboe-concept-features-fs-lod-tei.xml') as concepts_file:
 	
@@ -49,6 +52,8 @@ with iopen('./frage-fragebogen-full-tgd01.xml') as frage_file,\
 	print('There are {} words'.format(len(words)))
 	print('There are {} concepts'.format(len(global_concepts)))
 
+	coincident_groups = {}
+
 	for questionnaire in questionnaires:
 		G=nx.Graph()
 		questionnaire_obj = {}
@@ -74,23 +79,80 @@ with iopen('./frage-fragebogen-full-tgd01.xml') as frage_file,\
 					coincidences = concepts_set.intersection(val)
 					if len(coincidences) > 0:
 						# print(concepts_set, val, coincidences)
-						G.add_edge(item.get('n'), key, weight=len(coincidences), coincidences=[coincidence for coincidence in coincidences])
+						G.add_edge(item.get('n'), key, weight=len(coincidences), 
+							coincidences=[coincidence for coincidence in coincidences])
+						if len(coincidences) in coincident_groups:
+							added = False
+							from_reps = -1
+							from_index = -1
+							# print(str(coincident_groups));
+							for rep_key, rep_concepts in coincident_groups[len(coincidences)].items():
+								for index, group in enumerate(rep_concepts):
+									a_set = set(group)
+									if a_set == coincidences:
+										from_reps = rep_key
+										from_index = index
+										added = True
+										break
+							if added:
+								if from_reps != -1 and from_index != -1:
+									move_group = coincident_groups[len(coincidences)][from_reps].pop(from_index)
+									if (from_reps + 1) in coincident_groups[len(coincidences)]:
+										coincident_groups[len(coincidences)][from_reps + 1].append(move_group)
+									else:
+										coincident_groups[len(coincidences)][from_reps + 1] = [move_group]
+								else:
+									print('Error: indexes must be set')
+									exit(1)
+							else:
+								if 1 in coincident_groups[len(coincidences)]:
+									coincident_groups[len(coincidences)][1].append([coincidence for coincidence in coincidences])
+								else:
+									coincident_groups[len(coincidences)] = {1 : [[coincidence for coincidence in coincidences]]}		
+						else:
+							print('Adding {} in level {}'.format(coincidences, len(coincidences)))
+							coincident_groups[len(coincidences)] = {1 : [[coincidence for coincidence in coincidences]]}
+
+
 				questionnaire_obj[item.get('n')] = concepts_set
 
 		data = json_graph.node_link_data(G)
 		concepts_set = set()
+		coincident_concepts_set = set()
+
 		for node in data['nodes']:
 			for concept in node['concepts']:
 				concepts_set.add(concept)
 
-		print('There are {} different concepts'.format(len(concepts_set)))
+		key_list = list(coincident_groups.keys())
+		for k in key_list:
+			key_2_list = list(coincident_groups[k].keys())
+			for i in key_2_list:
+				if len(coincident_groups[k][i]) == 0:
+					del coincident_groups[k][i]
+				else:
+					for coincidency_group in coincident_groups[k][i]:
+						coincident_concepts_set.update([coincidency_group_item for coincidency_group_item in coincidency_group])
+
+		data['coincident_groups'] = coincident_groups
+		
+		intersection_set = coincident_concepts_set.intersection(concepts_set)
+
+		concepts_num.append(len(concepts_set))
+		coincident_num.append(len(intersection_set))
+		
+ 
+		if len(intersection_set) > 0:
+		# print('Coincident: \n' + json.dumps(coincident_groups, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': ')))
+			print('There are {} different concepts, of which {} appear in coincidency groups ({}%)'.format(len(concepts_set), len(intersection_set), len(intersection_set) / len(concepts_set) * 100))
+		else:
+			print('There are {} different concepts, and 0 appear in coincidency groups)'.format(len(concepts_set)))
 
 		with iopen('../data/{}-graph.json'.format(questionnaire.label.string.replace(" ","").lower()),'w', encoding='utf-8') as jsonfile:
 			json.dump(data, jsonfile, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
 
-		
+	print('Concepts Max/min is {},{} coincident: {}{}'.format(max(concepts_num), min(concepts_num), max(coincident_num), min(coincident_num)))
 
-	
 
 	# def f(x): 
 	# 	return x not in stop_words and "." not in x
