@@ -1,9 +1,8 @@
 
 import * as d3 from 'd3';
-import * as adjacencyMatrixLayout from 'd3-ajacency-matrix-layout';
+import * as adjacencyMatrixLayout from 'd3-adjacency-matrix-layout';
 import stratumLayout from './d3StratumLayout';
 import * as scaleChromatic from 'd3-scale-chromatic';
-import * as _ from 'underscore';
 // import Grid from 'd3-v4-grid';
 
 export default function (data) {
@@ -24,7 +23,6 @@ export default function (data) {
 
             // console.log(size, matrixSize, conceptsSize); 
 
-                
             adjacencyMatrix
                 .size(matrixSize)
                 .nodes(data.nodes)
@@ -70,7 +68,15 @@ export default function (data) {
                     .style('fill', d => someColors(d.weight))
                     .style('fill-opacity', 0.5)
                     .on("mouseover", mouseover)
-                    .on("mouseout", mouseout);
+                    .on("mouseout", mouseout)
+                    .on("click", function(p) {
+                      const data = d3.select(this).data()[0];
+                      console.log(data);
+                      const setA = new Set(data.source.concepts),
+                            setB = new Set(data.target.concepts);
+                      var intersection = new Set([...setA].filter(x => setB.has(x)));
+                      console.log(setA, setB, Array.from(intersection));
+                    });
 
             d3.select('#adjacencyG')
                 .call(adjacencyMatrix.xAxis);
@@ -108,11 +114,13 @@ export default function (data) {
 
             const reversedConceptsMap = reverseMapFromMap(conceptsMap);
 
+            console.log(reversedConceptsMap, conceptsMap);
+
 
 
             const concepts = Array.from(new Set(extractedConcepts));
             
-            const conceptsData = concepts.map(function (d) { return {concept : d}});
+            // const conceptsData = concepts.map(function (d) { return {concept : d}});
 
             // console.log(conceptsData);
             // const grid = Grid()
@@ -123,15 +131,16 @@ export default function (data) {
             // const nodeSize = grid.nodeSize();
 
             const stratum = stratumLayout()
-                              .data(reversedConceptsMap)
-                              .size(conceptsSize);
+                              .data(data.coincident_groups)
+                              .size([size[1] / 2, 1300]);
+
 
             const stratumData = stratum();
 
             console.log(stratumData);
             d3.select('svg')
                 .append('g')
-                    .attr('transform', `translate(${100 + 0.9 * size[1]}, 80)`)
+                    .attr('transform', `translate(${1300 + 0.9 * size[1]}, 650)rotate(90)`)
                     .attr('id', 'conceptsG')
                     .selectAll('g')
                     .data(stratumData)
@@ -145,11 +154,12 @@ export default function (data) {
                       //   .style('stroke-opacity', .9)
                       //   .attr('width', d => nodeSize[0])
                       //   .attr('height', d => nodeSize[1])
-                      .append("text")
-                          .attr("x", (d) => d.x)
-                          .attr("y", (d) => d.y) 
-                          .attr("dy", ".35em")
-                          .text((d) =>  d.name)
+                      .append("circle")
+                          .attr("cx", (d) => d.x)
+                          .attr("cy", (d) => d.y) 
+                          .attr("r", d => 1.5*d.length)
+                          .style("fill", d=> someColors(d.length))
+                          // .text((d) =>  d.name)
                           .on("mouseover", (c) => {
                             console.log(c.name);
                             const selection = d3.selectAll('rect').filter((d, i) => {
@@ -177,13 +187,15 @@ export default function (data) {
                             d3.selectAll("*").interrupt();
                             d3.select(this)
                               .style('fill', 'blue');
-                          })
+                          });
+
+            drawLinks();
 
            
 
-            // function coincidentNodes(term) {
+            function drawLinks() {
 
-            // };
+            };
 
             function id(x) {return x;};
 

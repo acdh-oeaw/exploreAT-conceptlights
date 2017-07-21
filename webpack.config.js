@@ -28,7 +28,8 @@ module.exports = {
         use: [{
             loader: 'babel-loader'
         }],
-        exclude: /node_modules/
+        exclude: /node_modules/,
+        include: '/node_modules/d3-adjacency-matrix-layout'
       },
       {
         test: /\.(ttf|eot|svg|woff(2)?)(\?[a-z0-9]+)?$/,
