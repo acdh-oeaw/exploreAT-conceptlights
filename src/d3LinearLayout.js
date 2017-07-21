@@ -19,13 +19,9 @@ export default function() {
     Object.keys(data).forEach(function(key) {
       if (parseInt(key) == 1) return;
       Object.keys(data[key]).forEach(function(nestedKey) {
-        console.log(data[key][nestedKey]);
         numberOfGroups += data[key][nestedKey].length;
-        console.log(numberOfGroups);
       });
     });
-
-    console.log(numberOfGroups);
 
     const xScale = d3.scaleLinear().domain([0, numberOfGroups -1]).range([0, sizeLength]);
 
@@ -34,8 +30,9 @@ export default function() {
     Object.keys(data).sort((a,b) => parseInt(b) - parseInt(a)).forEach(key => {
       if (parseInt(key) == 1) return;
       Object.keys(data[key]).forEach(nestedKey => {
-        data[key][nestedKey].forEach(conceptsArray => {
+        data[key][nestedKey].forEach((conceptsArray, j) => {
           nodes.push({
+            id: `i${key}${nestedKey}${j}`,
             occurrences: parseInt(nestedKey),
             length: parseInt(key),
             name: conceptsArray.join('-'),

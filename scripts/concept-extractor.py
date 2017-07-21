@@ -55,6 +55,7 @@ with iopen('./frage-fragebogen-full-tgd01.xml') as frage_file,\
 	for questionnaire in questionnaires:
 		coincident_groups = {}
 		G = nx.Graph()
+		H = nx.Graph()
 		questionnaire_obj = {}
 		items = questionnaire.find_all('item')
 		print('Questionnaire {} has {} questions'.format(questionnaire.label.string,len(items)))
@@ -124,8 +125,6 @@ with iopen('./frage-fragebogen-full-tgd01.xml') as frage_file,\
 			for concept in node['concepts']:
 				concepts_set.add(concept)
 
-
-
 		key_list = list(coincident_groups.keys())
 		for k in key_list:
 			key_2_list = list(coincident_groups[k].keys())
@@ -140,6 +139,15 @@ with iopen('./frage-fragebogen-full-tgd01.xml') as frage_file,\
 					
 
 		data['coincident_groups'] = coincident_groups
+
+		for link in data['links']:
+			if link['weight'] > 1:
+				coinc_set = set(link['coincidences'])
+				for key, val in coincident_groups[len(link['coincidences'])].items():
+					for index, terms_array in enumerate(val):
+						if coinc_set == set(terms_array):
+							link['target_group'] = [len(coinc_set), key, index]
+							break
 		
 		intersection_set = coincident_concepts_set.intersection(concepts_set)
 

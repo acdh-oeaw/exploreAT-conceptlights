@@ -51,33 +51,41 @@ export default function (data) {
 
 
 
-            d3.select('svg')
-                .append('g')
-                  .attr('transform', `translate(20, ${size[1] / 2})rotate(-45)`)
-                  .attr('id', 'adjacencyG')
-                  .selectAll('rect')
-                  .data(matrixData)
-                  .enter()
-                  .append('rect')
-                    .attr('width', d => d.width)
-                    .attr('height', d => d.height)
-                    .attr('x', d => d.x)
-                    .attr('y', d => d.y)
-                    .style('stroke', 'black')
-                    .style('stroke-width', '1px')
-                    .style('stroke-opacity', .1)
-                    .style('fill', d => someColors(d.weight))
-                    .style('fill-opacity', 0.5)
-                    .on("mouseover", mouseover)
-                    .on("mouseout", mouseout)
-                    .on("click", function(p) {
-                      const data = d3.select(this).data()[0];
-                      console.log(data);
-                      const setA = new Set(data.source.concepts),
-                            setB = new Set(data.target.concepts);
-                      var intersection = new Set([...setA].filter(x => setB.has(x)));
-                      console.log(setA, setB, Array.from(intersection));
-                    });
+            const matrixMaxX = d3.max(matrixData, d => d.x);
+            const matrixMaxY = d3.max(matrixData, d => d.y);
+            
+
+            console.log(matrixMaxX, matrixMaxY);
+
+            
+            svg
+              .append('g')
+                .attr('transform', `translate(20, ${size[1] / 2})rotate(-45)`)
+                .attr('id', 'adjacencyG')
+                .selectAll('rect')
+                .data(matrixData)
+                .enter()
+                .append('rect')
+                  .attr('width', d => d.width)
+                  .attr('height', d => d.height)
+                  .attr('id', d => d.id)
+                  .attr('x', d => d.x)
+                  .attr('y', d => d.y)
+                  .style('stroke', 'black')
+                  .style('stroke-width', '1px')
+                  .style('stroke-opacity', .1)
+                  .style('fill', d => someColors(d.weight))
+                  .style('fill-opacity', 0.5)
+                  .on("mouseover", mouseover)
+                  .on("mouseout", mouseout)
+                  .on("click", function(p) {
+                    const data = d3.select(this).data()[0];
+                    console.log(data);
+                    const setA = new Set(data.source.concepts),
+                          setB = new Set(data.target.concepts);
+                    var intersection = new Set([...setA].filter(x => setB.has(x)));
+                    console.log(setA, setB, Array.from(intersection));
+                  });
 
             d3.select('#adjacencyG')
                 .call(adjacencyMatrix.xAxis);
@@ -137,7 +145,7 @@ export default function (data) {
 
             const linear  = linearLayout()
                               .data(data.coincident_groups)
-                              .sizeLength(1300);
+                              .sizeLength(0.6 * size[0]);
             const linearData = linear();
 
             console.log(linearData);
@@ -146,19 +154,20 @@ export default function (data) {
                                     .domain(d3.extent(linearData, node => node.occurrences))
                                     .range([5,20]);
 
-            d3.select('svg')
-                .append('g')
-                    .attr('transform', `translate(${60 + 0.5 * size[1]}, ${0.95 * size[1]})`)
-                    .attr('id', 'conceptsG')
-                    .selectAll('g')
-                    .data(linearData)
-                    .enter()
-                    .append('g')
-                      .append('circle')
-                        .attr("cx", d => d.x)
-                        .attr("cy", d => d.y)
-                        .attr("r", d => radiusScale(d.occurrences))
-                        .style("fill", d => someColors(d.length));
+            svg
+              .append('g')
+                  .attr('transform', `translate(${60 + 0.5 * size[1]}, ${0.95 * size[1]})`)
+                  .attr('id', 'conceptsG')
+                  .selectAll('g')
+                  .data(linearData)
+                  .enter()
+                  .append('g')
+                    .append('circle')
+                      .attr("cx", d => d.x)
+                      .attr("cy", d => d.y)
+                      .attr("id", d => d.id)
+                      .attr("r", d => radiusScale(d.occurrences))
+                      .style("fill", d => someColors(d.length));
             
 
 
@@ -216,11 +225,60 @@ export default function (data) {
             //                   .style('fill', 'blue');
             //               });
 
-            drawLinks();
+            drawArcs();
 
            
 
-            function drawLinks() {
+            function drawArcs() {
+
+              const lastID = data.nodes[data.nodes.length -1].id;
+
+              // Traverse questionnaires
+              
+          
+              // Calculate control points
+
+              const matrixTransform = getTransformation(d3.select('#adjacencyG').attr("transform"));
+              const linearTransform = getTransformation(d3.select('#conceptsG').attr("transform"));
+              // console.log(matrixTransform);            
+
+              const matrixG = d3.select('#adjacencyG')
+                          matrixG 
+                              .selectAll(`[id^=${lastID}]`)
+                              .filter(d => !d.isMirror)
+                              .each(function(d, i){
+                                // For each questionnaire calculate position in matrix
+                                const thisItem = d3.select(this);
+                                const x = thisItem.attr("x");
+                                const y = thisItem.attr("y");
+                                // Calculate destination point
+                                // console.log(this.getScreenCTM(), x, y);
+                                const point_A = document.getElementsByTagName('svg')[0].createSVGPoint();
+                                point_A.x = x;
+                                point_A.y = y;
+                                const newPoint_A = point_A.matrixTransform(this.getCTM());
+
+                                console.log(d);
+
+                                if (d.hasOwnProperty('target_group')) {
+                                  const point_B = document.getElementsByTagName('svg')[0].createSVGPoint();
+                                  const targetNode = d3.select('#conceptsG').select('#i'+d.target_group.join(''));
+                                  const targetX = targetNode.attr("cx");
+                                  const targetY = targetNode.attr("cy");
+                                  point_B.x = targetX;
+                                  point_B.y = targetY;
+                                  console.log(targetNode);
+                                  const newPoint_B = point_B.matrixTransform(targetNode.node().getCTM());
+
+                                  svg.append('line')
+                                  .attr("x1", 6.16 + newPoint_A.x)
+                                  .attr("y1", 3.08 + newPoint_A.y)
+                                  .attr("x2", newPoint_B.x)
+                                  .attr("y2", newPoint_B.y)
+                                  .attr("stroke-width", 1)
+                                  .attr("stroke", "black");
+                                }
+                              });
 
             };
 
@@ -239,6 +297,40 @@ export default function (data) {
                 return acc
               },{})
             };
+
+            function getTransformation(transform) {
+              // Create a dummy g for calculation purposes only. This will never
+              // be appended to the DOM and will be discarded once this function 
+              // returns.
+              var g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+              
+              // Set the transform attribute to the provided string value.
+              g.setAttributeNS(null, "transform", transform);
+              
+              // consolidate the SVGTransformList containing all transformations
+              // to a single SVGTransform of type SVG_TRANSFORM_MATRIX and get
+              // its SVGMatrix. 
+              var matrix = g.transform.baseVal.consolidate().matrix;
+              
+              // Below calculations are taken and adapted from the private function
+              // transform/decompose.js of D3's module d3-interpolate.
+              var {a, b, c, d, e, f} = matrix;   // ES6, if this doesn't work, use below assignment
+              // var a=matrix.a, b=matrix.b, c=matrix.c, d=matrix.d, e=matrix.e, f=matrix.f; // ES5
+              var scaleX, scaleY, skewX;
+              if (scaleX = Math.sqrt(a * a + b * b)) a /= scaleX, b /= scaleX;
+              if (skewX = a * c + b * d) c -= a * skewX, d -= b * skewX;
+              if (scaleY = Math.sqrt(c * c + d * d)) c /= scaleY, d /= scaleY, skewX /= scaleY;
+              if (a * d < b * c) a = -a, b = -b, skewX = -skewX, scaleX = -scaleX;
+              return {
+                translateX: e,
+                translateY: f,
+                rotate: Math.atan2(b, a) * 180 / Math.PI,
+                skewX: Math.atan(skewX) * 180 / Math.PI,
+                scaleX: scaleX,
+                scaleY: scaleY
+              };
+            }
+
 };
 
 // const makeHierarchy = (nodes) => {
