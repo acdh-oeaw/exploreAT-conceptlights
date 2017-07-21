@@ -2,6 +2,7 @@
 import * as d3 from 'd3';
 import * as adjacencyMatrixLayout from 'd3-adjacency-matrix-layout';
 import stratumLayout from './d3StratumLayout';
+import linearLayout from './d3LinearLayout';
 import * as scaleChromatic from 'd3-scale-chromatic';
 // import Grid from 'd3-v4-grid';
 
@@ -130,64 +131,90 @@ export default function (data) {
 
             // const nodeSize = grid.nodeSize();
 
-            const stratum = stratumLayout()
+            // const stratum = stratumLayout()
+            //                   .data(data.coincident_groups)
+            //                   .size([size[1] / 2, 1300]);
+
+            const linear  = linearLayout()
                               .data(data.coincident_groups)
-                              .size([size[1] / 2, 1300]);
+                              .sizeLength(1300);
+            const linearData = linear();
 
+            console.log(linearData);
+            d3.extent(linearData, node => node.occurrences);
+            const radiusScale = d3.scaleLinear()
+                                    .domain(d3.extent(linearData, node => node.occurrences))
+                                    .range([5,20]);
 
-            const stratumData = stratum();
-
-            console.log(stratumData);
             d3.select('svg')
                 .append('g')
-                    .attr('transform', `translate(${1300 + 0.9 * size[1]}, 650)rotate(90)`)
+                    .attr('transform', `translate(${60 + 0.5 * size[1]}, ${0.95 * size[1]})`)
                     .attr('id', 'conceptsG')
                     .selectAll('g')
-                    .data(stratumData)
+                    .data(linearData)
                     .enter()
                     .append('g')
-                      // .append('rect')
-                      //   .attr('x', (d) => d.x)
-                      //   .attr('y', (d) => d.y)
-                      //   .style('stroke', 'black')
-                      //   .style('stroke-width', '1px')
-                      //   .style('stroke-opacity', .9)
-                      //   .attr('width', d => nodeSize[0])
-                      //   .attr('height', d => nodeSize[1])
-                      .append("circle")
-                          .attr("cx", (d) => d.x)
-                          .attr("cy", (d) => d.y) 
-                          .attr("r", d => 1.5*d.length)
-                          .style("fill", d=> someColors(d.length))
-                          // .text((d) =>  d.name)
-                          .on("mouseover", (c) => {
-                            console.log(c.name);
-                            const selection = d3.selectAll('rect').filter((d, i) => {
-                              return d.weight > 0 && 
-                                (d.source.concepts.includes(c.name) || 
-                                  d.target.concepts.includes(c.name))
-                            });
-                            selection.transition()
-                              .duration(250)
-                              .on("start", function repeat () {
-                                d3.active(this)
-                                    .style("fill-opacity", 1)
-                                  .transition()
-                                    .style("fill-opacity", .5)
-                                  .transition()
-                                    .on("start", repeat);
-                              })
-                          })
-                          .on("mouseout", (d) => {
-                            console.log('out')
-                            d3.selectAll("*").interrupt();
-                          })
-                          .on("click", function(d) {
-                            console.log(`click ${d.name}`)
-                            d3.selectAll("*").interrupt();
-                            d3.select(this)
-                              .style('fill', 'blue');
-                          });
+                      .append('circle')
+                        .attr("cx", d => d.x)
+                        .attr("cy", d => d.y)
+                        .attr("r", d => radiusScale(d.occurrences))
+                        .style("fill", d => someColors(d.length));
+            
+
+
+            // const stratumData = stratum();
+
+            // console.log(stratumData);
+            // d3.select('svg')
+            //     .append('g')
+            //         .attr('transform', `translate(${1300 + 0.9 * size[1]}, 650)rotate(90)`)
+            //         .attr('id', 'conceptsG')
+            //         .selectAll('g')
+            //         .data(stratumData)
+            //         .enter()
+            //         .append('g')
+            //           // .append('rect')
+            //           //   .attr('x', (d) => d.x)
+            //           //   .attr('y', (d) => d.y)
+            //           //   .style('stroke', 'black')
+            //           //   .style('stroke-width', '1px')
+            //           //   .style('stroke-opacity', .9)
+            //           //   .attr('width', d => nodeSize[0])
+            //           //   .attr('height', d => nodeSize[1])
+            //           .append("circle")
+            //               .attr("cx", (d) => d.x)
+            //               .attr("cy", (d) => d.y) 
+            //               .attr("r", d => 1.5*d.length)
+            //               .style("fill", d=> someColors(d.length))
+            //               // .text((d) =>  d.name)
+            //               .on("mouseover", (c) => {
+            //                 console.log(c.name);
+            //                 const selection = d3.selectAll('rect').filter((d, i) => {
+            //                   return d.weight > 0 && 
+            //                     (d.source.concepts.includes(c.name) || 
+            //                       d.target.concepts.includes(c.name))
+            //                 });
+            //                 selection.transition()
+            //                   .duration(250)
+            //                   .on("start", function repeat () {
+            //                     d3.active(this)
+            //                         .style("fill-opacity", 1)
+            //                       .transition()
+            //                         .style("fill-opacity", .5)
+            //                       .transition()
+            //                         .on("start", repeat);
+            //                   })
+            //               })
+            //               .on("mouseout", (d) => {
+            //                 console.log('out')
+            //                 d3.selectAll("*").interrupt();
+            //               })
+            //               .on("click", function(d) {
+            //                 console.log(`click ${d.name}`)
+            //                 d3.selectAll("*").interrupt();
+            //                 d3.select(this)
+            //                   .style('fill', 'blue');
+            //               });
 
             drawLinks();
 
