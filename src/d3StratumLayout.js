@@ -12,8 +12,8 @@ export default function() {
     // const levels = Object.keys(data).length,
     //       floorHeight = Math.ceil(size[1] / levels);
 
-    console.log(data);
-    console.log('Size is ' + size);
+    // console.log(data);
+    // console.log('Size is ' + size);
 
     let rows = 0;
     const minSeparation = 1;
@@ -27,20 +27,18 @@ export default function() {
     const maxElements = sortedKeys[0].length;
     const maxColumns = Math.floor(size[0] / ((minElementSize * sortedKeys.length) + minSeparation * (sortedKeys.length - 1)));
 
-    console.log(maxColumns);
+    // console.log(maxColumns);
 
     const gridXScale = d3.scaleLinear().domain([0, maxColumns]).range([0, size[0]]);
-    // const gridYScale = d3.scaleLinear().domain([1, rows]).range([0, size[1]]);
 
     let elementCounter = 0;
     let row = 0;
 
     sortedKeys.forEach(key => {
         data[key].forEach(element => {
-            console.log(elementCounter, row);
             nodes.push({
                 x: gridXScale(elementCounter),
-                y: row * 25,
+                y: row,
                 level: key 
             });
             elementCounter++;
@@ -49,6 +47,14 @@ export default function() {
         row+=2;
         elementCounter = 0;
     });
+
+    const gridYScale = d3.scaleLinear().domain([1, row]).range([0, size[1]]);
+
+    nodes = nodes.map(d => {
+        d.y = gridYScale(d.y);
+        return d;
+    });
+
 
     // let mainDim, secDim = 0;
     // if (size[0] >= size[1]) {
@@ -174,7 +180,7 @@ export default function() {
     // console.log('Hello');
     // console.log(data)
     // console.log(nodes);
-    console.log(nodes);
+    // console.log(nodes);
     return nodes;
 }
 
