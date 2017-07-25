@@ -4,6 +4,7 @@ import * as adjacencyMatrixLayout from 'd3-adjacency-matrix-layout';
 import stratumLayout from './d3StratumLayout';
 import linearLayout from './d3LinearLayout';
 import * as scaleChromatic from 'd3-scale-chromatic';
+import * as d3tip from 'd3-tip';
 // import Grid from 'd3-v4-grid';
 
 export default function (data) {
@@ -48,6 +49,11 @@ export default function (data) {
             //     return 0.3 + 0.2 * d.weight;
             // };
 
+            
+            // Define the div for the tooltip
+            const tooltip = d3tip().attr('class', 'd3-tip').offset([-10, 0]);
+
+            svg.call(tooltip);
 
 
             const matrixMaxX = d3.max(matrixData, d => d.x);
@@ -56,10 +62,12 @@ export default function (data) {
 
             console.log(matrixMaxX, matrixMaxY);
 
+            const squareSize = [matrixData[0].width, matrixData[0].height];
+
             
             svg
               .append('g')
-                .attr('transform', `translate(20, ${size[1] / 2})rotate(-45)`)
+                .attr('transform', `translate(${size[0] * 0.05}, 80)`)
                 .attr('id', 'adjacencyG')
                 .selectAll('rect')
                 .data(matrixData)
@@ -67,6 +75,12 @@ export default function (data) {
                 .append('rect')
                   .attr('width', d => d.width)
                   .attr('height', d => d.height)
+                  .attr('class', d => {
+                    if (d.x < d.y)
+                      return `row-${d.id.split('-')[0]} column-${d.id.split('-')[1]}`;
+                    else
+                      return `row-${d.id.split('-')[1]} column-${d.id.split('-')[0]}`;
+                  })
                   .attr('id', d => d.id)
                   .attr('x', d => d.x)
                   .attr('y', d => d.y)
@@ -76,13 +90,12 @@ export default function (data) {
                   .style('fill', d => someColors(d.weight))
                   .style('fill-opacity', 0.5)
                   .on("mouseover", mouseover)
-                  .on("mouseout", mouseout)
+                  .on("mouseout", unhighlight)
                   .on("click", function(p) {
                     const data = d3.select(this).data()[0];
-                    console.log(data);
                     const setA = new Set(data.source.concepts),
                           setB = new Set(data.target.concepts);
-                    var intersection = new Set([...setA].filter(x => setB.has(x)));
+                    const intersection = new Set([...setA].filter(x => setB.has(x)));
                     console.log(setA, setB, Array.from(intersection));
                   });
 
@@ -96,40 +109,45 @@ export default function (data) {
             d3.select('#adjacencyG')
                 .call(adjacencyMatrix.yAxis);
 
-             function mouseover(p) {
-                d3.selectAll("rect")
-                    // .classed("active", (d, i) => { return d.y == p.y || d.x == p.x; })
-                    .classed('active', (d, i) => { return d.x == p.x; })
-                    .style('fill-opacity', (d, i) => { 
-                        // return d.y == p.y || d.x == p.x ? 1 : 0.5;
-                        return d.x == p.x ? 1 : 0.5;
-                    }).filter(d => d.x == p.x && d.y == p.y)
-                      .each(d => {
-                        console.log(d);
-                        const theID = p.y > p.x ? d.id.split('-')[1] : d.id.split('-')[0];
-                        const questionnaireID = getQuestionnaireIndexFromID(theID);
-                        console.log(questionnaireID);
-                        d3.selectAll(`[id^=line-${questionnaireID}-]`)
-                          .style('stroke-opacity', 1)
-                          .each(function(d) {
-                            const targetGroupID = 'i' + d3.select(this).attr('id').split('-')[2];
-                            console.log(targetGroupID);
-                            d3.select(`#${targetGroupID}`).style('fill-opacity', 1);
-                          });
-                        
-                    });
+           function mouseover(p) {
+              const setA = new Set(p.source.concepts),
+                          setB = new Set(p.target.concepts);
+              const intersection = new Set([...setA].filter(x => setB.has(x)));
+              
+              const message = intersection.size > 0 ? Array.from(intersection).join(', ') : 'None';
+              tooltip.html(message);
+              tooltip.show();
 
-              }
+              d3.selectAll("rect")
+                  // .classed("active", (d, i) => { return d.y == p.y || d.x == p.x; })
+                  .classed('active', (d, i) => { return d.x == p.x; })
+                  .style('fill-opacity', (d, i) => { 
+                      // return d.y == p.y || d.x == p.x ? 1 : 0.5;
+                      return d.x == p.x ? 1 : 0.5;
+                  }).filter(d => d.x == p.x && d.y == p.y)
+                    .each(d => {
+                      const theID = p.y > p.x ? d.id.split('-')[1] : d.id.split('-')[0];
+                      const questionnaireID = getQuestionnaireIndexFromID(theID);
+                      // console.log(questionnaireID);
+                      d3.selectAll(`[id^=line-${questionnaireID}-]`)
+                        .style('stroke-opacity', 1)
+                        .each(function(d) {
+                          const targetGroupID = 'i' + d3.select(this).attr('id').split('-')[2];
+                          d3.select(`#${targetGroupID}`).style('fill-opacity', 1);
+                        });
+                  });
+            };
 
-            function mouseout() {
+            function unhighlight() {
+                tooltip.hide();
                 d3.selectAll("rect")
-                    .classed("active", false)
-                    .style('fill-opacity', 0.5);
+                  .classed("active", false)
+                  .style('fill-opacity', 0.5);
                 d3.selectAll(`[id^=line]`)
-                          .style('stroke-opacity', .1);
+                        .style('stroke-opacity', .1);
                 d3.selectAll("[id^=i]")
-                          .style('fill-opacity', .3);
-            }
+                        .style('fill-opacity', .3);
+            };
 
             const extractedConcepts = data.nodes.map((d) => d.concepts).reduce((a, b) => a.concat(b))
 
@@ -153,83 +171,91 @@ export default function (data) {
 
             const stratum = stratumLayout()
                               .data(reversedConceptsMap)
-                              .size([1000, 600]);
+                              .size([(size[0] - 0.95 * size[1]) / 2, mside]);
 
             const stratumData = stratum();
 
             // console.log(stratumData);
 
             const color = d3.scaleOrdinal(scaleChromatic.schemeAccent);
+            const termsRadiusScale = d3.scaleLinear()
+                                    .domain([1, Object.keys(reversedConceptsMap).length - 1])
+                                    .range([3,8]);
+            const sortedKeys = Object.keys(reversedConceptsMap).sort((a,b) => parseInt(a) > parseInt(b));
+            console.log(stratumData);
 
-            d3.select('svg')
+            const conceptsContext = d3.select('svg')
                 .append('g')
-                    .attr('transform', `translate(${0.55 * size[0]}, 80)`)
-                    .attr('id', 'conceptsA')
+                    .attr('transform', `translate(${100 + Math.sqrt(Math.pow(mside,2) + Math.pow(mside,2))}, 100)`)
+                    .attr('id', 'conceptsA');
+
+            conceptsContext
                     .selectAll('g')
-                    .data(stratumData)
+                    .data(stratumData.nodes)
                     .enter()
-                    .append('g')
-                      // .append('rect')
-                      //   .attr('x', (d) => d.x)
-                      //   .attr('y', (d) => d.y)
-                      //   .style('stroke', 'black')
-                      //   .style('stroke-width', '1px')
-                      //   .style('stroke-opacity', .9)
-                      //   .attr('width', d => nodeSize[0])
-                      //   .attr('height', d => nodeSize[1])
                       .append("circle")
                           .attr("cx", (d) => d.x)
                           .attr("cy", (d) => d.y) 
-                          .attr("r", d => 5)
+                          .attr("r", d => termsRadiusScale(sortedKeys.indexOf(d.level)))
                           .style("fill", d => { return color(d.level); })
-                          .style("opacity", d => 0.3);
-                          // .text((d) =>  d.name)
-                          // .on("mouseover", (c) => {
-                          //   console.log(c.name);
-                          //   const selection = d3.selectAll('rect').filter((d, i) => {
-                          //     return d.weight > 0 && 
-                          //       (d.source.concepts.includes(c.name) || 
-                          //         d.target.concepts.includes(c.name))
-                          //   });
-                          //   selection.transition()
-                          //     .duration(250)
-                          //     .on("start", function repeat () {
-                          //       d3.active(this)
-                          //           .style("fill-opacity", 1)
-                          //         .transition()
-                          //           .style("fill-opacity", .5)
-                          //         .transition()
-                          //           .on("start", repeat);
-                          //     })
-                          // })
-                          // .on("mouseout", (d) => {
-                          //   console.log('out')
-                          //   d3.selectAll("*").interrupt();
-                          // })
-                          // .on("click", function(d) {
-                          //   console.log(`click ${d.name}`)
-                          //   d3.selectAll("*").interrupt();
-                          //   d3.select(this)
-                          //     .style('fill', 'blue');
-                          // });
+                          .style("opacity", d => 0.3)
+                          .on("mouseover", function(c) {
+                            tooltip.html(c.name);
+                          
+                            tooltip.show();
+
+                            d3.select(this).style('opacity', 1);
+
+                            const selection = d3.selectAll('rect').filter((d, i) => {
+                              return d.weight > 0 && 
+                                (d.source.concepts.includes(c.name) || 
+                                  d.target.concepts.includes(c.name))
+                            });
+                            selection.transition()
+                              .duration(500)
+                              .style("fill-opacity", 1);
+                          })
+                          .on("mouseout", function(d) {
+                            tooltip.hide();
+                            d3.selectAll("*").interrupt();
+                            d3.select(this).transition().duration(500).style("fill-opacity", .3);
+                            d3.selectAll("rect").transition().duration(500).style('fill-opacity', 0.5);
+                          })
+                          .on("click", function(d) {
+                            d3.selectAll("*").interrupt();
+                            d3.select(this)
+                              .classed('active');
+                          });
+            
+            conceptsContext
+                      .selectAll('g')
+                      .data(stratumData.groups)
+                      .enter()
+                        .append('rect')
+                        .attr("x", 0)
+                        .attr("y", d => d.startY)
+                        .attr("width", 12)
+                        .attr("height", d => d.endY - d.startY)
+                        .style('fill', d => color(d.group))
+                        .style('fill-opacity', 0.5);
 
 
             
 
             const linear  = linearLayout()
                               .data(data.coincident_groups)
-                              .sizeLength(0.6 * size[0]);
+                              .sizeLength(mside);
             const linearData = linear();
 
             
             d3.extent(linearData, node => node.occurrences);
             const radiusScale = d3.scaleLinear()
                                     .domain(d3.extent(linearData, node => node.occurrences))
-                                    .range([5,20]);
+                                    .range([5,8]);
 
             svg
               .append('g')
-                  .attr('transform', `translate(${60 + 0.65 * size[1]}, ${0.95 * size[1]})`)
+                  .attr('transform', `translate(${size[0] * 0.05}, ${0.95 * size[1]})`)
                   .attr('id', 'conceptsG')
                   .selectAll('g')
                   .data(linearData)
@@ -241,9 +267,27 @@ export default function (data) {
                       .attr("id", d => d.id)
                       .attr("r", d => radiusScale(d.occurrences))
                       .style("fill", d => someColors(d.length))
-                      .style("fill-opacity", 0.3);
+                      .style("fill-opacity", 0.3)
+                      .on("mouseover", function (p) {
+                        
+                        tooltip.html(p.name);  
+                        tooltip.show();
 
-            drawArcs();
+                        const thisSelect = d3.select(this);
+                        thisSelect.style('fill-opacity', 1);
+                        const groupID = thisSelect.attr('id').replace('i','');
+                        d3.selectAll(`[id$="-${groupID}"]`)
+                          .style('stroke-opacity', 1)
+                          .each(function(d) {
+                            const questionnaireIndex = d3.select(this).attr('id').split('-')[1];
+                            const questionnaireID = data.nodes[questionnaireIndex].id;
+                            d3.selectAll(`[class$=column-${questionnaireID}]`)
+                              .style('fill-opacity', 1);
+                          });
+                        })
+                      .on("mouseout", unhighlight);
+
+            drawLinks();
 
             function getQuestionnaireIndexFromID(questionnaireID) {
               for (let i = 0; i < data.nodes.length; i++) {
@@ -254,7 +298,7 @@ export default function (data) {
               return -1;
             }
 
-            function drawArcs() {
+            function drawLinks() {
 
               const lastID = data.nodes[data.nodes.length -1].id;
 
@@ -273,17 +317,14 @@ export default function (data) {
                               .filter(d => !d.isMirror)
                               .each(function(d, i){
                                 // For each questionnaire calculate position in matrix
-                                console.log(d);
                                 let questionnaireIdx = getQuestionnaireIndexFromID(d.id.split('-')[1])
 
-                        
                                 const targetGroups = {};
                                 for (i = 0; i < data.links.length; i++) {
                                   if ((data.links[i].source == questionnaireIdx || 
                                       data.links[i].target == questionnaireIdx) && data.links[i].weight > 1) {
                                     const groupID = data.links[i].target_group.join('')
                                     if (targetGroups.hasOwnProperty(groupID)) {
-                                      console.log('adding');
                                       targetGroups[groupID] += 1;
                                     }
                                     else {
@@ -291,8 +332,6 @@ export default function (data) {
                                     }
                                   }
                                 }
-
-                                console.log(targetGroups);
 
                                 const thisItem = d3.select(this);
                                 const x = thisItem.attr("x");
@@ -305,7 +344,7 @@ export default function (data) {
                                   point_A.x = x;
                                   point_A.y = y;
                                   const newPoint_A = point_A.matrixTransform(this.getCTM());
-                                  console.log(targetGroupID);
+                                  
                                   const point_B = document.getElementsByTagName('svg')[0].createSVGPoint();
                                   const targetNode = d3.select('#conceptsG').select('#i'+targetGroupID);
                                   const targetX = targetNode.attr("cx");
@@ -318,19 +357,15 @@ export default function (data) {
 
                                   svg.append('line')
                                   .attr("id", `line-${questionnaireIdx}-${targetGroupID}`)
-                                  .attr("x1", 6.16 + newPoint_A.x)
-                                  .attr("y1", 3.08 + newPoint_A.y)
+                                  .attr("x1", squareSize[0] / 2 + newPoint_A.x)
+                                  .attr("y1", squareSize[1] + newPoint_A.y)
                                   .attr("x2", newPoint_B.x)
                                   .attr("y2", newPoint_B.y)
                                   .attr("stroke-width", Math.floor(Math.random() * 4) + 1)
-                                  // .attr("stroke", targetNode.style("fill"))
                                   .attr("stroke", "lightgray")
                                   .style('stroke-opacity', .1);
-                                  
                                 });
 
-                                
-                                
                                 // Calculate destination point
                                 // console.log(this.getScreenCTM(), x, y);
                                 

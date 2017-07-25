@@ -11,7 +11,7 @@ export default function() {
     // const levels = Object.keys(data).length,
     //       floorHeight = Math.ceil(size[1] / levels);
 
-    console.log(data);
+    // console.log(data);
 
 
     let numberOfGroups = 0;
@@ -27,7 +27,7 @@ export default function() {
 
     let i = 0,
         yFixed = 10;
-    Object.keys(data).sort((a,b) => parseInt(b) - parseInt(a)).forEach(key => {
+    Object.keys(data).sort((a,b) => parseInt(a) - parseInt(b)).forEach(key => {
       if (parseInt(key) == 1) return;
       Object.keys(data[key]).forEach(nestedKey => {
         data[key][nestedKey].forEach((conceptsArray, j) => {
