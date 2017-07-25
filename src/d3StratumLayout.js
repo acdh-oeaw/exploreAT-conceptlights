@@ -12,8 +12,6 @@ export default function() {
     console.log(data);
     // const levels = Object.keys(data).length,
     //       floorHeight = Math.ceil(size[1] / levels);
-
-    console.log(data);
     // console.log('Size is ' + size);
 
     let rows = 0;
