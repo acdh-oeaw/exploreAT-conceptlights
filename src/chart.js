@@ -10,7 +10,7 @@ import * as _  from 'underscore';
 
 export default function (data) {
             // console.log(`There are ${} associations`, )
-            const titleData = 'Konzeptionelle Lichter'.split('');
+            const titleData = 'Konzept Lichter'.split('');
             console.log(titleData);
             const titleColorScale = d3.scaleOrdinal(scaleChromatic.schemePastel1);
             d3.select(".title")
@@ -103,7 +103,13 @@ export default function (data) {
                   .style('fill', d => someColors(d.weight))
                   .style('fill-opacity', 0.5)
                   .on("mouseover", mouseover)
-                  .on("mouseout", unhighlight)
+                  .on("mouseout", function(p) {
+                    const regex = /row-(\S*)/g;
+                    const currentGroupID = regex.exec(d3.select(this).attr('class'))[1];
+                    d3.selectAll(`.link[id^="${currentGroupID}-"]`)
+                      .style('stroke-opacity', .03);
+                    unhighlight();
+                  })
                   .on("click", function(p) {
                     const data = d3.select(this).data()[0];
                     const setA = new Set(data.source.concepts),
@@ -122,45 +128,6 @@ export default function (data) {
             d3.select('#adjacencyG')
                 .call(adjacencyMatrix.yAxis);
 
-           function mouseover(p) {
-              const setA = new Set(p.source.concepts),
-                          setB = new Set(p.target.concepts);
-              const intersection = new Set([...setA].filter(x => setB.has(x)));
-              
-              const message = intersection.size > 0 ? Array.from(intersection).join(', ') : 'None';
-              tooltip.html(message);
-              tooltip.show();
-
-              d3.selectAll("rect")
-                  // .classed("active", (d, i) => { return d.y == p.y || d.x == p.x; })
-                  .classed('active', (d, i) => { return d.x == p.x; })
-                  .style('fill-opacity', (d, i) => { 
-                      // return d.y == p.y || d.x == p.x ? 1 : 0.5;
-                      return d.x == p.x ? 1 : 0.5;
-                  }).filter(d => d.x == p.x && d.y == p.y)
-                    .each(d => {
-                      const theID = p.y > p.x ? d.id.split('-')[1] : d.id.split('-')[0];
-                      const questionnaireID = getQuestionnaireIndexFromID(theID);
-                      // console.log(questionnaireID);
-                      d3.selectAll(`[id^=line-${questionnaireID}-]`)
-                        .style('stroke-opacity', 1)
-                        .each(function(d) {
-                          const targetGroupID = 'i' + d3.select(this).attr('id').split('-')[2];
-                          d3.select(`#${targetGroupID}`).style('fill-opacity', 1);
-                        });
-                  });
-            };
-
-            function unhighlight() {
-                tooltip.hide();
-                d3.selectAll("rect")
-                  .classed("active", false)
-                  .style('fill-opacity', 0.5);
-                d3.selectAll(`[id^=line]`)
-                        .style('stroke-opacity', .1);
-                d3.selectAll("[id^=i]")
-                        .style('fill-opacity', .3);
-            };
 
             const extractedConcepts = data.nodes.map((d) => d.concepts).reduce((a, b) => a.concat(b));
 
@@ -174,10 +141,7 @@ export default function (data) {
 
             const reversedConceptsMap = reverseMapFromMap(conceptsMap);
 
-            console.log(extractedConcepts, reversedConceptsMap, conceptsMap);
-
-
-
+            
             const concepts = Array.from(new Set(extractedConcepts));
 
             const conceptsData = concepts.map(function (d) { return {concept : d}});
@@ -189,30 +153,107 @@ export default function (data) {
 
             const stratumData = stratum();
 
-            console.log(stratumData);
+            let questionnaireStratum = data.nodes.map(node => {
+              return node.concepts.map(concept => {
+                const index = _.findIndex(stratumData.nodes, d => d.name == concept);
+                return { 
+                  index : index,
+                  level: stratumData.nodes[index].level,
+                  questionnaireID: node.id
+                };
+              });
+            });
+
+            console.log(questionnaireStratum);
+
+
+
+           function mouseover(p) {
+              const setA = new Set(p.source.concepts),
+                          setB = new Set(p.target.concepts);
+              const intersection = new Set([...setA].filter(x => setB.has(x)));
+              
+              const message = intersection.size > 0 ? Array.from(intersection).join(', ') : 'None';
+              tooltip.html(message);
+              tooltip.show();
+
+              d3.selectAll("rect")
+                  .classed("active", (d, i) => { return d.y == p.y || d.x == p.x; })
+                  // .classed('active', (d, i) => { return d.x == p.x; })
+                  .style('fill-opacity', (d, i) => { 
+                      return d.y == p.y || d.x == p.x ? 1 : 0.5;
+                  }).filter(d => d.x == p.x && d.y == p.y)
+                    .each(d => {
+                      let colQuestionnaireIndex = -1,
+                          rowQuestionnaireIndex = -1,
+                          idParts = d.id.split('-')
+                      if (p.x < p.y) {
+                        rowQuestionnaireIndex = getQuestionnaireIndexFromID(idParts[0]);
+                        colQuestionnaireIndex = getQuestionnaireIndexFromID(idParts[1]);
+                      } else {
+                        rowQuestionnaireIndex = getQuestionnaireIndexFromID(idParts[1]);
+                        colQuestionnaireIndex = getQuestionnaireIndexFromID(idParts[0]);
+                      }
+
+
+                      d3.selectAll(`[id^=line-${colQuestionnaireIndex}-]`)
+                        .style('stroke-opacity', 1)
+                        .each(function(d) {
+                          const targetGroupID = 'i' + d3.select(this).attr('id').split('-')[2];
+                          d3.select(`#${targetGroupID}`).style('fill-opacity', 1);
+                      });
+
+                      data.nodes[rowQuestionnaireIndex].concepts.forEach(concept => {
+                        d3.select(`circle[id^=${concept}-]`)
+                          .style("opacity", 1);
+                      })
+                  });
+              
+              const regex = /row-(\S*)/g;
+              const currentGroupID = regex.exec(d3.select(this).attr('class'))[1];
+              d3.selectAll(`.link[id^="${currentGroupID}-"]`)
+                .style('stroke-opacity', 1.0);
+
+            };
+
+            function unhighlight() {
+                
+                tooltip.hide();
+                d3.selectAll("rect")
+                  .classed("active", false)
+                  .style('fill-opacity', 0.5);
+                d3.selectAll(`[id^=line]`)
+                        .style('stroke-opacity', .1);
+                d3.selectAll("[id^=i]")
+                        .style('fill-opacity', .3);
+                d3.selectAll(".concept-circle")
+                          .style("opacity", .3);
+            };
+
+            
+
+            // console.log(stratumData);
 
             const color = d3.scaleOrdinal(scaleChromatic.schemeAccent);
             const termsRadiusScale = d3.scaleLinear()
                                     .domain([1, Object.keys(reversedConceptsMap).length - 1])
                                     .range([3,8]);
             const sortedKeys = Object.keys(reversedConceptsMap).sort((a,b) => parseInt(a) > parseInt(b));
-            console.log(stratumData);
+            // console.log(stratumData);
 
 
             function highlightSquaresIncludingConcepts(concepts) {
-              const selection = d3.selectAll('rect').filter((d, i) => {
-                              return d.weight > 0 && 
-                                (_.intersection(d.source.concepts, concepts).length || 
-                                  _.intersection(d.target.concepts, concepts).length)
-                            });
-                            selection.transition()
-                              .duration(500)
-                              .style("fill-opacity", 1);
-
-              selection.transition()
-                              .duration(500)
-                              .style("fill-opacity", 1);
-
+              const selection = svg.select('#adjacencyG').selectAll('rect').filter(function(d, i){
+                              
+                              if (d.weight > 0) {
+                                if (!d.isMirror)
+                                  return _.intersection(d.source.concepts, concepts).length > 0;
+                                else
+                                  return _.intersection(d.target.concepts, concepts).length > 0;
+                              } else return 0;
+                            }).transition()
+                                .duration(500)
+                                .style("fill-opacity", 1);
             };
 
             function unhighlightAllSquares() {
@@ -224,6 +265,11 @@ export default function (data) {
                     .attr('transform', `translate(${350 + size[0] * 0.05 + matrixSize[0]}, ${0.06 * matrixSize[0]})`)
                     .attr('id', 'conceptsA');
 
+            
+
+            const groupsCount = _.groupBy(stratumData.nodes, "level");
+
+
             conceptsContext
                     .selectAll('g')
                     .data(stratumData.nodes)
@@ -231,6 +277,7 @@ export default function (data) {
                       .append("circle")
                           .attr("cx", d => d.x)
                           .attr("cy", d => d.y)
+                          .attr("class", "concept-circle")
                           .attr("id", d => `${d.name}-${d.level}`) 
                           .attr("r", d => 5)
                           .style("fill", d => { return color(d.level); })
@@ -238,16 +285,24 @@ export default function (data) {
                           .on("mouseover", function(c) {
                             tooltip.html(c.name);
                             tooltip.show();
-
                             d3.select(this).style('opacity', 1);
-
+                            console.log(c);
                             highlightSquaresIncludingConcepts([c.name]);
+                            d3.select(`#group-${c.level}`)
+                              .style('fill-opacity', function (d) {
+                                  const previous = parseFloat(d3.select(this).style('fill-opacity'));
+                                  return parseFloat(previous) + 1 / groupsCount[c.level].length;
+                              });
                             
+                            d3.selectAll(`.link[id$="-${c.level}-${c.index}"]`)
+                              .style('stroke-opacity', 1.0);
                           })
-                          .on("mouseout", function(d) {
+                          .on("mouseout", function(c) {
                             tooltip.hide();
-                            d3.selectAll("*").interrupt();
-                            d3.select(this).style("fill-opacity", .3);
+                            // d3.selectAll("*").interrupt();
+                            d3.select(this).style("opacity", .3);
+                            d3.selectAll(`.link[id$="-${c.level}-${c.index}"]`)
+                              .style('stroke-opacity', .03);
                             unhighlightAllSquares();
                           })
                           .on("click", function(d) {
@@ -269,17 +324,28 @@ export default function (data) {
                         .style('fill', d => color(d.group))
                         .style('fill-opacity', 0.5)
                         .on('mouseover', function (c) {
+                            tooltip.html(`Appearing ${c.group} times`);
+                            tooltip.show();
+                            console.log(c);
                             d3.select(this).style('fill-opacity', 1);
                             const concepts = [];
                             d3.selectAll(`circle[id$="-${c.group}"]`)
                               .style("opacity", 1)
                               .each(d => {concepts.push(d.name);});
                             highlightSquaresIncludingConcepts(concepts);
+                            d3.selectAll(`.link[id*="-${c.group}-"]`)
+                              .style('stroke-opacity', 1.0);
+
+                            // .attr("id", `link-${destObject.questionnaireID}-${destObject.level}-${destObject.index}`)
+
                         })
                         .on('mouseout', function (c) {
+                            tooltip.hide();
                             d3.select(this).style('fill-opacity', .5);
                             d3.selectAll(`circle[id$="-${c.group}"]`)
                               .style("opacity", .3);
+                            d3.selectAll(`.link[id*="-${c.group}-"]`)
+                              .style('stroke-opacity', .03);
                             unhighlightAllSquares();
                         });
 
@@ -340,7 +406,7 @@ export default function (data) {
                         const thisSelect = d3.select(this);
                         thisSelect.style('fill-opacity', 1);
                         const groupID = thisSelect.attr('id').replace('i','');
-                        d3.selectAll(`[id$="-${groupID}"]`)
+                        d3.selectAll(`.association-line[id$="-${groupID}"]`)
                           .style('stroke-opacity', 1)
                           .each(function(d) {
                             const questionnaireIndex = d3.select(this).attr('id').split('-')[1];
@@ -353,16 +419,7 @@ export default function (data) {
 
             drawLinks();
 
-            let questionnaireStratum = data.nodes.map(node => {
-              return node.concepts.map(concept => {
-                const index = _.findIndex(stratumData.nodes, d => d.name == concept);
-                return { 
-                  index : index,
-                  level: stratumData.nodes[index].level,
-                  questionnaireID: node.id
-                };
-              });
-            });
+            
             // questionnaireStratum = _.sortBy(questionnaireStratum, d => d[0].questionnaireID);
             console.log(questionnaireStratum);
             questionnaireStratum = questionnaireStratum.sort(function(a, b) {
@@ -381,23 +438,22 @@ export default function (data) {
                   const prevThis = this;
                   questionnaireStratum[i].forEach(destObject => {
                       
-                      const newPoint_A = transformPointToScreenCoordinates(x, y, prevThis.getCTM())
-                    
-                      
+                      const newPoint_A = transformPointToScreenCoordinates(x, y, prevThis.getCTM());
                       const targetNode = d3.select('#conceptsA').select(`rect#group-${destObject.level}`);
                       const targetX = 0;
                       const targetY = parseInt(targetNode.attr("y")) + parseInt(targetNode.attr("height")) / 2;
                       const newPoint_B = transformPointToScreenCoordinates(targetX, targetY, targetNode.node().getCTM());
-                      console.log(targetX, targetY, targetNode, newPoint_A, newPoint_B);
+                      // console.log(targetX, targetY, targetNode, newPoint_A, newPoint_B);
                       const lineColor = targetNode.style('fill');
                       svg.append('line')
-                        // .attr("id", `line-${questionnaireIdx}-${targetGroupID}`)
-                        .attr("x1", squareSize[0] / 2 + newPoint_A.x)
-                        .attr("y1", squareSize[1] + newPoint_A.y)
+                        .attr("id", `${destObject.questionnaireID}-${destObject.level}-${destObject.index}`)
+                        .attr("class", 'link')
+                        .attr("x1", newPoint_A.x + squareSize[0])
+                        .attr("y1", squareSize[1] / 2 + newPoint_A.y)
                         .attr("x2", newPoint_B.x)
                         .attr("y2", newPoint_B.y)
                         .attr("stroke-width", 1)
-                        .attr("stroke", "lightgray")
+                        .attr("stroke", lineColor)
                         .style('stroke-opacity', .03);
 
                   });
@@ -480,6 +536,7 @@ export default function (data) {
                                   const newPoint_B = transformPointToScreenCoordinates(targetX, targetY, targetNode.node().getCTM());
 
                                   svg.append('line')
+                                    .attr("class", "association-line")
                                     .attr("id", `line-${questionnaireIdx}-${targetGroupID}`)
                                     .attr("x1", squareSize[0] / 2 + newPoint_A.x)
                                     .attr("y1", squareSize[1] + newPoint_A.y)

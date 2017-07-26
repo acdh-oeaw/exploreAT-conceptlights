@@ -33,6 +33,7 @@ export default function() {
 
     let elementCounter = 0;
     let row = 0;
+    let idx = 0;
 
     sortedKeys.forEach(key => {
         data[key].sort().forEach(element => {
@@ -40,7 +41,8 @@ export default function() {
                 x: gridXScale(elementCounter),
                 y: row,
                 level: key,
-                name: element
+                name: element,
+                index: idx++
             });
             elementCounter++;
             if (elementCounter % maxColumns == 0) {elementCounter = 0; row++;}
@@ -78,7 +80,6 @@ export default function() {
                     endY: groupYStart + rowHeight / 2
                 });
             }
-            
         }
         currentGroup = node.level;
     });
