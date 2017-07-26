@@ -9,19 +9,6 @@ import * as _  from 'underscore';
 // import Grid from 'd3-v4-grid';
 
 export default function (data) {
-            // console.log(`There are ${} associations`, )
-            const titleData = 'Konzept Lichter'.split('');
-            console.log(titleData);
-            const titleColorScale = d3.scaleOrdinal(scaleChromatic.schemePastel1);
-            d3.select(".title")
-              .selectAll("span")
-              .data(titleData)
-              .enter()
-              .append('span')
-                .html(d => d)
-                .style('color', d => titleColorScale(titleData.indexOf(d)))
-                .style('opacity', d => 0.6);
-
             const svg = d3.select("svg"),
               size = canvasSize('svg'),
               width = size[0],
@@ -252,7 +239,7 @@ export default function (data) {
                                   return _.intersection(d.target.concepts, concepts).length > 0;
                               } else return 0;
                             }).transition()
-                                .duration(500)
+                                .duration(100)
                                 .style("fill-opacity", 1);
             };
 
