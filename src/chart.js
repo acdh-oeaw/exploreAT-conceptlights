@@ -5,10 +5,23 @@ import stratumLayout from './d3StratumLayout';
 import linearLayout from './d3LinearLayout';
 import * as scaleChromatic from 'd3-scale-chromatic';
 import * as d3tip from 'd3-tip';
+import * as _  from 'underscore';
 // import Grid from 'd3-v4-grid';
 
 export default function (data) {
             // console.log(`There are ${} associations`, )
+            const titleData = 'Konzeptionelle Lichter'.split('');
+            console.log(titleData);
+            const titleColorScale = d3.scaleOrdinal(scaleChromatic.schemePastel1);
+            d3.select(".title")
+              .selectAll("span")
+              .data(titleData)
+              .enter()
+              .append('span')
+                .html(d => d)
+                .style('color', d => titleColorScale(titleData.indexOf(d)))
+                .style('opacity', d => 0.6);
+
             const svg = d3.select("svg"),
               size = canvasSize('svg'),
               width = size[0],
@@ -67,7 +80,7 @@ export default function (data) {
             
             svg
               .append('g')
-                .attr('transform', `translate(${size[0] * 0.05}, 80)`)
+                .attr('transform', `translate(${size[0] * 0.05}, 20)`)
                 .attr('id', 'adjacencyG')
                 .selectAll('rect')
                 .data(matrixData)
@@ -149,7 +162,7 @@ export default function (data) {
                         .style('fill-opacity', .3);
             };
 
-            const extractedConcepts = data.nodes.map((d) => d.concepts).reduce((a, b) => a.concat(b))
+            const extractedConcepts = data.nodes.map((d) => d.concepts).reduce((a, b) => a.concat(b));
 
             const conceptsMap = {};
             extractedConcepts.forEach((d) => {
@@ -161,7 +174,7 @@ export default function (data) {
 
             const reversedConceptsMap = reverseMapFromMap(conceptsMap);
 
-            console.log(reversedConceptsMap, conceptsMap);
+            console.log(extractedConcepts, reversedConceptsMap, conceptsMap);
 
 
 
@@ -169,13 +182,14 @@ export default function (data) {
 
             const conceptsData = concepts.map(function (d) { return {concept : d}});
 
+
             const stratum = stratumLayout()
                               .data(reversedConceptsMap)
-                              .size([(size[0] - 0.95 * size[1]) / 2, mside]);
+                              .size([(size[0] - 0.95 * size[1]) / 2, 1.01 * matrixSize[0]]);
 
             const stratumData = stratum();
 
-            // console.log(stratumData);
+            console.log(stratumData);
 
             const color = d3.scaleOrdinal(scaleChromatic.schemeAccent);
             const termsRadiusScale = d3.scaleLinear()
@@ -184,9 +198,30 @@ export default function (data) {
             const sortedKeys = Object.keys(reversedConceptsMap).sort((a,b) => parseInt(a) > parseInt(b));
             console.log(stratumData);
 
+
+            function highlightSquaresIncludingConcepts(concepts) {
+              const selection = d3.selectAll('rect').filter((d, i) => {
+                              return d.weight > 0 && 
+                                (_.intersection(d.source.concepts, concepts).length || 
+                                  _.intersection(d.target.concepts, concepts).length)
+                            });
+                            selection.transition()
+                              .duration(500)
+                              .style("fill-opacity", 1);
+
+              selection.transition()
+                              .duration(500)
+                              .style("fill-opacity", 1);
+
+            };
+
+            function unhighlightAllSquares() {
+              d3.selectAll("rect").style('fill-opacity', 0.5);
+            }
+
             const conceptsContext = d3.select('svg')
                 .append('g')
-                    .attr('transform', `translate(${100 + Math.sqrt(Math.pow(mside,2) + Math.pow(mside,2))}, 100)`)
+                    .attr('transform', `translate(${350 + size[0] * 0.05 + matrixSize[0]}, ${0.06 * matrixSize[0]})`)
                     .attr('id', 'conceptsA');
 
             conceptsContext
@@ -194,32 +229,26 @@ export default function (data) {
                     .data(stratumData.nodes)
                     .enter()
                       .append("circle")
-                          .attr("cx", (d) => d.x)
-                          .attr("cy", (d) => d.y) 
-                          .attr("r", d => termsRadiusScale(sortedKeys.indexOf(d.level)))
+                          .attr("cx", d => d.x)
+                          .attr("cy", d => d.y)
+                          .attr("id", d => `${d.name}-${d.level}`) 
+                          .attr("r", d => 5)
                           .style("fill", d => { return color(d.level); })
                           .style("opacity", d => 0.3)
                           .on("mouseover", function(c) {
                             tooltip.html(c.name);
-                          
                             tooltip.show();
 
                             d3.select(this).style('opacity', 1);
 
-                            const selection = d3.selectAll('rect').filter((d, i) => {
-                              return d.weight > 0 && 
-                                (d.source.concepts.includes(c.name) || 
-                                  d.target.concepts.includes(c.name))
-                            });
-                            selection.transition()
-                              .duration(500)
-                              .style("fill-opacity", 1);
+                            highlightSquaresIncludingConcepts([c.name]);
+                            
                           })
                           .on("mouseout", function(d) {
                             tooltip.hide();
                             d3.selectAll("*").interrupt();
-                            d3.select(this).transition().duration(500).style("fill-opacity", .3);
-                            d3.selectAll("rect").transition().duration(500).style('fill-opacity', 0.5);
+                            d3.select(this).style("fill-opacity", .3);
+                            unhighlightAllSquares();
                           })
                           .on("click", function(d) {
                             d3.selectAll("*").interrupt();
@@ -234,12 +263,47 @@ export default function (data) {
                         .append('rect')
                         .attr("x", 0)
                         .attr("y", d => d.startY)
+                        .attr("id", d => `group-${d.group}`)
                         .attr("width", 12)
                         .attr("height", d => d.endY - d.startY)
                         .style('fill', d => color(d.group))
-                        .style('fill-opacity', 0.5);
+                        .style('fill-opacity', 0.5)
+                        .on('mouseover', function (c) {
+                            d3.select(this).style('fill-opacity', 1);
+                            const concepts = [];
+                            d3.selectAll(`circle[id$="-${c.group}"]`)
+                              .style("opacity", 1)
+                              .each(d => {concepts.push(d.name);});
+                            highlightSquaresIncludingConcepts(concepts);
+                        })
+                        .on('mouseout', function (c) {
+                            d3.select(this).style('fill-opacity', .5);
+                            d3.selectAll(`circle[id$="-${c.group}"]`)
+                              .style("opacity", .3);
+                            unhighlightAllSquares();
+                        });
+
+            // svg.append('path')
+            //     .style('stroke', 'green')
+            //     .attr('d', generator(points))
+            //     .style('display', 'inline');
+
+            // const ribbon = d3.ribbon().radius(240);
+
+            // svg.append("g")
+            //     .attr("class", "ribbons")
+            //   .selectAll("path")
+            //   .data([{
+            //     source: {startAngle: 0.7524114, endAngle: 1.1212972, radius: 240},
+            //     target: {startAngle: 1.8617078, endAngle: 1.9842927, radius: 240}
+            //   }])
+            //   .enter().append("path")
+            //     .attr("d", ribbon)
+            //     .style("fill", function(d) { return "yellow"})
+            //     .style("stroke", function(d) { return "blue" });
 
 
+      
             
 
             const linear  = linearLayout()
@@ -255,7 +319,7 @@ export default function (data) {
 
             svg
               .append('g')
-                  .attr('transform', `translate(${size[0] * 0.05}, ${0.95 * size[1]})`)
+                  .attr('transform', `translate(${size[0] * 0.05}, ${0.90 * size[1]})`)
                   .attr('id', 'conceptsG')
                   .selectAll('g')
                   .data(linearData)
@@ -288,6 +352,74 @@ export default function (data) {
                       .on("mouseout", unhighlight);
 
             drawLinks();
+
+            let questionnaireStratum = data.nodes.map(node => {
+              return node.concepts.map(concept => {
+                const index = _.findIndex(stratumData.nodes, d => d.name == concept);
+                return { 
+                  index : index,
+                  level: stratumData.nodes[index].level,
+                  questionnaireID: node.id
+                };
+              });
+            });
+            // questionnaireStratum = _.sortBy(questionnaireStratum, d => d[0].questionnaireID);
+            console.log(questionnaireStratum);
+            questionnaireStratum = questionnaireStratum.sort(function(a, b) {
+              return naturalCompare(a[0].questionnaireID, b[0].questionnaireID);
+            });
+            console.log(questionnaireStratum);
+
+            const generator = d3.line().curve(d3.curveBundle.beta(0.2));
+
+            d3.selectAll(`.column-${data.nodes[data.nodes.length - 1].id}`)
+              .filter(d => d.isMirror)
+              .each(function (d, i) {
+                  const thisItem = d3.select(this);
+                  const x = thisItem.attr("x");
+                  const y = thisItem.attr("y");
+                  const prevThis = this;
+                  questionnaireStratum[i].forEach(destObject => {
+                      
+                      const newPoint_A = transformPointToScreenCoordinates(x, y, prevThis.getCTM())
+                    
+                      
+                      const targetNode = d3.select('#conceptsA').select(`rect#group-${destObject.level}`);
+                      const targetX = 0;
+                      const targetY = parseInt(targetNode.attr("y")) + parseInt(targetNode.attr("height")) / 2;
+                      const newPoint_B = transformPointToScreenCoordinates(targetX, targetY, targetNode.node().getCTM());
+                      console.log(targetX, targetY, targetNode, newPoint_A, newPoint_B);
+                      const lineColor = targetNode.style('fill');
+                      svg.append('line')
+                        // .attr("id", `line-${questionnaireIdx}-${targetGroupID}`)
+                        .attr("x1", squareSize[0] / 2 + newPoint_A.x)
+                        .attr("y1", squareSize[1] + newPoint_A.y)
+                        .attr("x2", newPoint_B.x)
+                        .attr("y2", newPoint_B.y)
+                        .attr("stroke-width", 1)
+                        .attr("stroke", "lightgray")
+                        .style('stroke-opacity', .03);
+
+                  });
+              })
+            // svg.selectAll('arc.path')
+            //     .data(_.flatten(questionnaireStratum))
+            //     .enter()
+            //       .append('path')
+            //       .style('stroke', 'green')
+            //       .attr('d', (d, i) => {
+            //           const points = [];
+            //           console.log(d.questionnaireID);
+            //           const qCell = lastColumnElements.filter(`.row-${d.questionnaireID}`);
+            //           console.log(qCell.attr('x'));
+            //       })
+            //       .style('display', 'inline');
+
+            // const points = [ [50, 330], [75, 200], [280, 75], [300, 75], [475, 300], [600, 200] ];
+            
+            // console.log(generator(points));
+
+
 
             function getQuestionnaireIndexFromID(questionnaireID) {
               for (let i = 0; i < data.nodes.length; i++) {
@@ -340,30 +472,22 @@ export default function (data) {
                                 Object.keys(targetGroups).forEach(targetGroupID => {
                                   const reps = targetGroups[targetGroupID];
 
-                                  const point_A = document.getElementsByTagName('svg')[0].createSVGPoint();
-                                  point_A.x = x;
-                                  point_A.y = y;
-                                  const newPoint_A = point_A.matrixTransform(this.getCTM());
+                                  const newPoint_A = transformPointToScreenCoordinates(x, y, this.getCTM())
                                   
-                                  const point_B = document.getElementsByTagName('svg')[0].createSVGPoint();
                                   const targetNode = d3.select('#conceptsG').select('#i'+targetGroupID);
                                   const targetX = targetNode.attr("cx");
                                   const targetY = targetNode.attr("cy");
-
-                                  point_B.x = targetX;
-                                  point_B.y = targetY;
-                                  
-                                  const newPoint_B = point_B.matrixTransform(targetNode.node().getCTM());
+                                  const newPoint_B = transformPointToScreenCoordinates(targetX, targetY, targetNode.node().getCTM());
 
                                   svg.append('line')
-                                  .attr("id", `line-${questionnaireIdx}-${targetGroupID}`)
-                                  .attr("x1", squareSize[0] / 2 + newPoint_A.x)
-                                  .attr("y1", squareSize[1] + newPoint_A.y)
-                                  .attr("x2", newPoint_B.x)
-                                  .attr("y2", newPoint_B.y)
-                                  .attr("stroke-width", Math.floor(Math.random() * 4) + 1)
-                                  .attr("stroke", "lightgray")
-                                  .style('stroke-opacity', .1);
+                                    .attr("id", `line-${questionnaireIdx}-${targetGroupID}`)
+                                    .attr("x1", squareSize[0] / 2 + newPoint_A.x)
+                                    .attr("y1", squareSize[1] + newPoint_A.y)
+                                    .attr("x2", newPoint_B.x)
+                                    .attr("y2", newPoint_B.y)
+                                    .attr("stroke-width", 1)
+                                    .attr("stroke", "lightgray")
+                                    .style('stroke-opacity', .1);
                                 });
 
                                 // Calculate destination point
@@ -372,6 +496,15 @@ export default function (data) {
                               });
 
             };
+
+
+            function transformPointToScreenCoordinates(x, y, ctm) {
+                const newPoint = document.getElementsByTagName('svg')[0].createSVGPoint();
+                newPoint.x = x;
+                newPoint.y = y;
+                return newPoint.matrixTransform(ctm);
+            }
+
 
             function id(x) {return x;};
 
@@ -388,6 +521,22 @@ export default function (data) {
                 return acc
               },{})
             };
+
+            function naturalCompare(a, b) {
+                var ax = [], bx = [];
+
+                a.replace(/(\d+)|(\D+)/g, function(_, $1, $2) { ax.push([$1 || Infinity, $2 || ""]) });
+                b.replace(/(\d+)|(\D+)/g, function(_, $1, $2) { bx.push([$1 || Infinity, $2 || ""]) });
+                
+                while(ax.length && bx.length) {
+                    var an = ax.shift();
+                    var bn = bx.shift();
+                    var nn = (an[0] - bn[0]) || an[1].localeCompare(bn[1]);
+                    if(nn) return nn;
+                }
+
+                return ax.length - bx.length;
+            }
 
             // function getTransformation(transform) {
             //   // Create a dummy g for calculation purposes only. This will never
