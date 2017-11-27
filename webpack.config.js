@@ -14,7 +14,9 @@ module.exports = {
     javascript: './src/main.js'
   },
   output: {
-    filename: './build/app.js'
+    path: __dirname,
+    publicPath: '/',
+    filename: 'app.js'
   },
   devtool: 'source-map',
   // for modules
