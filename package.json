@@ -4,7 +4,7 @@
   "description": "A simple way to get started with data visualizations using d3 and javascript",
   "main": "index.html",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --port 80",
+    "start": "node server.js",
     "watch": "webpack-dev-server --progress --colors",
     "build": "webpack -p"
   },
@@ -48,6 +48,7 @@
     "d3-scale-chromatic": "^1.1.1",
     "d3-tip": "^0.7.1",
     "d3-v4-grid": "^2.0.1",
+    "express": "^4.16.2",
     "underscore": "^1.8.3"
   }
 }
