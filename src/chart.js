@@ -1,6 +1,6 @@
 
 import * as d3 from 'd3';
-import * as adjacencyMatrixLayout from 'd3-adjacency-matrix-layout';
+import adjacencyMatrixLayout from './d3AdjacencyMatrixLayout';
 import stratumLayout from './d3StratumLayout';
 import linearLayout from './d3LinearLayout';
 import * as scaleChromatic from 'd3-scale-chromatic';
@@ -16,9 +16,10 @@ export default function (data) {
 
             const mside = (0.9 * size[1]) / Math.sqrt(2);
             //hyp = sqrt(2)*c
-            const matrixSize = [mside, mside]
+            const matrixSize = [mside, mside];
+            console.log(adjacencyMatrixLayout);
 
-            const adjacencyMatrix = adjacencyMatrixLayout.adjacencyMatrixLayout();
+            const adjacencyMatrix = adjacencyMatrixLayout();
 
             const conceptsSize = [size[0] - 250 - 0.9 * size[1], 0.9 * size[1]]
 
