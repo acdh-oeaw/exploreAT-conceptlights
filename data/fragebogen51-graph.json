@@ -1,0 +1,2676 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Stoß"
+                ],
+                [
+                    "schütten"
+                ],
+                [
+                    "beachte"
+                ],
+                [
+                    "Viehtrieb"
+                ],
+                [
+                    "Wurf"
+                ],
+                [
+                    "stupfen"
+                ]
+            ],
+            "3": [
+                [
+                    "stampfen"
+                ],
+                [
+                    "schütteln"
+                ],
+                [
+                    "schieben"
+                ],
+                [
+                    "treiben"
+                ],
+                [
+                    "leiten"
+                ],
+                [
+                    "schmeißen"
+                ],
+                [
+                    "drücken"
+                ],
+                [
+                    "zwicken"
+                ],
+                [
+                    "scheiden"
+                ],
+                [
+                    "schneiden"
+                ]
+            ],
+            "5": [
+                [
+                    "stechen"
+                ]
+            ],
+            "6": [
+                [
+                    "stoßen"
+                ],
+                [
+                    "werfen"
+                ],
+                [
+                    "quetschen"
+                ]
+            ],
+            "12": [
+                [
+                    "Verwendungen"
+                ]
+            ],
+            "15": [
+                [
+                    "sonstige"
+                ]
+            ],
+            "37": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "42": [
+                [
+                    "Formen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "schucken",
+                    "Ausdrücke"
+                ],
+                [
+                    "Klemme",
+                    "klemmen"
+                ],
+                [
+                    "stechen",
+                    "Ausdrücke"
+                ]
+            ],
+            "3": [
+                [
+                    "Formen",
+                    "Verwendungen"
+                ]
+            ],
+            "6": [
+                [
+                    "Ausdrücke",
+                    "sonstige"
+                ]
+            ],
+            "12": [
+                [
+                    "Ackerbau",
+                    "Schneiderei"
+                ]
+            ]
+        },
+        "3": {
+            "3": [
+                [
+                    "schneiden",
+                    "Ackerbau",
+                    "Schneiderei"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "stoßen"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stoßen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stoßen"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 0,
+            "target": 30,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 0,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 0,
+            "target": 40,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 0,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stoßen"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stoßen"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beachte"
+            ],
+            "source": 1,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stoß"
+            ],
+            "source": 2,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stoßen"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stampfen"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stampfen"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stampfen"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 14,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 50,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 90,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 13,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 13,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 13,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 13,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 14,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 14,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 14,
+            "target": 50,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 14,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 14,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 14,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 14,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 14,
+            "target": 90,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schütten"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schütteln"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schütteln"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schütteln"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schieben"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schieben"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schieben"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schucken",
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 50,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 30,
+            "target": 40,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 30,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Viehtrieb"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leiten"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leiten"
+            ],
+            "source": 34,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leiten"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 38,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 38,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 38,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 38,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 40,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 40,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 40,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 40,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 40,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 40,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 40,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 40,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 40,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 41,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 41,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurf"
+            ],
+            "source": 42,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 43,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmeißen"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmeißen"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 44,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 44,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 44,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 44,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 44,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmeißen"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 50,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 50,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 50,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 50,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 50,
+            "target": 90,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "drücken"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "drücken"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "drücken"
+            ],
+            "source": 52,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 56,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 56,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 56,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 56,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stupfen"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quetschen"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quetschen"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quetschen"
+            ],
+            "source": 61,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quetschen"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quetschen"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quetschen"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 64,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 64,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 65,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 65,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 65,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwicken"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwicken"
+            ],
+            "source": 68,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwicken"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 71,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Klemme",
+                "klemmen"
+            ],
+            "source": 72,
+            "target": 73,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "stechen"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stechen"
+            ],
+            "source": 74,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stechen"
+            ],
+            "source": 74,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 74,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 74,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stechen"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stechen",
+                "Ausdrücke"
+            ],
+            "source": 75,
+            "target": 78,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 75,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stechen"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 78,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheiden"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheiden"
+            ],
+            "source": 79,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 79,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheiden"
+            ],
+            "source": 80,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden",
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 84,
+            "target": 85,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 84,
+            "target": 86,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 84,
+            "target": 87,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 84,
+            "target": 88,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schneiden",
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 84,
+            "target": 89,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 84,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 85,
+            "target": 86,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 85,
+            "target": 87,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 85,
+            "target": 88,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schneiden",
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 85,
+            "target": 89,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 85,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 86,
+            "target": 87,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 86,
+            "target": 88,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 86,
+            "target": 89,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 87,
+            "target": 88,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 87,
+            "target": 89,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "source": 88,
+            "target": 89,
+            "target_group": [
+                2,
+                12,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "stoßen",
+                "Zucker",
+                "Kuh",
+                "gerinnen",
+                "gestoßen",
+                "stößt",
+                "Formen",
+                "Verwendungen",
+                "voll"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "stoßen",
+                "derstoßen",
+                "Kälbern",
+                "entwöhnen",
+                "abstoßen",
+                "Harn",
+                "beachte",
+                "verrichten",
+                "Arbeit",
+                "Mühle",
+                "Stoffe",
+                "flink"
+            ],
+            "id": "K1a"
+        },
+        {
+            "concepts": [
+                "Stoßtrog",
+                "Stoß",
+                "Eisstoß"
+            ],
+            "id": "K1b"
+        },
+        {
+            "concepts": [
+                "stoßen",
+                "Stoßer",
+                "stößig",
+                "stößeln",
+                "Stößel",
+                "Stößer"
+            ],
+            "id": "K1c"
+        },
+        {
+            "concepts": [
+                "zermüschen",
+                "zerstoßen"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "stampfen"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "Stampf",
+                "Holzmörser",
+                "Mörser"
+            ],
+            "id": "K3a"
+        },
+        {
+            "concepts": [
+                "Stempfel",
+                "stampfen",
+                "stämpern",
+                "Stampfer",
+                "Stempel"
+            ],
+            "id": "K3b"
+        },
+        {
+            "concepts": [
+                "Neugerste",
+                "stampfen",
+                "Ausdrücke",
+                "neuen"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "stoßen",
+                "etwaige",
+                "knullen",
+                "klöckeln",
+                "knuffen",
+                "knucken",
+                "berren",
+                "klucken",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "Prall",
+                "aufprallen"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "Preller",
+                "prellen"
+            ],
+            "id": "K6a"
+        },
+        {
+            "concepts": [
+                "hurzen",
+                "anprallen",
+                "Ausdrücke"
+            ],
+            "id": "K6b"
+        },
+        {
+            "concepts": [
+                "Schnellscheit",
+                "Schneller",
+                "fürschnellig",
+                "Schnell",
+                "Verwendungen",
+                "Schnellfinger",
+                "schnellen"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "Stoß",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "feste",
+                "flüssige",
+                "Gegenstände",
+                "Obj",
+                "schütten"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "Schütt"
+            ],
+            "id": "K9a"
+        },
+        {
+            "concepts": [
+                "schütten",
+                "Schütter",
+                "Aufschüttung"
+            ],
+            "id": "K9b"
+        },
+        {
+            "concepts": [
+                "schütteln",
+                "Schüttler",
+                "Schüttel"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "schotteln",
+                "schütteln",
+                "schuttern"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "trüftern",
+                "schütteln",
+                "rotteln",
+                "rütteln",
+                "auftrüftern",
+                "Ausdrücke",
+                "roggeln"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "schieben",
+                "bewegen",
+                "Formen",
+                "schnell"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "schieben"
+            ],
+            "id": "K13a"
+        },
+        {
+            "concepts": [
+                "Schub"
+            ],
+            "id": "K13b"
+        },
+        {
+            "concepts": [
+                "schieberisch",
+                "Schuber",
+                "Schieber",
+                "Schiebung",
+                "schieben",
+                "Schiebling",
+                "Schübling"
+            ],
+            "id": "K13c"
+        },
+        {
+            "concepts": [
+                "Schupfer",
+                "Schupf",
+                "geschupft",
+                "schupfen"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "Schoppen",
+                "schüppeln",
+                "Wulst",
+                "Schopper",
+                "Schüppel",
+                "schoppen",
+                "Schüppler"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "Stopfer",
+                "stopfen"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "rücken",
+                "Ruck",
+                "ruckweis",
+                "Rucker"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "wegschieben",
+                "schuksen",
+                "schucken",
+                "schupsen",
+                "stanzen",
+                "schutzen",
+                "Ausdrücke"
+            ],
+            "id": "K17a"
+        },
+        {
+            "concepts": [
+                "Most",
+                "Narreteien",
+                "Sinne",
+                "Formen",
+                "treib",
+                "Speisen",
+                "Wand",
+                "alleweil",
+                "drängt",
+                "Geschäft",
+                "Wein",
+                "treibst",
+                "Verwendungen",
+                "treibt",
+                "Nagel",
+                "Hoffart",
+                "treiben"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "antreiben",
+                "Treibriemen",
+                "beachte",
+                "treiben"
+            ],
+            "id": "K18a"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "Viehtrieb",
+                "Gärung",
+                "Auftrieb",
+                "Trieb"
+            ],
+            "id": "K18b"
+        },
+        {
+            "concepts": [
+                "betriebsam",
+                "Tribel",
+                "Viehtrieb",
+                "Treiber",
+                "Tribler",
+                "tribeln",
+                "treiben"
+            ],
+            "id": "K18c"
+        },
+        {
+            "concepts": [
+                "leiten",
+                "Verwendungen"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "begleiten",
+                "leiten"
+            ],
+            "id": "K19a"
+        },
+        {
+            "concepts": [
+                "Geleit",
+                "Leit",
+                "Beleit"
+            ],
+            "id": "K19b"
+        },
+        {
+            "concepts": [
+                "geleitig",
+                "Leiter",
+                "leiten"
+            ],
+            "id": "K19c"
+        },
+        {
+            "concepts": [
+                "verlenken",
+                "lenken",
+                "sonstige"
+            ],
+            "id": "K20"
+        },
+        {
+            "concepts": [
+                "gelenk"
+            ],
+            "id": "K20a"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "Verwendungen",
+                "werfen"
+            ],
+            "id": "K21"
+        },
+        {
+            "concepts": [
+                "werfen"
+            ],
+            "id": "K21a"
+        },
+        {
+            "concepts": [
+                "Wurf",
+                "Windwurf",
+                "Wurfgatter"
+            ],
+            "id": "K21b"
+        },
+        {
+            "concepts": [
+                "worfeln",
+                "Werfe",
+                "Auswürfling",
+                "werfen"
+            ],
+            "id": "K21c"
+        },
+        {
+            "concepts": [
+                "schmeißen",
+                "geschmissen",
+                "Formen"
+            ],
+            "id": "K22"
+        },
+        {
+            "concepts": [
+                "schmeißen"
+            ],
+            "id": "K22a"
+        },
+        {
+            "concepts": [
+                "Schmaiß",
+                "Schmiß",
+                "Geschmaiß",
+                "Schmitz"
+            ],
+            "id": "K22b"
+        },
+        {
+            "concepts": [
+                "Schmitzer",
+                "Schmeißer",
+                "schmissig",
+                "geschmeißig",
+                "schmeißen",
+                "schmitzen"
+            ],
+            "id": "K22c"
+        },
+        {
+            "concepts": [
+                "schlaudern",
+                "schleudern"
+            ],
+            "id": "K23"
+        },
+        {
+            "concepts": [
+                "schlauderisch",
+                "Schlauder",
+                "Schlauderer"
+            ],
+            "id": "K23a"
+        },
+        {
+            "concepts": [
+                "schucken",
+                "werfen",
+                "Wurf",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "K24"
+        },
+        {
+            "concepts": [
+                "drückt",
+                "Verwendungen",
+                "druckt",
+                "drücken"
+            ],
+            "id": "K25"
+        },
+        {
+            "concepts": [
+                "drücken"
+            ],
+            "id": "K25a"
+        },
+        {
+            "concepts": [
+                "Druck"
+            ],
+            "id": "K25b"
+        },
+        {
+            "concepts": [
+                "Drücker",
+                "ausdrücklich",
+                "drücken"
+            ],
+            "id": "K25c"
+        },
+        {
+            "concepts": [
+                "Presse",
+                "pressen"
+            ],
+            "id": "K26"
+        },
+        {
+            "concepts": [
+                "schmiegen",
+                "Formen",
+                "schmucken"
+            ],
+            "id": "K27"
+        },
+        {
+            "concepts": [
+                "stauchen"
+            ],
+            "id": "K28"
+        },
+        {
+            "concepts": [
+                "stupfen"
+            ],
+            "id": "K29"
+        },
+        {
+            "concepts": [
+                "urstupf",
+                "stupf",
+                "Stupf"
+            ],
+            "id": "K29a"
+        },
+        {
+            "concepts": [
+                "stupfen",
+                "stupfeln",
+                "Stupfach",
+                "Stupfel",
+                "Stupfer"
+            ],
+            "id": "K29b"
+        },
+        {
+            "concepts": [
+                "quetschen"
+            ],
+            "id": "K30"
+        },
+        {
+            "concepts": [
+                "Matsch",
+                "quetschen",
+                "matschgern",
+                "matschen",
+                "matschig"
+            ],
+            "id": "K31"
+        },
+        {
+            "concepts": [
+                "knutschen",
+                "knötschen",
+                "quetschen",
+                "Knötsch",
+                "knatschig",
+                "Knatsch"
+            ],
+            "id": "K32"
+        },
+        {
+            "concepts": [
+                "quetschen",
+                "verknautzen",
+                "knüsten",
+                "sonstige"
+            ],
+            "id": "K33"
+        },
+        {
+            "concepts": [
+                "zwingen",
+                "Formen"
+            ],
+            "id": "K34"
+        },
+        {
+            "concepts": [
+                "Zwang",
+                "Zwinge"
+            ],
+            "id": "K34a"
+        },
+        {
+            "concepts": [
+                "zwängen"
+            ],
+            "id": "K34b"
+        },
+        {
+            "concepts": [
+                "verzwickt",
+                "zwecken",
+                "zwacken",
+                "zwicken"
+            ],
+            "id": "K35"
+        },
+        {
+            "concepts": [
+                "Zweck",
+                "Zwick"
+            ],
+            "id": "K35a"
+        },
+        {
+            "concepts": [
+                "Zwickel",
+                "Zwicker",
+                "zwicken",
+                "zwickelhart"
+            ],
+            "id": "K35b"
+        },
+        {
+            "concepts": [
+                "Schinkenpitsch",
+                "pitschen",
+                "zwicken",
+                "Wörter",
+                "Pitscherbussel",
+                "sonstige"
+            ],
+            "id": "K36"
+        },
+        {
+            "concepts": [
+                "Klamm",
+                "klemmaugecht",
+                "klemmen",
+                "biklemm",
+                "klemm",
+                "Klemme"
+            ],
+            "id": "K37"
+        },
+        {
+            "concepts": [
+                "Sonstiges",
+                "Klammern",
+                "klemmen",
+                "Klampfen",
+                "Klampfe",
+                "Klemme"
+            ],
+            "id": "K38"
+        },
+        {
+            "concepts": [
+                "Preis",
+                "Formen",
+                "wetten",
+                "Stechen",
+                "rittern",
+                "stechen"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "Stechmesser",
+                "Stichauf",
+                "stechen",
+                "dafür",
+                "Seitenstechen",
+                "Ausdrücke",
+                "angestochen"
+            ],
+            "id": "L1a"
+        },
+        {
+            "concepts": [
+                "Stichwein",
+                "stichhäckeln",
+                "Hahnenstich",
+                "Stich"
+            ],
+            "id": "L1b"
+        },
+        {
+            "concepts": [
+                "Stecher",
+                "Stichel",
+                "stacheln",
+                "Stecherl",
+                "sticheln",
+                "stechen",
+                "Stachel"
+            ],
+            "id": "L1c"
+        },
+        {
+            "concepts": [
+                "stechen",
+                "Ausdrücke"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "scheiden",
+                "Formen"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "scheiden"
+            ],
+            "id": "L3a"
+        },
+        {
+            "concepts": [
+                "Schidzaun",
+                "Entscheid",
+                "Unterscheid",
+                "Schid",
+                "Scheidmann",
+                "Abschid",
+                "Abschied",
+                "Fürbescheid",
+                "Scheid"
+            ],
+            "id": "L3b"
+        },
+        {
+            "concepts": [
+                "verschieden",
+                "Schidung",
+                "scheiden",
+                "schidlich",
+                "Bescheiden",
+                "Verschiedenheit",
+                "bescheiden"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "trennen"
+            ],
+            "id": "L5"
+        },
+        {
+            "concepts": [
+                "Geschwür",
+                "schneiden",
+                "Formen",
+                "Kälte",
+                "Schneiderei",
+                "Wind",
+                "Ackerbau",
+                "Nägel",
+                "schneidet",
+                "grüßen"
+            ],
+            "id": "L6"
+        },
+        {
+            "concepts": [
+                "schneiden",
+                "Ackerbau",
+                "Schneiderei"
+            ],
+            "id": "L6a"
+        },
+        {
+            "concepts": [
+                "Schnitt",
+                "Schnitte",
+                "Semmelschnitten",
+                "Brot",
+                "Schneiderei",
+                "Ackerbau"
+            ],
+            "id": "L6b"
+        },
+        {
+            "concepts": [
+                "Schneid",
+                "Ackerbau",
+                "Schneide",
+                "Schneiderei"
+            ],
+            "id": "L6c"
+        },
+        {
+            "concepts": [
+                "Schnait",
+                "Schnaite",
+                "schnaiten",
+                "Schneiderei",
+                "Ackerbau"
+            ],
+            "id": "L6d"
+        },
+        {
+            "concepts": [
+                "schneidig",
+                "schneiden",
+                "Geschnaitsel",
+                "Verschneidung",
+                "Schneiderei",
+                "Geschneid",
+                "schnitteln",
+                "Ackerbau",
+                "Schnittling",
+                "Schnaiter",
+                "schnittig",
+                "Überschneidung",
+                "Geschnait"
+            ],
+            "id": "L6e"
+        },
+        {
+            "concepts": [
+                "schneiden",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "L7"
+        }
+    ]
+}

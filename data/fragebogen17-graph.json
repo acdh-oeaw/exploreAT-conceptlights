@@ -1,0 +1,5849 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "steil"
+                ],
+                [
+                    "Rains"
+                ],
+                [
+                    "Ackergrund"
+                ],
+                [
+                    "Bedeutung"
+                ],
+                [
+                    "her"
+                ],
+                [
+                    "Flinsgrund"
+                ],
+                [
+                    "Torfgrund"
+                ],
+                [
+                    "allgemeine"
+                ],
+                [
+                    "Angabe"
+                ],
+                [
+                    "dafür"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "leicht"
+                ],
+                [
+                    "Wendungen"
+                ],
+                [
+                    "Bauernregeln"
+                ],
+                [
+                    "Zelgen"
+                ],
+                [
+                    "brachen"
+                ],
+                [
+                    "Arbeiter"
+                ]
+            ],
+            "2": [
+                [
+                    "gehört"
+                ],
+                [
+                    "Feldbestellung"
+                ],
+                [
+                    "liegen"
+                ]
+            ],
+            "3": [
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "schlecht"
+                ],
+                [
+                    "urbar"
+                ]
+            ],
+            "4": [
+                [
+                    "Anger"
+                ],
+                [
+                    "Stelle"
+                ]
+            ],
+            "5": [
+                [
+                    "pflügen"
+                ]
+            ],
+            "6": [
+                [
+                    "zwei"
+                ],
+                [
+                    "bezogen"
+                ]
+            ],
+            "9": [
+                [
+                    "Namen"
+                ]
+            ],
+            "11": [
+                [
+                    "Zustand"
+                ]
+            ],
+            "13": [
+                [
+                    "Bau"
+                ]
+            ],
+            "15": [
+                [
+                    "Boden"
+                ]
+            ],
+            "23": [
+                [
+                    "Rain"
+                ]
+            ],
+            "84": [
+                [
+                    "Grund"
+                ]
+            ],
+            "112": [
+                [
+                    "Feld"
+                ]
+            ],
+            "122": [
+                [
+                    "Acker"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Rain",
+                    "Anger"
+                ],
+                [
+                    "Obstbäume",
+                    "stehen"
+                ],
+                [
+                    "fruchtbar",
+                    "Ackergrundes"
+                ],
+                [
+                    "Wort",
+                    "überhaupt"
+                ],
+                [
+                    "Acker",
+                    "verunkrauteten"
+                ],
+                [
+                    "Acker",
+                    "Benennungen"
+                ],
+                [
+                    "Grad",
+                    "Häufigkeit"
+                ],
+                [
+                    "Acker",
+                    "bedeutet"
+                ],
+                [
+                    "bauen",
+                    "Feld"
+                ],
+                [
+                    "Bau",
+                    "Grund"
+                ],
+                [
+                    "Zustand",
+                    "bestelltem"
+                ],
+                [
+                    "Feldbestellung",
+                    "Bau"
+                ],
+                [
+                    "Feld",
+                    "bestellen"
+                ]
+            ],
+            "2": [
+                [
+                    "Rain",
+                    "zwei"
+                ],
+                [
+                    "zähe",
+                    "Erde"
+                ],
+                [
+                    "Feldes",
+                    "Zustand"
+                ],
+                [
+                    "Feld",
+                    "brach"
+                ]
+            ],
+            "3": [
+                [
+                    "Stelle",
+                    "Feld"
+                ],
+                [
+                    "Stelle",
+                    "Acker"
+                ]
+            ],
+            "5": [
+                [
+                    "Boden",
+                    "Grund"
+                ]
+            ],
+            "6": [
+                [
+                    "Acker",
+                    "heimgesucht"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Rain",
+                    "wem",
+                    "gehört"
+                ],
+                [
+                    "besonderen",
+                    "Namen",
+                    "zwei"
+                ],
+                [
+                    "zähe",
+                    "Erde",
+                    "schwarze"
+                ],
+                [
+                    "Pechetschotter",
+                    "Gemisch",
+                    "Schotter"
+                ],
+                [
+                    "nachgehender",
+                    "Boden",
+                    "Grund"
+                ],
+                [
+                    "Acker",
+                    "steht",
+                    "Düngerhaufen"
+                ],
+                [
+                    "Acker",
+                    "pflügen",
+                    "Ernte"
+                ],
+                [
+                    "Feld",
+                    "brach",
+                    "liegen"
+                ]
+            ],
+            "4": [
+                [
+                    "zwei",
+                    "Wiesenstreifen",
+                    "Feldern"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Feldes",
+                    "Zustand",
+                    "Ackers",
+                    "Stand"
+                ]
+            ]
+        },
+        "5": {
+            "1": [
+                [
+                    "schmaler",
+                    "zwei",
+                    "Feldern",
+                    "Rain",
+                    "Wiesenstreifen"
+                ]
+            ]
+        },
+        "6": {
+            "1": [
+                [
+                    "zwei",
+                    "Feldern",
+                    "Anger",
+                    "Wiesenstreifen",
+                    "Anewanter",
+                    "breiterer"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Rain",
+                "zwei"
+            ],
+            "source": 0,
+            "target": 1,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "steil"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei",
+                "Wiesenstreifen",
+                "Feldern"
+            ],
+            "source": 0,
+            "target": 3,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schmaler",
+                "zwei",
+                "Feldern",
+                "Rain",
+                "Wiesenstreifen"
+            ],
+            "source": 0,
+            "target": 4,
+            "target_group": [
+                5,
+                1,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "Feldern",
+                "Wiesenstreifen",
+                "zwei"
+            ],
+            "source": 0,
+            "target": 5,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort",
+                "überhaupt"
+            ],
+            "source": 0,
+            "target": 68,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "zwei"
+            ],
+            "source": 1,
+            "target": 4,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderen",
+                "Namen",
+                "zwei"
+            ],
+            "source": 1,
+            "target": 14,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 1,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 1,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 1,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutung"
+            ],
+            "source": 2,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei",
+                "Wiesenstreifen",
+                "Feldern"
+            ],
+            "source": 3,
+            "target": 4,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "zwei",
+                "Feldern",
+                "Anger",
+                "Wiesenstreifen",
+                "Anewanter",
+                "breiterer"
+            ],
+            "source": 3,
+            "target": 5,
+            "target_group": [
+                6,
+                1,
+                0
+            ],
+            "weight": 6
+        },
+        {
+            "coincidences": [
+                "Anger"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anger"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 3,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei",
+                "Wiesenstreifen",
+                "Feldern"
+            ],
+            "source": 4,
+            "target": 5,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 4,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anger"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anger"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 5,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rains"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 6,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 6,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "Anger"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "wem",
+                "gehört"
+            ],
+            "source": 7,
+            "target": 11,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "gehört"
+            ],
+            "source": 7,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 7,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehört"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Feld"
+            ],
+            "source": 12,
+            "target": 13,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 12,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Feld"
+            ],
+            "source": 12,
+            "target": 84,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 12,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 12,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 13,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Feld"
+            ],
+            "source": 13,
+            "target": 84,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 13,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 13,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 14,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 14,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Obstbäume",
+                "stehen"
+            ],
+            "source": 15,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 15,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 16,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 16,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ackergrund"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 17,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 17,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 17,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 17,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 17,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 17,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feldes",
+                "Zustand",
+                "Ackers",
+                "Stand"
+            ],
+            "source": 19,
+            "target": 20,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "allgemeine"
+            ],
+            "source": 19,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 19,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 19,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feldes",
+                "Zustand"
+            ],
+            "source": 19,
+            "target": 96,
+            "target_group": [
+                2,
+                2,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 19,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grad",
+                "Häufigkeit"
+            ],
+            "source": 20,
+            "target": 82,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 20,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 20,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feldes",
+                "Zustand"
+            ],
+            "source": 20,
+            "target": 96,
+            "target_group": [
+                2,
+                2,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 20,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fruchtbar",
+                "Ackergrundes"
+            ],
+            "source": 21,
+            "target": 22,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "her"
+            ],
+            "source": 21,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 21,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 21,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 21,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlecht"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlecht"
+            ],
+            "source": 22,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlecht"
+            ],
+            "source": 23,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 25,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 30,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 33,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flinsgrund"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 40,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zähe",
+                "Erde"
+            ],
+            "source": 41,
+            "target": 42,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "zähe",
+                "Erde",
+                "schwarze"
+            ],
+            "source": 41,
+            "target": 45,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "zähe",
+                "Erde"
+            ],
+            "source": 42,
+            "target": 45,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Pechetschotter",
+                "Gemisch",
+                "Schotter"
+            ],
+            "source": 45,
+            "target": 46,
+            "target_group": [
+                3,
+                1,
+                3
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "bezogen"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bezogen"
+            ],
+            "source": 46,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 46,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 46,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 46,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 46,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bezogen"
+            ],
+            "source": 46,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Torfgrund"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bezogen"
+            ],
+            "source": 48,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bezogen"
+            ],
+            "source": 48,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 51,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bezogen"
+            ],
+            "source": 52,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 52,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nachgehender",
+                "Boden",
+                "Grund"
+            ],
+            "source": 53,
+            "target": 54,
+            "target_group": [
+                3,
+                1,
+                4
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden",
+                "Grund"
+            ],
+            "source": 53,
+            "target": 56,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 53,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 53,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden",
+                "Grund"
+            ],
+            "source": 53,
+            "target": 59,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 53,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 53,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 53,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden",
+                "Grund"
+            ],
+            "source": 54,
+            "target": 56,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden",
+                "Grund"
+            ],
+            "source": 54,
+            "target": 59,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 54,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 54,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 54,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 54,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 55,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 56,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden",
+                "Grund"
+            ],
+            "source": 56,
+            "target": 59,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 56,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 56,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 56,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 56,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 57,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 57,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 57,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 57,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 58,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 58,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 58,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 59,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 59,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 59,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 60,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 62,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 66,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "verunkrauteten"
+            ],
+            "source": 67,
+            "target": 68,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 67,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "bedeutet"
+            ],
+            "source": 68,
+            "target": 84,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 68,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "heimgesucht"
+            ],
+            "source": 69,
+            "target": 70,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "heimgesucht"
+            ],
+            "source": 69,
+            "target": 71,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "heimgesucht"
+            ],
+            "source": 69,
+            "target": 72,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 69,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "heimgesucht"
+            ],
+            "source": 70,
+            "target": 71,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "heimgesucht"
+            ],
+            "source": 70,
+            "target": 72,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 70,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "heimgesucht"
+            ],
+            "source": 71,
+            "target": 72,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dafür"
+            ],
+            "source": 71,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 71,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "Benennungen"
+            ],
+            "source": 72,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 72,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 72,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 72,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 72,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 72,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 72,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 73,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 73,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 73,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 73,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 73,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 74,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 74,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 74,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 74,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 74,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "steht",
+                "Düngerhaufen"
+            ],
+            "source": 75,
+            "target": 76,
+            "target_group": [
+                3,
+                1,
+                5
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 75,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 75,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 75,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 75,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Acker"
+            ],
+            "source": 76,
+            "target": 84,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Acker"
+            ],
+            "source": 76,
+            "target": 85,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 76,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 76,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 77,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 77,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 81,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angabe"
+            ],
+            "source": 82,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 82,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 83,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 83,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 83,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 83,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 83,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 83,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Acker"
+            ],
+            "source": 84,
+            "target": 85,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 84,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 84,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 84,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 84,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 84,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 84,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 84,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 84,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 85,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 85,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 86,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 86,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 86,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 86,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 87,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 87,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bauen",
+                "Feld"
+            ],
+            "source": 87,
+            "target": 91,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 87,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld",
+                "bestellen"
+            ],
+            "source": 87,
+            "target": 102,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 87,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 87,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 87,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 87,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 88,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 88,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 88,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 88,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 88,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegen"
+            ],
+            "source": 88,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegen"
+            ],
+            "source": 88,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 89,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau",
+                "Grund"
+            ],
+            "source": 89,
+            "target": 92,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 89,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 89,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feldbestellung"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feldbestellung"
+            ],
+            "source": 90,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 91,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 91,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 91,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 91,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld"
+            ],
+            "source": 91,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 92,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feldbestellung",
+                "Bau"
+            ],
+            "source": 92,
+            "target": 100,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 93,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand",
+                "bestelltem"
+            ],
+            "source": 94,
+            "target": 95,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 94,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 94,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 95,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zustand"
+            ],
+            "source": 96,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 100,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld",
+                "brach"
+            ],
+            "source": 101,
+            "target": 102,
+            "target_group": [
+                2,
+                2,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feld",
+                "brach",
+                "liegen"
+            ],
+            "source": 101,
+            "target": 109,
+            "target_group": [
+                3,
+                1,
+                7
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "brachen"
+            ],
+            "source": 102,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feld",
+                "brach"
+            ],
+            "source": 102,
+            "target": 109,
+            "target_group": [
+                2,
+                2,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zelgen"
+            ],
+            "source": 104,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 104,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "pflügen",
+                "Ernte"
+            ],
+            "source": 106,
+            "target": 107,
+            "target_group": [
+                3,
+                1,
+                6
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "urbar"
+            ],
+            "source": 110,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "urbar"
+            ],
+            "source": 110,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "urbar"
+            ],
+            "source": 111,
+            "target": 112,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "schmaler",
+                "Wort",
+                "beschränkt",
+                "Feldern",
+                "zwei",
+                "Fluren",
+                "überhaupt",
+                "Rain",
+                "abfallende",
+                "Wiesenstreifen",
+                "geneigte",
+                "steil",
+                "Ranger",
+                "Rainel"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "gepflügt",
+                "besonderen",
+                "heißt",
+                "zwei",
+                "Ackerbeetes",
+                "Furchen",
+                "dünne",
+                "Zwener",
+                "Rain",
+                "Teilrain",
+                "letzten",
+                "Ackerstreifen",
+                "Namen"
+            ],
+            "id": "B25a"
+        },
+        {
+            "concepts": [
+                "Bedeutung",
+                "steil",
+                "rainig"
+            ],
+            "id": "B25b"
+        },
+        {
+            "concepts": [
+                "Feldern",
+                "zwei",
+                "Anger",
+                "Wiesenstreifen",
+                "Anewanter",
+                "breiterer"
+            ],
+            "id": "B25c"
+        },
+        {
+            "concepts": [
+                "schmaler",
+                "Feldern",
+                "zwei",
+                "Rain",
+                "Wiesenstreifen"
+            ],
+            "id": "B25d"
+        },
+        {
+            "concepts": [
+                "zwei",
+                "Feldern",
+                "Anger",
+                "Wiesenstreifen",
+                "Anewanter",
+                "breiterer"
+            ],
+            "id": "B25e"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Vb",
+                "läuft",
+                "Rains",
+                "Rain",
+                "zieht",
+                "Richtung"
+            ],
+            "id": "B25f"
+        },
+        {
+            "concepts": [
+                "wem",
+                "Anger",
+                "Grund",
+                "Rain",
+                "beiden",
+                "Nachbarn",
+                "Wuchs",
+                "gehört"
+            ],
+            "id": "B25g"
+        },
+        {
+            "concepts": [
+                "Rain",
+                "Anger",
+                "Weg",
+                "angeriger"
+            ],
+            "id": "B25h"
+        },
+        {
+            "concepts": [
+                "Rains",
+                "Mahlstätte",
+                "Feldarbeiter",
+                "Verwendung",
+                "Steine",
+                "Ablagerung",
+                "ausgeklaubten"
+            ],
+            "id": "B25i"
+        },
+        {
+            "concepts": [
+                "Waldrain",
+                "soweit",
+                "Rain",
+                "genannt",
+                "Lage"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "wem",
+                "befindlichen",
+                "Rainblümel",
+                "aufn",
+                "Raingestauderet",
+                "Rainstauden",
+                "Umschreibungen",
+                "Pflanzenwuchses",
+                "Gstauderet",
+                "Raingras",
+                "geschni",
+                "Rain",
+                "gehört",
+                "Rainveilchen"
+            ],
+            "id": "B26a"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "eingefahren",
+                "Feld"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "brachliegende",
+                "ungeackerte",
+                "Feld",
+                "Feldteil",
+                "verwendete",
+                "minderwertig",
+                "ausgefahren"
+            ],
+            "id": "B27a"
+        },
+        {
+            "concepts": [
+                "besonderen",
+                "benützt",
+                "Feldeigentümern",
+                "zwei",
+                "zweien",
+                "gehört",
+                "Ausfahrtstelle",
+                "Namen"
+            ],
+            "id": "B27b"
+        },
+        {
+            "concepts": [
+                "Obstbäume",
+                "Feld",
+                "stehen"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Ackerteile",
+                "Obstbäume",
+                "denen",
+                "stehen",
+                "Zeilen",
+                "Namen"
+            ],
+            "id": "B28a"
+        },
+        {
+            "concepts": [
+                "allgemein",
+                "Farbe",
+                "Ackergrund",
+                "Boden",
+                "Kot",
+                "Rücksicht",
+                "Güte"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "obersten",
+                "tieferliegende",
+                "Gründel",
+                "Ackergrund",
+                "Schichte"
+            ],
+            "id": "C1a"
+        },
+        {
+            "concepts": [
+                "Feldes",
+                "allgemeine",
+                "Zustand",
+                "Ackers",
+                "Stand",
+                "Felderstand",
+                "Feldstand"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Qualität",
+                "Feldes",
+                "Grad",
+                "Zustand",
+                "Ackers",
+                "Häufigkeit",
+                "Stand",
+                "Bonität"
+            ],
+            "id": "C2a"
+        },
+        {
+            "concepts": [
+                "Geldacker",
+                "Wendungen",
+                "brav",
+                "gäb",
+                "Goldgrube",
+                "fein",
+                "schön",
+                "ja",
+                "Acker",
+                "gut",
+                "fruchtbar",
+                "Ackergrundes",
+                "sc",
+                "her"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Hundsgrund",
+                "wenig",
+                "Saugrund",
+                "unergiebig",
+                "weitere",
+                "Bedeutung",
+                "fruchtbar",
+                "letz",
+                "Ackergrundes",
+                "schlecht",
+                "Hundsacker"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "verwahrlost",
+                "schlecht",
+                "bestellt",
+                "heruntergekommen"
+            ],
+            "id": "C4a"
+        },
+        {
+            "concepts": [
+                "ausgenützt",
+                "ausgezutzelt",
+                "stark",
+                "ausgeschunden",
+                "ausgesogen",
+                "ausgeraubt"
+            ],
+            "id": "C4b"
+        },
+        {
+            "concepts": [
+                "unfruchtbar",
+                "ganz",
+                "öder",
+                "Grund",
+                "Blöße"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "pützig",
+                "batzig",
+                "naß",
+                "möserig",
+                "botzet"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "spör",
+                "trocken"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Steingrund"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "steinig"
+            ],
+            "id": "C8a"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "her",
+                "Ackerland",
+                "Volksmeinung",
+                "Fels",
+                "anstehender",
+                "Namen"
+            ],
+            "id": "C8b"
+        },
+        {
+            "concepts": [
+                "Schottergrund"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "schotterig"
+            ],
+            "id": "C9a"
+        },
+        {
+            "concepts": [
+                "schotterige",
+                "Streifen",
+                "Feld",
+                "Steinriegel"
+            ],
+            "id": "C9b"
+        },
+        {
+            "concepts": [
+                "Sandgrund",
+                "ergiebig",
+                "schädlich",
+                "Saat",
+                "zuträglich"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "sandig",
+                "griesig"
+            ],
+            "id": "C10a"
+        },
+        {
+            "concepts": [
+                "Flinsgrund"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "flinsig",
+                "Flinsgrund"
+            ],
+            "id": "C11a"
+        },
+        {
+            "concepts": [
+                "Lehmgrund"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "lehmig"
+            ],
+            "id": "C12a"
+        },
+        {
+            "concepts": [
+                "zäher",
+                "schwarzer",
+                "Pechetgrund",
+                "Grund"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Pächet",
+                "zähe",
+                "Erde",
+                "schwarze"
+            ],
+            "id": "C13a"
+        },
+        {
+            "concepts": [
+                "Pechkot",
+                "zähe",
+                "Erde",
+                "rötliche"
+            ],
+            "id": "C13b"
+        },
+        {
+            "concepts": [
+                "schmierig",
+                "pickig",
+                "picket",
+                "schmierbet"
+            ],
+            "id": "C13c"
+        },
+        {
+            "concepts": [
+                "pechkotig"
+            ],
+            "id": "C13d"
+        },
+        {
+            "concepts": [
+                "Gemisch",
+                "Erde",
+                "Pechetschotter",
+                "zähe",
+                "Schotter",
+                "Pechet",
+                "schwarze"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Gemisch",
+                "Pechetschotter",
+                "Boden",
+                "Schotter",
+                "Schwarzerde",
+                "bezogen"
+            ],
+            "id": "C14a"
+        },
+        {
+            "concepts": [
+                "Torfgrund"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Torfgrund",
+                "bezogen"
+            ],
+            "id": "C15a"
+        },
+        {
+            "concepts": [
+                "Kalkgrund"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "kalkig"
+            ],
+            "id": "C16a"
+        },
+        {
+            "concepts": [
+                "schmirgelhältiger",
+                "Grund"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "schmirgelhältigen",
+                "Grund",
+                "bezogen"
+            ],
+            "id": "C17a"
+        },
+        {
+            "concepts": [
+                "nachgehender",
+                "Boden",
+                "Grund",
+                "schwer",
+                "Schmieraweck",
+                "schwerer"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "leichter",
+                "nachgehender",
+                "Boden",
+                "Grund",
+                "leicht"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Dunkelboden",
+                "fett",
+                "Boden",
+                "humushältiger",
+                "fetter"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Feld",
+                "angeschwemmter",
+                "Grund",
+                "Boden",
+                "angeschwemmtem"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "toter",
+                "kalter",
+                "Grund"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Grund",
+                "warmer",
+                "hitziger"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Regen",
+                "eingeweichter",
+                "Boden",
+                "Grund",
+                "Weiche",
+                "durchweichter",
+                "gemacht",
+                "heute",
+                "lau",
+                "durchweicht",
+                "weich"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "Luft",
+                "ausgetrockneter",
+                "Sonne"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "verbrannt",
+                "dürr"
+            ],
+            "id": "C25a"
+        },
+        {
+            "concepts": [
+                "Kruste",
+                "Fletz",
+                "Feld",
+                "harte"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "hart",
+                "zusammengepatscht"
+            ],
+            "id": "C26a"
+        },
+        {
+            "concepts": [
+                "mürbe",
+                "rogel",
+                "bröselig",
+                "bröslet",
+                "roglet",
+                "roglich"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "vermurt",
+                "verwüstet",
+                "Elementarereignisse"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "allgemeiner",
+                "Acker",
+                "Säuerei",
+                "Ausdruck",
+                "Unkraut",
+                "Gefraß"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "beidig",
+                "wanzig",
+                "wild",
+                "grob",
+                "verunkrauteten",
+                "Acker",
+                "vergrast",
+                "grasig",
+                "bezogen",
+                "jotet"
+            ],
+            "id": "C29a"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "verunkrauteten",
+                "überhaupt",
+                "Acker",
+                "schlechten",
+                "Brennesselacker",
+                "bedeutet"
+            ],
+            "id": "C29b"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "Dieben",
+                "ausgestohlen",
+                "heimgesucht"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "spezielle",
+                "Wild",
+                "allgemeine",
+                "Acker",
+                "heimgesucht"
+            ],
+            "id": "C30a"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "Aal",
+                "heimgesucht",
+                "gibt",
+                "dafür"
+            ],
+            "id": "C30b"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Mäusen",
+                "Raupen",
+                "Erdläusen",
+                "Acker",
+                "heimgesucht",
+                "Fritfliegen",
+                "Nagern",
+                "Schmetterlingen"
+            ],
+            "id": "C30c"
+        },
+        {
+            "concepts": [
+                "sollen",
+                "Volksglaube",
+                "Kostbarkeiten",
+                "Acker",
+                "vergraben",
+                "Schatzacker"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Überlieferungen",
+                "gehaltener",
+                "irgendwie",
+                "Acker",
+                "verzaubert"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "steht",
+                "Düngerhaufen"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "stand",
+                "steht",
+                "Düngerhaufen",
+                "Acker"
+            ],
+            "id": "C33a"
+        },
+        {
+            "concepts": [
+                "bepflügen",
+                "Grund",
+                "Arl",
+                "Arlbau"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Arbeitsdauer",
+                "Ackerfläche",
+                "Jause",
+                "braucht",
+                "Jausenzeitbau",
+                "Bestellung"
+            ],
+            "id": "C34a"
+        },
+        {
+            "concepts": [
+                "Schrolle",
+                "Scholle"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "kleinschollig"
+            ],
+            "id": "C35a"
+        },
+        {
+            "concepts": [
+                "gehören",
+                "Stadt",
+                "Feld",
+                "Stadtfelder"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Feldpferd",
+                "Feldkasten",
+                "Bach",
+                "Wald",
+                "Feld",
+                "Grad",
+                "Wörter",
+                "Häufigkeit",
+                "Feldbauer",
+                "Feldbesitz",
+                "zugehörige",
+                "Feldbesitzer",
+                "Synonyma",
+                "Angabe"
+            ],
+            "id": "D1a"
+        },
+        {
+            "concepts": [
+                "feldig",
+                "Ableitungen",
+                "Feld"
+            ],
+            "id": "D1b"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Pflugfeld",
+                "Artacker",
+                "zweiter",
+                "Feld",
+                "Acker",
+                "Artfeld",
+                "eingefriedetes",
+                "Steinen",
+                "bedeutet"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Ackerweise",
+                "Ackermaß",
+                "Ackergaul",
+                "erster",
+                "Acker"
+            ],
+            "id": "D2a"
+        },
+        {
+            "concepts": [
+                "genannte",
+                "bebautes",
+                "Feld",
+                "Zelge"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Begriff",
+                "Kärnten",
+                "pflügen",
+                "bestellen",
+                "Feld",
+                "Verba",
+                "neben",
+                "bearbeiten",
+                "Haus",
+                "paunen",
+                "bauen",
+                "üben",
+                "Ausdrücke"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Feldarbeit",
+                "Übung",
+                "Ackerbestellung",
+                "nehmen",
+                "Substantiva",
+                "liegen",
+                "Bau",
+                "Angabe"
+            ],
+            "id": "E1a"
+        },
+        {
+            "concepts": [
+                "Bauach",
+                "gebraucht",
+                "bebauter",
+                "Grund",
+                "Bäulicht",
+                "Bau",
+                "dafür",
+                "Ausdrücke"
+            ],
+            "id": "E1b"
+        },
+        {
+            "concepts": [
+                "Bauerei",
+                "schlechte",
+                "Sinne",
+                "Feldbestellung",
+                "ärgerlichen",
+                "Art",
+                "spricht",
+                "bezeichnen",
+                "gleichbedeutende",
+                "Ausdrücke"
+            ],
+            "id": "E1c"
+        },
+        {
+            "concepts": [
+                "abhinbauen",
+                "Grundbedeutung",
+                "Grundstück",
+                "tief",
+                "zubauen",
+                "Feld",
+                "irgend",
+                "Gebiet",
+                "Ende",
+                "fremdes",
+                "unterbauen",
+                "draufbauen",
+                "bauen",
+                "ausbauen",
+                "überbauen",
+                "Bau",
+                "Frucht"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Feldbau",
+                "Grund",
+                "eigenen",
+                "Feldbestellung",
+                "Hofbau",
+                "Bau",
+                "bewirtschaftet",
+                "hinaus",
+                "Zubau"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Bauknecht",
+                "Bauland",
+                "Bau"
+            ],
+            "id": "E3a"
+        },
+        {
+            "concepts": [
+                "aufgebaut",
+                "bauhaft",
+                "befindlich",
+                "gut",
+                "Zustand",
+                "bestelltem"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "unbaulich",
+                "Zustand",
+                "urbau",
+                "schlecht",
+                "bestelltem"
+            ],
+            "id": "E4a"
+        },
+        {
+            "concepts": [
+                "vernachlässigter",
+                "Feldes",
+                "Zustand",
+                "Urbau"
+            ],
+            "id": "E4b"
+        },
+        {
+            "concepts": [
+                "unbestellt",
+                "baulos"
+            ],
+            "id": "E4c"
+        },
+        {
+            "concepts": [
+                "Zustand",
+                "unbestellter",
+                "Unbau"
+            ],
+            "id": "E4d"
+        },
+        {
+            "concepts": [
+                "baumäßig",
+                "bestellbar",
+                "leicht",
+                "baulich"
+            ],
+            "id": "E4e"
+        },
+        {
+            "concepts": [
+                "Bauzeit",
+                "Zeit",
+                "Bauernregeln",
+                "Feldbestellung",
+                "Bau",
+                "Bauet"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "brach",
+                "tratnen",
+                "tratten",
+                "Feld",
+                "lassen",
+                "liegen",
+                "feiern"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "brachlegen",
+                "gelegen",
+                "brach",
+                "halmackern",
+                "bestellen",
+                "Feld",
+                "zelgen",
+                "umbrechen",
+                "Bauernregeln",
+                "nachdem",
+                "brachen",
+                "stürzen"
+            ],
+            "id": "E6a"
+        },
+        {
+            "concepts": [
+                "neugebaut",
+                "neubestellt"
+            ],
+            "id": "E6b"
+        },
+        {
+            "concepts": [
+                "Zelgen",
+                "besorgt",
+                "Zelger",
+                "Arbeiter"
+            ],
+            "id": "E6c"
+        },
+        {
+            "concepts": [
+                "Zelgen",
+                "Umbrechen",
+                "Brachfeldes",
+                "Arbeit"
+            ],
+            "id": "E6d"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "erstemal",
+                "Acker",
+                "Ernte",
+                "brachackern",
+                "brachen"
+            ],
+            "id": "E6e"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "zwiebrachen",
+                "Mal",
+                "Acker",
+                "Ernte",
+                "zweite"
+            ],
+            "id": "E6f"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "drittemal",
+                "dribrachen"
+            ],
+            "id": "E6g"
+        },
+        {
+            "concepts": [
+                "anbeunden",
+                "brach",
+                "Tratbeunde",
+                "bebauen",
+                "Feld",
+                "liegen"
+            ],
+            "id": "E6h"
+        },
+        {
+            "concepts": [
+                "urbar"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "urbar"
+            ],
+            "id": "E7a"
+        },
+        {
+            "concepts": [
+                "brändern",
+                "brandhauen",
+                "Brand",
+                "sengen",
+                "bränden",
+                "urbar"
+            ],
+            "id": "E7b"
+        },
+        {
+            "concepts": [
+                "Senghaue",
+                "Werkzeuge",
+                "benötigte"
+            ],
+            "id": "E7c"
+        },
+        {
+            "concepts": [
+                "durchführen",
+                "Namen",
+                "Arbeiter"
+            ],
+            "id": "E7d"
+        },
+        {
+            "concepts": [
+                "Aufseher",
+                "Branderer",
+                "Brändern",
+                "Brandroden",
+                "beim"
+            ],
+            "id": "E7e"
+        }
+    ]
+}

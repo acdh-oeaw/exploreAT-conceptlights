@@ -1,0 +1,5695 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Mälzer"
+                ],
+                [
+                    "Raum"
+                ],
+                [
+                    "Sau"
+                ],
+                [
+                    "Gerät"
+                ],
+                [
+                    "Darre"
+                ],
+                [
+                    "Mälzerei"
+                ],
+                [
+                    "Beriesler"
+                ],
+                [
+                    "Trupf"
+                ],
+                [
+                    "Gärbottich"
+                ],
+                [
+                    "muß"
+                ],
+                [
+                    "reinigen"
+                ],
+                [
+                    "Restbier"
+                ],
+                [
+                    "Sud"
+                ],
+                [
+                    "Maische"
+                ],
+                [
+                    "Reinigung"
+                ],
+                [
+                    "Brauerei"
+                ],
+                [
+                    "läßt"
+                ],
+                [
+                    "Bierfässer"
+                ],
+                [
+                    "Einschlagen"
+                ],
+                [
+                    "Faß"
+                ],
+                [
+                    "Liter"
+                ],
+                [
+                    "Vorrichtung"
+                ],
+                [
+                    "frisch"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "trinken"
+                ],
+                [
+                    "Tropfbier"
+                ]
+            ],
+            "2": [
+                [
+                    "Tenne"
+                ],
+                [
+                    "Haufen"
+                ],
+                [
+                    "beziehen"
+                ],
+                [
+                    "Kühlschiff"
+                ],
+                [
+                    "Gärkeller"
+                ]
+            ],
+            "3": [
+                [
+                    "keimenden"
+                ],
+                [
+                    "Hefereinzucht"
+                ]
+            ],
+            "4": [
+                [
+                    "Malzfabrik"
+                ]
+            ],
+            "6": [
+                [
+                    "Geräte"
+                ]
+            ],
+            "10": [
+                [
+                    "Fässer"
+                ]
+            ],
+            "15": [
+                [
+                    "Hopfen"
+                ]
+            ],
+            "23": [
+                [
+                    "Lagerfaß"
+                ]
+            ],
+            "27": [
+                [
+                    "Malz"
+                ]
+            ],
+            "28": [
+                [
+                    "beim"
+                ]
+            ],
+            "32": [
+                [
+                    "Gerste"
+                ]
+            ],
+            "78": [
+                [
+                    "Arbeiter"
+                ]
+            ],
+            "202": [
+                [
+                    "Bier"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Tenne",
+                    "Gerste"
+                ],
+                [
+                    "Weiche",
+                    "Gerste"
+                ],
+                [
+                    "Malzfabrik",
+                    "Dörrhorde"
+                ],
+                [
+                    "Feuerung",
+                    "Malzfabrik"
+                ],
+                [
+                    "Bottiche",
+                    "Arbeiter"
+                ],
+                [
+                    "Arbeiter",
+                    "Bierlaufer"
+                ],
+                [
+                    "Gärkeller",
+                    "Arbeiter"
+                ],
+                [
+                    "beim",
+                    "Bier"
+                ],
+                [
+                    "Lagerfaß",
+                    "Bier"
+                ],
+                [
+                    "reinigt",
+                    "Arbeiter"
+                ],
+                [
+                    "Lagerfaß",
+                    "beim"
+                ],
+                [
+                    "Taxameter",
+                    "Biertübler"
+                ]
+            ],
+            "3": [
+                [
+                    "Lagerfaß",
+                    "Arbeiter"
+                ]
+            ],
+            "4": [
+                [
+                    "Arbeiter",
+                    "Bier"
+                ]
+            ],
+            "6": [
+                [
+                    "Abfüllen",
+                    "beim"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Malz",
+                    "Gerste",
+                    "Haufen"
+                ],
+                [
+                    "Wendungen",
+                    "Gerste",
+                    "beziehen"
+                ],
+                [
+                    "Kühlschiff",
+                    "Arbeiter",
+                    "Bier"
+                ],
+                [
+                    "Pumpauf",
+                    "Arbeiter",
+                    "Bier"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 1,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brauerei"
+            ],
+            "source": 3,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Bier"
+            ],
+            "source": 6,
+            "target": 97,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 6,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 7,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 8,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 9,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 9,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 10,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 10,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 10,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 10,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 10,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 10,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 10,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 10,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 10,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 10,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 10,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mälzer"
+            ],
+            "source": 12,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mälzerei"
+            ],
+            "source": 13,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 14,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 14,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 14,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 14,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 14,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 14,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 15,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reinigen"
+            ],
+            "source": 15,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 16,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 16,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 16,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reinigung"
+            ],
+            "source": 16,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 17,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weiche",
+                "Gerste"
+            ],
+            "source": 17,
+            "target": 24,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 17,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorrichtung"
+            ],
+            "source": 17,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 18,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 18,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 18,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne",
+                "Gerste"
+            ],
+            "source": 19,
+            "target": 21,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 19,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 19,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 19,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Raum"
+            ],
+            "source": 19,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "keimenden"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "keimenden"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haufen"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 21,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz",
+                "Gerste",
+                "Haufen"
+            ],
+            "source": 21,
+            "target": 27,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 21,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 21,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 21,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "keimenden"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haufen"
+            ],
+            "source": 22,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerste"
+            ],
+            "source": 23,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerät"
+            ],
+            "source": 23,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Gerste",
+                "beziehen"
+            ],
+            "source": 24,
+            "target": 27,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "beziehen"
+            ],
+            "source": 24,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 25,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 25,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 25,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 25,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 27,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 27,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 27,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beziehen"
+            ],
+            "source": 27,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 27,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malzfabrik"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malzfabrik"
+            ],
+            "source": 28,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malzfabrik"
+            ],
+            "source": 28,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 28,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 30,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 30,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 30,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malzfabrik"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malzfabrik",
+                "Dörrhorde"
+            ],
+            "source": 31,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feuerung",
+                "Malzfabrik"
+            ],
+            "source": 32,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darre"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sud"
+            ],
+            "source": 45,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 46,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 46,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 46,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 46,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 46,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 46,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 46,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Malz"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maische"
+            ],
+            "source": 49,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 57,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 57,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 57,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 59,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hopfen"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 60,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kühlschiff"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kühlschiff"
+            ],
+            "source": 65,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kühlschiff",
+                "Arbeiter",
+                "Bier"
+            ],
+            "source": 66,
+            "target": 69,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter",
+                "Bier"
+            ],
+            "source": 66,
+            "target": 83,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter",
+                "Bier"
+            ],
+            "source": 66,
+            "target": 95,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 66,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 66,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 67,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beriesler"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter",
+                "Bier"
+            ],
+            "source": 69,
+            "target": 83,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter",
+                "Bierlaufer"
+            ],
+            "source": 69,
+            "target": 85,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter",
+                "Bier"
+            ],
+            "source": 69,
+            "target": 95,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 69,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läßt"
+            ],
+            "source": 69,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 69,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gärkeller"
+            ],
+            "source": 71,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gärkeller"
+            ],
+            "source": 71,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gärbottich"
+            ],
+            "source": 73,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trupf"
+            ],
+            "source": 74,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 77,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 80,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gärkeller",
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 95,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 82,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bottiche",
+                "Arbeiter"
+            ],
+            "source": 83,
+            "target": 84,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 83,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 83,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpauf",
+                "Arbeiter",
+                "Bier"
+            ],
+            "source": 83,
+            "target": 95,
+            "target_group": [
+                3,
+                1,
+                3
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 83,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 83,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 83,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 83,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 83,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reinigt",
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 99,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 85,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 85,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 85,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 85,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 85,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 85,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hefereinzucht"
+            ],
+            "source": 90,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hefereinzucht"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 90,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 90,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 90,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 90,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 90,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hefereinzucht"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 92,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 92,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 93,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 93,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 93,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 93,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 93,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 93,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 93,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 94,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß",
+                "Bier"
+            ],
+            "source": 95,
+            "target": 97,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 95,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß",
+                "Arbeiter"
+            ],
+            "source": 95,
+            "target": 99,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lagerfaß",
+                "Arbeiter"
+            ],
+            "source": 95,
+            "target": 100,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 95,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 95,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 95,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 95,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 95,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 95,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 95,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 95,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 95,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 95,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 96,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 96,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 96,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 96,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß",
+                "beim"
+            ],
+            "source": 97,
+            "target": 100,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 97,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfüllen",
+                "beim"
+            ],
+            "source": 97,
+            "target": 103,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Abfüllen",
+                "beim"
+            ],
+            "source": 97,
+            "target": 104,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 97,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfüllen",
+                "beim"
+            ],
+            "source": 97,
+            "target": 112,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 97,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 97,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 97,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 97,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 97,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 97,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 97,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 97,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 98,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 98,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß",
+                "Arbeiter"
+            ],
+            "source": 99,
+            "target": 100,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 99,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 99,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 99,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lagerfaß"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 100,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 100,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 100,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 100,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 100,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 100,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 100,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfüllen",
+                "beim"
+            ],
+            "source": 103,
+            "target": 104,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 103,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfüllen",
+                "beim"
+            ],
+            "source": 103,
+            "target": 112,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 103,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 104,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfüllen",
+                "beim"
+            ],
+            "source": 104,
+            "target": 112,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 104,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Restbier"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 106,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tropfbier"
+            ],
+            "source": 108,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 110,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 110,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 110,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Einschlagen"
+            ],
+            "source": 110,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 112,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 114,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 114,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 114,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 115,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 115,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 115,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 117,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 117,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fässer"
+            ],
+            "source": 119,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bierfässer"
+            ],
+            "source": 120,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faß"
+            ],
+            "source": 129,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frisch"
+            ],
+            "source": 131,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 132,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 132,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 132,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 132,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 132,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 132,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liter"
+            ],
+            "source": 134,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 136,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 136,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 136,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 136,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 136,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 142,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 142,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 142,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 142,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 144,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 144,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 144,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 145,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 145,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bier"
+            ],
+            "source": 146,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taxameter",
+                "Biertübler"
+            ],
+            "source": 148,
+            "target": 149,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "bruidn",
+                "brai",
+                "brauen"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "sieden",
+                "Bier"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Brui",
+                "Biersieder",
+                "Bierbrauer",
+                "Bräuer",
+                "Broi"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Bräuschaft",
+                "Brauerei",
+                "Biersiederei"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Brauereien",
+                "Klosterbräu",
+                "Namen"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Brauereibesitzer",
+                "Brauherr"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "zusammenkommen",
+                "hopfenreich",
+                "malzarm",
+                "sauern",
+                "Gott",
+                "führen",
+                "erbarm",
+                "Geriß",
+                "gibt",
+                "sauere",
+                "beim",
+                "Bier"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Kindelbier",
+                "Bierboschen",
+                "Bier"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "ganz",
+                "bierig",
+                "schwer",
+                "heute",
+                "Bier"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "oft",
+                "trinken",
+                "bierelen",
+                "Bier"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Hopfen",
+                "Malz",
+                "verloren"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "mälzen"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Mälzer",
+                "Obermälzer"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Mälzerei"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Malz"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "putzen",
+                "Gerste",
+                "reinigen"
+            ],
+            "id": "B6a"
+        },
+        {
+            "concepts": [
+                "Gerste",
+                "Putzerei",
+                "Reinigung"
+            ],
+            "id": "B6b"
+        },
+        {
+            "concepts": [
+                "Weiche",
+                "Vorrichtung",
+                "Einweichen",
+                "Gerste"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Gerste",
+                "ausgeweikt"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Tenne",
+                "Gerste",
+                "Keimen",
+                "Raum"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "haufen",
+                "keimenden",
+                "Tenne",
+                "Gerstenhaufen",
+                "Arbeitshaufen"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Gerste",
+                "Tenne",
+                "äugelt",
+                "Keimens",
+                "Vorgang",
+                "wächst",
+                "Malz",
+                "Haufen"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "gamsen",
+                "keimenden",
+                "umschaufeln",
+                "widern",
+                "Haufen"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Widerschaufel",
+                "Umschaufeln",
+                "Gerste",
+                "keimenden",
+                "Gerät"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Kern",
+                "Gerste",
+                "Malzes",
+                "Weiche",
+                "Zustand",
+                "beziehen",
+                "schmirwig"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Malz",
+                "fertige",
+                "Grünmalz"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Malzdarre"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "muß",
+                "umgebaut",
+                "Gerste",
+                "Dörren",
+                "schnalzen",
+                "gegriffen",
+                "Malz",
+                "Haufen",
+                "beziehen"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "langsame",
+                "Malzfabrik",
+                "Mälzer",
+                "Zuruf",
+                "spottender",
+                "blaad",
+                "Arbeiter"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Wender",
+                "Mälzerfresser",
+                "Scherzname",
+                "mechanischen"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Malzrechen",
+                "Malzbereitung"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Malzfabrik",
+                "Dörrhorde"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Malzfabrik",
+                "Feuerung"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Dörrhorde",
+                "Raum",
+                "Malzfabrik",
+                "Sau",
+                "Feuerung"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "wegschaffen",
+                "Horde",
+                "Keime",
+                "räumen",
+                "Sau"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Darre",
+                "abräumen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Esel",
+                "Gerät",
+                "Darre",
+                "Abräumen"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Heizer",
+                "Darrfax"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Mälzerei",
+                "Ölzipfel",
+                "altes",
+                "Öllicht"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Sudhaus"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Sudwerk"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Sudpfanne"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Pfannenhut",
+                "Dunsthaube"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Schauglas"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Malzschrotmühle"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "gebraute",
+                "Sud",
+                "Gebräu",
+                "Menge",
+                "Bräu"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "geht",
+                "beim",
+                "Sprüche",
+                "Nam",
+                "Einmaischen",
+                "ramts",
+                "allzugleich",
+                "alte",
+                "umadum",
+                "Gotts",
+                "Brauer",
+                "Malz",
+                "Mitt",
+                "einmaischen",
+                "samm"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Malz",
+                "Maischbottich"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Maischpfanne",
+                "Malz"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Maisch",
+                "Maische"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Lautermaisch"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Lauterbottich"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Anschwänzwasser"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Glattwasser"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Bierwürze",
+                "Stammwürze"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Würzepfanne"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Maischerückstand",
+                "Trebern"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Hopfen"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Hopfenstange",
+                "Hopfen",
+                "Gartenhopfen"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "tauber",
+                "zahmer",
+                "wilder",
+                "Hopfenbau",
+                "ziehen",
+                "stängeln",
+                "Hopfen",
+                "Zapfenhopfen",
+                "Ausdrücke",
+                "beziehen"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "höpfen",
+                "Hopfen",
+                "versetzen",
+                "Bier"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Hopfen",
+                "übersetzen",
+                "zusetzen"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Hopfenseiher"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Hopfentrebern"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Austreten",
+                "Holzschuhe",
+                "Hopfens"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Kühlschiff"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Kühlschiff",
+                "Kühlauf",
+                "aufkühlt",
+                "Arbeiter",
+                "Bier"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "aufkühlen",
+                "Bier"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Bieraufkühlen",
+                "Kühlkrucke",
+                "Werkzeug"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Kühlschiff",
+                "Beriesler",
+                "Bier",
+                "Arbeiter",
+                "läßt",
+                "Bierlaufer"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Beriesler"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "Gärkeller"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Kühlgeläger"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Gärbottich"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Trupf"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "Trupfsack"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Trupfs",
+                "Filtrieren"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "Trupf",
+                "Spitzbub",
+                "Arbeiter",
+                "filtriert"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "Gärbottich",
+                "Eiweißgerinsel"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "Beginn",
+                "Gärprozesses"
+            ],
+            "id": "C41"
+        },
+        {
+            "concepts": [
+                "steht",
+                "Bottichen",
+                "Schaum",
+                "Kreusen",
+                "hohen",
+                "Bier"
+            ],
+            "id": "C42"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Gärbottiche",
+                "Bottichgantner",
+                "stehen",
+                "Balken"
+            ],
+            "id": "C43"
+        },
+        {
+            "concepts": [
+                "Gärkellerbursch",
+                "Gärkeller",
+                "Arbeiter"
+            ],
+            "id": "C44"
+        },
+        {
+            "concepts": [
+                "Bottiche",
+                "bringt",
+                "Pumpauf",
+                "Arbeiter",
+                "Bier"
+            ],
+            "id": "C45"
+        },
+        {
+            "concepts": [
+                "reinigt",
+                "Bottichwascher",
+                "Bottiche",
+                "Arbeiter"
+            ],
+            "id": "C46"
+        },
+        {
+            "concepts": [
+                "Bierlaufer",
+                "Arbeiter",
+                "Bierkeller",
+                "Aufsicht"
+            ],
+            "id": "C47"
+        },
+        {
+            "concepts": [
+                "Gärhefe"
+            ],
+            "id": "C48"
+        },
+        {
+            "concepts": [
+                "Stammhefe",
+                "Hefestamm"
+            ],
+            "id": "C49"
+        },
+        {
+            "concepts": [
+                "Anstellhefe"
+            ],
+            "id": "C49a"
+        },
+        {
+            "concepts": [],
+            "id": "C50"
+        },
+        {
+            "concepts": [
+                "Hefereinzucht",
+                "Arbeiter",
+                "Zeugler"
+            ],
+            "id": "C51"
+        },
+        {
+            "concepts": [
+                "Hefereinzucht",
+                "Gefäße",
+                "Hefezuber"
+            ],
+            "id": "C52"
+        },
+        {
+            "concepts": [
+                "Bottichschapfer",
+                "Zeugsieb",
+                "Zeugwandelschwimmer",
+                "Zeugkruckerl",
+                "Geräte",
+                "Bottichkraxe",
+                "Hefereinzucht",
+                "Bottichwaschkraxe",
+                "Zeugschaffel",
+                "Zeugziehapparat",
+                "Zeuglöffel"
+            ],
+            "id": "C53"
+        },
+        {
+            "concepts": [
+                "Lagerfaß"
+            ],
+            "id": "C54"
+        },
+        {
+            "concepts": [
+                "lagern",
+                "Bier"
+            ],
+            "id": "C55"
+        },
+        {
+            "concepts": [
+                "Gärkeller",
+                "Einlasser",
+                "Pumpauf",
+                "Lagerfaß",
+                "Arbeiter",
+                "Bier",
+                "schafft"
+            ],
+            "id": "C56"
+        },
+        {
+            "concepts": [
+                "spunden",
+                "Lagerfaß",
+                "gefüllte",
+                "schließen"
+            ],
+            "id": "C57"
+        },
+        {
+            "concepts": [
+                "zeitig",
+                "Abfüllen",
+                "muß",
+                "reif",
+                "Lagerfaß",
+                "beim",
+                "Bier"
+            ],
+            "id": "C58"
+        },
+        {
+            "concepts": [
+                "schlupfen",
+                "Lagerfaß",
+                "leere",
+                "reinigen"
+            ],
+            "id": "C59"
+        },
+        {
+            "concepts": [
+                "reinigt",
+                "Schlupfkolenne",
+                "Schlupfer",
+                "Lagerfaß",
+                "Arbeiter"
+            ],
+            "id": "C60"
+        },
+        {
+            "concepts": [
+                "aufwindet",
+                "hinten",
+                "Leeren",
+                "Hintauf",
+                "Lagerfaß",
+                "beim",
+                "Arbeiter"
+            ],
+            "id": "C61"
+        },
+        {
+            "concepts": [
+                "einziehen",
+                "Lagerfaß",
+                "leeren"
+            ],
+            "id": "C62"
+        },
+        {
+            "concepts": [
+                "abfüllen"
+            ],
+            "id": "C63"
+        },
+        {
+            "concepts": [
+                "Abfüllen",
+                "Haspilant",
+                "beim",
+                "Handlanger"
+            ],
+            "id": "C64"
+        },
+        {
+            "concepts": [
+                "Abfüllen",
+                "helfen",
+                "haspilieren",
+                "beim"
+            ],
+            "id": "C65"
+        },
+        {
+            "concepts": [
+                "Noagl",
+                "Restbier"
+            ],
+            "id": "C66"
+        },
+        {
+            "concepts": [
+                "Noagler",
+                "Restbier",
+                "Arbeiter",
+                "versorgt"
+            ],
+            "id": "C67"
+        },
+        {
+            "concepts": [
+                "Schöps",
+                "zweiter",
+                "Sud",
+                "Maische",
+                "Konvent",
+                "Nachbier"
+            ],
+            "id": "C68"
+        },
+        {
+            "concepts": [
+                "Standlbier",
+                "Tropfbier"
+            ],
+            "id": "C69"
+        },
+        {
+            "concepts": [
+                "Stadtwichs",
+                "Lieferfässer",
+                "Reinigung"
+            ],
+            "id": "C70"
+        },
+        {
+            "concepts": [
+                "Spitze",
+                "Maischscheit",
+                "Feitel",
+                "Steinzange",
+                "Einschlagen",
+                "Verwendung",
+                "Lieferfässser",
+                "Ausleuchter",
+                "Kaps",
+                "Reinigen",
+                "Geräte",
+                "Kerzenleuchter",
+                "Einlaßleuchter",
+                "beim",
+                "kommen"
+            ],
+            "id": "C71"
+        },
+        {
+            "concepts": [
+                "Talg",
+                "Pfortentalg",
+                "Verschmieren",
+                "Lagerfässer"
+            ],
+            "id": "C72"
+        },
+        {
+            "concepts": [
+                "Abfüllen",
+                "beim",
+                "Hundskopf",
+                "Wechselhahn"
+            ],
+            "id": "C73"
+        },
+        {
+            "concepts": [
+                "Faßspund"
+            ],
+            "id": "C74"
+        },
+        {
+            "concepts": [
+                "Fässer",
+                "prüfen"
+            ],
+            "id": "C75"
+        },
+        {
+            "concepts": [
+                "Fässer",
+                "auspichen",
+                "pichen"
+            ],
+            "id": "C76"
+        },
+        {
+            "concepts": [
+                "Picherei",
+                "Faßpichhalle"
+            ],
+            "id": "C77"
+        },
+        {
+            "concepts": [
+                "Fässer",
+                "Picher",
+                "Arbeiter",
+                "auspicht"
+            ],
+            "id": "C78"
+        },
+        {
+            "concepts": [
+                "Pechpfanne",
+                "Geräte",
+                "Pichers"
+            ],
+            "id": "C79"
+        },
+        {
+            "concepts": [
+                "verlassen",
+                "Fässer",
+                "Brauerei",
+                "prüft",
+                "Kontrollor",
+                "Nummern",
+                "Schnurrer"
+            ],
+            "id": "C80"
+        },
+        {
+            "concepts": [
+                "Bierfässer",
+                "Schanz",
+                "Transport",
+                "Abladevorrichtung"
+            ],
+            "id": "C81"
+        },
+        {
+            "concepts": [
+                "Abladen",
+                "Fässer",
+                "Kissen",
+                "beim",
+                "läßt",
+                "auffallen"
+            ],
+            "id": "C82"
+        },
+        {
+            "concepts": [
+                "Bierführer"
+            ],
+            "id": "C83"
+        },
+        {
+            "concepts": [
+                "Bierkassier",
+                "Bierversilberer"
+            ],
+            "id": "C84"
+        },
+        {
+            "concepts": [
+                "Brauknecht"
+            ],
+            "id": "C85"
+        },
+        {
+            "concepts": [
+                "Brauereiarbeiter",
+                "Kantine",
+                "Schalander"
+            ],
+            "id": "C86"
+        },
+        {
+            "concepts": [
+                "Brauereibediensteten",
+                "Haustrunk"
+            ],
+            "id": "C87"
+        },
+        {
+            "concepts": [
+                "Bierfaß",
+                "Banzen",
+                "Wirtssprache"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Dreißiger",
+                "Inhalt",
+                "Fufzehner",
+                "Bierfässer",
+                "Bezeichnung"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Faß",
+                "bringen",
+                "Schankbock"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Einschlagen",
+                "Holzschlägel",
+                "großer",
+                "Hahnes"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "angezapft",
+                "Faß",
+                "anzapfen",
+                "angeschlagen",
+                "frisch"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "treibt",
+                "Bier"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Faim",
+                "Bierschaum",
+                "Borte"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Liter",
+                "halben",
+                "geaichte",
+                "Halbgazen",
+                "Biermaße",
+                "ganzen",
+                "Viertel"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Maßkrug",
+                "Humpen",
+                "Steingut",
+                "Trinkhorn",
+                "Biergefäße",
+                "Bierkanne"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "ausgeschenkt",
+                "Maß",
+                "Liter",
+                "Bier"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Tazel",
+                "Bierglasuntertäßchen",
+                "Untersatzel"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Bierfilz"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Vorrichtung",
+                "rechenartige",
+                "Bierfilze",
+                "Trocknen"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Bierkrugdeckel"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Bierwärmer"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "helles",
+                "Dünnbier",
+                "dunkles",
+                "schwarzes",
+                "Flaschenbier",
+                "lichtes",
+                "braunes",
+                "Bier",
+                "Biersorten"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Flaschenbierhändler"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "pichig",
+                "warm",
+                "Fensterschwitz",
+                "Pech",
+                "schal",
+                "staubig",
+                "süß",
+                "schmeckt",
+                "bitter",
+                "hantig",
+                "abgestanden",
+                "trüb",
+                "jung",
+                "Glodern",
+                "frisch",
+                "Lacke",
+                "sauer",
+                "Bier",
+                "kalt"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Bier",
+                "schäumt"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Name",
+                "schwimmen",
+                "Pechstückchen",
+                "Bier",
+                "pichigem"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "scherzhafte",
+                "Diffidendenjauche",
+                "Gesüff",
+                "schlechtes",
+                "Plempel",
+                "Ausdrücke",
+                "Bier"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "Fässern",
+                "Taxameter",
+                "trinken",
+                "Biertübler",
+                "Bierreste",
+                "Leute"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Taxameter",
+                "Gefäß",
+                "Noagoandl",
+                "auffangen",
+                "Biertübler",
+                "Tropfbier"
+            ],
+            "id": "D23"
+        }
+    ]
+}

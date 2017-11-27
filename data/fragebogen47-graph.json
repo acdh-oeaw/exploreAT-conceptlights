@@ -1,0 +1,840 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "hinken"
+                ],
+                [
+                    "schlendern"
+                ],
+                [
+                    "schwenken"
+                ],
+                [
+                    "schwanken"
+                ],
+                [
+                    "wanken"
+                ],
+                [
+                    "Wendungen"
+                ],
+                [
+                    "wackeln"
+                ],
+                [
+                    "Verwendungen"
+                ],
+                [
+                    "hossen"
+                ]
+            ],
+            "2": [
+                [
+                    "winken"
+                ],
+                [
+                    "Wink"
+                ],
+                [
+                    "zugehörige"
+                ]
+            ],
+            "3": [
+                [
+                    "gehn"
+                ],
+                [
+                    "Formen"
+                ]
+            ],
+            "6": [
+                [
+                    "schwingen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "zöckern",
+                    "zögern"
+                ],
+                [
+                    "Wink",
+                    "winken"
+                ],
+                [
+                    "zugehörige",
+                    "baumeln"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "zugehörige"
+            ],
+            "source": 3,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zugehörige"
+            ],
+            "source": 3,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hinken"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 4,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 6,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zöckern",
+                "zögern"
+            ],
+            "source": 8,
+            "target": 9,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "hossen"
+            ],
+            "source": 10,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlendern"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 13,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 13,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwingen"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwingen"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwingen"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwingen"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwingen"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwingen"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwanken"
+            ],
+            "source": 25,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwenken"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 28,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wanken"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "winken"
+            ],
+            "source": 29,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "winken"
+            ],
+            "source": 29,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wink"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wink"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wink",
+                "winken"
+            ],
+            "source": 32,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "zugehörige",
+                "baumeln"
+            ],
+            "source": 36,
+            "target": 39,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wackeln"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "spechten",
+                "spaichen"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "baseln",
+                "tritscheln",
+                "trepplerisch",
+                "treppeln",
+                "zwazeln",
+                "trippeln"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "stampfen",
+                "aufstampern",
+                "stampen",
+                "aufputzen"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "zaschen",
+                "tschernen",
+                "knauckeln",
+                "Pferde",
+                "latschen",
+                "zapfen",
+                "zugehörige",
+                "dalpen",
+                "zappen",
+                "watscheln",
+                "schlarfen",
+                "hatschen",
+                "dahersacken",
+                "flaischen",
+                "zauschen",
+                "zotten",
+                "krucken",
+                "zochen",
+                "zossen",
+                "schlaißen",
+                "Su"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "hinken"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "knipfen",
+                "nepfen",
+                "hinken",
+                "naupen",
+                "noppen"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "nachschleppen",
+                "schleifend",
+                "Fuß",
+                "nelzen",
+                "schechsen",
+                "süffeln",
+                "zaspen",
+                "gehn",
+                "serfeln"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "tsche",
+                "gehn",
+                "ken"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "zöckern",
+                "Lapp",
+                "Schelte",
+                "Zöcker",
+                "zögern"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Daunderlaun",
+                "hotschen",
+                "sauneln",
+                "geht",
+                "mausseln",
+                "zöckern",
+                "zöfeln",
+                "draineln",
+                "tozeln",
+                "Zauderer",
+                "träge",
+                "tut",
+                "saineln",
+                "Person",
+                "zögern",
+                "zaudern",
+                "dauneln",
+                "langsam",
+                "hotzen",
+                "sendeln"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "gehn",
+                "hossen",
+                "spazieren"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "schlendern",
+                "umher",
+                "strabanzen",
+                "schlenzen",
+                "Schlenzer",
+                "schlenzig",
+                "herumschlenzen",
+                "schlunzen",
+                "schlanzen"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "schlendern",
+                "versäumen",
+                "einhergehn",
+                "schwänzen",
+                "hotteln",
+                "tarchenieren",
+                "umherlocherln",
+                "talieren",
+                "schallatzen",
+                "hottlecht",
+                "stutzerhaft",
+                "schlatzen",
+                "Hottel",
+                "lendeln"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Blindschleiche",
+                "Wendungen",
+                "Hausschuh",
+                "Einschleicher",
+                "Weise",
+                "Formen",
+                "schmelzen",
+                "schleichen",
+                "schlaiken",
+                "Schlich",
+                "Schleichweg",
+                "Schleicher",
+                "schlaichen",
+                "heimliche"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "zalaschen",
+                "herumschleichen"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "stelzen",
+                "Stelze"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "ln",
+                "drische",
+                "Nebensinn"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "schräkeln"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "stolpern",
+                "hoppern",
+                "strauchen"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "sotzgen",
+                "sappen",
+                "sotzen",
+                "saggitzen"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "zaufen",
+                "bloß",
+                "Tieren",
+                "retirieren"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "geschwungen",
+                "schwingt",
+                "schwingen",
+                "schwinken",
+                "Formen",
+                "Pendel",
+                "Werkzeug",
+                "Wagen",
+                "Korb",
+                "ungeschwungen"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "schwingen",
+                "Schwingmus"
+            ],
+            "id": "E1a"
+        },
+        {
+            "concepts": [
+                "schwingen",
+                "Schwung",
+                "schwingern",
+                "Umschwung",
+                "Schwingerei",
+                "Schwinge",
+                "Geschwinget",
+                "erschwinglich",
+                "un",
+                "Abschwang",
+                "Geschwing",
+                "Schwang",
+                "Schwungbaum"
+            ],
+            "id": "E1b"
+        },
+        {
+            "concepts": [
+                "schwingen",
+                "schocken"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "schwankeln",
+                "schwanken",
+                "schwanzen"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "schwenzen",
+                "einschwenken",
+                "schwenken"
+            ],
+            "id": "E3a"
+        },
+        {
+            "concepts": [
+                "schwank",
+                "kommt",
+                "schwenken",
+                "schwenklich",
+                "überschwenkig",
+                "geschwenkig",
+                "schwankel"
+            ],
+            "id": "E3b"
+        },
+        {
+            "concepts": [
+                "backetzen",
+                "barkeln",
+                "besonderen",
+                "flanken",
+                "notteln",
+                "naunkeln",
+                "backeln",
+                "weifen",
+                "schwaimen",
+                "nockeln",
+                "Verwendungen",
+                "flänkeln",
+                "schwanken",
+                "samt"
+            ],
+            "id": "E3c"
+        },
+        {
+            "concepts": [
+                "winken",
+                "wanken"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Wank",
+                "Abwänkel"
+            ],
+            "id": "E4a"
+        },
+        {
+            "concepts": [
+                "wenken",
+                "Wink",
+                "wankel",
+                "Wankelmut",
+                "wankeln",
+                "Wankelheit",
+                "ch",
+                "Wenker",
+                "wanken",
+                "Wankel",
+                "wenke",
+                "wenkeln"
+            ],
+            "id": "E4b"
+        },
+        {
+            "concepts": [
+                "Wink",
+                "winken"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Wink",
+                "winken"
+            ],
+            "id": "E5a"
+        },
+        {
+            "concepts": [
+                "schlänkeln",
+                "austreten",
+                "hellem",
+                "schlankieren",
+                "Dienstboten",
+                "schlenkeln",
+                "schlänkern",
+                "schlenkern"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Schlanken",
+                "Schlänkel",
+                "Schlank",
+                "Apfelschlank"
+            ],
+            "id": "E6a"
+        },
+        {
+            "concepts": [
+                "einzelne",
+                "gackern",
+                "ck",
+                "gageln",
+                "gaukeln",
+                "baumeln",
+                "gaugen",
+                "bewegen",
+                "bedeuten",
+                "Wörter",
+                "gegeln",
+                "Giggegaggerei",
+                "geiggern",
+                "zugehörige",
+                "her"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "wacketzen",
+                "verwackeln",
+                "höllische",
+                "wickel",
+                "wackeln",
+                "Wickelwackel",
+                "wackel",
+                "Glut",
+                "wickelwackeln"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "wabern",
+                "wackeln",
+                "straundeln",
+                "knückeln",
+                "strandeln"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "klenken",
+                "Wörtern",
+                "baumeln",
+                "schlanken",
+                "lampen",
+                "zugehörige",
+                "klunke"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "täumisch",
+                "Torkler",
+                "taumeln",
+                "Schlaf",
+                "torkeln",
+                "taumelig",
+                "Rausch",
+                "Verwendungen",
+                "trumseln"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "hetschen",
+                "hutschen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Hutschenschleuderer",
+                "erwünscht",
+                "Hutsche"
+            ],
+            "id": "E12a"
+        },
+        {
+            "concepts": [
+                "Hosse",
+                "Schaukel",
+                "rainzeln",
+                "rentschen",
+                "hossen",
+                "schaukeln",
+                "raitschen"
+            ],
+            "id": "E12b"
+        }
+    ]
+}

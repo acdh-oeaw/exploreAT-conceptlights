@@ -1,0 +1,3893 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "verwandt"
+                ],
+                [
+                    "Vorfahren"
+                ],
+                [
+                    "Familie"
+                ],
+                [
+                    "Sohn"
+                ],
+                [
+                    "Bruderschaft"
+                ],
+                [
+                    "unterschieden"
+                ],
+                [
+                    "denen"
+                ],
+                [
+                    "Bezeichnungen"
+                ],
+                [
+                    "Älter"
+                ],
+                [
+                    "Kindheit"
+                ],
+                [
+                    "kleiner"
+                ],
+                [
+                    "Jugend"
+                ],
+                [
+                    "Umschreibungen"
+                ],
+                [
+                    "Greis"
+                ],
+                [
+                    "mehr"
+                ],
+                [
+                    "alterlebt"
+                ],
+                [
+                    "verstärkend"
+                ],
+                [
+                    "alter"
+                ],
+                [
+                    "gehören"
+                ],
+                [
+                    "kommen"
+                ],
+                [
+                    "alten"
+                ],
+                [
+                    "Leute"
+                ]
+            ],
+            "2": [
+                [
+                    "Verwandte"
+                ],
+                [
+                    "Großmutter"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "Weib"
+                ],
+                [
+                    "Jahre"
+                ]
+            ],
+            "3": [
+                [
+                    "Verwandtschaft"
+                ],
+                [
+                    "Eltern"
+                ],
+                [
+                    "Tochter"
+                ],
+                [
+                    "Geschwister"
+                ],
+                [
+                    "kindisch"
+                ],
+                [
+                    "Mann"
+                ]
+            ],
+            "4": [
+                [
+                    "Vetter"
+                ]
+            ],
+            "5": [
+                [
+                    "Kind"
+                ],
+                [
+                    "Ausdruck"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "alte"
+                ]
+            ],
+            "6": [
+                [
+                    "Mutter"
+                ]
+            ],
+            "7": [
+                [
+                    "reifen"
+                ]
+            ],
+            "8": [
+                [
+                    "Base"
+                ]
+            ],
+            "9": [
+                [
+                    "Mannes"
+                ]
+            ],
+            "10": [
+                [
+                    "Vater"
+                ],
+                [
+                    "Bruder"
+                ],
+                [
+                    "Schwester"
+                ],
+                [
+                    "Kinder"
+                ]
+            ],
+            "14": [
+                [
+                    "jung"
+                ]
+            ],
+            "27": [
+                [
+                    "Frau"
+                ]
+            ],
+            "28": [
+                [
+                    "alt"
+                ]
+            ],
+            "30": [
+                [
+                    "Alter"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Freundschaft",
+                    "Sippschaft"
+                ],
+                [
+                    "Ausdruck",
+                    "Verwandte"
+                ],
+                [
+                    "Anl",
+                    "Großmutter"
+                ],
+                [
+                    "Vetter",
+                    "Cousin"
+                ],
+                [
+                    "Base",
+                    "Cousine"
+                ],
+                [
+                    "Base",
+                    "Vetter"
+                ],
+                [
+                    "Schwägerin",
+                    "Frau"
+                ],
+                [
+                    "geborenes",
+                    "Kind"
+                ],
+                [
+                    "hundsjung",
+                    "jung"
+                ],
+                [
+                    "reifen",
+                    "Alters"
+                ],
+                [
+                    "reifen",
+                    "Frau"
+                ],
+                [
+                    "alte",
+                    "Frau"
+                ],
+                [
+                    "altes",
+                    "Weib"
+                ],
+                [
+                    "erreichen",
+                    "Alter"
+                ],
+                [
+                    "Alter",
+                    "Jahre"
+                ]
+            ],
+            "3": [
+                [
+                    "Alter",
+                    "Lebensalter"
+                ]
+            ],
+            "6": [
+                [
+                    "Mannes",
+                    "Frau"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Sinn",
+                    "Ausdrücke",
+                    "verächtlichen"
+                ],
+                [
+                    "reifen",
+                    "Mensch",
+                    "Leut"
+                ],
+                [
+                    "Alter",
+                    "sogenannte",
+                    "gefährliche"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Freundschaft",
+                "Sippschaft"
+            ],
+            "source": 0,
+            "target": 1,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwandtschaft"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwandtschaft"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwandtschaft"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehören"
+            ],
+            "source": 2,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwandt"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 3,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 3,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 3,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unterschieden"
+            ],
+            "source": 4,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck",
+                "Verwandte"
+            ],
+            "source": 5,
+            "target": 6,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwandte"
+            ],
+            "source": 5,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vetter"
+            ],
+            "source": 5,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vetter"
+            ],
+            "source": 5,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vetter"
+            ],
+            "source": 5,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 5,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 5,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwandte"
+            ],
+            "source": 6,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 6,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 6,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 6,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 6,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 6,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 6,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eltern"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eltern"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eltern"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 11,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 11,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 11,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 12,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruderschaft"
+            ],
+            "source": 13,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 13,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 15,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 16,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 17,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 18,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anl",
+                "Großmutter"
+            ],
+            "source": 22,
+            "target": 23,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Großmutter"
+            ],
+            "source": 22,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Großmutter"
+            ],
+            "source": 23,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorfahren"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "denen"
+            ],
+            "source": 29,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Familie"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kind"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 31,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 31,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kind"
+            ],
+            "source": 31,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kind"
+            ],
+            "source": 31,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 32,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 32,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kind"
+            ],
+            "source": 33,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kind"
+            ],
+            "source": 33,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 34,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 34,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sohn"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tochter"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tochter"
+            ],
+            "source": 36,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tochter"
+            ],
+            "source": 38,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwister"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwister"
+            ],
+            "source": 39,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwister"
+            ],
+            "source": 40,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 41,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 41,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 41,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 42,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 42,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 43,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 43,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 44,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 44,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 45,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 45,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 46,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 46,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bezeichnungen"
+            ],
+            "source": 47,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 47,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 53,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 53,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 53,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruder"
+            ],
+            "source": 54,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwester"
+            ],
+            "source": 54,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vetter",
+                "Cousin"
+            ],
+            "source": 56,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Vetter"
+            ],
+            "source": 56,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base",
+                "Cousine"
+            ],
+            "source": 57,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Base"
+            ],
+            "source": 57,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Base",
+                "Vetter"
+            ],
+            "source": 62,
+            "target": 63,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 64,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes",
+                "Frau"
+            ],
+            "source": 66,
+            "target": 67,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mannes",
+                "Frau"
+            ],
+            "source": 66,
+            "target": 68,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mannes",
+                "Frau"
+            ],
+            "source": 66,
+            "target": 69,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 66,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 66,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 66,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 66,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 66,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 66,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 66,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes",
+                "Frau"
+            ],
+            "source": 67,
+            "target": 68,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mannes",
+                "Frau"
+            ],
+            "source": 67,
+            "target": 69,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 67,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 67,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 67,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 67,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 67,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 67,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes",
+                "Frau"
+            ],
+            "source": 68,
+            "target": 69,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 68,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 68,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 68,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 68,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 68,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 68,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 68,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwägerin",
+                "Frau"
+            ],
+            "source": 69,
+            "target": 73,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 69,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 69,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 69,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 69,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 69,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 69,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mann"
+            ],
+            "source": 73,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 73,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 73,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mann"
+            ],
+            "source": 73,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 73,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 73,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Älter"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 76,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 76,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 76,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter",
+                "Lebensalter"
+            ],
+            "source": 76,
+            "target": 131,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Alter",
+                "Lebensalter"
+            ],
+            "source": 76,
+            "target": 132,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 76,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 77,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 77,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 77,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 77,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 77,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "erreichen",
+                "Alter"
+            ],
+            "source": 77,
+            "target": 132,
+            "target_group": [
+                2,
+                1,
+                13
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 77,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kindheit"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 81,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 81,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 81,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 81,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Umschreibungen"
+            ],
+            "source": 81,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 81,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleiner"
+            ],
+            "source": 82,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geborenes",
+                "Kind"
+            ],
+            "source": 83,
+            "target": 84,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kindisch"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kindisch"
+            ],
+            "source": 87,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kindisch"
+            ],
+            "source": 88,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jugend"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 91,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 91,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 91,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 91,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 91,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leute"
+            ],
+            "source": 92,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sinn",
+                "Ausdrücke",
+                "verächtlichen"
+            ],
+            "source": 93,
+            "target": 94,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 93,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 94,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 94,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 94,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mehr"
+            ],
+            "source": 95,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 100,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 100,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 100,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 101,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 101,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 101,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hundsjung",
+                "jung"
+            ],
+            "source": 102,
+            "target": 103,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "verstärkend"
+            ],
+            "source": 102,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 102,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jung"
+            ],
+            "source": 103,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jahre"
+            ],
+            "source": 104,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 104,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 104,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 104,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 104,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 104,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 104,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 104,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jahre"
+            ],
+            "source": 104,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 105,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 105,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 105,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen"
+            ],
+            "source": 106,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen"
+            ],
+            "source": 106,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 106,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter",
+                "Jahre"
+            ],
+            "source": 106,
+            "target": 132,
+            "target_group": [
+                2,
+                1,
+                14
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 106,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen",
+                "Alters"
+            ],
+            "source": 107,
+            "target": 109,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "reifen"
+            ],
+            "source": 107,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mann"
+            ],
+            "source": 107,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen",
+                "Mensch",
+                "Leut"
+            ],
+            "source": 108,
+            "target": 110,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Mannes"
+            ],
+            "source": 108,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reifen",
+                "Frau"
+            ],
+            "source": 109,
+            "target": 110,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 109,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 109,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weib"
+            ],
+            "source": 109,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weib"
+            ],
+            "source": 109,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 110,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 110,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Greis"
+            ],
+            "source": 113,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alter"
+            ],
+            "source": 113,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alterlebt"
+            ],
+            "source": 114,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alten"
+            ],
+            "source": 114,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alte",
+                "Frau"
+            ],
+            "source": 116,
+            "target": 117,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "alte"
+            ],
+            "source": 116,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alte"
+            ],
+            "source": 116,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alte"
+            ],
+            "source": 117,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alte"
+            ],
+            "source": 117,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "altes",
+                "Weib"
+            ],
+            "source": 118,
+            "target": 119,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "alte"
+            ],
+            "source": 119,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 120,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 120,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 120,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 120,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 120,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 120,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 121,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 121,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 121,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 121,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 121,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 122,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 122,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 122,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 122,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 123,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 123,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 123,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 124,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 124,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 125,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter",
+                "Lebensalter"
+            ],
+            "source": 131,
+            "target": 132,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 131,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter",
+                "sogenannte",
+                "gefährliche"
+            ],
+            "source": 132,
+            "target": 133,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Verwandtschaft",
+                "Gemacht",
+                "Sippschaft",
+                "Band",
+                "Magenschaft",
+                "Nebenbedeutung",
+                "Gespunst",
+                "el",
+                "Freundschaft"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "ganze",
+                "Bande",
+                "Sippschaft",
+                "Freundschaft",
+                "nette"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Verwandtschaft",
+                "gehören",
+                "jemanden",
+                "stehn"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "gefreundet",
+                "anfreund",
+                "Ausdrücke",
+                "verwandt"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "unterschieden",
+                "Verwandtschaft"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Vetter",
+                "Ausdruck",
+                "Verwandte"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Verwandte",
+                "Base",
+                "Ausdruck",
+                "Basel",
+                "Mume"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "entfernt",
+                "weitschichtig",
+                "nahverwandt",
+                "verwandt"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Ahnleut",
+                "Eltern"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Eltern",
+                "Zieheltern"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Elternliebe",
+                "Elterngut",
+                "Eltern"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Vater",
+                "Alter",
+                "Nonn",
+                "Natti",
+                "Ahn",
+                "Papa",
+                "Tata"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Stiefvater",
+                "Vater"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Vater",
+                "Vateramt",
+                "Vaterschaft",
+                "Bruderschaft",
+                "Vaterweh",
+                "Bauchweh"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "altväterisch"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "bitten",
+                "Vater",
+                "inständig"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Amme",
+                "Nonne",
+                "Mutter",
+                "Mama",
+                "Namme",
+                "Alte"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Ziehmutter",
+                "Mutter"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Mutter",
+                "Muttersöhnlein"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "mutterseelenallein"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "bemuttern"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Enke",
+                "Ehn",
+                "Nane",
+                "Ehnl",
+                "Anlvater",
+                "Großvater",
+                "Herrlein",
+                "Nenl"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Ahnfrau",
+                "Anl",
+                "Anlmutter",
+                "Anka",
+                "Großmutter"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Laugen",
+                "schlafen",
+                "Regenwolken",
+                "Anl",
+                "ungemachten",
+                "dunkle",
+                "Bett",
+                "Großmutter"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Urehn",
+                "Ginkenke",
+                "Aberehn",
+                "Urgroßvater",
+                "Guckehnl",
+                "Urehnherr"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Guckanl",
+                "Urahnfrau",
+                "Urgroßmutter",
+                "Urahne"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Pfuchehn",
+                "Ururgroßvater"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Verwandte",
+                "Grades",
+                "Ururgroßeltern",
+                "geradlinige",
+                "zurückliegt"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Vorfahren",
+                "insgesamt",
+                "Altfordern",
+                "Fordern"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Vorfahren",
+                "geschieden",
+                "mütterlicherseits"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Nachfahren",
+                "Gefick",
+                "Familie",
+                "Nachkommen",
+                "liederliche",
+                "Gesindel",
+                "Trucht",
+                "Afterkommen"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "lediges",
+                "uneheliche",
+                "Kind",
+                "Ehkind",
+                "eheliche",
+                "Kinder"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Familie",
+                "Gefratz",
+                "Sammelbegriff",
+                "Kinder"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Kind",
+                "Ziehkind"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "angenommene",
+                "Kinder"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "jüngste",
+                "Sohn",
+                "mehreren",
+                "älteste",
+                "Söhnen",
+                "bezeichnet"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Tochter"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Sohn",
+                "Häuslersohn"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Tochter"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Geschwister"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Einhalbengeschwister",
+                "Milchgeschwister",
+                "Stiefgeschwister",
+                "Geschwister"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Bruder"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Schnapsbruder",
+                "Bruder"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Bruderhof",
+                "Bruderschaft",
+                "Bruder",
+                "Bruderlade"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Schwester"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Schwester",
+                "Stiefschwester",
+                "Krankenschwester"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Schwester",
+                "Schwestergut"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Tochter",
+                "Sohnes",
+                "Enikel",
+                "Enkel",
+                "Bezeichnungen",
+                "Enkelkind",
+                "unterschieden",
+                "Änelkind",
+                "Kindskinder",
+                "Afterkind",
+                "Kinder",
+                "Ninkele",
+                "Tichter"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Unterenkel",
+                "Guckinkerl",
+                "Aberenikel",
+                "Urenkel"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "mutterhalben"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Vatersbruder",
+                "Ohm",
+                "Onkel"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Muttersbruder",
+                "Mümling"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Tante",
+                "Vatersschwester"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Muhme",
+                "Muttersschwester",
+                "Base"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Bruder",
+                "Schwester",
+                "Großmutter",
+                "Großvaters"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Geschwisterkinder"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Aussprache",
+                "Vetter",
+                "Cousin"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Base",
+                "Cousine"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Neffe"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Nichte"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Großneffe"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Großnichte"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "begrüßen",
+                "Cousine",
+                "anvettern",
+                "Base",
+                "Vetter",
+                "Cousin",
+                "anbaseln"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Kardinal",
+                "Pabst",
+                "Base",
+                "leicht",
+                "Vetter",
+                "wer"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Verwandten",
+                "angeheirateten",
+                "Ausdruck",
+                "Geschwei"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Schwiegereltern"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Vater",
+                "Schwiegervater",
+                "Frau",
+                "Mannes",
+                "Schweher"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Schwiegermutter",
+                "Frau",
+                "Mannes",
+                "Mutter",
+                "Schwieger"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Bruder",
+                "Mannes",
+                "Schwager",
+                "Frau"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Schwägerin",
+                "Schwester",
+                "Mannes",
+                "Frau"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Eidam",
+                "Schwiegersohn"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Schnur",
+                "Sünin",
+                "Schwiegertochter"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "verschwägert",
+                "geschwägerlich"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Geschwister",
+                "Schwagers",
+                "Frau",
+                "Bezeichnungen",
+                "Schwägerin",
+                "Mann",
+                "gibt"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "sprichwörtliche"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Blutsheirat",
+                "Verwandtenheirat"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Älter",
+                "Sinne",
+                "Älten",
+                "Alter",
+                "ältret",
+                "Geälter",
+                "Lebensalter"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "erreichen",
+                "Alter",
+                "schönes",
+                "hohes",
+                "gar",
+                "kommen"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Älter",
+                "älter",
+                "Altersgenosse"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "gleichalterig"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Kindheit"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Umschreibungen",
+                "Kleiner",
+                "Kindheit",
+                "jung"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Wutzelwerk",
+                "Butzelware",
+                "kleiner",
+                "Scheißer",
+                "Gfraßt",
+                "Hemedlenzel",
+                "Kinder"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Tode",
+                "Vaters",
+                "Maidkind",
+                "Kind",
+                "geborenes"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "geborenes",
+                "zeitgerecht",
+                "Zeitkind",
+                "Kind"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "wutzelig",
+                "klein",
+                "butterwinzig"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "zierlich",
+                "däntschig",
+                "niedlich"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "kindisch"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "kindeinen",
+                "benehmen",
+                "kindisch",
+                "kindeinsen"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Kindsköpferei",
+                "kindisches",
+                "Benehmen",
+                "Kinderei"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "kindisch",
+                "Kindskopf",
+                "Erwachsener",
+                "benimmt",
+                "Wurstel"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "stehet",
+                "schöne",
+                "kleiner",
+                "Jungtum",
+                "Jungerheit",
+                "Alter",
+                "Jungheit",
+                "Heit",
+                "harte",
+                "gehabt",
+                "Jugend"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "junge",
+                "Ausdruck",
+                "Leute",
+                "Jugend"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Knautel",
+                "Kerl",
+                "Bursche",
+                "Ausdrücke",
+                "verächtlichen",
+                "Jungherr",
+                "Sinn",
+                "Knös",
+                "Bub"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Flitsche",
+                "Mädel",
+                "Dirndel",
+                "Mätze",
+                "Fettel",
+                "Jungatz",
+                "Bübin",
+                "Mädchen",
+                "Frischling",
+                "verächtlichen",
+                "Menschin",
+                "Gitsche",
+                "Sinn",
+                "Mensch",
+                "Ausdrücke"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Kindesalter",
+                "Kinderschuhen",
+                "mehr",
+                "stecken",
+                "entwachsen",
+                "hosenmäßig"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "unmundbar",
+                "unmündig"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Vormundschaft"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "Gerhab",
+                "Vormund"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "unerfahren",
+                "unreif"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "geschaffen",
+                "jung"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "grün",
+                "jung",
+                "käsig",
+                "naß",
+                "blaß"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "besonders",
+                "jungeinig",
+                "blutjung",
+                "verstärkend",
+                "jung",
+                "grasjung",
+                "hundsjung"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "hundsjung",
+                "kälbernärrisch",
+                "geißnärrisch",
+                "jung"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "zwölf",
+                "Jahre",
+                "Jahr",
+                "Alterstufen",
+                "Bezeichnung",
+                "besonderer",
+                "alt"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Alter",
+                "reifes",
+                "gemannet"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Mannesalter",
+                "Umschreibungen",
+                "reifen",
+                "Jahre",
+                "Alter",
+                "besten",
+                "schönsten",
+                "Vollkraft"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Alters",
+                "reifen",
+                "Recke",
+                "Zoch",
+                "Ding",
+                "Mann",
+                "Mannsbild"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "mannetes",
+                "reifen",
+                "Leut",
+                "Mannes",
+                "Mensch",
+                "manneter"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Gefüdach",
+                "Dingin",
+                "Alters",
+                "reifen",
+                "Frau",
+                "Weib"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "reifen",
+                "weibetes",
+                "Leut",
+                "Frau",
+                "Mensch"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "mundbar",
+                "mündig",
+                "mannerisch",
+                "wirtschaftsfähig",
+                "jährig",
+                "gestanden",
+                "großjährig"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Greisenalter"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "alter",
+                "Altherr",
+                "Greis",
+                "Mann"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "hochbetagt",
+                "bejahrt",
+                "alten",
+                "Mannes",
+                "betagt",
+                "alterlebt"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "Kreister",
+                "Sumser",
+                "Gragler",
+                "Tappnachi",
+                "Brunzerling",
+                "Tatel",
+                "Kraxler",
+                "Fex",
+                "angeben",
+                "Schwachsinniger",
+                "Gispel",
+                "Racker",
+                "etwa",
+                "Nebenbedeutungen",
+                "Greis",
+                "Gogger",
+                "Raunzer"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "Waben",
+                "Greisin",
+                "Bäben",
+                "Frau",
+                "alte",
+                "Weibin",
+                "Wawa"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "Rumpel",
+                "Mürgel",
+                "Spuchtel",
+                "alte",
+                "Frau",
+                "Apostelweib",
+                "gebrechliche"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "Runkunkel",
+                "altes",
+                "Tumpe",
+                "schwachsinniges",
+                "Kordel",
+                "Trutsche",
+                "Raffel",
+                "Klotsche",
+                "Weib"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "minder",
+                "Trommel",
+                "altes",
+                "Schachtel",
+                "Reff",
+                "alte",
+                "verächtliche",
+                "mehr",
+                "Ausdrücke",
+                "Weib"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "atlet",
+                "altgeschaffen",
+                "altig",
+                "alterlebt",
+                "alt"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "uralt",
+                "steinalt",
+                "greisalt",
+                "verstärkend",
+                "alt",
+                "beinalt"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "ganz",
+                "allein",
+                "Verstärkungswort",
+                "altersallein",
+                "alt"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "runzelig",
+                "jung",
+                "neu",
+                "grau",
+                "alt"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Hauptwörtern",
+                "alter",
+                "Geschichten",
+                "Hauben",
+                "alte",
+                "Schmarrn",
+                "Fastnacht",
+                "alt",
+                "Verbindung"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "altern",
+                "altenen",
+                "älteln",
+                "alteinen",
+                "greisen",
+                "alt"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "Siebziger",
+                "Eisen",
+                "eingehen",
+                "zusammenschliefen",
+                "umschreibende",
+                "Tage",
+                "Buckel",
+                "gehören",
+                "schön",
+                "alten",
+                "Wege",
+                "langsam",
+                "kommen",
+                "Leinwand",
+                "gehn",
+                "Böhmische",
+                "alt"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "Altersschwäche"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "abfarb",
+                "ableg",
+                "altersschwach",
+                "gebrechlich",
+                "baufällig"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "wunderlich",
+                "altkindisch",
+                "greisenhaft"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "Tolpatsch",
+                "altkindische",
+                "Hauptwörter",
+                "Straun",
+                "Dideltapp",
+                "bezeichnen",
+                "Kalfakter",
+                "Leute"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "Bedeutung",
+                "Alter",
+                "gefährdet",
+                "beigemessen",
+                "In",
+                "Gesundheit",
+                "Lebensalter"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "40",
+                "erreichen",
+                "Volksglaube",
+                "Jahre",
+                "gescheid",
+                "Alter",
+                "sogenannte",
+                "erst",
+                "Abrahamgrüßen",
+                "Jahren",
+                "Schwaben",
+                "Lebensalter",
+                "gefährliche",
+                "50"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "Alter",
+                "sogenannte",
+                "gefährliche"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "Flegeljahre"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "Nachträge"
+            ],
+            "id": "L5"
+        }
+    ]
+}

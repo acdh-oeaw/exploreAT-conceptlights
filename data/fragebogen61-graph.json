@@ -1,0 +1,4480 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Tier"
+                ],
+                [
+                    "Igel"
+                ],
+                [
+                    "Maulwurfsfell"
+                ],
+                [
+                    "Maulwurfs"
+                ],
+                [
+                    "Maulwurf"
+                ],
+                [
+                    "Mäuse"
+                ],
+                [
+                    "nennt"
+                ],
+                [
+                    "Kämel"
+                ],
+                [
+                    "Vogel"
+                ],
+                [
+                    "heißt"
+                ],
+                [
+                    "Vögel"
+                ],
+                [
+                    "Bergspatz"
+                ],
+                [
+                    "Buntspecht"
+                ],
+                [
+                    "Schlange"
+                ],
+                [
+                    "Kröte"
+                ],
+                [
+                    "Krebs"
+                ],
+                [
+                    "Egel"
+                ],
+                [
+                    "Schnecke"
+                ],
+                [
+                    "Abarten"
+                ],
+                [
+                    "Kiemen"
+                ],
+                [
+                    "Fischer"
+                ],
+                [
+                    "riechen"
+                ],
+                [
+                    "Fang"
+                ],
+                [
+                    "Fischerei"
+                ],
+                [
+                    "verwendet"
+                ],
+                [
+                    "gefangenen"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "Netzen"
+                ],
+                [
+                    "Fischnetzen"
+                ],
+                [
+                    "Netzer"
+                ],
+                [
+                    "heißen"
+                ],
+                [
+                    "Fischreuse"
+                ],
+                [
+                    "benannt"
+                ],
+                [
+                    "Stichling"
+                ]
+            ],
+            "2": [
+                [
+                    "Fachausdrücke"
+                ],
+                [
+                    "Fischers"
+                ]
+            ],
+            "3": [
+                [
+                    "Kamelhaar"
+                ],
+                [
+                    "Schlangen"
+                ],
+                [
+                    "Natter"
+                ],
+                [
+                    "Frosch"
+                ],
+                [
+                    "fangen"
+                ],
+                [
+                    "Fischnetz"
+                ],
+                [
+                    "Geräte"
+                ]
+            ],
+            "5": [
+                [
+                    "Teile"
+                ]
+            ],
+            "6": [
+                [
+                    "Vogelfang"
+                ],
+                [
+                    "Angel"
+                ],
+                [
+                    "Netze"
+                ]
+            ],
+            "8": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "10": [
+                [
+                    "Fische"
+                ],
+                [
+                    "Fisch"
+                ]
+            ],
+            "21": [
+                [
+                    "Fischen"
+                ]
+            ],
+            "36": [
+                [
+                    "Volksglaube"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "mausen",
+                    "stehlen"
+                ],
+                [
+                    "Schildkrötenpanzers",
+                    "Schildkrot"
+                ],
+                [
+                    "Ausdrücke",
+                    "Fühler"
+                ],
+                [
+                    "Ausdrücke",
+                    "Teile"
+                ],
+                [
+                    "unterscheidet",
+                    "wodurch"
+                ],
+                [
+                    "einziehen",
+                    "auswerfen"
+                ],
+                [
+                    "Fischers",
+                    "Fachausdrücke"
+                ]
+            ],
+            "3": [
+                [
+                    "Fachausdrücke",
+                    "sonstige"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Tier"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Igel"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maulwurf"
+            ],
+            "source": 25,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maulwurfsfell"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maulwurfs"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißen"
+            ],
+            "source": 31,
+            "target": 354,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 32,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mäuse"
+            ],
+            "source": 37,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mausen",
+                "stehlen"
+            ],
+            "source": 41,
+            "target": 42,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "riechen"
+            ],
+            "source": 43,
+            "target": 327,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nennt"
+            ],
+            "source": 57,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kämel"
+            ],
+            "source": 70,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kamelhaar"
+            ],
+            "source": 71,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kamelhaar"
+            ],
+            "source": 71,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kamelhaar"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogel"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vögel"
+            ],
+            "source": 99,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fangen"
+            ],
+            "source": 99,
+            "target": 246,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fangen"
+            ],
+            "source": 99,
+            "target": 326,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelfang"
+            ],
+            "source": 102,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelfang"
+            ],
+            "source": 102,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelfang"
+            ],
+            "source": 102,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 102,
+            "target": 265,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 102,
+            "target": 291,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 102,
+            "target": 304,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 102,
+            "target": 339,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 102,
+            "target": 345,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 102,
+            "target": 352,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelfang"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelfang"
+            ],
+            "source": 103,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelfang"
+            ],
+            "source": 104,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gefangenen"
+            ],
+            "source": 105,
+            "target": 340,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fachausdrücke"
+            ],
+            "source": 107,
+            "target": 332,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fachausdrücke",
+                "sonstige"
+            ],
+            "source": 107,
+            "target": 353,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fachausdrücke",
+                "sonstige"
+            ],
+            "source": 107,
+            "target": 361,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bergspatz"
+            ],
+            "source": 139,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buntspecht"
+            ],
+            "source": 199,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schildkrötenpanzers",
+                "Schildkrot"
+            ],
+            "source": 217,
+            "target": 218,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 223,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlange"
+            ],
+            "source": 227,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Natter"
+            ],
+            "source": 228,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Natter"
+            ],
+            "source": 228,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 229,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 229,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 229,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 229,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 229,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 229,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 229,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlangen"
+            ],
+            "source": 230,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlangen"
+            ],
+            "source": 230,
+            "target": 232,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlangen"
+            ],
+            "source": 231,
+            "target": 232,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 234,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 234,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 234,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 234,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 234,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 234,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Natter"
+            ],
+            "source": 236,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 243,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 243,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 243,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 243,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 243,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frosch"
+            ],
+            "source": 244,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frosch"
+            ],
+            "source": 244,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frosch"
+            ],
+            "source": 245,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fangen"
+            ],
+            "source": 246,
+            "target": 326,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kröte"
+            ],
+            "source": 253,
+            "target": 254,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 253,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 253,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 253,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 253,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abarten"
+            ],
+            "source": 255,
+            "target": 293,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 256,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 256,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 256,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krebs"
+            ],
+            "source": 262,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Fühler"
+            ],
+            "source": 265,
+            "target": 291,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 265,
+            "target": 304,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kiemen"
+            ],
+            "source": 265,
+            "target": 309,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 265,
+            "target": 345,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 266,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 266,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 275,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Egel"
+            ],
+            "source": 286,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnecke"
+            ],
+            "source": 290,
+            "target": 291,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Teile"
+            ],
+            "source": 291,
+            "target": 304,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 291,
+            "target": 337,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 291,
+            "target": 345,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 291,
+            "target": 358,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 302,
+            "target": 303,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 302,
+            "target": 317,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 302,
+            "target": 327,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 302,
+            "target": 362,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 303,
+            "target": 317,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 303,
+            "target": 327,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 303,
+            "target": 362,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 304,
+            "target": 337,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 304,
+            "target": 345,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 304,
+            "target": 358,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 311,
+            "target": 313,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 311,
+            "target": 314,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 311,
+            "target": 315,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 311,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 311,
+            "target": 319,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 311,
+            "target": 320,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 312,
+            "target": 316,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 312,
+            "target": 326,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 312,
+            "target": 340,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 312,
+            "target": 359,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 313,
+            "target": 314,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 313,
+            "target": 315,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 313,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 313,
+            "target": 319,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 313,
+            "target": 320,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 314,
+            "target": 315,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 314,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 314,
+            "target": 319,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 314,
+            "target": 320,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 315,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 315,
+            "target": 319,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 315,
+            "target": 320,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 316,
+            "target": 326,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 316,
+            "target": 340,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 316,
+            "target": 359,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 317,
+            "target": 327,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 317,
+            "target": 362,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 318,
+            "target": 319,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 318,
+            "target": 320,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischen"
+            ],
+            "source": 319,
+            "target": 320,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischer"
+            ],
+            "source": 322,
+            "target": 323,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischerei"
+            ],
+            "source": 325,
+            "target": 333,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 326,
+            "target": 340,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 326,
+            "target": 359,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fisch"
+            ],
+            "source": 327,
+            "target": 362,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fang"
+            ],
+            "source": 328,
+            "target": 329,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unterscheidet",
+                "wodurch"
+            ],
+            "source": 330,
+            "target": 332,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fischers"
+            ],
+            "source": 332,
+            "target": 341,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fachausdrücke"
+            ],
+            "source": 332,
+            "target": 353,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischers",
+                "Fachausdrücke"
+            ],
+            "source": 332,
+            "target": 361,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "benannt"
+            ],
+            "source": 333,
+            "target": 362,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angel"
+            ],
+            "source": 334,
+            "target": 335,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angel"
+            ],
+            "source": 334,
+            "target": 336,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angel"
+            ],
+            "source": 334,
+            "target": 337,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angel"
+            ],
+            "source": 335,
+            "target": 336,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angel"
+            ],
+            "source": 335,
+            "target": 337,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einziehen",
+                "auswerfen"
+            ],
+            "source": 335,
+            "target": 343,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Angel"
+            ],
+            "source": 336,
+            "target": 337,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 337,
+            "target": 358,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fische"
+            ],
+            "source": 340,
+            "target": 359,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischers"
+            ],
+            "source": 341,
+            "target": 361,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischnetz"
+            ],
+            "source": 342,
+            "target": 345,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischnetz"
+            ],
+            "source": 342,
+            "target": 351,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Netze"
+            ],
+            "source": 343,
+            "target": 347,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Netze"
+            ],
+            "source": 343,
+            "target": 354,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Netze"
+            ],
+            "source": 343,
+            "target": 355,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischnetz"
+            ],
+            "source": 345,
+            "target": 351,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Netzen"
+            ],
+            "source": 346,
+            "target": 352,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Netze"
+            ],
+            "source": 347,
+            "target": 354,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Netze"
+            ],
+            "source": 347,
+            "target": 355,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Netzer"
+            ],
+            "source": 348,
+            "target": 353,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischnetzen"
+            ],
+            "source": 349,
+            "target": 352,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 352,
+            "target": 360,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 352,
+            "target": 361,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fachausdrücke",
+                "sonstige"
+            ],
+            "source": 353,
+            "target": 361,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Netze"
+            ],
+            "source": 354,
+            "target": 355,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fischreuse"
+            ],
+            "source": 356,
+            "target": 357,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 360,
+            "target": 361,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stichling"
+            ],
+            "source": 362,
+            "target": 368,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Tier"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Getier",
+                "Tier"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "tierisch"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Löwe"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Löwin"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Tiger"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "getigert",
+                "tigerlet"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Pardel"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Leopard"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Panther",
+                "Pantel"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Jaguar",
+                "Unze"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Schakal"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Hyäne"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Zobel"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Eisbär"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Affe"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Äffin"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "äffisch"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "veraffen",
+                "nachäffen",
+                "affen"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Nachäffer"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Menagerie"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Käfig"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Igel"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Igels",
+                "Stachel"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Igel",
+                "rollt"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Maulwurf",
+                "Scher"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Maulwurfshügel",
+                "Scherbatzen"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Maulwurfsfalle",
+                "Schereisen"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Scherfänger",
+                "Maulwurfsfänger"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Maulwurfsfell"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Maulwurfsfell",
+                "glatt",
+                "scherlhäl"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Maulwurfs",
+                "Vorderfüße",
+                "heißen"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Maulwurfs",
+                "Schnauze",
+                "heißt"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Maulwurf",
+                "wühlen"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "Eichele",
+                "Eichhörnchen"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Eichhornnest"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Maus"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "weiße",
+                "Mäuse"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Mauskönig"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Mäusefalle"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "maustot"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "mausen",
+                "stehlen"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "mausen",
+                "stehlen"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "mauseinen",
+                "mäuseln",
+                "mauselen",
+                "Mäusen"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Stockmäuser"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "stockmauset"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "Schneemaus"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "Mäusebilch",
+                "Haselmaus"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "Siebenschläfer",
+                "Bilch",
+                "Schlafmaus"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "Ratz",
+                "Ratte"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "Rattenkönig"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "Rattenschwanz"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "Rattenfalle"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "abratzen",
+                "ratzen"
+            ],
+            "id": "A54"
+        },
+        {
+            "concepts": [
+                "Wanderratte"
+            ],
+            "id": "A55"
+        },
+        {
+            "concepts": [
+                "Wasserratte",
+                "Mollmaus"
+            ],
+            "id": "A56"
+        },
+        {
+            "concepts": [
+                "Bisamratte"
+            ],
+            "id": "A57"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "Pfeifen",
+                "Ratten",
+                "Mäuse"
+            ],
+            "id": "A58"
+        },
+        {
+            "concepts": [
+                "Fledermaus"
+            ],
+            "id": "A59"
+        },
+        {
+            "concepts": [
+                "Zwergfledermaus",
+                "Haarrafferl"
+            ],
+            "id": "A60"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "Fliegen",
+                "Fledermäuse"
+            ],
+            "id": "A61"
+        },
+        {
+            "concepts": [
+                "Hamster"
+            ],
+            "id": "A62"
+        },
+        {
+            "concepts": [
+                "hamstern"
+            ],
+            "id": "A63"
+        },
+        {
+            "concepts": [
+                "Hamsterer"
+            ],
+            "id": "A64"
+        },
+        {
+            "concepts": [
+                "Hamstertaschen"
+            ],
+            "id": "A65"
+        },
+        {
+            "concepts": [
+                "Stachelschwein"
+            ],
+            "id": "A66"
+        },
+        {
+            "concepts": [
+                "Nährfarl",
+                "Meerschweinchen"
+            ],
+            "id": "A67"
+        },
+        {
+            "concepts": [
+                "Känguru"
+            ],
+            "id": "A68"
+        },
+        {
+            "concepts": [
+                "Faultier"
+            ],
+            "id": "A69"
+        },
+        {
+            "concepts": [
+                "Zebra"
+            ],
+            "id": "A70"
+        },
+        {
+            "concepts": [
+                "Kämel",
+                "Kamel"
+            ],
+            "id": "A71"
+        },
+        {
+            "concepts": [
+                "Kamelhaar"
+            ],
+            "id": "A72"
+        },
+        {
+            "concepts": [
+                "Kamelot",
+                "Kämel",
+                "Zeug",
+                "Kamelhaar",
+                "Kämlertuch"
+            ],
+            "id": "A73"
+        },
+        {
+            "concepts": [
+                "kämlen",
+                "Kamelhaar"
+            ],
+            "id": "A74"
+        },
+        {
+            "concepts": [
+                "Trampeltier",
+                "Dromedar"
+            ],
+            "id": "A75"
+        },
+        {
+            "concepts": [
+                "Kamelhöcker"
+            ],
+            "id": "A76"
+        },
+        {
+            "concepts": [
+                "Lama"
+            ],
+            "id": "A77"
+        },
+        {
+            "concepts": [
+                "Elch",
+                "Elentier"
+            ],
+            "id": "A78"
+        },
+        {
+            "concepts": [
+                "Renntier"
+            ],
+            "id": "A79"
+        },
+        {
+            "concepts": [
+                "Giraffe"
+            ],
+            "id": "A80"
+        },
+        {
+            "concepts": [
+                "Antilope"
+            ],
+            "id": "A81"
+        },
+        {
+            "concepts": [
+                "Gazelle"
+            ],
+            "id": "A82"
+        },
+        {
+            "concepts": [
+                "Auerochs"
+            ],
+            "id": "A83"
+        },
+        {
+            "concepts": [
+                "Wisent",
+                "Bison"
+            ],
+            "id": "A84"
+        },
+        {
+            "concepts": [
+                "Elefant"
+            ],
+            "id": "A85"
+        },
+        {
+            "concepts": [
+                "Elfenbein"
+            ],
+            "id": "A86"
+        },
+        {
+            "concepts": [
+                "elfenbeinern"
+            ],
+            "id": "A87"
+        },
+        {
+            "concepts": [
+                "Nashorn"
+            ],
+            "id": "A88"
+        },
+        {
+            "concepts": [
+                "Flußpferd"
+            ],
+            "id": "A89"
+        },
+        {
+            "concepts": [
+                "Seehund"
+            ],
+            "id": "A90"
+        },
+        {
+            "concepts": [
+                "Seelöwe"
+            ],
+            "id": "A91"
+        },
+        {
+            "concepts": [
+                "Walroß"
+            ],
+            "id": "A92"
+        },
+        {
+            "concepts": [
+                "Walfisch"
+            ],
+            "id": "A93"
+        },
+        {
+            "concepts": [
+                "Fischbein"
+            ],
+            "id": "A94"
+        },
+        {
+            "concepts": [
+                "Lebertran",
+                "Tran"
+            ],
+            "id": "A95"
+        },
+        {
+            "concepts": [
+                "Delphin"
+            ],
+            "id": "A96"
+        },
+        {
+            "concepts": [
+                "sauberer",
+                "Vogel"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Krautvogel",
+                "Vögerlkraut",
+                "Vogel"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Geflügel",
+                "Gevögel"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "vogeln",
+                "Henne",
+                "Vögel",
+                "treten",
+                "fangen"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Vogler",
+                "Vogelfänger"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Vogelherd"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Vorrichtungen",
+                "verwendet",
+                "Vogelfang",
+                "beim",
+                "Ausdrücke"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Vogelköder",
+                "Vogelfang"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Vogelfang",
+                "Fangmittel",
+                "Aufrichten",
+                "heißt"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Vögel",
+                "Ablösen",
+                "gefangenen"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Beobachtungshütte",
+                "Vogelfang"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Fachausdrücke",
+                "Vogelfängers",
+                "sonstige"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Stubenvögel"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Vogelbauer"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Papperl",
+                "Papagei"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Kakadu"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Kanarienvogel"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Rotkehlchen"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Gartenrotschwanz"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Gebirgsamsel",
+                "Steinrötel"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Steinschmätzerarten",
+                "verschiedene",
+                "bekannt",
+                "Steinschmätzer",
+                "Totenvogel"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Krautlerche",
+                "Kohlvöglein",
+                "Braunkehlchen"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Schwarzkehlchen",
+                "Schollenhüpfer"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Schneekater",
+                "Mistler",
+                "Misteldrossel",
+                "Schnerr"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Sommerdrossel"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Winterdrossel"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Ringdrossel"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Amsel",
+                "Merle",
+                "Schwarzdrossel"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Wasseramsel"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Künigerl",
+                "Zaunkönig"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Sperbergrasmücke"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Meistersänger"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "Mönchsgrasmücke",
+                "Schwarzplattel",
+                "Mohrenkopf"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Gartengrasmücke",
+                "Grashexe"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "Spötter",
+                "Zaungrasmücke"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "Hagschlupfer",
+                "Weißkehlchen",
+                "Dorngrasmücke",
+                "Staudenschwätzer"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "Gartensänger",
+                "Spötterling",
+                "Hagspatz"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Schwirrlaubvogel",
+                "Spaliervöglein"
+            ],
+            "id": "B38"
+        },
+        {
+            "concepts": [
+                "Fitislaubsänger",
+                "Wisperlein",
+                "Fitting",
+                "Weidenzeisig",
+                "Schmittl"
+            ],
+            "id": "B39"
+        },
+        {
+            "concepts": [
+                "Mitwaldlein",
+                "Erdzeisig",
+                "Weidenlaubsänger"
+            ],
+            "id": "B40"
+        },
+        {
+            "concepts": [
+                "Astachhahnl",
+                "Wintergoldhähnchen"
+            ],
+            "id": "B41"
+        },
+        {
+            "concepts": [
+                "Sommergoldhähnchen"
+            ],
+            "id": "B42"
+        },
+        {
+            "concepts": [
+                "Heckenbraunelle",
+                "Waldflüevogel",
+                "Bleikehlchen"
+            ],
+            "id": "B43"
+        },
+        {
+            "concepts": [
+                "Bergspatz",
+                "Alpenflüevogel",
+                "Steinlerche"
+            ],
+            "id": "B44"
+        },
+        {
+            "concepts": [
+                "Hotterl",
+                "Ackermännchen",
+                "Wippschwanz",
+                "Bachstelze"
+            ],
+            "id": "B45"
+        },
+        {
+            "concepts": [
+                "Irling",
+                "Winterstelze",
+                "Sticherling"
+            ],
+            "id": "B46"
+        },
+        {
+            "concepts": [
+                "Wiesenstelze"
+            ],
+            "id": "B47"
+        },
+        {
+            "concepts": [
+                "Grillenlerche",
+                "Gixer",
+                "Wiesenpieper"
+            ],
+            "id": "B48"
+        },
+        {
+            "concepts": [
+                "Holzlerche",
+                "Waldpieper"
+            ],
+            "id": "B49"
+        },
+        {
+            "concepts": [
+                "Brachpieper"
+            ],
+            "id": "B50"
+        },
+        {
+            "concepts": [
+                "Singlerche"
+            ],
+            "id": "B51"
+        },
+        {
+            "concepts": [
+                "Heidelerche"
+            ],
+            "id": "B52"
+        },
+        {
+            "concepts": [
+                "Kotmichel",
+                "Kotlerche"
+            ],
+            "id": "B53"
+        },
+        {
+            "concepts": [
+                "Zwergammer",
+                "ling"
+            ],
+            "id": "B54"
+        },
+        {
+            "concepts": [
+                "Waldammer"
+            ],
+            "id": "B55"
+        },
+        {
+            "concepts": [
+                "Winterammer"
+            ],
+            "id": "B56"
+        },
+        {
+            "concepts": [
+                "Goldammer"
+            ],
+            "id": "B57"
+        },
+        {
+            "concepts": [
+                "Zizi",
+                "Zirpammer",
+                "Moosbürz"
+            ],
+            "id": "B58"
+        },
+        {
+            "concepts": [
+                "Sommerammer",
+                "Gärtner",
+                "Ortolan"
+            ],
+            "id": "B59"
+        },
+        {
+            "concepts": [
+                "Steinammer"
+            ],
+            "id": "B60"
+        },
+        {
+            "concepts": [
+                "Schlagfink"
+            ],
+            "id": "B61"
+        },
+        {
+            "concepts": [
+                "Pienk",
+                "Bergfink"
+            ],
+            "id": "B62"
+        },
+        {
+            "concepts": [
+                "Steinfink"
+            ],
+            "id": "B63"
+        },
+        {
+            "concepts": [
+                "Grünfink",
+                "Grünzling"
+            ],
+            "id": "B64"
+        },
+        {
+            "concepts": [
+                "Zeißerl",
+                "Zeisig"
+            ],
+            "id": "B65"
+        },
+        {
+            "concepts": [
+                "Distelfink",
+                "Stieglitz"
+            ],
+            "id": "B66"
+        },
+        {
+            "concepts": [
+                "Haniferl",
+                "Bluthänfling"
+            ],
+            "id": "B67"
+        },
+        {
+            "concepts": [
+                "Bergzeisig",
+                "Hardölderl",
+                "Flachsfink"
+            ],
+            "id": "B68"
+        },
+        {
+            "concepts": [
+                "Rotleinfink"
+            ],
+            "id": "B69"
+        },
+        {
+            "concepts": [
+                "Hausspatz"
+            ],
+            "id": "B70"
+        },
+        {
+            "concepts": [
+                "Rohrspatz"
+            ],
+            "id": "B71"
+        },
+        {
+            "concepts": [
+                "Bergspatz"
+            ],
+            "id": "B72"
+        },
+        {
+            "concepts": [
+                "Kirschenbeißer",
+                "Kirschkernbeißer"
+            ],
+            "id": "B73"
+        },
+        {
+            "concepts": [
+                "Girlitz"
+            ],
+            "id": "B74"
+        },
+        {
+            "concepts": [
+                "Gimpel",
+                "Dompfaff",
+                "Blutfink"
+            ],
+            "id": "B75"
+        },
+        {
+            "concepts": [
+                "Kiefernkreuzschnabel",
+                "Krummschnabel",
+                "Roßkrinitz"
+            ],
+            "id": "B76"
+        },
+        {
+            "concepts": [
+                "Fichtenkreuzschnabel",
+                "Krinitz"
+            ],
+            "id": "B77"
+        },
+        {
+            "concepts": [
+                "Weißbindenkreuzschnabel"
+            ],
+            "id": "B78"
+        },
+        {
+            "concepts": [
+                "Star"
+            ],
+            "id": "B79"
+        },
+        {
+            "concepts": [
+                "Birkheher",
+                "Blaurake",
+                "Mandelkrähe"
+            ],
+            "id": "B80"
+        },
+        {
+            "concepts": [
+                "Stallschwalbe"
+            ],
+            "id": "B81"
+        },
+        {
+            "concepts": [
+                "Stadtschwalbe"
+            ],
+            "id": "B82"
+        },
+        {
+            "concepts": [
+                "Speier",
+                "Turmschwalbe"
+            ],
+            "id": "B83"
+        },
+        {
+            "concepts": [
+                "Ziegenmelker",
+                "Nachtschwalbe"
+            ],
+            "id": "B84"
+        },
+        {
+            "concepts": [
+                "Bienenfresser",
+                "Seeschwalbe"
+            ],
+            "id": "B85"
+        },
+        {
+            "concepts": [
+                "Steinschwalbe"
+            ],
+            "id": "B86"
+        },
+        {
+            "concepts": [
+                "Wasserschwalbe"
+            ],
+            "id": "B87"
+        },
+        {
+            "concepts": [
+                "Fliegenfänger"
+            ],
+            "id": "B88"
+        },
+        {
+            "concepts": [
+                "Seidenschwanz"
+            ],
+            "id": "B89"
+        },
+        {
+            "concepts": [
+                "Pirol",
+                "Goldamsel",
+                "Gugelfirhaus"
+            ],
+            "id": "B90"
+        },
+        {
+            "concepts": [
+                "Kohlmeise"
+            ],
+            "id": "B91"
+        },
+        {
+            "concepts": [
+                "Blaumeise"
+            ],
+            "id": "B92"
+        },
+        {
+            "concepts": [
+                "Tannenmeise"
+            ],
+            "id": "B93"
+        },
+        {
+            "concepts": [
+                "Schopfmeise"
+            ],
+            "id": "B94"
+        },
+        {
+            "concepts": [
+                "Pfannenstiel",
+                "Schneemeise"
+            ],
+            "id": "B95"
+        },
+        {
+            "concepts": [
+                "Kläner",
+                "Blauspecht",
+                "Spechtmeise",
+                "Baumrutscher"
+            ],
+            "id": "B96"
+        },
+        {
+            "concepts": [
+                "Baumläufer"
+            ],
+            "id": "B97"
+        },
+        {
+            "concepts": [
+                "Mauerläufer",
+                "Mauerspecht"
+            ],
+            "id": "B98"
+        },
+        {
+            "concepts": [
+                "Wiedehopf",
+                "Wudwud"
+            ],
+            "id": "B99"
+        },
+        {
+            "concepts": [
+                "Kuckuck"
+            ],
+            "id": "B100"
+        },
+        {
+            "concepts": [
+                "Specht"
+            ],
+            "id": "B101"
+        },
+        {
+            "concepts": [
+                "Schwarzspecht",
+                "Holzhahn"
+            ],
+            "id": "B102"
+        },
+        {
+            "concepts": [
+                "Schildspecht"
+            ],
+            "id": "B103"
+        },
+        {
+            "concepts": [
+                "kleiner",
+                "Buntspecht",
+                "Baumhacker"
+            ],
+            "id": "B104"
+        },
+        {
+            "concepts": [
+                "Elsterspecht"
+            ],
+            "id": "B105"
+        },
+        {
+            "concepts": [
+                "Grünspecht",
+                "Holzhacker",
+                "Zimmermann"
+            ],
+            "id": "B106"
+        },
+        {
+            "concepts": [
+                "Hellenenspecht"
+            ],
+            "id": "B107"
+        },
+        {
+            "concepts": [
+                "Grauspecht"
+            ],
+            "id": "B108"
+        },
+        {
+            "concepts": [
+                "Buntspecht",
+                "Gelbkopf",
+                "scheckiger",
+                "Dreizehenspecht"
+            ],
+            "id": "B109"
+        },
+        {
+            "concepts": [
+                "Nachtigall"
+            ],
+            "id": "B110"
+        },
+        {
+            "concepts": [
+                "Aunachtigall",
+                "Sprosser"
+            ],
+            "id": "B111"
+        },
+        {
+            "concepts": [
+                "Wassernachtigall",
+                "Weidendrossel",
+                "Rohrschliefer"
+            ],
+            "id": "B112"
+        },
+        {
+            "concepts": [
+                "Wasserzeisig",
+                "Teichrohrsänger"
+            ],
+            "id": "B113"
+        },
+        {
+            "concepts": [
+                "Sumpfrohrsänger"
+            ],
+            "id": "B114"
+        },
+        {
+            "concepts": [
+                "Ufersänger"
+            ],
+            "id": "B115"
+        },
+        {
+            "concepts": [
+                "Buschsänger",
+                "Feldschwirl"
+            ],
+            "id": "B116"
+        },
+        {
+            "concepts": [
+                "Rohrschwirl"
+            ],
+            "id": "B117"
+        },
+        {
+            "concepts": [
+                "Wasserpieper",
+                "Gipser",
+                "Weißler",
+                "Herdvögelchen"
+            ],
+            "id": "B118"
+        },
+        {
+            "concepts": [
+                "Rohrammer"
+            ],
+            "id": "B119"
+        },
+        {
+            "concepts": [
+                "Kotmeise"
+            ],
+            "id": "B120"
+        },
+        {
+            "concepts": [
+                "Schildkröte"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Schildkrötenpanzers",
+                "Masse",
+                "Schildkrot"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Schildkrötenpanzers",
+                "Stoff",
+                "Schildkrot"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Krokodil"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Krokodilstränen"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Eidechse"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Gruenz",
+                "Grüneidechse",
+                "Krauthahn"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Natterretterlein",
+                "Zauneidechse",
+                "Volksglaube"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Waldeidechse"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Blindschleiche",
+                "Brunnschlegel"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Chamäleon"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Schlange"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Natter",
+                "Otter"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Natterkrönlein"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "züngeletzen",
+                "züngeln",
+                "Schlangen"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "schlängeln",
+                "Schlangen"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "zischen",
+                "Schlangen"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Schlange",
+                "Giftzahn"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "einzelne",
+                "Volksglaube",
+                "Schlangenarten",
+                "knüpft"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Riesenschlange"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Natter",
+                "Jochschlange",
+                "glatte"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Natter",
+                "gelbgrüne"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Balkennatter"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Hausnatter"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Würfelnatter"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Kupfernatter",
+                "Kreuzotter"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Nasenviper",
+                "Sandotter"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Track",
+                "Volksglaube",
+                "Drache"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "Frosch"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Froschschenkel",
+                "Frosch"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Frösche",
+                "froscheln",
+                "fangen"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Spiel",
+                "fröscheln"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "Frosch",
+                "quaken",
+                "jageln"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Froschlaich"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Wasserfrosch"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Märzfrosch"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "Krotenschlegel",
+                "Kaulquappe"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Auke",
+                "Höppin",
+                "Volksglaube",
+                "Hetsche",
+                "Kröte"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "Krotenblümlein",
+                "Krote",
+                "Kröte"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "Abarten",
+                "Kröten",
+                "Unke",
+                "Feuerkröte"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "Wegnarr",
+                "Volksglaube",
+                "Feuersalamander"
+            ],
+            "id": "C41"
+        },
+        {
+            "concepts": [
+                "Mohrensalamander"
+            ],
+            "id": "C42"
+        },
+        {
+            "concepts": [
+                "Kammolch",
+                "Wassersalamander",
+                "Vierfüßel"
+            ],
+            "id": "C43"
+        },
+        {
+            "concepts": [
+                "Streifenmolch"
+            ],
+            "id": "C44"
+        },
+        {
+            "concepts": [
+                "Leistenmolch"
+            ],
+            "id": "C45"
+        },
+        {
+            "concepts": [
+                "Olm"
+            ],
+            "id": "C46"
+        },
+        {
+            "concepts": [
+                "Krebs",
+                "Krebeß",
+                "Kreß"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Krebs",
+                "Taschenkrebs"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "krebsen"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Scheren",
+                "Panzer",
+                "Krebses",
+                "Kiemen",
+                "Fühler",
+                "Körperteile",
+                "Ausdrücke"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "linsenförmige",
+                "zwei",
+                "Volksglaube",
+                "Seite",
+                "Kalkbildungen",
+                "Krebsaugen",
+                "Krebsmagens"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Krabbe"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Hummer"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Flohkrebs"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Wasserfloh"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Kiemenfuß"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Fischlaus"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Wurm"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Herzwurm"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "wurmt"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "wurmig",
+                "wurmmäßig",
+                "derwurmt",
+                "wurmstichig"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Regenwurm"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Spulwurm"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Pfriemenschwanz"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Trichine"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Peitschenwurm"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "Bandwurm"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Mittel",
+                "Abtreibung",
+                "Bandwurmes"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Drehwurm"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Egel"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Egel",
+                "setzen"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Blutegel"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "Pferdeegel"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "Schnecke",
+                "Sprüche"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Schneckenhaus",
+                "Ausdrücke",
+                "Schwanz",
+                "Fühler",
+                "Schnecke",
+                "Teile"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "Schneckenschleim",
+                "Morgen",
+                "Volksglaube"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "graue",
+                "Weinbergschnecke",
+                "rote",
+                "Schnecken",
+                "Abarten",
+                "Sumpfschnecke",
+                "grauschwarze"
+            ],
+            "id": "D32"
+        },
+        {
+            "concepts": [
+                "Muschel"
+            ],
+            "id": "D33"
+        },
+        {
+            "concepts": [
+                "Perlmuschel"
+            ],
+            "id": "D34"
+        },
+        {
+            "concepts": [
+                "Perl"
+            ],
+            "id": "D35"
+        },
+        {
+            "concepts": [
+                "Perlmutter"
+            ],
+            "id": "D36"
+        },
+        {
+            "concepts": [
+                "Entenmuschel"
+            ],
+            "id": "D37"
+        },
+        {
+            "concepts": [
+                "Auster"
+            ],
+            "id": "D38"
+        },
+        {
+            "concepts": [
+                "Koralle"
+            ],
+            "id": "D39"
+        },
+        {
+            "concepts": [
+                "Badeschwamm"
+            ],
+            "id": "D40"
+        },
+        {
+            "concepts": [
+                "stumm",
+                "Fisch"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Fisch"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Fischkörpers",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Flosse",
+                "Afterflosse"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Schuppe"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "entfernen",
+                "Fisches",
+                "Schuppen"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Gräte"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Kiemen"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Fischeier",
+                "Laich"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "laichen",
+                "ablegen",
+                "Eier",
+                "Fischen"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Fische",
+                "Laichzeit"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "schwimmen",
+                "Formen",
+                "Fischen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "schnalzen",
+                "Fischen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Fischen",
+                "schnappen"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Fische",
+                "Weibchen",
+                "Namen",
+                "Männchen"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "stillstehen",
+                "Fisch",
+                "Wasser"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "herausschnellen",
+                "Fischen"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Schwärmen",
+                "ziehen",
+                "Fischen"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Fluß",
+                "Fischen",
+                "hinaufsteigen"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Fischbrut"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Fischer"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Fischer"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Fischerin"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Fischerei"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Fische",
+                "fischen",
+                "fangen"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "fischeln",
+                "Fisch",
+                "riechen"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "Fischfang",
+                "guter",
+                "Fang",
+                "schlechter"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "heimkehren",
+                "Fang",
+                "hinausfahren"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "außen",
+                "Häusern",
+                "Fischerhaus",
+                "wodurch",
+                "Ortes",
+                "unterscheidet",
+                "innen"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "Besonderes",
+                "Einrichtung",
+                "Fischerhauses"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "Fischers",
+                "Fachausdrücke",
+                "Leben",
+                "wodurch",
+                "übrigen",
+                "Besondere",
+                "unterscheidet",
+                "Bevölkerung"
+            ],
+            "id": "E31"
+        },
+        {
+            "concepts": [
+                "herrschaftlichen",
+                "Fischerei",
+                "Personal",
+                "Fischheier",
+                "benannt"
+            ],
+            "id": "E32"
+        },
+        {
+            "concepts": [
+                "Angel"
+            ],
+            "id": "E33"
+        },
+        {
+            "concepts": [
+                "einziehen",
+                "Angel",
+                "auswerfen"
+            ],
+            "id": "E34"
+        },
+        {
+            "concepts": [
+                "Nachtangeln",
+                "legen",
+                "Angel",
+                "Fußangel"
+            ],
+            "id": "E35"
+        },
+        {
+            "concepts": [
+                "Angelhaken",
+                "Angel",
+                "Teile"
+            ],
+            "id": "E36"
+        },
+        {
+            "concepts": [
+                "angeln"
+            ],
+            "id": "E37"
+        },
+        {
+            "concepts": [
+                "Fischangel",
+                "verwendet",
+                "Fischköder"
+            ],
+            "id": "E38"
+        },
+        {
+            "concepts": [
+                "Fischlagel",
+                "Fische",
+                "Fäßchen",
+                "Aufbewahren",
+                "gefangenen"
+            ],
+            "id": "E39"
+        },
+        {
+            "concepts": [
+                "Behälter",
+                "Fischers"
+            ],
+            "id": "E40"
+        },
+        {
+            "concepts": [
+                "Fischnetz"
+            ],
+            "id": "E41"
+        },
+        {
+            "concepts": [
+                "Netze",
+                "einziehen",
+                "auswerfen"
+            ],
+            "id": "E42"
+        },
+        {
+            "concepts": [
+                "Netz"
+            ],
+            "id": "E43"
+        },
+        {
+            "concepts": [
+                "Sege",
+                "Ausdrücke",
+                "Fischnetz",
+                "Bern"
+            ],
+            "id": "E44"
+        },
+        {
+            "concepts": [
+                "Netzen",
+                "Arten"
+            ],
+            "id": "E45"
+        },
+        {
+            "concepts": [
+                "Netze",
+                "knüpfen",
+                "netzen"
+            ],
+            "id": "E46"
+        },
+        {
+            "concepts": [
+                "Netzknüpfer",
+                "Netzer"
+            ],
+            "id": "E47"
+        },
+        {
+            "concepts": [
+                "Netzerin",
+                "Herstellerin",
+                "Fischnetzen"
+            ],
+            "id": "E48"
+        },
+        {
+            "concepts": [
+                "Netzerei"
+            ],
+            "id": "E49"
+        },
+        {
+            "concepts": [
+                "Fischnetz",
+                "Netzknoten"
+            ],
+            "id": "E50"
+        },
+        {
+            "concepts": [
+                "Herstellen",
+                "verwendete",
+                "Geräte",
+                "Fischnetzen",
+                "beim",
+                "Netzen"
+            ],
+            "id": "E51"
+        },
+        {
+            "concepts": [
+                "Netzhersteller",
+                "Fachausdrücke",
+                "Netzer",
+                "sonstige"
+            ],
+            "id": "E52"
+        },
+        {
+            "concepts": [
+                "Netze",
+                "Stricke",
+                "heißen",
+                "Befestigen",
+                "Einziehen"
+            ],
+            "id": "E53"
+        },
+        {
+            "concepts": [
+                "Netze",
+                "Belastungsmittel"
+            ],
+            "id": "E54"
+        },
+        {
+            "concepts": [
+                "Fischreuse"
+            ],
+            "id": "E55"
+        },
+        {
+            "concepts": [
+                "Fischreuse",
+                "Zainreusche",
+                "Reuschenmacher"
+            ],
+            "id": "E56"
+        },
+        {
+            "concepts": [
+                "Reuse",
+                "Teile"
+            ],
+            "id": "E57"
+        },
+        {
+            "concepts": [
+                "Fische",
+                "stechen"
+            ],
+            "id": "E58"
+        },
+        {
+            "concepts": [
+                "Geräte"
+            ],
+            "id": "E59"
+        },
+        {
+            "concepts": [
+                "Fachausdrücke",
+                "Geräte",
+                "Fischers",
+                "Verrichtungen",
+                "sonstige"
+            ],
+            "id": "E60"
+        },
+        {
+            "concepts": [
+                "Flußbarsch",
+                "Fisch",
+                "Schratz",
+                "verschieden",
+                "Bärschling",
+                "Jahr",
+                "Heuerling",
+                "Stichling",
+                "Rauhegel",
+                "Rögling",
+                "Anbeiß",
+                "Warschinger",
+                "benannt"
+            ],
+            "id": "E61"
+        },
+        {
+            "concepts": [
+                "Schiel",
+                "Amaul",
+                "Zander",
+                "Fogosch",
+                "Sandel"
+            ],
+            "id": "E62"
+        },
+        {
+            "concepts": [
+                "Zindel",
+                "Zint",
+                "Zingel"
+            ],
+            "id": "E63"
+        },
+        {
+            "concepts": [
+                "Zingg",
+                "Strichzagel"
+            ],
+            "id": "E64"
+        },
+        {
+            "concepts": [
+                "Stürl",
+                "Stur",
+                "Goldbarsch"
+            ],
+            "id": "E65"
+        },
+        {
+            "concepts": [
+                "Dickkopf",
+                "Mühlkopp",
+                "Breitschädel",
+                "Gropp",
+                "Tolm"
+            ],
+            "id": "E66"
+        },
+        {
+            "concepts": [
+                "Stachelfisch",
+                "Stichling"
+            ],
+            "id": "E67"
+        },
+        {
+            "concepts": [
+                "Flußgrundel"
+            ],
+            "id": "E68"
+        },
+        {
+            "concepts": [
+                "Aalraupe",
+                "Ruppe",
+                "Rutte"
+            ],
+            "id": "E69"
+        },
+        {
+            "concepts": [
+                "Wels",
+                "Waller",
+                "Schaiden"
+            ],
+            "id": "E70"
+        },
+        {
+            "concepts": [
+                "Lachs",
+                "Salm"
+            ],
+            "id": "E71"
+        },
+        {
+            "concepts": [
+                "Förchen",
+                "Bachforelle"
+            ],
+            "id": "E72"
+        },
+        {
+            "concepts": [
+                "Reinanke",
+                "Lachsforelle"
+            ],
+            "id": "E73"
+        },
+        {
+            "concepts": [
+                "Rotforelle",
+                "Saibling",
+                "Rötel"
+            ],
+            "id": "E74"
+        },
+        {
+            "concepts": [
+                "Huchen"
+            ],
+            "id": "E75"
+        },
+        {
+            "concepts": [
+                "Mailing",
+                "Äschling",
+                "Äsche",
+                "Sprätzling"
+            ],
+            "id": "E76"
+        },
+        {
+            "concepts": [
+                "Hecht"
+            ],
+            "id": "E77"
+        },
+        {
+            "concepts": [
+                "Hundsfisch"
+            ],
+            "id": "E78"
+        },
+        {
+            "concepts": [
+                "Flußkarpfen",
+                "Spiegelkarpfen"
+            ],
+            "id": "E79"
+        },
+        {
+            "concepts": [
+                "Garäus",
+                "Rotkarpfen",
+                "Giebel",
+                "Karausche"
+            ],
+            "id": "E80"
+        },
+        {
+            "concepts": [
+                "Goldfisch"
+            ],
+            "id": "E81"
+        },
+        {
+            "concepts": [
+                "Schleihe"
+            ],
+            "id": "E82"
+        },
+        {
+            "concepts": [
+                "Flußbarbe",
+                "Barm"
+            ],
+            "id": "E83"
+        },
+        {
+            "concepts": [
+                "Kreßling",
+                "Gründling",
+                "Grundel",
+                "Grimperl"
+            ],
+            "id": "E84"
+        },
+        {
+            "concepts": [
+                "Steinkreßling"
+            ],
+            "id": "E85"
+        },
+        {
+            "concepts": [
+                "Bitterling",
+                "Plattel",
+                "Bitterfischel"
+            ],
+            "id": "E86"
+        },
+        {
+            "concepts": [
+                "Brachsen"
+            ],
+            "id": "E87"
+        },
+        {
+            "concepts": [
+                "Scheibpleinzer"
+            ],
+            "id": "E88"
+        },
+        {
+            "concepts": [
+                "el",
+                "Sonnfisch"
+            ],
+            "id": "E89"
+        },
+        {
+            "concepts": [
+                "Näsling",
+                "Blaunase"
+            ],
+            "id": "E90"
+        },
+        {
+            "concepts": [
+                "Spitznase"
+            ],
+            "id": "E91"
+        },
+        {
+            "concepts": [
+                "Spitzer",
+                "Spitzpleinze",
+                "Pleinze"
+            ],
+            "id": "E92"
+        },
+        {
+            "concepts": [
+                "Scheiber",
+                "Güster",
+                "Pletten",
+                "Zobelpleinze",
+                "Kotbrachse"
+            ],
+            "id": "E93"
+        },
+        {
+            "concepts": [
+                "Sichling",
+                "Schwertfisch",
+                "Messerkarpfen",
+                "Dünnbauch"
+            ],
+            "id": "E94"
+        }
+    ]
+}

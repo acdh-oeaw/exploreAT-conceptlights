@@ -1,0 +1,1704 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Fadens"
+                ],
+                [
+                    "zwirnen"
+                ],
+                [
+                    "Fäden"
+                ],
+                [
+                    "Öhr"
+                ],
+                [
+                    "bricht"
+                ],
+                [
+                    "schlecht"
+                ],
+                [
+                    "Verwendung"
+                ],
+                [
+                    "Spe"
+                ],
+                [
+                    "verschieden"
+                ],
+                [
+                    "Sperl"
+                ],
+                [
+                    "Glufe"
+                ],
+                [
+                    "Nadeln"
+                ],
+                [
+                    "Erzeuger"
+                ],
+                [
+                    "kleine"
+                ],
+                [
+                    "Ring"
+                ],
+                [
+                    "Fingerhutarten"
+                ],
+                [
+                    "en"
+                ],
+                [
+                    "Benennung"
+                ],
+                [
+                    "Eigenschaften"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Arten"
+                ]
+            ],
+            "3": [
+                [
+                    "Fingerhut"
+                ],
+                [
+                    "Nähmaschine"
+                ],
+                [
+                    "Eisen"
+                ],
+                [
+                    "Bügeleisens"
+                ]
+            ],
+            "5": [
+                [
+                    "Garn"
+                ]
+            ],
+            "7": [
+                [
+                    "Zwirn"
+                ]
+            ],
+            "9": [
+                [
+                    "Maschine"
+                ]
+            ],
+            "12": [
+                [
+                    "Faden"
+                ]
+            ],
+            "15": [
+                [
+                    "Schere"
+                ],
+                [
+                    "Nadel"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Garn",
+                    "gärnen"
+                ],
+                [
+                    "Zubehör",
+                    "Maschine"
+                ]
+            ],
+            "3": [
+                [
+                    "Faden",
+                    "Zwirn"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleine"
+            ],
+            "source": 3,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schere"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden",
+                "Zwirn"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zwirn"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden",
+                "Zwirn"
+            ],
+            "source": 7,
+            "target": 14,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zwirn"
+            ],
+            "source": 7,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 7,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verschieden"
+            ],
+            "source": 7,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwirn"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden",
+                "Zwirn"
+            ],
+            "source": 8,
+            "target": 14,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zwirn"
+            ],
+            "source": 8,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 8,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwirn"
+            ],
+            "source": 9,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwirn"
+            ],
+            "source": 9,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 10,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bricht"
+            ],
+            "source": 10,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fadens"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlecht"
+            ],
+            "source": 11,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eigenschaften"
+            ],
+            "source": 11,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 12,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Öhr"
+            ],
+            "source": 12,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwirn"
+            ],
+            "source": 14,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 14,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 14,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwirnen"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fäden"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 23,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 23,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn",
+                "gärnen"
+            ],
+            "source": 24,
+            "target": 25,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 27,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadeln"
+            ],
+            "source": 27,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 27,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 27,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 28,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 28,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eisen"
+            ],
+            "source": 28,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 28,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eisen"
+            ],
+            "source": 28,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 31,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 31,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 33,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 33,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spe"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sperl"
+            ],
+            "source": 34,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glufe"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeuger"
+            ],
+            "source": 40,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadel"
+            ],
+            "source": 41,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fingerhut"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fingerhut"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennung"
+            ],
+            "source": 46,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fingerhut"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 47,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fingerhutarten"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eisen"
+            ],
+            "source": 51,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "en"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nähmaschine"
+            ],
+            "source": 52,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nähmaschine"
+            ],
+            "source": 52,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 55,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nähmaschine"
+            ],
+            "source": 55,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 55,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 55,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 55,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 57,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 57,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maschine"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zubehör",
+                "Maschine"
+            ],
+            "source": 60,
+            "target": 61,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bügeleisens"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bügeleisens"
+            ],
+            "source": 63,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 63,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bügeleisens"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "beim",
+                "Zunge",
+                "Schlitten",
+                "Schere",
+                "sonstige"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Ausübung",
+                "untersagen",
+                "aufheben",
+                "Handwerkes",
+                "Schere"
+            ],
+            "id": "C1a"
+        },
+        {
+            "concepts": [
+                "Leere",
+                "Scher",
+                "leih",
+                "Spiele",
+                "Schneider",
+                "Gevatter",
+                "Schere"
+            ],
+            "id": "C1b"
+        },
+        {
+            "concepts": [
+                "Lochschere",
+                "Wort",
+                "Löcherschneiden",
+                "Scherenarten",
+                "Schneiderschere",
+                "Zuschneiderschere",
+                "Wollschere",
+                "häufiger",
+                "kleine",
+                "Schere",
+                "runde",
+                "große",
+                "Zuschneidschere"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Bettschere",
+                "Scherkraut",
+                "Schere"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Schere",
+                "schleifen"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Scherenschleifer"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "verschieden",
+                "Faden",
+                "Zwirnsfaden",
+                "drei",
+                "Zwirn",
+                "Wörter"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "besonders",
+                "Seide",
+                "verwendet",
+                "Zwirn",
+                "böhmische"
+            ],
+            "id": "C6a"
+        },
+        {
+            "concepts": [
+                "Angst",
+                "Witz",
+                "Zwirn",
+                "blauer",
+                "geistiges",
+                "Getränk",
+                "Schnaps"
+            ],
+            "id": "C6b"
+        },
+        {
+            "concepts": [
+                "hängt",
+                "bricht",
+                "Faden",
+                "Werkzeuge",
+                "Spinne",
+                "gu",
+                "Maß",
+                "Schiffseil",
+                "Schneide",
+                "Zuckers",
+                "letzte",
+                "schlechtgeschliffener",
+                "trockenen"
+            ],
+            "id": "C6c"
+        },
+        {
+            "concepts": [
+                "gesteifter",
+                "aushält",
+                "gewichster",
+                "gewachster",
+                "spaltend",
+                "maißelt",
+                "Eigenschaften",
+                "gedreht",
+                "hundshäutiger",
+                "fester",
+                "Teufelszwirn",
+                "verwickelnd",
+                "Fadens",
+                "leicht",
+                "unsteifer",
+                "guter",
+                "brüchiger",
+                "schlecht",
+                "gerne"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Faden",
+                "durchs",
+                "Öhr",
+                "verhindert",
+                "Durchziehen",
+                "verdickte"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Kienruß",
+                "Schneiderwachs",
+                "Wachs",
+                "hergestellt",
+                "Schwärze"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Heftfaden",
+                "Faden",
+                "Verwendung",
+                "Zwirn",
+                "Zwirnarten",
+                "Leininger",
+                "Spulzwirn",
+                "un",
+                "gebleichter",
+                "Fadens",
+                "Angaben",
+                "Elsässer",
+                "Fadengattung",
+                "Hinweis",
+                "Bauernzwirn",
+                "dreinähtiger"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Zwirnnummer"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "zwirnen",
+                "Verb"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "zwirnen"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Zwirnknäuel",
+                "Zwirn",
+                "Angstmeier"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "fädig",
+                "vorhanden",
+                "zweifädig"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "heißt",
+                "Fadenwerk",
+                "Gefadmach",
+                "Fäden",
+                "Durcheinander"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Fäden",
+                "eingefädelt",
+                "Zahl"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "Spinnfaden",
+                "Nähfaden",
+                "Lebensfaden",
+                "Fadenkraut"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Garm",
+                "Garn",
+                "Netz"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Garn",
+                "gärnen",
+                "garnen"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "aufwinden",
+                "Garn",
+                "gärnen",
+                "gärneln"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Garn",
+                "Dochtgarn",
+                "Garngeiß"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Brosche",
+                "sitzen",
+                "Pfahl",
+                "Volkskundliches",
+                "Lautung",
+                "Nadeln",
+                "Nähnadel",
+                "Nadel",
+                "schenken"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Eisen",
+                "Nadel",
+                "stange"
+            ],
+            "id": "C23a"
+        },
+        {
+            "concepts": [
+                "Nadelspitz",
+                "dabei",
+                "gebräuchliche"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "gebräuchlich",
+                "Loch",
+                "Öhr",
+                "Nadelloch",
+                "Nadelöhr"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "schlieft",
+                "stumpf",
+                "Nadel",
+                "krumm",
+                "schlecht"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Größe",
+                "Nadelnummer"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Verwendung",
+                "Benennungen",
+                "Nadel",
+                "Stopfnadel"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "Sperl",
+                "Speandl",
+                "Spe",
+                "nadel"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Stecknadelkopf",
+                "nadelkopf",
+                "Sperlkopf",
+                "Spe"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "verschieden",
+                "Vergleiche",
+                "Glufe",
+                "Gufe",
+                "Sperl",
+                "Klufe"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Glufenkopf",
+                "Stecknadel",
+                "Schlagglufe",
+                "Glufe"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "Nadlach",
+                "Nadelwerk",
+                "Sammelname",
+                "Baumnadeln"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "gibt",
+                "nadlet"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Nadeln",
+                "Nadler",
+                "Erzeuger"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Messsingnadel",
+                "Nadel",
+                "Nadelstich"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "Locheisen",
+                "Schneiderpfriem",
+                "Pfriem",
+                "üblich"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Trennmesser"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "Zuschneiden",
+                "Rädchen",
+                "Muster",
+                "Abrädeln"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "Stift",
+                "Schneiderkreide",
+                "Speckkreide",
+                "Seife",
+                "Kreide",
+                "Ersatzmittel",
+                "Anzeichnen"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "darnach",
+                "Mittelfinger",
+                "links",
+                "Finger",
+                "rechts",
+                "Maßbezeichnung",
+                "Fingers",
+                "getragen",
+                "Fingerhut",
+                "Benennung",
+                "Pflanzenname"
+            ],
+            "id": "C41"
+        },
+        {
+            "concepts": [
+                "Ring",
+                "Ausdrücke",
+                "Brotverdiener",
+                "scheltende",
+                "eisiger",
+                "Fingerhut",
+                "Hut"
+            ],
+            "id": "C41a"
+        },
+        {
+            "concepts": [
+                "Kinderreime",
+                "Fingerhut",
+                "anstecken",
+                "anlegen"
+            ],
+            "id": "C41b"
+        },
+        {
+            "concepts": [
+                "Fingerhuterer",
+                "Fingerhüten",
+                "Erzeuger"
+            ],
+            "id": "C42"
+        },
+        {
+            "concepts": [
+                "Futter",
+                "großen",
+                "durchgenäht",
+                "Fingerhutarten",
+                "Ring",
+                "durchnähen",
+                "kleine",
+                "Boden",
+                "bodnet",
+                "Löchern"
+            ],
+            "id": "C43"
+        },
+        {
+            "concepts": [
+                "Eisen",
+                "Fingerhutarten",
+                "Silber",
+                "Zelluloid",
+                "Bein",
+                "Messing",
+                "Stoffe"
+            ],
+            "id": "C44"
+        },
+        {
+            "concepts": [
+                "en",
+                "Nähmaschine",
+                "Maschin",
+                "Arbeit",
+                "arbeit",
+                "Gesamtausdruck"
+            ],
+            "id": "C45"
+        },
+        {
+            "concepts": [
+                "Handarbeit",
+                "Maschinennähen",
+                "en"
+            ],
+            "id": "C45a"
+        },
+        {
+            "concepts": [
+                "denen",
+                "abgeschätzt",
+                "Handbetrieb",
+                "volkstümliche"
+            ],
+            "id": "C46"
+        },
+        {
+            "concepts": [
+                "Nähmaschine",
+                "mittlerem",
+                "offenem",
+                "Maschine"
+            ],
+            "id": "C47"
+        },
+        {
+            "concepts": [
+                "schlechte",
+                "Schelten",
+                "gute",
+                "Maschinen"
+            ],
+            "id": "C48"
+        },
+        {
+            "concepts": [
+                "näh",
+                "Maschine",
+                "Näherinnen",
+                "Hand",
+                "beiden",
+                "Einsatz",
+                "maschine",
+                "bevorzugt",
+                "Trittmaschine",
+                "Benennung"
+            ],
+            "id": "C49"
+        },
+        {
+            "concepts": [
+                "Nähmaschine",
+                "Singer",
+                "Fabriksmarken"
+            ],
+            "id": "C50"
+        },
+        {
+            "concepts": [
+                "Nadel",
+                "Maschine",
+                "Teile"
+            ],
+            "id": "C51"
+        },
+        {
+            "concepts": [
+                "Zubehör",
+                "Maschine"
+            ],
+            "id": "C52"
+        },
+        {
+            "concepts": [
+                "Ölkanne",
+                "Zubehör",
+                "Maschinenöl",
+                "Maschine"
+            ],
+            "id": "C53"
+        },
+        {
+            "concepts": [
+                "Bügeleisen",
+                "Eisen",
+                "schweres",
+                "stahl",
+                "Bügel",
+                "Zeug"
+            ],
+            "id": "C54"
+        },
+        {
+            "concepts": [
+                "eisen",
+                "Spiritusbügeleisen",
+                "spitzes",
+                "Sechzehner",
+                "brand",
+                "Bügeleisens",
+                "Eigenschaften",
+                "rundes",
+                "richtiges",
+                "Arten",
+                "geschmiedetes",
+                "breites",
+                "Dauer",
+                "Gewicht",
+                "Ausdrücke",
+                "gegossenes"
+            ],
+            "id": "C55"
+        },
+        {
+            "concepts": [
+                "Türlein",
+                "Hitzkörper",
+                "Bügeleisens",
+                "Überzug",
+                "Stahl",
+                "Gehäuse",
+                "Bestandteile",
+                "Griff",
+                "eiserner"
+            ],
+            "id": "C56"
+        },
+        {
+            "concepts": [
+                "Bügelkohle",
+                "beste",
+                "Lösch"
+            ],
+            "id": "C57"
+        },
+        {
+            "concepts": [
+                "Lumpen",
+                "Reinigen",
+                "Bügeleisens"
+            ],
+            "id": "C58"
+        },
+        {
+            "concepts": [
+                "Bügelbrett",
+                "Ärmelbrett",
+                "Nahtholz",
+                "Arten",
+                "Kragenbock",
+                "Suffererbrett"
+            ],
+            "id": "C59"
+        },
+        {
+            "concepts": [
+                "Glanzkissen"
+            ],
+            "id": "C60"
+        },
+        {
+            "concepts": [
+                "Brett",
+                "Tuch"
+            ],
+            "id": "C61"
+        },
+        {
+            "concepts": [
+                "Bügeln",
+                "Dunsthadern"
+            ],
+            "id": "C62"
+        },
+        {
+            "concepts": [
+                "Wassergefäß",
+                "Fingerspitzen",
+                "Besprengen",
+                "Wasser",
+                "Netzen"
+            ],
+            "id": "C63"
+        }
+    ]
+}

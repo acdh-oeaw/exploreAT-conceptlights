@@ -1,0 +1,3122 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Suppe"
+                ],
+                [
+                    "Schnitzel"
+                ],
+                [
+                    "Fleisch"
+                ],
+                [
+                    "Braten"
+                ],
+                [
+                    "Saft"
+                ],
+                [
+                    "fettes"
+                ],
+                [
+                    "mageres"
+                ],
+                [
+                    "Mäusel"
+                ],
+                [
+                    "Ausgelöstes"
+                ],
+                [
+                    "Teil"
+                ],
+                [
+                    "Spitz"
+                ],
+                [
+                    "Rostbraten"
+                ],
+                [
+                    "dicker"
+                ],
+                [
+                    "dünnes"
+                ],
+                [
+                    "grüne"
+                ],
+                [
+                    "Erbse"
+                ],
+                [
+                    "Linse"
+                ],
+                [
+                    "Kartoffel"
+                ],
+                [
+                    "Fruchtsaft"
+                ],
+                [
+                    "Strudel"
+                ],
+                [
+                    "Pfannkuchen"
+                ],
+                [
+                    "Form"
+                ],
+                [
+                    "Wasser"
+                ],
+                [
+                    "knauserig"
+                ],
+                [
+                    "essen"
+                ],
+                [
+                    "Strauben"
+                ],
+                [
+                    "Geschlecht"
+                ],
+                [
+                    "Tomerl"
+                ],
+                [
+                    "ausgebacken"
+                ],
+                [
+                    "Zucker"
+                ],
+                [
+                    "kochen"
+                ],
+                [
+                    "Kaffee"
+                ],
+                [
+                    "sitzt"
+                ],
+                [
+                    "ja"
+                ],
+                [
+                    "Essig"
+                ],
+                [
+                    "große"
+                ],
+                [
+                    "Kuchen"
+                ],
+                [
+                    "darauf"
+                ],
+                [
+                    "Salz"
+                ],
+                [
+                    "Pfeffer"
+                ]
+            ],
+            "2": [
+                [
+                    "Nudel"
+                ],
+                [
+                    "Knödel"
+                ]
+            ],
+            "3": [
+                [
+                    "Kügerl"
+                ],
+                [
+                    "Bohne"
+                ],
+                [
+                    "Bohnen"
+                ],
+                [
+                    "Hirse"
+                ],
+                [
+                    "nudeln"
+                ],
+                [
+                    "Dalken"
+                ],
+                [
+                    "Teig"
+                ],
+                [
+                    "Küchel"
+                ],
+                [
+                    "Mus"
+                ],
+                [
+                    "Rözel"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "zuckern"
+                ],
+                [
+                    "Speise"
+                ],
+                [
+                    "Öl"
+                ]
+            ],
+            "6": [
+                [
+                    "Nudeln"
+                ]
+            ],
+            "15": [
+                [
+                    "Mehlspeise"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Scherzel",
+                    "schnaites"
+                ],
+                [
+                    "Buchtel",
+                    "Nudel"
+                ],
+                [
+                    "Knoden",
+                    "Knödel"
+                ]
+            ],
+            "3": [
+                [
+                    "Küchel",
+                    "Krapfen"
+                ],
+                [
+                    "Sinne",
+                    "übertragenem"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "zähe",
+                    "Talken",
+                    "Grütze"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Suppe"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "darauf"
+            ],
+            "source": 0,
+            "target": 228,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 3,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fettes"
+            ],
+            "source": 3,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mageres"
+            ],
+            "source": 3,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnitzel"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rostbraten"
+            ],
+            "source": 8,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braten"
+            ],
+            "source": 20,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saft"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fruchtsaft"
+            ],
+            "source": 32,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausgelöstes"
+            ],
+            "source": 37,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mäusel"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kügerl"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kügerl"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kügerl"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dünnes"
+            ],
+            "source": 46,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teil"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spitz"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dicker"
+            ],
+            "source": 50,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scherzel",
+                "schnaites"
+            ],
+            "source": 61,
+            "target": 63,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 81,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 81,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 90,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 90,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sitzt"
+            ],
+            "source": 91,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bohne"
+            ],
+            "source": 94,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bohne"
+            ],
+            "source": 94,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bohne"
+            ],
+            "source": 95,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bohnen"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bohnen"
+            ],
+            "source": 96,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bohnen"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grüne"
+            ],
+            "source": 99,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erbse"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Linse"
+            ],
+            "source": 102,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirse"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirse"
+            ],
+            "source": 108,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschlecht"
+            ],
+            "source": 108,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirse"
+            ],
+            "source": 109,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kartoffel"
+            ],
+            "source": 116,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mus"
+            ],
+            "source": 124,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mus"
+            ],
+            "source": 124,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 125,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 125,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 125,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 125,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 125,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudeln"
+            ],
+            "source": 126,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nudeln"
+            ],
+            "source": 126,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nudeln"
+            ],
+            "source": 126,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudeln"
+            ],
+            "source": 126,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teig"
+            ],
+            "source": 126,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudel"
+            ],
+            "source": 126,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudeln"
+            ],
+            "source": 126,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudel"
+            ],
+            "source": 126,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teig"
+            ],
+            "source": 126,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudeln"
+            ],
+            "source": 127,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudeln"
+            ],
+            "source": 127,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nudeln"
+            ],
+            "source": 128,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nudeln"
+            ],
+            "source": 131,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teig"
+            ],
+            "source": 133,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 135,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 135,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strudel"
+            ],
+            "source": 136,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfannkuchen"
+            ],
+            "source": 140,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dalken"
+            ],
+            "source": 142,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dalken"
+            ],
+            "source": 142,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dalken"
+            ],
+            "source": 143,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchtel",
+                "Nudel"
+            ],
+            "source": 150,
+            "target": 152,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 150,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 152,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küchel",
+                "Krapfen"
+            ],
+            "source": 153,
+            "target": 154,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Küchel",
+                "Krapfen"
+            ],
+            "source": 153,
+            "target": 155,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Küchel"
+            ],
+            "source": 153,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ja"
+            ],
+            "source": 153,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küchel",
+                "Krapfen"
+            ],
+            "source": 154,
+            "target": 155,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Küchel"
+            ],
+            "source": 154,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küchel"
+            ],
+            "source": 155,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knödel"
+            ],
+            "source": 157,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knoden",
+                "Knödel"
+            ],
+            "source": 157,
+            "target": 159,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wasser"
+            ],
+            "source": 157,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 157,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knödel"
+            ],
+            "source": 158,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 160,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 160,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 160,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 160,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zähe",
+                "Talken",
+                "Grütze"
+            ],
+            "source": 166,
+            "target": 167,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Sinne",
+                "übertragenem"
+            ],
+            "source": 168,
+            "target": 174,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sinne",
+                "übertragenem"
+            ],
+            "source": 168,
+            "target": 175,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "ausgebacken"
+            ],
+            "source": 168,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "knauserig"
+            ],
+            "source": 169,
+            "target": 171,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mus"
+            ],
+            "source": 172,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sinne",
+                "übertragenem"
+            ],
+            "source": 174,
+            "target": 175,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kochen"
+            ],
+            "source": 175,
+            "target": 216,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 178,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 178,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 178,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strauben"
+            ],
+            "source": 181,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kuchen"
+            ],
+            "source": 184,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tomerl"
+            ],
+            "source": 187,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 189,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 189,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mehlspeise"
+            ],
+            "source": 195,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rözel"
+            ],
+            "source": 199,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rözel"
+            ],
+            "source": 199,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rözel"
+            ],
+            "source": 200,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zucker"
+            ],
+            "source": 211,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zuckern"
+            ],
+            "source": 213,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zuckern"
+            ],
+            "source": 213,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zuckern"
+            ],
+            "source": 214,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kaffee"
+            ],
+            "source": 216,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essig"
+            ],
+            "source": 222,
+            "target": 223,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Öl"
+            ],
+            "source": 224,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Öl"
+            ],
+            "source": 224,
+            "target": 226,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Öl"
+            ],
+            "source": 225,
+            "target": 226,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Salz"
+            ],
+            "source": 228,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfeffer"
+            ],
+            "source": 229,
+            "target": 230,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "darauf",
+                "brav",
+                "gesegne",
+                "schöne",
+                "Kümmel",
+                "Suppe",
+                "Gott",
+                "recht",
+                "versalzen",
+                "eingebrockt"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Suppe",
+                "Suppenbrot"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Staben",
+                "Pfl",
+                "Suppenarten",
+                "Krugelsuppe",
+                "Wassersuppe",
+                "Milchsuppe",
+                "Stoosuppe"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "durchzogenes",
+                "Fleisch",
+                "durchsetztes",
+                "mageres",
+                "saftiges",
+                "Zustand",
+                "Fleisches",
+                "fettes",
+                "frischgeschlagenes",
+                "ausgelöstes",
+                "abgezogenes",
+                "abgelegenes",
+                "trockenes",
+                "Güte",
+                "spöres"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Schnitzel"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "gebratenes",
+                "Schnitzel",
+                "Naturschnitzel"
+            ],
+            "id": "B2a"
+        },
+        {
+            "concepts": [
+                "gebackenes"
+            ],
+            "id": "B2b"
+        },
+        {
+            "concepts": [
+                "Beefsteak"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Rostbraten"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Rippenstück",
+                "Karbonade"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "gedämpftes",
+                "gedünstetes",
+                "Fleisch"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Fleischkügelchen"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Zwiebelfleisch"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Krenfleisch"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Reisfleisch"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Gulasch"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Beinfleisch"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Suppenfleisch"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Tellerfleisch"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Eingemachtes"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Braten",
+                "Faschierter"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Fleischleiberln"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Beuschel"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Kuttelflecke"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "gesulzte",
+                "Kalbsfüße"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Rehrücken"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Rehschlegel"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Hasenrücken"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Hasenlauf"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Fasch",
+                "Bratenfülle"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "zubereites",
+                "Wolf",
+                "Schweinsblut"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "kommen",
+                "Saft"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Braten",
+                "Gansbraten",
+                "Fruchtsaft",
+                "Saft"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Fotzmaul"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Bibergosche"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Kopffleisch",
+                "Ohrwangel"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Kamm"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Drüssel",
+                "Halsfleisch",
+                "verborgenes",
+                "vorderes",
+                "Schulterblatt",
+                "Ausgelöstes"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Stich"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "fettes",
+                "Mäusel"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Mäusel",
+                "mageres",
+                "Kragenstück"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Schulter"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Wamme"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Brustkern",
+                "Rindsbrust"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "dickes",
+                "Kügerl"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Kügerl",
+                "mitteres"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "dünnes",
+                "Kügerl",
+                "dünne",
+                "Brust"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Zwerchspitz"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Teil",
+                "Hinteres",
+                "Rieddeckel",
+                "davon",
+                "Ausgelöstes"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Spitz",
+                "Schulterörtel",
+                "ausgelösten",
+                "Kruspelspitz"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Federspitz",
+                "Teil",
+                "vorderen",
+                "Spitz",
+                "Ausstoß",
+                "dicker"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Rostbraten",
+                "Filet"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "daran",
+                "Zwerchried",
+                "Krotfleisch",
+                "Schemrippen",
+                "Platte",
+                "Deckel"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Bauchfleisch",
+                "Flaum",
+                "Kronfleisch"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Riedhüfel",
+                "Bauchfleck",
+                "dicker"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Lungenbraten"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Beiried",
+                "dünnes",
+                "Plattel"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Hüfenschwanzel"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Tafelspitz",
+                "Spitzfleisch"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Rose"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Nuß",
+                "Zapfen",
+                "Knöpfel"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "schwarzes",
+                "Schlüsselörtel",
+                "schnaites",
+                "Scherzel",
+                "stutztes"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Schalörtel",
+                "Oberschale",
+                "Kugel",
+                "Zainscherzel"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Schwanzel",
+                "schnaites",
+                "Scherzel",
+                "weißes",
+                "Schwanzschale"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Ortschwanzel",
+                "Eckscherzel"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "Schlepp"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Wadschunken",
+                "Bugfleisch"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Pratzel"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Hächsen",
+                "Füße"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "Schlegel",
+                "Keule"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Schlußbraten"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "Nierenbraten"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "Kalbsstelzen"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "Fleischhauer",
+                "Metzger",
+                "Fleischer"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Gewerbe",
+                "Fleischhauerei",
+                "Raum"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Fleischergesell"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Fleischladen"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Axt",
+                "Töten",
+                "Schlachtviehes",
+                "Hammer",
+                "Werkzeug"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Eiskasten"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Fleischschragen"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Fleischkorb"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Fleischhauers",
+                "sonstige"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "schlachten",
+                "schlagen"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "ausschlachten"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Schlacht",
+                "Schlachtung"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Fachausdrücke",
+                "Fleischergewerbes"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Grünspeise",
+                "Gemüse"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Suppengrünes"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Wurzelwerk"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "aufgewärmtes",
+                "Kraut",
+                "Kohl",
+                "aufgewärmter"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "flüssige",
+                "fülled",
+                "Speise",
+                "Rübenblättern"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Soß",
+                "Tunke",
+                "Soße",
+                "sitzt"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Apfelkren",
+                "Soßenarten",
+                "Schwammerlsoße"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Hülsenfrüchte"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Bohne",
+                "Bohnel"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "brechen",
+                "Bohne",
+                "Bohnenschoten",
+                "Hosenbohne"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "böhnenes",
+                "hergestellt",
+                "Brot",
+                "Bohnen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "spielen",
+                "böhneln",
+                "Bohnen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Böhnin",
+                "weißen",
+                "Bohne",
+                "Keimstrichen"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Fasölen",
+                "Fisolen",
+                "grüne",
+                "Bohnen"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "knien",
+                "Areweiß",
+                "Erbsen",
+                "grüne",
+                "Erbse"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Erbsenhülse",
+                "Zuckererbsen",
+                "Erbse"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Linse"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Linsgetreide",
+                "Linse"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Ritsched"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Risotto"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "vertan",
+                "Gerstel",
+                "Graupen",
+                "Gruppen",
+                "ganzes"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Gerstenbrein",
+                "Gerste"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Geschlecht",
+                "Brein",
+                "Hirse",
+                "Pfennich"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Hirsebrein",
+                "Hirse",
+                "Gefäß"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "hirschig",
+                "Hirse",
+                "hirschen"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "Haferbrein"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "Reis"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "Gries"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "Polenta"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "Kartoffeln",
+                "Erdäpfel",
+                "Grundbirnen"
+            ],
+            "id": "E31"
+        },
+        {
+            "concepts": [
+                "Kartoffelmehl",
+                "Kartoffel"
+            ],
+            "id": "E32"
+        },
+        {
+            "concepts": [
+                "Butter",
+                "Kartoffelknödel",
+                "Kartoffels",
+                "ausgestochener",
+                "mitgebratene",
+                "Schale",
+                "abgerührte",
+                "Kartoffelspeisen",
+                "Montur",
+                "Kartoffel",
+                "geröstete"
+            ],
+            "id": "E33"
+        },
+        {
+            "concepts": [
+                "eingekochtes",
+                "Obst",
+                "Kompott"
+            ],
+            "id": "E34"
+        },
+        {
+            "concepts": [
+                "Pflaumenkompott",
+                "Kompottarten"
+            ],
+            "id": "E35"
+        },
+        {
+            "concepts": [
+                "Obstmus",
+                "Marmelade"
+            ],
+            "id": "E36"
+        },
+        {
+            "concepts": [
+                "Hetschepetschmarmelade",
+                "Marmeladearten"
+            ],
+            "id": "E37"
+        },
+        {
+            "concepts": [
+                "Fruchtsaft",
+                "dick",
+                "Selze",
+                "Jam",
+                "eingekochter",
+                "Salse"
+            ],
+            "id": "E38"
+        },
+        {
+            "concepts": [
+                "Himbeersaft"
+            ],
+            "id": "E39"
+        },
+        {
+            "concepts": [
+                "Mus",
+                "Hollerröster",
+                "Röster",
+                "halbzerkochtes"
+            ],
+            "id": "E40"
+        },
+        {
+            "concepts": [
+                "Mehlspeise"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Nudeln",
+                "dünn",
+                "nudeln",
+                "Nudel",
+                "lang",
+                "schni",
+                "Unterscheidung",
+                "geschnittene",
+                "genannt",
+                "geschnittener",
+                "Teig"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Nudeln",
+                "Tausend",
+                "Brüder",
+                "zubereitet",
+                "Suppennudeln",
+                "Nudelarten",
+                "Nasse"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "drücken",
+                "nudeln",
+                "kneten"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "herumdrücken",
+                "nudeln",
+                "aufnudeln",
+                "erschöpfen",
+                "umnudeln"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Gedränge",
+                "Gewühl",
+                "Genudel"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Nürnberger",
+                "Makkaroni",
+                "Nudeln"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Spaghetti"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "kleingeschnittener",
+                "Fleckerln",
+                "viereckig",
+                "Zweckerln",
+                "Teig"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Schinkenfleckerln",
+                "Fleckerlarten"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Teigflecken",
+                "Speise",
+                "große"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Struggel",
+                "Strudel"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Strudelarten",
+                "Germstrudel"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Strudelkessel",
+                "Strudel"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Bedeutung",
+                "strudeln"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Omelette",
+                "Pfannkuchen"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "gerollter",
+                "gefüllter",
+                "Fritatten",
+                "Palatschinken",
+                "Pfannkuchen",
+                "dünner"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Mitte",
+                "rund",
+                "Grübchen",
+                "Dalken"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "aufgegossene",
+                "böhmische",
+                "Dalken",
+                "Dalkenarten"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Dalken",
+                "Dalkenblech"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "Golatschen"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "Topfengolatschen",
+                "Golatschenarten"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Liwanzen"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Tascherln"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Polsterzipf"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "Zylindern",
+                "geht",
+                "Würfeln",
+                "abgeschmalzene",
+                "Nudel",
+                "Form",
+                "Hefenteigspeise",
+                "Buchtel",
+                "Laibchen"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Nudeln",
+                "gestutzte",
+                "Leibelnudeln",
+                "Buchteln",
+                "lange",
+                "Arten",
+                "ge",
+                "ausgezogene"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "nudelfeist",
+                "Nudel",
+                "Küchelbeck",
+                "Buchtel",
+                "Nudelbacht",
+                "sonstige"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Küchel",
+                "Ahnl",
+                "frißt",
+                "ja",
+                "morgen",
+                "Katz",
+                "voll",
+                "Braucht",
+                "Teig",
+                "bacht",
+                "gar",
+                "Krapfen"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "Küchel",
+                "gesottene",
+                "Faschingskrapfen",
+                "gefüllte",
+                "Küchelarten",
+                "gebachene",
+                "Krapfen"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "Küchel",
+                "letzte",
+                "Küchelgabel",
+                "Garbe",
+                "Krapfen"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "Küchel",
+                "Tage",
+                "tut",
+                "backen",
+                "Leben",
+                "kücheln",
+                "sauer",
+                "geküchelt"
+            ],
+            "id": "F32"
+        },
+        {
+            "concepts": [
+                "Kloß",
+                "Knoden",
+                "mußt",
+                "knechten",
+                "kaltes",
+                "viele",
+                "zerlegen",
+                "essen",
+                "runder",
+                "schrechen",
+                "Knödel",
+                "gießen",
+                "Wasser",
+                "siedenden"
+            ],
+            "id": "F33"
+        },
+        {
+            "concepts": [
+                "mürbe",
+                "weizene",
+                "Knödelarten",
+                "Fastenknödel",
+                "Knödel",
+                "schwarze"
+            ],
+            "id": "F34"
+        },
+        {
+            "concepts": [
+                "Knoden",
+                "Knödelhenker",
+                "Knödel"
+            ],
+            "id": "F35"
+        },
+        {
+            "concepts": [
+                "länglicher",
+                "Mehl",
+                "Nocken",
+                "fade",
+                "Form",
+                "Mehlspeise",
+                "abgetriebene",
+                "Fett",
+                "Wasser"
+            ],
+            "id": "F36"
+        },
+        {
+            "concepts": [
+                "Holzknechtnocken",
+                "Nockenarten",
+                "Wassernocken"
+            ],
+            "id": "F37"
+        },
+        {
+            "concepts": [
+                "Nockerln",
+                "kleine",
+                "Spätzlein"
+            ],
+            "id": "F38"
+        },
+        {
+            "concepts": [
+                "Pflanzel",
+                "Suppenmehlspeise",
+                "Schöberl"
+            ],
+            "id": "F39"
+        },
+        {
+            "concepts": [
+                "abschmalzen",
+                "Sterz",
+                "rösten",
+                "lünden"
+            ],
+            "id": "F40"
+        },
+        {
+            "concepts": [
+                "Ofensterz",
+                "Sterzarten"
+            ],
+            "id": "F41"
+        },
+        {
+            "concepts": [
+                "zähe",
+                "Talken",
+                "Grütze"
+            ],
+            "id": "F42"
+        },
+        {
+            "concepts": [
+                "zähe",
+                "Talken",
+                "Grütze",
+                "Talkenbrein"
+            ],
+            "id": "F43"
+        },
+        {
+            "concepts": [
+                "Sinne",
+                "ungeschickt",
+                "talket",
+                "übertragenem",
+                "ausgebacken"
+            ],
+            "id": "F44"
+        },
+        {
+            "concepts": [
+                "Sei",
+                "Aussprache",
+                "knauserig",
+                "Schmarren",
+                "mach",
+                "sei"
+            ],
+            "id": "F45"
+        },
+        {
+            "concepts": [
+                "Grießschmarren",
+                "Schmarrenarten",
+                "Schmalzkoch"
+            ],
+            "id": "F46"
+        },
+        {
+            "concepts": [
+                "knauserig",
+                "schmarrisch"
+            ],
+            "id": "F47"
+        },
+        {
+            "concepts": [
+                "Koch",
+                "Mus"
+            ],
+            "id": "F48"
+        },
+        {
+            "concepts": [
+                "Melkermus",
+                "Musarten",
+                "Kindskoch"
+            ],
+            "id": "F49"
+        },
+        {
+            "concepts": [
+                "Sinne",
+                "übertragenem",
+                "breiartig",
+                "muset",
+                "faul",
+                "bampfig"
+            ],
+            "id": "F50"
+        },
+        {
+            "concepts": [
+                "Mus",
+                "kochen",
+                "Sinne",
+                "übertragenem",
+                "essen",
+                "langsam",
+                "zögern",
+                "musen"
+            ],
+            "id": "F51"
+        },
+        {
+            "concepts": [
+                "Auflauf"
+            ],
+            "id": "F52"
+        },
+        {
+            "concepts": [
+                "Auflaufarten",
+                "Eierauflauf"
+            ],
+            "id": "F53"
+        },
+        {
+            "concepts": [
+                "Pudding",
+                "entspricht",
+                "bereitet",
+                "Mehlspeise"
+            ],
+            "id": "F54"
+        },
+        {
+            "concepts": [
+                "Schädel",
+                "Napfkuchen",
+                "Gugelhupf",
+                "Turte",
+                "Reinling",
+                "Schober"
+            ],
+            "id": "F55"
+        },
+        {
+            "concepts": [
+                "Gugelhupfarten",
+                "Biestgugelhupf"
+            ],
+            "id": "F56"
+        },
+        {
+            "concepts": [
+                "Strauben"
+            ],
+            "id": "F57"
+        },
+        {
+            "concepts": [
+                "Zuckerstrauben",
+                "Straubenarten"
+            ],
+            "id": "F58"
+        },
+        {
+            "concepts": [
+                "Strauben",
+                "Strauber",
+                "Straubenpfanne"
+            ],
+            "id": "F59"
+        },
+        {
+            "concepts": [
+                "Fleck",
+                "Pletz",
+                "Zelten",
+                "Kuchen"
+            ],
+            "id": "F60"
+        },
+        {
+            "concepts": [
+                "Sträußelkuchen",
+                "Kuchenarten",
+                "Käsezelten"
+            ],
+            "id": "F61"
+        },
+        {
+            "concepts": [
+                "Geschlecht",
+                "Sträußel"
+            ],
+            "id": "F62"
+        },
+        {
+            "concepts": [
+                "Tomerl"
+            ],
+            "id": "F63"
+        },
+        {
+            "concepts": [
+                "Ofentomerl",
+                "Tomerlarten"
+            ],
+            "id": "F64"
+        },
+        {
+            "concepts": [
+                "Tomerltanz",
+                "Tomerl",
+                "Mehlspeise"
+            ],
+            "id": "F65"
+        },
+        {
+            "concepts": [
+                "Pogatschen"
+            ],
+            "id": "F66"
+        },
+        {
+            "concepts": [
+                "Grammelpogatschen",
+                "Pogatschenarten"
+            ],
+            "id": "F67"
+        },
+        {
+            "concepts": [
+                "Pogatsche",
+                "Pogatschenmehl"
+            ],
+            "id": "F68"
+        },
+        {
+            "concepts": [
+                "Poganzen"
+            ],
+            "id": "F69"
+        },
+        {
+            "concepts": [
+                "Poganzenarten"
+            ],
+            "id": "F70"
+        },
+        {
+            "concepts": [
+                "Poganzenpfanne",
+                "Mehlspeise",
+                "Poganze"
+            ],
+            "id": "F71"
+        },
+        {
+            "concepts": [
+                "Potitzen"
+            ],
+            "id": "F72"
+        },
+        {
+            "concepts": [
+                "Nußpotitzen",
+                "Potitzenarten"
+            ],
+            "id": "F73"
+        },
+        {
+            "concepts": [
+                "Pfannling"
+            ],
+            "id": "F74"
+        },
+        {
+            "concepts": [
+                "Rözel"
+            ],
+            "id": "F75"
+        },
+        {
+            "concepts": [
+                "Rözelarten",
+                "Rözel",
+                "gestochener",
+                "Traufrözel"
+            ],
+            "id": "F76"
+        },
+        {
+            "concepts": [
+                "Rözelschmalz",
+                "Rözel",
+                "Mehlspeise"
+            ],
+            "id": "F77"
+        },
+        {
+            "concepts": [
+                "Torte"
+            ],
+            "id": "F78"
+        },
+        {
+            "concepts": [
+                "Tortenarten",
+                "Linzertorte"
+            ],
+            "id": "F79"
+        },
+        {
+            "concepts": [
+                "mehreren",
+                "bestehend",
+                "Zutaten",
+                "Schichten",
+                "Scheiterhaufen",
+                "Semmel"
+            ],
+            "id": "F80"
+        },
+        {
+            "concepts": [
+                "Schneeballen"
+            ],
+            "id": "F81"
+        },
+        {
+            "concepts": [
+                "ausgebacken",
+                "Nigelein",
+                "nußförmig",
+                "Schmalz"
+            ],
+            "id": "F82"
+        },
+        {
+            "concepts": [
+                "Hohlhippen"
+            ],
+            "id": "F83"
+        },
+        {
+            "concepts": [
+                "hohlhippnen",
+                "schmähen",
+                "lästern"
+            ],
+            "id": "F84"
+        },
+        {
+            "concepts": [
+                "Mehlspeisen",
+                "sonstige"
+            ],
+            "id": "F85"
+        },
+        {
+            "concepts": [
+                "Husarenkrapferln",
+                "süße",
+                "Vanillekipferln",
+                "Anisscheiten",
+                "Kranzerln",
+                "Stangerln",
+                "Bischofsbrot",
+                "Biskoten",
+                "Biskuit",
+                "Bäckereien",
+                "Busserln"
+            ],
+            "id": "F86"
+        },
+        {
+            "concepts": [
+                "Holzstock",
+                "Zucker",
+                "heute",
+                "zergeht"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Zucker",
+                "Kandiszucker",
+                "Brustzucker",
+                "Zuckerbüchse",
+                "Zuckerkandel"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "zuckern",
+                "zuckerig"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "zuckern"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "zuckern",
+                "verzuckern"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "kochen",
+                "mahlen",
+                "aufgießen",
+                "Kaffee"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Milchkaffee",
+                "Kaffeebohne",
+                "Kaffee"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Kakao"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Schokolade"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "kriegt",
+                "Tee"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "russischer",
+                "Teesorten",
+                "Käspappeltee"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "getrunken",
+                "Unangenehmes",
+                "sitzt",
+                "Verlegenheit",
+                "ja",
+                "erlebt",
+                "Essig",
+                "geworden"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Holzessig",
+                "Essig",
+                "Essigkrug"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "Öl",
+                "gegossen"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Ölkrügelein",
+                "Speise",
+                "Speiseöl",
+                "Öl"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "ölelen",
+                "riechen",
+                "Öl"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Rosinen",
+                "klaubt",
+                "Kopf",
+                "Rosine",
+                "große",
+                "Kuchen"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Salz",
+                "Wert",
+                "lege",
+                "darauf",
+                "tüchtig"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "wünschen",
+                "Salz",
+                "dorthin",
+                "wächst",
+                "Pfeffer"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Pfeffer",
+                "pfefferfarb",
+                "Pfefferkorn"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Muskat"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Gewürznelken"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Neugewürz"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Ingwer"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Safran"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Lorbeerblätter"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Rindsschmalz"
+            ],
+            "id": "G27"
+        },
+        {
+            "concepts": [
+                "Ausdrücke",
+                "eingebürgerte",
+                "Pflanzenfettsorten"
+            ],
+            "id": "G28"
+        }
+    ]
+}

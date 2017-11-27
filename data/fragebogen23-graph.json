@@ -1,0 +1,2700 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "große"
+                ],
+                [
+                    "Aderlassen"
+                ],
+                [
+                    "Person"
+                ],
+                [
+                    "Aderlaßwerkzeuge"
+                ],
+                [
+                    "Mittel"
+                ],
+                [
+                    "setzen"
+                ],
+                [
+                    "Nerven"
+                ],
+                [
+                    "Formen"
+                ],
+                [
+                    "Begriff"
+                ],
+                [
+                    "muß"
+                ],
+                [
+                    "Ersatzformeln"
+                ],
+                [
+                    "nervös"
+                ],
+                [
+                    "feste"
+                ],
+                [
+                    "fest"
+                ],
+                [
+                    "Gegenmittel"
+                ],
+                [
+                    "Vb"
+                ],
+                [
+                    "Fleisch"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "verwendet"
+                ],
+                [
+                    "bekannt"
+                ],
+                [
+                    "überall"
+                ],
+                [
+                    "häuteln"
+                ]
+            ],
+            "3": [
+                [
+                    "gebraucht"
+                ],
+                [
+                    "Beschreibung"
+                ],
+                [
+                    "gute"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "häufig"
+                ],
+                [
+                    "häuten"
+                ]
+            ],
+            "6": [
+                [
+                    "Häufigkeit"
+                ]
+            ],
+            "19": [
+                [
+                    "Aderlaß"
+                ]
+            ],
+            "44": [
+                [
+                    "Ader"
+                ]
+            ],
+            "90": [
+                [
+                    "Haut"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Laß",
+                    "Aderlaß"
+                ],
+                [
+                    "gelassen",
+                    "Ader"
+                ],
+                [
+                    "beim",
+                    "Aderlaß"
+                ],
+                [
+                    "Vb",
+                    "Handlungen"
+                ],
+                [
+                    "Vb",
+                    "Haut"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 0,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gute"
+            ],
+            "source": 0,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gute"
+            ],
+            "source": 0,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 1,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 1,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 1,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gebraucht"
+            ],
+            "source": 2,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gebraucht"
+            ],
+            "source": 2,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häufig"
+            ],
+            "source": 2,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häufig"
+            ],
+            "source": 2,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlassen"
+            ],
+            "source": 3,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 3,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 3,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Handlungen"
+            ],
+            "source": 3,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 9,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 9,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 9,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 9,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 9,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 10,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 10,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 10,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 10,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 11,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 11,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 11,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 12,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 12,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 12,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 12,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laß",
+                "Aderlaß"
+            ],
+            "source": 13,
+            "target": 17,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 13,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 13,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 13,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 13,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "überall"
+            ],
+            "source": 13,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 14,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 14,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gebraucht"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 17,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Aderlaß"
+            ],
+            "source": 17,
+            "target": 37,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fest"
+            ],
+            "source": 17,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelassen",
+                "Ader"
+            ],
+            "source": 18,
+            "target": 21,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 18,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 18,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 18,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 18,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 19,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 19,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 20,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 20,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 21,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 21,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 21,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 22,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 22,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "setzen"
+            ],
+            "source": 22,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ader"
+            ],
+            "source": 24,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Begriff"
+            ],
+            "source": 24,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaß"
+            ],
+            "source": 31,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aderlaßwerkzeuge"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 36,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nerven"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 38,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 38,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 38,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ersatzformeln"
+            ],
+            "source": 39,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gute"
+            ],
+            "source": 39,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "feste"
+            ],
+            "source": 39,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nervös"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 41,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 41,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 41,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 43,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 45,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 45,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 46,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 47,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Haut"
+            ],
+            "source": 48,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 48,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 49,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 50,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannt"
+            ],
+            "source": 50,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 50,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 51,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 51,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 51,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 52,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 52,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 52,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 52,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 52,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 53,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 53,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 53,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 54,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 54,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 55,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 55,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 55,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häufig"
+            ],
+            "source": 57,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häuten"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häuten"
+            ],
+            "source": 58,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 58,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häuten"
+            ],
+            "source": 59,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 60,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 61,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häuteln"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Quelle",
+                "Ader",
+                "Vater",
+                "finden",
+                "Äderlein",
+                "Rinnsal",
+                "jemand",
+                "sieht",
+                "nachgehn",
+                "gute",
+                "Holz",
+                "suchen",
+                "Gestein"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "sonstige",
+                "aufgedunsenen",
+                "anzeigend",
+                "blaue",
+                "geschwollene",
+                "goldene",
+                "faule",
+                "Ursachen",
+                "hitzige",
+                "bläuliche",
+                "bläulet",
+                "aufgetriebene",
+                "tamische",
+                "Aderl",
+                "große",
+                "subst"
+            ],
+            "id": "H1a"
+        },
+        {
+            "concepts": [
+                "häufig",
+                "Verwendung",
+                "Gåder",
+                "Sammelnamen",
+                "Gader",
+                "gebraucht",
+                "Gäderwerch",
+                "Adernzeug",
+                "Aderwerch",
+                "Geäder",
+                "Geäderet"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Ader",
+                "Vb",
+                "Funktionen",
+                "nieder",
+                "schwindet",
+                "pulst",
+                "platzt",
+                "greifen",
+                "fällt",
+                "fühlen",
+                "Aderlassen",
+                "Handlungen",
+                "zerreißt",
+                "si",
+                "Richtungszusatz",
+                "tobt",
+                "läuft"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "geäderig",
+                "aderig"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "adericht",
+                "åderet"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "äderlich",
+                "aderla"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "ausädern",
+                "geädert",
+                "ädern"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "sticheln",
+                "quälen",
+                "äderlen"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "gelehrten",
+                "Schlagader",
+                "Ader",
+                "Äderl",
+                "Arterie",
+                "dagegen",
+                "Begriffen",
+                "entsprechen",
+                "Vene",
+                "Krampfader",
+                "gibt",
+                "Spannad",
+                "Mittel",
+                "Namen"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "Erzader",
+                "Ader",
+                "Wasserader"
+            ],
+            "id": "H9a"
+        },
+        {
+            "concepts": [
+                "Sonstiges",
+                "Ader",
+                "betont",
+                "entstellende",
+                "Unader",
+                "große"
+            ],
+            "id": "H9b"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Ader",
+                "Aderngang",
+                "erster",
+                "Aderbruch"
+            ],
+            "id": "H9c"
+        },
+        {
+            "concepts": [
+                "Lassel",
+                "angeben",
+                "Beutel",
+                "überall",
+                "Lässe",
+                "auslöschen",
+                "vorhanden",
+                "braucht",
+                "Laß",
+                "Aderlaß"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "bairische",
+                "Aderlaß"
+            ],
+            "id": "H10a"
+        },
+        {
+            "concepts": [
+                "Luftlaß"
+            ],
+            "id": "H10b"
+        },
+        {
+            "concepts": [
+                "Aderlassen",
+                "Arten"
+            ],
+            "id": "H10c"
+        },
+        {
+            "concepts": [
+                "richtig",
+                "übliche",
+                "fest",
+                "letzte",
+                "gebraucht",
+                "Kartenspiel",
+                "Laß",
+                "ausgiebig",
+                "beim",
+                "Aderlaß"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "Ader",
+                "muß",
+                "gelassen",
+                "Formen",
+                "gehst",
+                "gebraucht",
+                "lässeln",
+                "Grunde",
+                "lassen",
+                "einfach",
+                "bißchen",
+                "Verbs",
+                "wer"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "tun",
+                "Aderlaß"
+            ],
+            "id": "H12a"
+        },
+        {
+            "concepts": [
+                "geben",
+                "Aderlaß"
+            ],
+            "id": "H12b"
+        },
+        {
+            "concepts": [
+                "Ader",
+                "Tieren",
+                "gelassen",
+                "warum",
+                "besondere",
+                "dafür",
+                "Ausdrücke"
+            ],
+            "id": "H12c"
+        },
+        {
+            "concepts": [
+                "köpfeln",
+                "häufiger",
+                "schröpfen",
+                "sagt",
+                "setzen",
+                "Beschreibung",
+                "köpfellassen",
+                "Köpfel"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Schröpfung",
+                "Köpfellaß"
+            ],
+            "id": "H13a"
+        },
+        {
+            "concepts": [
+                "Begriff",
+                "Ader",
+                "Blut",
+                "Aderlassens",
+                "abzapfen",
+                "anzapfen"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Blutwürste",
+                "aderlassen",
+                "gibts",
+                "gestochen",
+                "heute",
+                "Sau",
+                "Ausdrücke"
+            ],
+            "id": "H14a"
+        },
+        {
+            "concepts": [
+                "Laßtage",
+                "Aderlaßzeit",
+                "Laßtag"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "Tage",
+                "verworfene"
+            ],
+            "id": "H15a"
+        },
+        {
+            "concepts": [
+                "Laßtafel"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "Laßmännlein",
+                "Kalender"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "Aderlaßsegen",
+                "anführen"
+            ],
+            "id": "H18"
+        },
+        {
+            "concepts": [
+                "låsser",
+                "Ader",
+                "Aderlasser",
+                "Laßmann",
+                "sowohl",
+                "hohem",
+                "läßt",
+                "vornimmt",
+                "lasserin",
+                "Person",
+                "Aderlaß",
+                "unterschieden",
+                "Lasser"
+            ],
+            "id": "H19"
+        },
+        {
+            "concepts": [
+                "schröpft",
+                "Person",
+                "Name"
+            ],
+            "id": "H20"
+        },
+        {
+            "concepts": [
+                "Flitte",
+                "Pfliedel",
+                "Laßeisen",
+                "Fliede",
+                "Schnapper",
+                "Aderlaßwerkzeuge",
+                "Beschreibung",
+                "Pfriedel"
+            ],
+            "id": "H21"
+        },
+        {
+            "concepts": [
+                "Aderlaßwerkzeuge",
+                "Verfertiger",
+                "Schnäpperlmacher"
+            ],
+            "id": "H22"
+        },
+        {
+            "concepts": [
+                "Schröpfhörnlein",
+                "Laßköpfel",
+                "Schröpfwerkzeuge",
+                "Kopf",
+                "Schröpfkopf",
+                "Beschreibung"
+            ],
+            "id": "H23"
+        },
+        {
+            "concepts": [
+                "Egel",
+                "Mittel",
+                "setzen",
+                "sonstige"
+            ],
+            "id": "H24"
+        },
+        {
+            "concepts": [
+                "geschieht",
+                "Blutes",
+                "abgehenden",
+                "beim",
+                "Benennung",
+                "Aderlaß"
+            ],
+            "id": "H25"
+        },
+        {
+            "concepts": [
+                "anregeln",
+                "zucken",
+                "Aussprache",
+                "Nerv",
+                "Wortes",
+                "wodurch",
+                "Häufigkeit",
+                "Nerven",
+                "aufriegeln"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Eisen",
+                "überspannte",
+                "feste",
+                "schwache",
+                "Ersatzformeln",
+                "Strick",
+                "Kreuzerlstrickel",
+                "gute",
+                "Nerven",
+                "kontrakte"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "nervös",
+                "Verbreitung",
+                "nervenkrank",
+                "Formen",
+                "nerviös",
+                "Steigerung",
+                "nerfios"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Nervosität",
+                "Wort",
+                "Begriff",
+                "darunter",
+                "Nennung",
+                "volkstümlicher",
+                "Form",
+                "neu",
+                "Häufigkeit",
+                "Nervösheit",
+                "versteht",
+                "Gegenmittel"
+            ],
+            "id": "I3a"
+        },
+        {
+            "concepts": [
+                "muß",
+                "zerspringen",
+                "nervös",
+                "zuckts",
+                "Ersatzformeln",
+                "hämmerts",
+                "geladen"
+            ],
+            "id": "I3b"
+        },
+        {
+            "concepts": [
+                "Fleisch",
+                "nervig",
+                "Hautwörtern",
+                "gesetzt",
+                "gerne"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Kopfnerv",
+                "Hautnerv",
+                "Nervengeschicht",
+                "Nervenkrankheiten"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Bedeutungen",
+                "Früchten",
+                "Eies",
+                "liederliche",
+                "schlechthin",
+                "Hülle",
+                "Haut",
+                "alte",
+                "Hure",
+                "Pflanzen",
+                "Acker",
+                "ehrliche",
+                "gute",
+                "Schimpfwort",
+                "arme",
+                "Mensch",
+                "Ha",
+                "Wiese",
+                "ferner",
+                "gilt"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "beschaffen",
+                "heiler",
+                "feste",
+                "guten",
+                "Häute",
+                "zähe",
+                "Haut",
+                "steckt",
+                "Bein",
+                "wert",
+                "dicke",
+                "möcht",
+                "Knochen"
+            ],
+            "id": "I6a"
+        },
+        {
+            "concepts": [
+                "gesund",
+                "lederartig",
+                "offen",
+                "runzlig",
+                "Gegenmittel",
+                "aufgesprungen",
+                "porös",
+                "Poren",
+                "fest",
+                "rauh",
+                "dick",
+                "Haut",
+                "schwer",
+                "klüftig",
+                "verstopften",
+                "zerschrunden",
+                "wann",
+                "dünn",
+                "krank",
+                "leicht",
+                "rissig",
+                "stark",
+                "glatt",
+                "fein",
+                "Be",
+                "gering"
+            ],
+            "id": "I6b"
+        },
+        {
+            "concepts": [
+                "ab",
+                "Vb",
+                "zer",
+                "springt",
+                "schrupft",
+                "schlottert",
+                "färbt",
+                "löst",
+                "zusammen",
+                "Haut",
+                "verrunzelt",
+                "reißt",
+                "zieht",
+                "dehnt",
+                "wächst",
+                "Zuständen",
+                "verfärbt",
+                "streckt"
+            ],
+            "id": "I6c"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Vb",
+                "Vermummungen",
+                "zwicken",
+                "einschmieren",
+                "Haut",
+                "Ausdrücke",
+                "einreiben",
+                "spannen",
+                "überziehen",
+                "Handlungen",
+                "ausziehen",
+                "ablösen",
+                "aufschlitzen",
+                "us",
+                "kratzen",
+                "gewerblichen",
+                "aufreißen"
+            ],
+            "id": "I6d"
+        },
+        {
+            "concepts": [
+                "Geldbeuteln",
+                "verwendet",
+                "mundartliche",
+                "bekannt",
+                "Haut",
+                "Menschenhaut",
+                "Volksurteil",
+                "darüber",
+                "imitierte",
+                "Anfertigung",
+                "Bucheinbänden",
+                "Mens",
+                "Gegenständen",
+                "Herkunft"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Flughaut",
+                "Körperstelle",
+                "Tätigkeit",
+                "Haut",
+                "Zungenhaut"
+            ],
+            "id": "I7a"
+        },
+        {
+            "concepts": [
+                "Regenhaut",
+                "Schokoladehaut",
+                "uneigentlicher",
+                "Haut",
+                "genannt",
+                "Hexe",
+                "Kaffeehaut",
+                "Dreckhaut"
+            ],
+            "id": "I7b"
+        },
+        {
+            "concepts": [
+                "Haut",
+                "Flohhaut"
+            ],
+            "id": "I7c"
+        },
+        {
+            "concepts": [
+                "Wursthaut",
+                "Haut",
+                "sonstige"
+            ],
+            "id": "I7d"
+        },
+        {
+            "concepts": [
+                "besonders",
+                "Hautröte",
+                "Hautausdünstungen",
+                "einzelnen",
+                "Haut",
+                "abgefragt",
+                "Hautgeruch",
+                "Hautentzündung",
+                "Hautübel",
+                "Hautkrankheit"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "verstärkender",
+                "hautschlecht"
+            ],
+            "id": "I8a"
+        },
+        {
+            "concepts": [
+                "häufig",
+                "Hautwerch",
+                "Gehäute",
+                "Fleisch",
+                "Gehäuter",
+                "Gehäuteret",
+                "Nebensinn",
+                "häutiges",
+                "üblem"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "häuten",
+                "gemacht",
+                "Haut",
+                "Eigenschaftswort"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "häuten",
+                "hirschhäuten"
+            ],
+            "id": "I10a"
+        },
+        {
+            "concepts": [
+                "überzogen",
+                "häutig",
+                "Haut",
+                "Milch",
+                "Krankheit",
+                "häutige",
+                "Bräun"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "häutern",
+                "Häufigkeit"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "häufig",
+                "häuteret",
+                "beide",
+                "hauteret",
+                "gleich"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "Hauterl",
+                "Häuter",
+                "Teufel",
+                "armer",
+                "Sinne",
+                "dummer",
+                "Weiber",
+                "Pferd",
+                "schlechtes",
+                "Mensch",
+                "Kinder",
+                "gutmütiger"
+            ],
+            "id": "I14"
+        },
+        {
+            "concepts": [
+                "Hauta",
+                "Frau",
+                "dumme",
+                "gutmütige",
+                "Hautla",
+                "Häuterin"
+            ],
+            "id": "I14a"
+        },
+        {
+            "concepts": [
+                "Karrengäulen",
+                "davon",
+                "Rennen",
+                "bekannt"
+            ],
+            "id": "I15"
+        },
+        {
+            "concepts": [
+                "häuten",
+                "Verb"
+            ],
+            "id": "I16"
+        },
+        {
+            "concepts": [
+                "häuteln"
+            ],
+            "id": "I17"
+        },
+        {
+            "concepts": [
+                "abhäuteln",
+                "häuteln",
+                "überall",
+                "loshäuteln",
+                "bockhäuteln",
+                "wegherhäuteln",
+                "weghäuteln",
+                "bedeutet",
+                "erklärt"
+            ],
+            "id": "I17a"
+        },
+        {
+            "concepts": [
+                "hauten"
+            ],
+            "id": "I18"
+        },
+        {
+            "concepts": [
+                "umsonst",
+                "Hauter",
+                "plagt",
+                "Hauterer"
+            ],
+            "id": "I18a"
+        },
+        {
+            "concepts": [
+                "stümpern",
+                "hautern"
+            ],
+            "id": "I18b"
+        },
+        {
+            "concepts": [
+                "Häutung",
+                "Häufigkeit"
+            ],
+            "id": "I19"
+        },
+        {
+            "concepts": [
+                "Teufelskünste",
+                "gemachte",
+                "Haut",
+                "Hexenhaut",
+                "unverwundbar"
+            ],
+            "id": "I20"
+        }
+    ]
+}

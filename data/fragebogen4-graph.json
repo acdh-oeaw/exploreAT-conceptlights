@@ -1,0 +1,6797 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "bekommen"
+                ],
+                [
+                    "Zähnen"
+                ],
+                [
+                    "warum"
+                ],
+                [
+                    "Kiefer"
+                ],
+                [
+                    "Oberkiefer"
+                ],
+                [
+                    "Unterkiefer"
+                ],
+                [
+                    "Zahnfleisches"
+                ],
+                [
+                    "stumpfe"
+                ],
+                [
+                    "darüber"
+                ],
+                [
+                    "belegte"
+                ],
+                [
+                    "wann"
+                ],
+                [
+                    "Scherze"
+                ],
+                [
+                    "zeigen"
+                ],
+                [
+                    "Krankheiten"
+                ]
+            ],
+            "2": [
+                [
+                    "sonstige"
+                ],
+                [
+                    "große"
+                ]
+            ],
+            "3": [
+                [
+                    "Milchzähne"
+                ],
+                [
+                    "vorgeschobener"
+                ],
+                [
+                    "Gaumen"
+                ],
+                [
+                    "geschwollene"
+                ]
+            ],
+            "4": [
+                [
+                    "Mittel"
+                ]
+            ],
+            "6": [
+                [
+                    "Lippe"
+                ],
+                [
+                    "Mandeln"
+                ],
+                [
+                    "Farbe"
+                ],
+                [
+                    "Wendungen"
+                ]
+            ],
+            "18": [
+                [
+                    "Mensch"
+                ]
+            ],
+            "45": [
+                [
+                    "Lippen"
+                ]
+            ],
+            "90": [
+                [
+                    "Zahn"
+                ]
+            ],
+            "219": [
+                [
+                    "Zunge"
+                ]
+            ],
+            "230": [
+                [
+                    "Zähne"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Zähne",
+                    "heißen"
+                ],
+                [
+                    "sonstige",
+                    "Zahn"
+                ],
+                [
+                    "heißt",
+                    "Zunge"
+                ],
+                [
+                    "zeigt",
+                    "Zunge"
+                ]
+            ],
+            "6": [
+                [
+                    "dagegen",
+                    "Mittel"
+                ]
+            ],
+            "8": [
+                [
+                    "Mensch",
+                    "Zunge"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Mensch",
+                    "große",
+                    "Zunge"
+                ],
+                [
+                    "Mensch",
+                    "vorne",
+                    "Zunge"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Lippe"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippe"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippe"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippe"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippe"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippe"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 6,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 7,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 8,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 8,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 8,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 8,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 9,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 9,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 9,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 9,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 10,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 10,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 10,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 12,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 12,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 12,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 12,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 13,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 14,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschwollene"
+            ],
+            "source": 14,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 14,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschwollene"
+            ],
+            "source": 14,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 14,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 14,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lippen"
+            ],
+            "source": 15,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekommen"
+            ],
+            "source": 16,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 16,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 16,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stumpfe"
+            ],
+            "source": 16,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 17,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne",
+                "heißen"
+            ],
+            "source": 20,
+            "target": 60,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 20,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 20,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 20,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 21,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 22,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 26,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Milchzähne"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Milchzähne"
+            ],
+            "source": 29,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 29,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 30,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Milchzähne"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 39,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 39,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 39,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 40,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 41,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 43,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 44,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 45,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 46,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 47,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 47,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 47,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 47,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 48,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 48,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 48,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 48,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 49,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 49,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 49,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 49,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 50,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 50,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 50,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 50,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 50,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 50,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 50,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 50,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 50,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 50,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 50,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 52,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dagegen",
+                "Mittel"
+            ],
+            "source": 54,
+            "target": 55,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 54,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dagegen",
+                "Mittel"
+            ],
+            "source": 54,
+            "target": 102,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "dagegen",
+                "Mittel"
+            ],
+            "source": 54,
+            "target": 115,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 55,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 55,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 55,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dagegen",
+                "Mittel"
+            ],
+            "source": 55,
+            "target": 102,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "dagegen",
+                "Mittel"
+            ],
+            "source": 55,
+            "target": 115,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 56,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahn"
+            ],
+            "source": 56,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "darüber"
+            ],
+            "source": 56,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 58,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 59,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 60,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 61,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 62,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 62,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 62,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 62,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 62,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 62,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähnen"
+            ],
+            "source": 63,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "warum"
+            ],
+            "source": 63,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 65,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 65,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 65,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 65,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 65,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 65,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 65,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 65,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 65,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 65,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 65,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 66,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 66,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 67,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 67,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 69,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 69,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 70,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scherze"
+            ],
+            "source": 71,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 73,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 73,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 73,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 73,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zeigen"
+            ],
+            "source": 74,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 77,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige",
+                "Zahn"
+            ],
+            "source": 78,
+            "target": 79,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kiefer"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorgeschobener"
+            ],
+            "source": 83,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorgeschobener"
+            ],
+            "source": 83,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Oberkiefer"
+            ],
+            "source": 84,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorgeschobener"
+            ],
+            "source": 85,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Unterkiefer"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahnfleisches"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krankheiten"
+            ],
+            "source": 90,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 91,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 91,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaumen"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaumen"
+            ],
+            "source": 93,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaumen"
+            ],
+            "source": 94,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mandeln"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mandeln"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mandeln"
+            ],
+            "source": 97,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mandeln"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mandeln"
+            ],
+            "source": 98,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschwollene"
+            ],
+            "source": 98,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mandeln"
+            ],
+            "source": 99,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "belegte"
+            ],
+            "source": 99,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dagegen",
+                "Mittel"
+            ],
+            "source": 102,
+            "target": 115,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 105,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 105,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 105,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 105,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 105,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 106,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt",
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 125,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 107,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "große",
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 109,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 110,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 111,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 112,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 108,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 110,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 111,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 112,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 109,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 111,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 112,
+            "target_group": [
+                2,
+                8,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 110,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "vorne",
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 112,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 111,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 112,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 113,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 115,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 116,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 117,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 118,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 119,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 120,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 121,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 121,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 121,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 121,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 121,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 121,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 121,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 122,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 122,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 122,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 122,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 122,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 122,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 122,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 123,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 123,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 123,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 123,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 123,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zeigt",
+                "Zunge"
+            ],
+            "source": 124,
+            "target": 125,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 124,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 124,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 124,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 125,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 125,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 125,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 129,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 129,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 130,
+            "target": 131,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Lefze",
+                "Lippe"
+            ],
+            "id": "J1"
+        },
+        {
+            "concepts": [
+                "Oberlippe"
+            ],
+            "id": "J2"
+        },
+        {
+            "concepts": [
+                "Unterlippe"
+            ],
+            "id": "J3"
+        },
+        {
+            "concepts": [
+                "Hasenlippe",
+                "Hasenscharte",
+                "Lippe"
+            ],
+            "id": "J4"
+        },
+        {
+            "concepts": [
+                "schmale",
+                "Lippe"
+            ],
+            "id": "J5"
+        },
+        {
+            "concepts": [
+                "Lippe",
+                "herabhängende"
+            ],
+            "id": "J6"
+        },
+        {
+            "concepts": [
+                "eben",
+                "übereinanderliegende",
+                "Bezug",
+                "glatt",
+                "Personen",
+                "sexueller",
+                "derartigen",
+                "Lippen",
+                "Frauen",
+                "Zusammenzwickende"
+            ],
+            "id": "J7"
+        },
+        {
+            "concepts": [
+                "aufwerfen",
+                "aufgeworfene",
+                "Lippen"
+            ],
+            "id": "J8"
+        },
+        {
+            "concepts": [
+                "Doppellippe",
+                "Lippen",
+                "gefurchte"
+            ],
+            "id": "J8a"
+        },
+        {
+            "concepts": [
+                "reiben",
+                "Lippen",
+                "aneinander"
+            ],
+            "id": "J9"
+        },
+        {
+            "concepts": [
+                "vorstülpen",
+                "vorgestülpte",
+                "Lippen"
+            ],
+            "id": "J10"
+        },
+        {
+            "concepts": [
+                "Kußmäulchen"
+            ],
+            "id": "J11"
+        },
+        {
+            "concepts": [
+                "Lippen",
+                "Farbe"
+            ],
+            "id": "J12"
+        },
+        {
+            "concepts": [
+                "aufgesprungene",
+                "Lippen"
+            ],
+            "id": "J13"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "außerhaben",
+                "Schlag",
+                "geschwollene",
+                "Fall",
+                "Lippen",
+                "Wurst"
+            ],
+            "id": "J14"
+        },
+        {
+            "concepts": [
+                "Busserl",
+                "Geschwüre",
+                "kommen",
+                "Lippen",
+                "her",
+                "falsches"
+            ],
+            "id": "J15"
+        },
+        {
+            "concepts": [
+                "lange",
+                "stumpfe",
+                "Zähne",
+                "bekommen",
+                "Zahn"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "Rades",
+                "Pflanzen",
+                "Neides",
+                "Zahn"
+            ],
+            "id": "K1a"
+        },
+        {
+            "concepts": [
+                "Oberzähne"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "Unterzähne"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "vordere",
+                "Schaufeln",
+                "Vorderzähne",
+                "heißen",
+                "Zähne",
+                "große"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Mausezähne",
+                "spitze",
+                "kleine"
+            ],
+            "id": "K4a"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "hintere"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "Schneidezahn"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "Augenzahn",
+                "Reißzahn",
+                "Eckzahn"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "Backenzahn",
+                "Mahlzahn",
+                "Stockzahn"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "Weisheitszähne",
+                "wann",
+                "bekommt"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "Weisheitszähnen",
+                "schreibt"
+            ],
+            "id": "K9a"
+        },
+        {
+            "concepts": [
+                "Weisheitszahn"
+            ],
+            "id": "K9b"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Milchzähne",
+                "erste"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "zweite"
+            ],
+            "id": "K10a"
+        },
+        {
+            "concepts": [
+                "Milchzähne",
+                "bekommen"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "Milchzähne",
+                "abstoßen"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Zahnkrone"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "Zahnschneide"
+            ],
+            "id": "K13a"
+        },
+        {
+            "concepts": [
+                "Zahnhals"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "Zahnwurzel"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "Zahnfach"
+            ],
+            "id": "K15a"
+        },
+        {
+            "concepts": [
+                "Schmelz"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Farbe"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Volksaberglaube"
+            ],
+            "id": "K17a"
+        },
+        {
+            "concepts": [
+                "Bestandteil",
+                "häßlich",
+                "schön",
+                "Zähne",
+                "Zahnfarbe"
+            ],
+            "id": "K17b"
+        },
+        {
+            "concepts": [
+                "Scharte"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "Stumpen",
+                "abgebrochener",
+                "Zahn"
+            ],
+            "id": "K18a"
+        },
+        {
+            "concepts": [
+                "Zahn",
+                "abbröckelnder"
+            ],
+            "id": "K18b"
+        },
+        {
+            "concepts": [
+                "Loch",
+                "Zahn"
+            ],
+            "id": "K18c"
+        },
+        {
+            "concepts": [
+                "fauler",
+                "Zahn"
+            ],
+            "id": "K18d"
+        },
+        {
+            "concepts": [
+                "blutender",
+                "Zahn"
+            ],
+            "id": "K18e"
+        },
+        {
+            "concepts": [
+                "Ansätze",
+                "Zahnstein",
+                "Zahn"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "Speisereste",
+                "Zahn"
+            ],
+            "id": "K19a"
+        },
+        {
+            "concepts": [
+                "Vergleiche",
+                "schiefgewachsener",
+                "schiefgewachsenem",
+                "Mensch",
+                "Zahn"
+            ],
+            "id": "K20"
+        },
+        {
+            "concepts": [
+                "töten",
+                "tobt",
+                "Zahnnerv"
+            ],
+            "id": "K21"
+        },
+        {
+            "concepts": [
+                "Zahnsegen",
+                "weh",
+                "getan",
+                "Zahnschmerz",
+                "Zähne",
+                "letztenmal",
+                "Gegenmittel"
+            ],
+            "id": "K22"
+        },
+        {
+            "concepts": [
+                "Beinhautentzündung"
+            ],
+            "id": "K23"
+        },
+        {
+            "concepts": [
+                "Zahngeschwulst",
+                "dagegen",
+                "Mittel"
+            ],
+            "id": "K24"
+        },
+        {
+            "concepts": [
+                "dagegen",
+                "Wurm",
+                "Mittel",
+                "Zahnwurzelentzündung",
+                "Zahn"
+            ],
+            "id": "K25"
+        },
+        {
+            "concepts": [
+                "reißen",
+                "darüber",
+                "Volkswitze",
+                "ziehen",
+                "Zahn"
+            ],
+            "id": "K26"
+        },
+        {
+            "concepts": [
+                "Werkzeuge",
+                "Name",
+                "Zahnziehen",
+                "Bindfaden",
+                "Zange"
+            ],
+            "id": "K26a"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "ausbrechen",
+                "abbrechen",
+                "Giftzähne"
+            ],
+            "id": "K27"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "aushauen"
+            ],
+            "id": "K28"
+        },
+        {
+            "concepts": [
+                "einzelne",
+                "Nachbarschaft",
+                "Haken",
+                "heißen",
+                "Zähne",
+                "dastehende"
+            ],
+            "id": "K29"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Wackeln"
+            ],
+            "id": "K30"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Ausfallen"
+            ],
+            "id": "K31"
+        },
+        {
+            "concepts": [
+                "worin",
+                "warum",
+                "gezogenen",
+                "aufbewahrt",
+                "Zähnen",
+                "wohin",
+                "geschieht",
+                "weggeworfen",
+                "ausgefallenen"
+            ],
+            "id": "K31a"
+        },
+        {
+            "concepts": [
+                "zahnlückig",
+                "Zahnlücke"
+            ],
+            "id": "K32"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Mensch",
+                "ausgefallen"
+            ],
+            "id": "K33"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "einsetzen"
+            ],
+            "id": "K34"
+        },
+        {
+            "concepts": [
+                "plombieren",
+                "Zähne",
+                "Plombe",
+                "Zahnfüllung",
+                "füllen"
+            ],
+            "id": "K35"
+        },
+        {
+            "concepts": [
+                "Zahnarzt",
+                "Namen"
+            ],
+            "id": "K36"
+        },
+        {
+            "concepts": [
+                "stochert",
+                "stochern",
+                "Zahnstocher",
+                "dabei",
+                "Anstandsregeln",
+                "Zähnen",
+                "Zähne",
+                "womit"
+            ],
+            "id": "K37"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "putzen"
+            ],
+            "id": "K38"
+        },
+        {
+            "concepts": [
+                "Gebrauch",
+                "Zahnbürste",
+                "Scherze",
+                "Ersatz"
+            ],
+            "id": "K39"
+        },
+        {
+            "concepts": [
+                "Zahnpulver",
+                "Ersatzmittel"
+            ],
+            "id": "K40"
+        },
+        {
+            "concepts": [
+                "sonstige",
+                "spülen",
+                "Brot",
+                "abends",
+                "essen",
+                "Mittel",
+                "Äpfel",
+                "Zahnreinigen"
+            ],
+            "id": "K41"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "warum",
+                "zeigen",
+                "fletschen"
+            ],
+            "id": "K42"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "zusammenbeißen"
+            ],
+            "id": "K43"
+        },
+        {
+            "concepts": [
+                "knirschen"
+            ],
+            "id": "K44"
+        },
+        {
+            "concepts": [
+                "Farbe",
+                "Zahntüchel",
+                "Stoff",
+                "Arten",
+                "Knüpfung",
+                "Maultüchel"
+            ],
+            "id": "K45"
+        },
+        {
+            "concepts": [
+                "Zahn",
+                "sonstige"
+            ],
+            "id": "K46"
+        },
+        {
+            "concepts": [
+                "Zahn",
+                "sonstige"
+            ],
+            "id": "K46a"
+        },
+        {
+            "concepts": [
+                "erwähnt",
+                "schon",
+                "Aberglaube",
+                "soweit"
+            ],
+            "id": "K47"
+        },
+        {
+            "concepts": [
+                "Zahnheilige"
+            ],
+            "id": "K48"
+        },
+        {
+            "concepts": [
+                "Kiefer"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "Kiefer",
+                "vorgeschobener"
+            ],
+            "id": "L1a"
+        },
+        {
+            "concepts": [
+                "Oberkiefer"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "Oberkiefer",
+                "vorgeschobener"
+            ],
+            "id": "L2a"
+        },
+        {
+            "concepts": [
+                "Unterkiefer"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "Unterkiefer",
+                "vorgeschobener"
+            ],
+            "id": "L3a"
+        },
+        {
+            "concepts": [
+                "Zahnfleisch"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "Zahnfleisches",
+                "Färbung"
+            ],
+            "id": "L4a"
+        },
+        {
+            "concepts": [
+                "Zahnfleisches",
+                "Krankheiten"
+            ],
+            "id": "L4b"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "beißen"
+            ],
+            "id": "L5"
+        },
+        {
+            "concepts": [
+                "mummeln"
+            ],
+            "id": "L6"
+        },
+        {
+            "concepts": [
+                "Gaumen"
+            ],
+            "id": "L7"
+        },
+        {
+            "concepts": [
+                "wunder",
+                "Gaumen",
+                "genannt",
+                "Abgehen",
+                "Hautteilen"
+            ],
+            "id": "L7a"
+        },
+        {
+            "concepts": [
+                "gespaltener",
+                "Gaumen"
+            ],
+            "id": "L7b"
+        },
+        {
+            "concepts": [
+                "Zäpfchen"
+            ],
+            "id": "L8"
+        },
+        {
+            "concepts": [
+                "Mandeln"
+            ],
+            "id": "L9"
+        },
+        {
+            "concepts": [
+                "geschwollene",
+                "Mandeln"
+            ],
+            "id": "L9a"
+        },
+        {
+            "concepts": [
+                "belegte",
+                "Mandeln"
+            ],
+            "id": "L9b"
+        },
+        {
+            "concepts": [
+                "ausbrechende",
+                "Mandeln"
+            ],
+            "id": "L9c"
+        },
+        {
+            "concepts": [
+                "Schlund",
+                "Rachen"
+            ],
+            "id": "L10"
+        },
+        {
+            "concepts": [
+                "Bräune",
+                "dagegen",
+                "Halses",
+                "Segen",
+                "Petroleum",
+                "Gebete",
+                "trinken",
+                "Dunsten",
+                "häutige",
+                "Mittel"
+            ],
+            "id": "L11"
+        },
+        {
+            "concepts": [
+                "Halsentzündung"
+            ],
+            "id": "L11a"
+        },
+        {
+            "concepts": [
+                "Rachenkatarrh"
+            ],
+            "id": "L11b"
+        },
+        {
+            "concepts": [
+                "daran",
+                "erhalten",
+                "Kieferverrenkung",
+                "leidet",
+                "Mensch",
+                "leiden"
+            ],
+            "id": "L12"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Fleck",
+                "Zunge",
+                "Pleschel"
+            ],
+            "id": "M1"
+        },
+        {
+            "concepts": [
+                "unteren",
+                "durchtrennt",
+                "Zungenader",
+                "heißt",
+                "Zungenlösen",
+                "Muskel",
+                "vorhanden",
+                "falls",
+                "Seite",
+                "Zungenspitze",
+                "Zunge",
+                "dafür",
+                "beim",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "id": "M2"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "große",
+                "Zunge",
+                "breite"
+            ],
+            "id": "M3"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "längliche",
+                "große",
+                "Zunge"
+            ],
+            "id": "M3a"
+        },
+        {
+            "concepts": [
+                "kurze",
+                "Mensch",
+                "dicke",
+                "Zunge"
+            ],
+            "id": "M3b"
+        },
+        {
+            "concepts": [
+                "gespitzte",
+                "Mensch",
+                "vorne",
+                "Zunge"
+            ],
+            "id": "M3c"
+        },
+        {
+            "concepts": [
+                "auffällig",
+                "vorne",
+                "Zunge",
+                "stumpfe",
+                "Mensch"
+            ],
+            "id": "M3d"
+        },
+        {
+            "concepts": [
+                "vortretende",
+                "Menschen",
+                "Vorderzähnen",
+                "Zunge",
+                "Lippen"
+            ],
+            "id": "M3e"
+        },
+        {
+            "concepts": [
+                "gesunde",
+                "Zungenhaut"
+            ],
+            "id": "M4"
+        },
+        {
+            "concepts": [
+                "Abstreifen",
+                "woher",
+                "Belag",
+                "kommt",
+                "urteilen",
+                "dagegen",
+                "darüber",
+                "belegte",
+                "Zunge",
+                "Belages",
+                "Mittel",
+                "Leute",
+                "älteren"
+            ],
+            "id": "M5"
+        },
+        {
+            "concepts": [
+                "Zunge",
+                "pelzige"
+            ],
+            "id": "M5a"
+        },
+        {
+            "concepts": [
+                "trockene",
+                "Zunge"
+            ],
+            "id": "M5b"
+        },
+        {
+            "concepts": [
+                "Blasen",
+                "Zunge"
+            ],
+            "id": "M5c"
+        },
+        {
+            "concepts": [
+                "Zunge",
+                "geschwollene"
+            ],
+            "id": "M5d"
+        },
+        {
+            "concepts": [
+                "bewegliche",
+                "züngelnde",
+                "leicht",
+                "Zunge"
+            ],
+            "id": "M6"
+        },
+        {
+            "concepts": [
+                "Reden",
+                "angewachsene",
+                "Zunge",
+                "schwere"
+            ],
+            "id": "M7"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Zunge",
+                "flinke"
+            ],
+            "id": "M8"
+        },
+        {
+            "concepts": [
+                "Zunge",
+                "Farbe"
+            ],
+            "id": "M9"
+        },
+        {
+            "concepts": [
+                "wem",
+                "zeigen",
+                "wann",
+                "recken",
+                "Spiele",
+                "zeigt",
+                "Zungenrecken",
+                "Zunge",
+                "Scherze"
+            ],
+            "id": "M10"
+        },
+        {
+            "concepts": [
+                "Zunge",
+                "zeigt",
+                "gerne",
+                "heißt"
+            ],
+            "id": "M11"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "lecken"
+            ],
+            "id": "M12"
+        },
+        {
+            "concepts": [
+                "Zungenfehler",
+                "Anstoßen"
+            ],
+            "id": "M13"
+        },
+        {
+            "concepts": [
+                "Zungenschlag"
+            ],
+            "id": "M13a"
+        },
+        {
+            "concepts": [
+                "Zungenkrebs",
+                "Krankheiten",
+                "Zunge"
+            ],
+            "id": "M14"
+        },
+        {
+            "concepts": [
+                "Schweinszunge",
+                "Zunge"
+            ],
+            "id": "M15"
+        },
+        {
+            "concepts": [
+                "Zunge",
+                "zungenfertig"
+            ],
+            "id": "M15a"
+        }
+    ]
+}

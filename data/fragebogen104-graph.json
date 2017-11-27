@@ -1,0 +1,4695 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "hoch"
+                ],
+                [
+                    "dabei"
+                ],
+                [
+                    "flach"
+                ],
+                [
+                    "Gebirge"
+                ],
+                [
+                    "gebirglerisch"
+                ],
+                [
+                    "Bergseite"
+                ],
+                [
+                    "jäh"
+                ],
+                [
+                    "Steinwand"
+                ],
+                [
+                    "felsig"
+                ],
+                [
+                    "Felsen"
+                ],
+                [
+                    "Steinschlag"
+                ],
+                [
+                    "Erde"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Graben"
+                ],
+                [
+                    "Rüepe"
+                ],
+                [
+                    "Schlucht"
+                ],
+                [
+                    "Nieder"
+                ],
+                [
+                    "jenseits"
+                ],
+                [
+                    "Steig"
+                ],
+                [
+                    "Pfad"
+                ],
+                [
+                    "Gasse"
+                ],
+                [
+                    "hohler"
+                ],
+                [
+                    "Viehweg"
+                ],
+                [
+                    "Gegend"
+                ],
+                [
+                    "gibt"
+                ],
+                [
+                    "trockenen"
+                ],
+                [
+                    "Gestein"
+                ],
+                [
+                    "gerade"
+                ],
+                [
+                    "rechts"
+                ],
+                [
+                    "Hand"
+                ],
+                [
+                    "links"
+                ],
+                [
+                    "Kehre"
+                ],
+                [
+                    "Wege"
+                ],
+                [
+                    "Bahnstrecke"
+                ],
+                [
+                    "Meile"
+                ],
+                [
+                    "Maut"
+                ]
+            ],
+            "2": [
+                [
+                    "Ofen"
+                ],
+                [
+                    "zwei"
+                ],
+                [
+                    "Straßen"
+                ]
+            ],
+            "3": [
+                [
+                    "Land"
+                ],
+                [
+                    "Berges"
+                ],
+                [
+                    "Volksglaube"
+                ],
+                [
+                    "Boden"
+                ],
+                [
+                    "liegt"
+                ],
+                [
+                    "Straßengeländer"
+                ],
+                [
+                    "Seite"
+                ],
+                [
+                    "fahren"
+                ],
+                [
+                    "Fußweg"
+                ]
+            ],
+            "4": [
+                [
+                    "Kreuzung"
+                ]
+            ],
+            "6": [
+                [
+                    "unten"
+                ],
+                [
+                    "Wand"
+                ],
+                [
+                    "Berg"
+                ],
+                [
+                    "Tal"
+                ],
+                [
+                    "Weg"
+                ],
+                [
+                    "oben"
+                ]
+            ],
+            "9": [
+                [
+                    "geht"
+                ]
+            ],
+            "27": [
+                [
+                    "gehen"
+                ]
+            ],
+            "134": [
+                [
+                    "Straße"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "niedrig",
+                    "nieder"
+                ],
+                [
+                    "Ofen",
+                    "Kofel"
+                ],
+                [
+                    "gehen",
+                    "Wasser"
+                ],
+                [
+                    "nehmen",
+                    "gehen"
+                ],
+                [
+                    "gehen",
+                    "stehen"
+                ],
+                [
+                    "geht",
+                    "Straße"
+                ],
+                [
+                    "Kreuzung",
+                    "Straßen"
+                ],
+                [
+                    "zweier",
+                    "Kreuzung"
+                ]
+            ],
+            "2": [
+                [
+                    "gehen",
+                    "fahren"
+                ]
+            ],
+            "3": [
+                [
+                    "Land",
+                    "gehen"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "gehen",
+                    "fahren",
+                    "ge"
+                ],
+                [
+                    "laufende",
+                    "Straße",
+                    "schief"
+                ]
+            ]
+        },
+        "5": {
+            "1": [
+                [
+                    "Joch",
+                    "zwei",
+                    "Paß",
+                    "Sattel",
+                    "Höhen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Land",
+                "gehen"
+            ],
+            "source": 0,
+            "target": 1,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Land",
+                "gehen"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Land"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 0,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 0,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 0,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 0,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 0,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Land",
+                "gehen"
+            ],
+            "source": 1,
+            "target": 2,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Land"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen",
+                "fahren"
+            ],
+            "source": 1,
+            "target": 34,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehen",
+                "fahren"
+            ],
+            "source": 1,
+            "target": 92,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Land"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 2,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 2,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 2,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen",
+                "Wasser"
+            ],
+            "source": 2,
+            "target": 129,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 2,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 8,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 8,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 8,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen",
+                "gehen"
+            ],
+            "source": 8,
+            "target": 129,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 8,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gebirglerisch"
+            ],
+            "source": 9,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "flach"
+            ],
+            "source": 11,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegend"
+            ],
+            "source": 11,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hoch"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 13,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 13,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 13,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 13,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "oben"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "oben"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 15,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "oben"
+            ],
+            "source": 15,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "oben"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "oben"
+            ],
+            "source": 16,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 18,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "oben"
+            ],
+            "source": 18,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegt"
+            ],
+            "source": 21,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegt"
+            ],
+            "source": 21,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "niedrig",
+                "nieder"
+            ],
+            "source": 23,
+            "target": 24,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 25,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 25,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nieder"
+            ],
+            "source": 25,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unten"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unten"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unten"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unten"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unten"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erde"
+            ],
+            "source": 29,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unten"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegt"
+            ],
+            "source": 31,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 32,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 32,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 32,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "felsig"
+            ],
+            "source": 33,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berg"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berg"
+            ],
+            "source": 34,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berg"
+            ],
+            "source": 34,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen",
+                "fahren",
+                "ge"
+            ],
+            "source": 34,
+            "target": 92,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 34,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen",
+                "stehen"
+            ],
+            "source": 34,
+            "target": 129,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 34,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 34,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berg"
+            ],
+            "source": 35,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berg"
+            ],
+            "source": 35,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebirge"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berges"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berges"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berges"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 48,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seite"
+            ],
+            "source": 49,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seite"
+            ],
+            "source": 49,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bergseite"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jäh"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Steinwand"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 59,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 59,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 61,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berg"
+            ],
+            "source": 62,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen",
+                "Kofel"
+            ],
+            "source": 67,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 67,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 67,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Felsen"
+            ],
+            "source": 69,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hohler"
+            ],
+            "source": 69,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rüepe"
+            ],
+            "source": 75,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 78,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gestein"
+            ],
+            "source": 82,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Steinschlag"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tal"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tal"
+            ],
+            "source": 90,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tal"
+            ],
+            "source": 90,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 91,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tal"
+            ],
+            "source": 92,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tal"
+            ],
+            "source": 92,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 92,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 92,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 92,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 92,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tal"
+            ],
+            "source": 93,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trockenen"
+            ],
+            "source": 100,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Graben"
+            ],
+            "source": 102,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlucht"
+            ],
+            "source": 106,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Joch",
+                "zwei",
+                "Paß",
+                "Sattel",
+                "Höhen"
+            ],
+            "source": 111,
+            "target": 112,
+            "target_group": [
+                5,
+                1,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 111,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 111,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 111,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 112,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jenseits"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 127,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 128,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 129,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 129,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 129,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 129,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerade"
+            ],
+            "source": 129,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wege"
+            ],
+            "source": 129,
+            "target": 224,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 130,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 130,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Steig"
+            ],
+            "source": 131,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfad"
+            ],
+            "source": 133,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gasse"
+            ],
+            "source": 135,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 137,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straßen"
+            ],
+            "source": 139,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straßen"
+            ],
+            "source": 139,
+            "target": 223,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fußweg"
+            ],
+            "source": 145,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fußweg"
+            ],
+            "source": 145,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fußweg"
+            ],
+            "source": 146,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 151,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Viehweg"
+            ],
+            "source": 157,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufende",
+                "Straße",
+                "schief"
+            ],
+            "source": 167,
+            "target": 168,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kehre"
+            ],
+            "source": 167,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 167,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 168,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 175,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 178,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 180,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straßengeländer"
+            ],
+            "source": 183,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straßengeländer"
+            ],
+            "source": 183,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straßengeländer"
+            ],
+            "source": 184,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 187,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 200,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 200,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 200,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 200,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 200,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 200,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 200,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rechts"
+            ],
+            "source": 202,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seite"
+            ],
+            "source": 202,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 203,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "links"
+            ],
+            "source": 204,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 206,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 206,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 206,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 206,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 206,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 206,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 207,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 207,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 207,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 207,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 207,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 208,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 208,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 208,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 208,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "Straße"
+            ],
+            "source": 213,
+            "target": 215,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 213,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 213,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 213,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 215,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 215,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 215,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Straße"
+            ],
+            "source": 218,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kreuzung",
+                "Straßen"
+            ],
+            "source": 222,
+            "target": 223,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "zweier",
+                "Kreuzung"
+            ],
+            "source": 222,
+            "target": 224,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kreuzung"
+            ],
+            "source": 222,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kreuzung"
+            ],
+            "source": 223,
+            "target": 224,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kreuzung"
+            ],
+            "source": 223,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kreuzung"
+            ],
+            "source": 224,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bahnstrecke"
+            ],
+            "source": 228,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Meile"
+            ],
+            "source": 231,
+            "target": 232,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maut"
+            ],
+            "source": 234,
+            "target": 235,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Ebene",
+                "Land",
+                "gehen",
+                "flache"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "aufs",
+                "fahren",
+                "Stadt",
+                "wohnen",
+                "Land"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Land",
+                "gehen",
+                "Wasser",
+                "ans"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Landl"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "landläufig",
+                "Land",
+                "Nutzland",
+                "Landwind"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "ländlich",
+                "städtisch"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Landbewohner",
+                "Stadtbewohner",
+                "Landner",
+                "Landler"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Sommergast"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "nehmen",
+                "Sommerfrische",
+                "Sommeraufenthalt",
+                "gehen"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "gebirglerisch",
+                "flachländisch"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "landlerisch",
+                "bedeutet"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Gegend",
+                "eben",
+                "flach"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Anhöhe",
+                "Ausdruck",
+                "zusammenfassender",
+                "Bodenerhebung"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "tun",
+                "geht",
+                "nächsten",
+                "höchstens",
+                "Not",
+                "Gott",
+                "hoher",
+                "nöten",
+                "hoch",
+                "hohes",
+                "wer",
+                "anrechnen",
+                "her",
+                "höchsten",
+                "höher"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "hochträchtig",
+                "hoch",
+                "himmelhoch"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "dahöhe",
+                "Höhe",
+                "ungenau",
+                "ganz",
+                "obenhin",
+                "überhöh",
+                "oben",
+                "gibt",
+                "rechte"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "droben",
+                "oben"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "heroben"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "obenbei",
+                "dabei",
+                "oben"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "ober"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "obendarüber",
+                "übersich",
+                "oberhalb",
+                "obenauf"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "oberst",
+                "obenbefindliche",
+                "obenaufige",
+                "obere",
+                "übersichige",
+                "liegt",
+                "höhige"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "erholen",
+                "derobern"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "niedersten",
+                "nieder",
+                "niedrige",
+                "niederer",
+                "niedrig",
+                "Preise",
+                "Gesinnung"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "niedrig",
+                "nieder",
+                "niederträchtig"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "beim",
+                "Nieder",
+                "Niederung",
+                "Boden"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "unten",
+                "drunten",
+                "ünten"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "herunten"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "unten",
+                "untbei",
+                "dabei"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Erde",
+                "hünter",
+                "ünter"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "untauf",
+                "darunter",
+                "untersich",
+                "unten",
+                "unterhalb"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "bodnige",
+                "untere",
+                "untersichige",
+                "unten",
+                "unterst",
+                "liegt",
+                "untrige",
+                "befindliche"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "geht",
+                "drüber",
+                "durcheinander",
+                "großes",
+                "drunter"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Hügel",
+                "Högel",
+                "angeben",
+                "spitz",
+                "Appellativ",
+                "Folgendes",
+                "groß",
+                "kahl",
+                "Hübel",
+                "Bühel",
+                "klein",
+                "bewaldet",
+                "felsig",
+                "zerklüftet",
+                "Hofer",
+                "Bichl",
+                "bekannt",
+                "langgestreckt",
+                "flach",
+                "rund",
+                "breit",
+                "BergN",
+                "Hoger"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Gemeinde",
+                "Berg",
+                "gehen",
+                "fahren",
+                "stehen",
+                "Almgebiet",
+                "ge",
+                "halten"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Berg",
+                "bergscheu",
+                "Bergkrankheit",
+                "Heuberg",
+                "stätig"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Bergbewohner",
+                "Berger",
+                "Bergler"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "berglerisch"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "bergig"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "hügelig"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "inner",
+                "halb",
+                "sagt",
+                "Gebirge",
+                "Waldes",
+                "Berge"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Gebirgsstock"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Gämsgebirge",
+                "Gebirge",
+                "Gebirgswind"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Gebirgler",
+                "Birger",
+                "Gebirgsbewohner",
+                "Waldner"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "gebirglerisch"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "gebirgig"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Fuße",
+                "Berges",
+                "Fuß"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Berges",
+                "Gipfel"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Eben",
+                "Bödenle",
+                "Plateau",
+                "Boden"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Berges",
+                "ansteigender",
+                "Teil",
+                "Seite"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "bewaldete",
+                "Bergseite"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "unbewaldete",
+                "Bergseite",
+                "grasige"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Halte",
+                "sanfter",
+                "Berghang",
+                "Halde",
+                "Weide"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Steilhang"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "abstürzender",
+                "Hang",
+                "jäh"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "stickel",
+                "steil"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "abfallend",
+                "abstürzend",
+                "jäh"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "gelägig",
+                "sanft",
+                "ansteigend"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Stickle",
+                "Steilheit"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Ofen",
+                "Steinwand",
+                "Mauer"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Mauergupf",
+                "Steinwand",
+                "Ausdrücken"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "vorspringende",
+                "Wand"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Berg",
+                "Wand",
+                "springt"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "überhängende",
+                "Wand"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "hängt",
+                "Wand"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Grat",
+                "Schneide"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Köflach",
+                "Ofnach",
+                "Gewände",
+                "Bergwände",
+                "Maurach",
+                "SammelN"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Gröbel",
+                "daran",
+                "Felsblock",
+                "Kofel",
+                "Volksglaube",
+                "einzelner",
+                "Ofen",
+                "knüpfender",
+                "Findling"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "felsig"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Palfen",
+                "Kofel",
+                "hohler",
+                "Felsen",
+                "Ofen"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Höhle",
+                "Hölse"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Tropfstein"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Felsen",
+                "Kamin"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Felszacken"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Felsplatte"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Rüepe",
+                "Gelände",
+                "felsiges"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Gletschermühle"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Bergrutsch"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "rutschender",
+                "Berg",
+                "laufender",
+                "Volksglaube"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Blaike",
+                "abbröckelnde",
+                "Rutsche",
+                "abrutschende"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "trockene",
+                "Volksglaube",
+                "nasse",
+                "Steinlawine",
+                "Mure"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "vermurt",
+                "vermuren"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "locker",
+                "rogel",
+                "muret",
+                "Gestein"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Geröllfeld"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Geröll",
+                "Lammer"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Steinschlag"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "steinelt",
+                "Steinschlag"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "steinig"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Sandrinne",
+                "Rise"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "sandig"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "Erde",
+                "rieselt",
+                "reist",
+                "Sand",
+                "Tal"
+            ],
+            "id": "D32"
+        },
+        {
+            "concepts": [
+                "Wacken",
+                "Edelsteine",
+                "Gesteine",
+                "Schiefer",
+                "Marmor",
+                "Spat",
+                "Bergkristall",
+                "Kiesel",
+                "vorhanden",
+                "Diamant",
+                "Granat",
+                "jedesmal",
+                "Ausdrücke"
+            ],
+            "id": "D33"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "ge",
+                "fahren",
+                "Tal"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Hochtal",
+                "Tal",
+                "talab"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Telderer",
+                "Talbewohner"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Sonnseite"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Schattenseite"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Talung",
+                "Ausdrücke",
+                "Boden",
+                "Tal",
+                "Tobel"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Talschluß"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Talstufe",
+                "Terrasse"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Sutte",
+                "Grube",
+                "Tuele",
+                "Saige",
+                "Kelle",
+                "Unterschied",
+                "Seihe",
+                "Tale",
+                "Wanne",
+                "nassen",
+                "Grund",
+                "Mulden",
+                "Kübel",
+                "gemacht",
+                "trockenen",
+                "Kessel",
+                "Geländemulde",
+                "Läne",
+                "Pfanne"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Felskessel",
+                "Kar",
+                "Trog"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Graben"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Seitengraben",
+                "Grabenwind",
+                "Graben"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Grabenbewohner",
+                "Grabner"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "grabnerisch"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Rachel",
+                "Schlucht",
+                "wasserlose"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Klinge",
+                "Wasserschlucht"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Sueche",
+                "Runse",
+                "Rüepe",
+                "Gesig",
+                "Wasserrinne"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Felsspalte",
+                "Klisse",
+                "Kluft",
+                "Klunse"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Klamm",
+                "Schlucht",
+                "enge"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Scharte",
+                "Krinne",
+                "Nieder",
+                "gehen",
+                "Joch",
+                "Jaufen",
+                "zwei",
+                "Lenke",
+                "Loch",
+                "Lucke",
+                "Tauer",
+                "Tor",
+                "Paß",
+                "übers",
+                "Einsenkung",
+                "Sattel",
+                "Höhen",
+                "Hals"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Joch",
+                "zwei",
+                "Hochjoch",
+                "Jochwind",
+                "Tauernhaus",
+                "Jochgeier",
+                "Paß",
+                "Tauerwind",
+                "Tauernfahren",
+                "Sattel",
+                "Höhen",
+                "Wetterloch"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Paßhöhe"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Gebirgskammes",
+                "entertäurisch",
+                "enter",
+                "jenseits"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Innerferner",
+                "Bewohner",
+                "jenseits",
+                "Entertäurer",
+                "Gebirgkammes"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "bergsteigen"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Bergsteiger",
+                "Tourist"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Bergführer"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Scheankenschuh",
+                "Bergschuh"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Bergschuhnagel"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Bergstock"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "anseilen"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Anseilen",
+                "Seil"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Rucksack",
+                "Schnerfer"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Steindaube",
+                "Fachausdrücke"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Aussichtswarte"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Geld",
+                "Straße",
+                "liegt"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Straßenräuber",
+                "Straße",
+                "Handelstraße",
+                "Vagabund"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "kürzesten",
+                "Steg",
+                "stehen",
+                "gerade",
+                "führen",
+                "nehmen",
+                "Wege",
+                "beste",
+                "Füße",
+                "Nähe",
+                "Weg",
+                "Wasser"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "beiseite",
+                "halbwegs",
+                "mitten",
+                "fort",
+                "einerwegs",
+                "abwegs",
+                "weglos",
+                "allwegen",
+                "mittwegs",
+                "Irrweg",
+                "immer",
+                "Wegelagerer",
+                "wegen",
+                "unterwegs",
+                "wegscheu",
+                "keineswegs",
+                "derwegen",
+                "vonwegen",
+                "Wegzehrung",
+                "dennoch",
+                "Weg"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "goldene",
+                "Steig"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Mittersteig",
+                "Steig",
+                "Jagdsteig"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Pfad"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Pfadfinder",
+                "Pfad",
+                "Wildpfad"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Gasse",
+                "laufen",
+                "gehen",
+                "Besuch",
+                "spazieren",
+                "Gassen"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Gasse",
+                "Nebengasse",
+                "Sackgasse",
+                "Scheißgasse",
+                "Gassenbub"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Straße",
+                "gassen",
+                "unterhalten"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "weiß",
+                "herumgekommen",
+                "erzählen",
+                "Gasser"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Gemeindestraße",
+                "Straßen",
+                "Körperschaft",
+                "erhaltenden"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Chaussee"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "erhaltener",
+                "Fahrweg"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Bauweg",
+                "Feldweg",
+                "nichterhaltener"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Karrenweg"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Saumweg"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Gangsteig",
+                "Fußweg"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "Fußweg",
+                "folgt",
+                "Feldrain"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "Knüppelweg",
+                "Specke"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "Höhenweg",
+                "Hochstraße"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "Jochstraße"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "Bergstraße"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "Grabens",
+                "Weg",
+                "Grunde"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Hohlweg"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Dammweg"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "Felspfad",
+                "Faden"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "Reitweg"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "Radfahrweg"
+            ],
+            "id": "H18"
+        },
+        {
+            "concepts": [
+                "Kühweg",
+                "Trein",
+                "Troie",
+                "Viehweg"
+            ],
+            "id": "H19"
+        },
+        {
+            "concepts": [
+                "Kunterweg",
+                "hohler",
+                "enger",
+                "Viehweg"
+            ],
+            "id": "H20"
+        },
+        {
+            "concepts": [
+                "zwei",
+                "Bitzent",
+                "Hecken",
+                "Mauern",
+                "Weg"
+            ],
+            "id": "H21"
+        },
+        {
+            "concepts": [
+                "Ihrer",
+                "unterscheidet",
+                "heißt",
+                "Rennweg",
+                "Wegen",
+                "warum",
+                "wodurch",
+                "wohin",
+                "Gegend",
+                "gibt",
+                "führt"
+            ],
+            "id": "H22"
+        },
+        {
+            "concepts": [
+                "Straßenunterbau",
+                "Straßendecke"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Gehbahn",
+                "Fahrbahn"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Fußbankett"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Bürgersteig",
+                "Trottoir",
+                "Gehsteig"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Trottoirs",
+                "Bürgersteigs",
+                "Randstein"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Rinnstein"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "schief",
+                "Rinne",
+                "Regenwassers",
+                "Kehre",
+                "Straße",
+                "laufende"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Drischübel",
+                "schief",
+                "Straßenschwellen",
+                "Straße",
+                "laufende"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "Straßengraben"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "Straßenböschung"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "Straßendamm",
+                "fortlaufender"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "Geländemulden",
+                "Damm",
+                "kurzer"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "brückenartige",
+                "trockenen",
+                "Viadukt",
+                "Geländeeinschnitt"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "Straßenpflaster"
+            ],
+            "id": "I14"
+        },
+        {
+            "concepts": [
+                "Platten",
+                "Straße",
+                "Kleinwürfelpflaster",
+                "Asphaltbelag",
+                "Stöckelpflaster",
+                "Würfelpflaster",
+                "Pflasterarten",
+                "geschotterte",
+                "Kohllöschweg",
+                "Katzenköpfe"
+            ],
+            "id": "I15"
+        },
+        {
+            "concepts": [
+                "Schotterhaufen"
+            ],
+            "id": "I16"
+        },
+        {
+            "concepts": [
+                "schottern"
+            ],
+            "id": "I17"
+        },
+        {
+            "concepts": [
+                "geteerte",
+                "Straße",
+                "geölte"
+            ],
+            "id": "I18"
+        },
+        {
+            "concepts": [
+                "Kothaufen"
+            ],
+            "id": "I19"
+        },
+        {
+            "concepts": [
+                "gewölbte",
+                "Straße",
+                "gesattelte"
+            ],
+            "id": "I20"
+        },
+        {
+            "concepts": [
+                "Schneeschutz",
+                "Straßenzaun"
+            ],
+            "id": "I21"
+        },
+        {
+            "concepts": [
+                "Wegschirm"
+            ],
+            "id": "I22"
+        },
+        {
+            "concepts": [
+                "Straßengeländer",
+                "Holz"
+            ],
+            "id": "I23a"
+        },
+        {
+            "concepts": [
+                "Stein",
+                "Straßengeländer"
+            ],
+            "id": "I23b"
+        },
+        {
+            "concepts": [
+                "Eisen",
+                "Straßengeländer"
+            ],
+            "id": "I23c"
+        },
+        {
+            "concepts": [
+                "Erdreich",
+                "abrutschendes",
+                "Straßenschutz",
+                "oben",
+                "Gestein"
+            ],
+            "id": "I24"
+        },
+        {
+            "concepts": [
+                "Straße",
+                "Untermauerung"
+            ],
+            "id": "I25"
+        },
+        {
+            "concepts": [
+                "Lawinenschutzvorrichtung"
+            ],
+            "id": "I26"
+        },
+        {
+            "concepts": [
+                "Straßeneinräumer"
+            ],
+            "id": "I27"
+        },
+        {
+            "concepts": [
+                "Straßenhammer",
+                "Geräte",
+                "Straßeneinräumers"
+            ],
+            "id": "I28"
+        },
+        {
+            "concepts": [
+                "Gwascht",
+                "Straßenkot"
+            ],
+            "id": "I29"
+        },
+        {
+            "concepts": [
+                "kotig",
+                "gwaschtig"
+            ],
+            "id": "I30"
+        },
+        {
+            "concepts": [
+                "Straßenstaub",
+                "Molte"
+            ],
+            "id": "I31"
+        },
+        {
+            "concepts": [
+                "moltig",
+                "staubig"
+            ],
+            "id": "I32"
+        },
+        {
+            "concepts": [
+                "staubt"
+            ],
+            "id": "I33"
+        },
+        {
+            "concepts": [
+                "Staubwolke"
+            ],
+            "id": "I34"
+        },
+        {
+            "concepts": [
+                "Straßenausschuß"
+            ],
+            "id": "I35"
+        },
+        {
+            "concepts": [
+                "gangbar"
+            ],
+            "id": "I36"
+        },
+        {
+            "concepts": [
+                "ungangbar"
+            ],
+            "id": "I37"
+        },
+        {
+            "concepts": [
+                "Straße",
+                "gerade"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "gerechen",
+                "geradeaus"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "rechts",
+                "rechten",
+                "Seite"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "rechts",
+                "Hand",
+                "rechter"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "links",
+                "linken",
+                "Seite"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "links",
+                "Hand",
+                "tenker",
+                "linker"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "gewundene",
+                "Straße"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "Straße",
+                "schlängelt",
+                "windet"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "Straße",
+                "verläuft",
+                "Zickzack",
+                "Serpentinen"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "Reibe",
+                "Reide",
+                "Straßenkrümmung"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "Kurve"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "Kehre",
+                "Straßenwendung"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Straßensteigung"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "steigt",
+                "geht",
+                "Steigung",
+                "schwache",
+                "starke",
+                "Straße",
+                "bergauf"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "Straßengefälle"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "geht",
+                "schwaches",
+                "Gefälle",
+                "bergab",
+                "Straße",
+                "fällt",
+                "starkes"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "muß",
+                "eingelegt",
+                "Radschuh",
+                "Wegstelle",
+                "angezogen",
+                "Bremse"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "Straßengabelung",
+                "Scheideweg",
+                "Wegscheide"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "gabelt",
+                "Straße"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "Wegweiser"
+            ],
+            "id": "K20"
+        },
+        {
+            "concepts": [
+                "Orientierungstafel"
+            ],
+            "id": "K21"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "Aufschrift",
+                "Warnungstafeln",
+                "fahren",
+                "langsam",
+                "Schritt"
+            ],
+            "id": "K22"
+        },
+        {
+            "concepts": [
+                "Straßenkreuz",
+                "Straßen",
+                "Kreuzstraße",
+                "zweier",
+                "Kreuzung"
+            ],
+            "id": "K23"
+        },
+        {
+            "concepts": [
+                "mehrerer",
+                "Kreuzung",
+                "Straßen",
+                "Straßenstern"
+            ],
+            "id": "K24"
+        },
+        {
+            "concepts": [
+                "Kreuzweg",
+                "Gewigg",
+                "Wegkreuz",
+                "Wege",
+                "zweier",
+                "Aberglaube",
+                "Kreuzung"
+            ],
+            "id": "K25"
+        },
+        {
+            "concepts": [
+                "Fahrweges",
+                "Straße",
+                "Fußweg",
+                "Kreuzung"
+            ],
+            "id": "K26"
+        },
+        {
+            "concepts": [
+                "Abzweigung"
+            ],
+            "id": "K27"
+        },
+        {
+            "concepts": [
+                "Bahnübergang"
+            ],
+            "id": "K28"
+        },
+        {
+            "concepts": [
+                "Bahnstrecke",
+                "Straßenbrücke"
+            ],
+            "id": "K29"
+        },
+        {
+            "concepts": [
+                "Bahnstrecke",
+                "Straßendurchlaß"
+            ],
+            "id": "K30"
+        },
+        {
+            "concepts": [
+                "Meilenstein",
+                "Kilometerstein"
+            ],
+            "id": "K31"
+        },
+        {
+            "concepts": [
+                "Meile",
+                "geht",
+                "zusammen",
+                "Weges"
+            ],
+            "id": "K32"
+        },
+        {
+            "concepts": [
+                "Meile",
+                "Siebenmeilenstiefel"
+            ],
+            "id": "K33"
+        },
+        {
+            "concepts": [
+                "Kilometer"
+            ],
+            "id": "K34"
+        },
+        {
+            "concepts": [
+                "Straßenmaut",
+                "Maut"
+            ],
+            "id": "K35"
+        },
+        {
+            "concepts": [
+                "Mautamt",
+                "Beimaut",
+                "Maut"
+            ],
+            "id": "K36"
+        },
+        {
+            "concepts": [
+                "Mautschranken"
+            ],
+            "id": "K37"
+        },
+        {
+            "concepts": [
+                "Mautner",
+                "Mauteinnehmer"
+            ],
+            "id": "K38"
+        }
+    ]
+}

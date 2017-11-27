@@ -1,0 +1,1950 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "stapfen"
+                ],
+                [
+                    "verwandeln"
+                ],
+                [
+                    "Strich"
+                ],
+                [
+                    "Reise"
+                ],
+                [
+                    "regen"
+                ],
+                [
+                    "Weg"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "Läufer"
+                ],
+                [
+                    "Läufel"
+                ]
+            ],
+            "2": [
+                [
+                    "treten"
+                ]
+            ],
+            "3": [
+                [
+                    "schreiten"
+                ],
+                [
+                    "Schritt"
+                ],
+                [
+                    "wandeln"
+                ],
+                [
+                    "Lauf"
+                ]
+            ],
+            "4": [
+                [
+                    "läuft"
+                ]
+            ],
+            "6": [
+                [
+                    "Tritt"
+                ],
+                [
+                    "Wendungen"
+                ],
+                [
+                    "wandern"
+                ]
+            ],
+            "8": [
+                [
+                    "Formen"
+                ],
+                [
+                    "gehn"
+                ]
+            ],
+            "9": [
+                [
+                    "laufen"
+                ]
+            ],
+            "10": [
+                [
+                    "reisen"
+                ],
+                [
+                    "weitere"
+                ]
+            ],
+            "13": [
+                [
+                    "streichen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "trippeln",
+                    "tritteln"
+                ],
+                [
+                    "Formen",
+                    "streichen"
+                ],
+                [
+                    "gehn",
+                    "Formen"
+                ],
+                [
+                    "gehn",
+                    "läuft"
+                ],
+                [
+                    "gut",
+                    "läuft"
+                ],
+                [
+                    "läufig",
+                    "laufen"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "tretten",
+                    "treten",
+                    "treden"
+                ],
+                [
+                    "strachen",
+                    "stroachen",
+                    "streichen"
+                ],
+                [
+                    "Streich",
+                    "Strach",
+                    "Stroach"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "schreiten"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiten"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 0,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 0,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn",
+                "Formen"
+            ],
+            "source": 0,
+            "target": 54,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 0,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiten"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schritt"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schritt"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schritt"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 6,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 6,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 6,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 6,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tretten",
+                "treten",
+                "treden"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treten"
+            ],
+            "source": 7,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 7,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 7,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 7,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treten"
+            ],
+            "source": 8,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tritt"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tritt"
+            ],
+            "source": 11,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tritt"
+            ],
+            "source": 11,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tritt"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tritt"
+            ],
+            "source": 12,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trippeln",
+                "tritteln"
+            ],
+            "source": 13,
+            "target": 14,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Tritt"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 15,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 15,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 15,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stapfen"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandern"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandern"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandern"
+            ],
+            "source": 19,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandern"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandern"
+            ],
+            "source": 20,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandern"
+            ],
+            "source": 21,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwandeln"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandeln"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandeln"
+            ],
+            "source": 22,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wandeln"
+            ],
+            "source": 24,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 28,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "streichen"
+            ],
+            "source": 28,
+            "target": 34,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 28,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 28,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 28,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 29,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 29,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 29,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 29,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strich"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauf"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 31,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauf"
+            ],
+            "source": 31,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 33,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streichen"
+            ],
+            "source": 34,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 34,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "strachen",
+                "stroachen",
+                "streichen"
+            ],
+            "source": 35,
+            "target": 36,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Streich",
+                "Strach",
+                "Stroach"
+            ],
+            "source": 37,
+            "target": 38,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 39,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 39,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 39,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 39,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 39,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 40,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 40,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 40,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reise"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reisen"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 46,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 46,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regen"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuft"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 54,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuft"
+            ],
+            "source": 54,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn",
+                "läuft"
+            ],
+            "source": 54,
+            "target": 63,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 54,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 54,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läufig",
+                "laufen"
+            ],
+            "source": 54,
+            "target": 103,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lauf"
+            ],
+            "source": 55,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Läufel"
+            ],
+            "source": 55,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Läufer"
+            ],
+            "source": 56,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuft"
+            ],
+            "source": 57,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut",
+                "läuft"
+            ],
+            "source": 57,
+            "target": 63,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 59,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 59,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 59,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuft"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 73,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 73,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 100,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laufen"
+            ],
+            "source": 100,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 101,
+            "target": 102,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "schreiten",
+                "Unterschied",
+                "Formen",
+                "gehn"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "schreiten",
+                "überschreiten"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "schreiten",
+                "Ausschreitung",
+                "Überschreitung"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Schritt",
+                "ia"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Schritt",
+                "Schrittschuh",
+                "Laufschritt"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "schritten",
+                "schritteln",
+                "ausschritten",
+                "abschritten"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Schritt",
+                "weitere"
+            ],
+            "id": "A6a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "tretten",
+                "Sinne",
+                "treden",
+                "Formen",
+                "treten"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "tretten",
+                "zertreten",
+                "treden",
+                "Tretrad",
+                "treten"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Vertreter",
+                "Treter"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Tret",
+                "Trettmist"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Tritt"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Zutritt",
+                "Trittrad",
+                "Hennentritt",
+                "Tritt"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Trittel",
+                "trippeln",
+                "tritteln"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "tretteln",
+                "trippeln",
+                "tritteln"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "weitere",
+                "Trittling",
+                "Tritt"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "treten",
+                "stapfen"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Stapf",
+                "en",
+                "Tritt"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Gestapf",
+                "stapfen"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "wandern"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "zuwandern",
+                "wandern",
+                "Wandersmann",
+                "Wanderzeit"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Wanderer",
+                "wandern",
+                "Wanderung",
+                "Wanderschaft"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "ersetzen",
+                "wandeln",
+                "einhergehn",
+                "begehn",
+                "verwandeln"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "verwandeln"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "wandeln",
+                "aufwandeln"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Wandlung"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Heliotrop",
+                "Wandel",
+                "Beiwandel",
+                "Sonnenwandel"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "wandelbar",
+                "wandeln",
+                "Wandelbarkeit"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "streichen",
+                "schlagen",
+                "Formen",
+                "wetzen",
+                "umherziehen",
+                "anstreichen"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Streichholz",
+                "streichen",
+                "wegstreichen"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Landstreicher",
+                "Streicherlein",
+                "Zündholz",
+                "Streicher"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Lauf",
+                "Erzeugtes",
+                "geht",
+                "Maß",
+                "jemand",
+                "Richtung",
+                "Bestreichen",
+                "Weg",
+                "Strich"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "strichweis",
+                "Strichzeit",
+                "Strich",
+                "Aufstrich"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "streichen",
+                "stricheln"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Gstroachter",
+                "Formen",
+                "streichen"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "strachen",
+                "stroachen",
+                "streichen",
+                "durchstreichen"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "strachen",
+                "streicheln",
+                "stroachen",
+                "streichen"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Strach",
+                "Zapfenstreich",
+                "sofort",
+                "statt",
+                "oa",
+                "Stroach",
+                "stets",
+                "Streich",
+                "kommen",
+                "ei"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Handstreich",
+                "Streich",
+                "Strach",
+                "Stroach"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "entfernen",
+                "eilig",
+                "sterben",
+                "gereist",
+                "reisen",
+                "gehn",
+                "reisend"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "rockenreisen",
+                "Zugereister",
+                "beachte",
+                "zuherreisen",
+                "reisen"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "Reise"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Rockenreise",
+                "Reise",
+                "Reisegeld"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "Reisung",
+                "Vorreiser",
+                "reisig",
+                "Reiserei",
+                "Reiser",
+                "reisen",
+                "Gereisecht"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Passau",
+                "einhintun",
+                "Wien",
+                "besondere",
+                "Stadt",
+                "abhintun",
+                "einhin",
+                "reisen",
+                "tu"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Stromer",
+                "kommt",
+                "besonderen",
+                "zogen",
+                "reisen",
+                "stromen"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "wandern",
+                "gehen",
+                "schwerfällig",
+                "zugehn",
+                "rasch",
+                "langsam",
+                "gehn",
+                "sonstige"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "regen"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "Regung",
+                "regen",
+                "Aufregung"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "riggeln",
+                "bewegen",
+                "rütteln",
+                "rigeln",
+                "rickeln"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "rigelsam"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "roglich",
+                "rogel"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "rogeln",
+                "roggeln"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "recken"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "lief",
+                "Laufenden",
+                "laufen",
+                "luff",
+                "Nase",
+                "luef",
+                "geloffen",
+                "Formen",
+                "gelaft",
+                "Gänsehaut",
+                "feiner",
+                "ferner",
+                "läufig",
+                "wettlaufen",
+                "gehn",
+                "gelaffen",
+                "läuft",
+                "Brunnen"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Lauf",
+                "Körperteil",
+                "Luff",
+                "nehmen",
+                "Laufspiele",
+                "Läufel"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Läufer",
+                "Mühlstein",
+                "Markstein"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "ab",
+                "läuft",
+                "Teich",
+                "Geschwulst",
+                "gut",
+                "lassen",
+                "Schuhe",
+                "ablaufen",
+                "Weg",
+                "Zeit"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Ablauf"
+            ],
+            "id": "B4a"
+        },
+        {
+            "concepts": [
+                "laufen",
+                "Fenster",
+                "Kälte",
+                "Finger",
+                "lassen",
+                "anlaufen",
+                "füllen"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Anlauf"
+            ],
+            "id": "B5a"
+        },
+        {
+            "concepts": [
+                "auflaufen",
+                "läuft",
+                "anschwellen",
+                "heiß"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Auflauf"
+            ],
+            "id": "B6a"
+        },
+        {
+            "concepts": [
+                "spazieren",
+                "Faß",
+                "gut",
+                "Wein",
+                "Schiff",
+                "gehn",
+                "läuft",
+                "auslaufen"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Ausläufer"
+            ],
+            "id": "B7a"
+        },
+        {
+            "concepts": [
+                "Auslauf"
+            ],
+            "id": "B7b"
+        },
+        {
+            "concepts": [
+                "belaufen"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "erlaufen"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "durchlaufen"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Durchläufer"
+            ],
+            "id": "B10a"
+        },
+        {
+            "concepts": [
+                "Durchlauf"
+            ],
+            "id": "B10b"
+        },
+        {
+            "concepts": [
+                "einlaufen",
+                "Zug",
+                "Nachricht",
+                "Geld",
+                "Wasser"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Einlauf"
+            ],
+            "id": "B11a"
+        },
+        {
+            "concepts": [
+                "laufen",
+                "herlaufen",
+                "jemanden",
+                "müde",
+                "Hergelaufener"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Herlauf"
+            ],
+            "id": "B12a"
+        },
+        {
+            "concepts": [
+                "zurückherlaufen"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "hinlaufen"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Hinlauf"
+            ],
+            "id": "B14a"
+        },
+        {
+            "concepts": [
+                "zurückhinlaufen"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "mitlaufen"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Mitläufer"
+            ],
+            "id": "B16a"
+        },
+        {
+            "concepts": [
+                "nachlaufen"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Nachläufer"
+            ],
+            "id": "B17a"
+        },
+        {
+            "concepts": [
+                "Nachlauf"
+            ],
+            "id": "B17b"
+        },
+        {
+            "concepts": [
+                "überlaufen"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Überläufer"
+            ],
+            "id": "B18a"
+        },
+        {
+            "concepts": [
+                "Überlauf"
+            ],
+            "id": "B18b"
+        },
+        {
+            "concepts": [
+                "unterlaufen"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Unterlauf"
+            ],
+            "id": "B19a"
+        },
+        {
+            "concepts": [
+                "umlaufen"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Umlauf"
+            ],
+            "id": "B20a"
+        },
+        {
+            "concepts": [
+                "verlaufen",
+                "verloffen"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Verlauf"
+            ],
+            "id": "B21a"
+        },
+        {
+            "concepts": [
+                "zulaufen"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Zulauf"
+            ],
+            "id": "B22a"
+        },
+        {
+            "concepts": [
+                "zurücklaufen"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Rücklauf"
+            ],
+            "id": "B23a"
+        },
+        {
+            "concepts": [
+                "gerinnen",
+                "zusammenlaufen"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Zusammenlauf"
+            ],
+            "id": "B24a"
+        },
+        {
+            "concepts": [
+                "dazulaufen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "laufen",
+                "weitere"
+            ],
+            "id": "B25a"
+        },
+        {
+            "concepts": [
+                "Lauffeuer",
+                "Lauf",
+                "Zeitlauf",
+                "weitere"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Wettläufer",
+                "Läufergeld",
+                "Läufer",
+                "weitere"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "deren",
+                "laufen",
+                "läuflich",
+                "Menschen",
+                "Unterläufel",
+                "läuftig",
+                "beiläufig",
+                "Läuflingschwein",
+                "Läufling",
+                "läufig",
+                "Weitläufigkeit",
+                "Läufel",
+                "samt"
+            ],
+            "id": "B28"
+        }
+    ]
+}

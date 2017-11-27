@@ -1,0 +1,2668 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Korpus"
+                ],
+                [
+                    "Wortes"
+                ],
+                [
+                    "ganz"
+                ],
+                [
+                    "Leibregiment"
+                ],
+                [
+                    "leiben"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "beschränkt"
+                ],
+                [
+                    "müssen"
+                ]
+            ],
+            "2": [
+                [
+                    "Verbindungen"
+                ],
+                [
+                    "Grad"
+                ],
+                [
+                    "kommen"
+                ]
+            ],
+            "4": [
+                [
+                    "Vergleiche"
+                ],
+                [
+                    "häufig"
+                ]
+            ],
+            "5": [
+                [
+                    "verwendet"
+                ]
+            ],
+            "6": [
+                [
+                    "Wort"
+                ]
+            ],
+            "8": [
+                [
+                    "bluten"
+                ]
+            ],
+            "13": [
+                [
+                    "Körper"
+                ]
+            ],
+            "21": [
+                [
+                    "Blut"
+                ]
+            ],
+            "27": [
+                [
+                    "Wendungen"
+                ]
+            ],
+            "59": [
+                [
+                    "Leib"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "besondere",
+                    "Leib"
+                ],
+                [
+                    "Verbindungen",
+                    "Leib"
+                ],
+                [
+                    "Leib",
+                    "wovon"
+                ],
+                [
+                    "Mutterleib",
+                    "Leib"
+                ],
+                [
+                    "Körper",
+                    "Leib"
+                ],
+                [
+                    "Stelle",
+                    "Leib"
+                ],
+                [
+                    "Wendungen",
+                    "Sinne"
+                ],
+                [
+                    "hitziges",
+                    "unreines"
+                ],
+                [
+                    "Wendungen",
+                    "kommen"
+                ],
+                [
+                    "blutet",
+                    "bluten"
+                ],
+                [
+                    "vorhanden",
+                    "häufig"
+                ],
+                [
+                    "häufig",
+                    "Blutung"
+                ],
+                [
+                    "häufig",
+                    "Verblutung"
+                ],
+                [
+                    "Blüter",
+                    "Bluter"
+                ],
+                [
+                    "Bluterin",
+                    "Blüterin"
+                ]
+            ],
+            "2": [
+                [
+                    "verwendet",
+                    "Leib"
+                ],
+                [
+                    "verwendet",
+                    "häufig"
+                ]
+            ],
+            "4": [
+                [
+                    "Wendungen",
+                    "Leib"
+                ]
+            ],
+            "5": [
+                [
+                    "Wendungen",
+                    "bluten"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Leib",
+                    "verwendet",
+                    "häufig"
+                ]
+            ],
+            "6": [
+                [
+                    "Wendungen",
+                    "Vergleiche",
+                    "Leib"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Körper",
+                    "Korp",
+                    "Körpel",
+                    "ja"
+                ],
+                [
+                    "Wendungen",
+                    "Grad",
+                    "bluten",
+                    "Blutens"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Körper",
+                "Korp",
+                "Körpel",
+                "ja"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 0,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Korpus"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grad"
+            ],
+            "source": 1,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grad"
+            ],
+            "source": 1,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ganz"
+            ],
+            "source": 2,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 2,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 3,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper"
+            ],
+            "source": 4,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Leib"
+            ],
+            "source": 5,
+            "target": 10,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutterleib",
+                "Leib"
+            ],
+            "source": 5,
+            "target": 14,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 5,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 5,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beschränkt"
+            ],
+            "source": 5,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 5,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Vergleiche",
+                "Leib"
+            ],
+            "source": 6,
+            "target": 7,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Vergleiche",
+                "Leib"
+            ],
+            "source": 6,
+            "target": 8,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Vergleiche",
+                "Leib"
+            ],
+            "source": 6,
+            "target": 9,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Leib"
+            ],
+            "source": 6,
+            "target": 10,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 6,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 6,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körper",
+                "Leib"
+            ],
+            "source": 6,
+            "target": 15,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 6,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 6,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 6,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 6,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "kommen"
+            ],
+            "source": 6,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 6,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 6,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 6,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Vergleiche",
+                "Leib"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Vergleiche",
+                "Leib"
+            ],
+            "source": 7,
+            "target": 9,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Leib"
+            ],
+            "source": 7,
+            "target": 10,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib",
+                "wovon"
+            ],
+            "source": 7,
+            "target": 13,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 7,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 7,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 7,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 7,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 7,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Vergleiche",
+                "Leib"
+            ],
+            "source": 8,
+            "target": 9,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Leib"
+            ],
+            "source": 8,
+            "target": 10,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 8,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 8,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 8,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 8,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 8,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 8,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Leib"
+            ],
+            "source": 9,
+            "target": 10,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 9,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 9,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 9,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 9,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 9,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Sinne"
+            ],
+            "source": 9,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 9,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 9,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 9,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 9,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 10,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 10,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 10,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 10,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 10,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 10,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 10,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 10,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 10,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen",
+                "Leib"
+            ],
+            "source": 11,
+            "target": 12,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet",
+                "Leib"
+            ],
+            "source": 11,
+            "target": 15,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 11,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet",
+                "Leib"
+            ],
+            "source": 11,
+            "target": 17,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 11,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 11,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 11,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 11,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 12,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 12,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 12,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 13,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Leib"
+            ],
+            "source": 14,
+            "target": 15,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib",
+                "verwendet",
+                "häufig"
+            ],
+            "source": 15,
+            "target": 17,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "häufig"
+            ],
+            "source": 15,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet",
+                "häufig"
+            ],
+            "source": 15,
+            "target": 40,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "häufig"
+            ],
+            "source": 15,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 15,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leib"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leibregiment"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden",
+                "häufig"
+            ],
+            "source": 17,
+            "target": 39,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "verwendet",
+                "häufig"
+            ],
+            "source": 17,
+            "target": 40,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "häufig"
+            ],
+            "source": 17,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 17,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 20,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leiben"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 25,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 25,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 25,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 25,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 25,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hitziges",
+                "unreines"
+            ],
+            "source": 28,
+            "target": 32,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "müssen"
+            ],
+            "source": 31,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "bluten"
+            ],
+            "source": 33,
+            "target": 34,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "bluten"
+            ],
+            "source": 33,
+            "target": 35,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 33,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "bluten"
+            ],
+            "source": 33,
+            "target": 37,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "blutet",
+                "bluten"
+            ],
+            "source": 33,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 33,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Grad",
+                "bluten",
+                "Blutens"
+            ],
+            "source": 34,
+            "target": 35,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 34,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "bluten"
+            ],
+            "source": 34,
+            "target": 37,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "bluten"
+            ],
+            "source": 35,
+            "target": 37,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 35,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bluten"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häufig"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häufig",
+                "Blutung"
+            ],
+            "source": 39,
+            "target": 41,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "häufig",
+                "Verblutung"
+            ],
+            "source": 40,
+            "target": 41,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüter",
+                "Bluter"
+            ],
+            "source": 44,
+            "target": 46,
+            "target_group": [
+                2,
+                1,
+                13
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bluterin",
+                "Blüterin"
+            ],
+            "source": 45,
+            "target": 46,
+            "target_group": [
+                2,
+                1,
+                14
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Körper",
+                "Wort",
+                "empfunden",
+                "Körpel",
+                "fremdartig",
+                "Wortes",
+                "Kleid",
+                "ja",
+                "Leibchen",
+                "ärmelloses",
+                "soviel",
+                "weit",
+                "Korp",
+                "Körperschaft",
+                "bedeutet"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Grad",
+                "Korpus",
+                "Vorkommen"
+            ],
+            "id": "A1a"
+        },
+        {
+            "concepts": [
+                "Körper",
+                "grad",
+                "gar",
+                "Körpel",
+                "aufhaben",
+                "ganz",
+                "Körperl",
+                "ja",
+                "mehr",
+                "ganzen",
+                "Korpus",
+                "abgemagert",
+                "Korp"
+            ],
+            "id": "A1b"
+        },
+        {
+            "concepts": [
+                "Körper",
+                "Totenkörper",
+                "Wahlkörper",
+                "körperlich"
+            ],
+            "id": "A1c"
+        },
+        {
+            "concepts": [
+                "Körper"
+            ],
+            "id": "A1d"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Leiwle",
+                "beschränkt",
+                "Mutterleib",
+                "neben",
+                "besondere",
+                "etwa",
+                "Bauch",
+                "Leib",
+                "Rumpf",
+                "Magen",
+                "Kleidungsstück",
+                "Leiwl"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Körper",
+                "Essen",
+                "Vergleiche",
+                "hält",
+                "zusammen",
+                "dabei",
+                "Leib",
+                "kommen",
+                "Mann",
+                "fallen",
+                "Ehr",
+                "Trinken",
+                "Seele",
+                "Weib"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "offenen",
+                "weh",
+                "Mastdarm",
+                "Vergleiche",
+                "tut",
+                "aufgeschwemmten",
+                "Gebärmutter",
+                "Leib",
+                "tritt",
+                "wovon",
+                "treibt",
+                "Durchfall",
+                "fällt",
+                "Ba",
+                "Unterleib"
+            ],
+            "id": "A3a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Tod",
+                "Vergleiche",
+                "Leben",
+                "Leib",
+                "Gut"
+            ],
+            "id": "A3b"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Vergleiche",
+                "Sinne",
+                "Anrecht",
+                "Leibgedinge",
+                "Leib"
+            ],
+            "id": "A3c"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "falai",
+                "palaiwa",
+                "zuleibe",
+                "balai",
+                "beileibe",
+                "falaib",
+                "besondere",
+                "nehmen",
+                "strafen",
+                "Leib",
+                "Worte"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "feste",
+                "verwendet",
+                "Wecken",
+                "Bett",
+                "harter",
+                "Verbindungen",
+                "Aufstehen",
+                "Verstopfung",
+                "Reliquie",
+                "heiliger",
+                "Leib",
+                "us",
+                "Anlaß",
+                "beim",
+                "Heiligen"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "geschwächter",
+                "kranker",
+                "hinfälliger",
+                "Wortes",
+                "Verbindungen",
+                "gesunder",
+                "äußeren",
+                "schlanker",
+                "Leib",
+                "schwacher",
+                "schöner",
+                "häßlicher",
+                "kräftiger",
+                "schwerfälliger"
+            ],
+            "id": "A5a"
+        },
+        {
+            "concepts": [
+                "russiger",
+                "Farbbezeichnungen",
+                "schmutziger",
+                "ganz",
+                "schwarzer",
+                "Mohrenleib",
+                "ramiger",
+                "weißer",
+                "Leib",
+                "blauer",
+                "wovon",
+                "reiner",
+                "blauen"
+            ],
+            "id": "A5b"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "hinten",
+                "her",
+                "unten",
+                "zweiter",
+                "unterhalb",
+                "vielleicht",
+                "lieber",
+                "untershin",
+                "vorne",
+                "Ersatzverbindungen",
+                "Mutterleib",
+                "Leib",
+                "oberhalb",
+                "oben",
+                "ausher",
+                "dafür",
+                "Hinterleib"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Körper",
+                "Stelle",
+                "verwendet",
+                "häufig",
+                "Leibwäsche",
+                "lei",
+                "Bruch",
+                "erster",
+                "Leibweh",
+                "farb",
+                "Unterstecken",
+                "Leib",
+                "leibfarben",
+                "Leibschaden",
+                "Leibschneiden"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "leiblos",
+                "Kleidertruhe",
+                "Leibtruhe",
+                "leiblebenslang",
+                "Leibzins",
+                "Leib"
+            ],
+            "id": "A7a"
+        },
+        {
+            "concepts": [
+                "Leibsspeise",
+                "verwendet",
+                "häufig",
+                "Leibrock",
+                "Leibspeise",
+                "Form",
+                "Leibdiener",
+                "vorhanden",
+                "enger",
+                "Leib",
+                "Leibkutsche",
+                "Leibregiment",
+                "Leibpferd"
+            ],
+            "id": "A7b"
+        },
+        {
+            "concepts": [
+                "Männlein",
+                "leibigs",
+                "ausgedrückt",
+                "schön",
+                "leibig",
+                "beleibt",
+                "recht"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Leibhaftige",
+                "leibhaftig",
+                "Teufel"
+            ],
+            "id": "A8a"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "leiblicher",
+                "echt",
+                "Umschreibgen",
+                "leiblich",
+                "Bruder"
+            ],
+            "id": "A8b"
+        },
+        {
+            "concepts": [
+                "bekannt",
+                "Leiber",
+                "Ausdruck",
+                "Soldat",
+                "Leibregiment"
+            ],
+            "id": "A8c"
+        },
+        {
+            "concepts": [
+                "Vieh",
+                "leibiger",
+                "leiben",
+                "fetter",
+                "bezogen",
+                "leben"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "töten",
+                "mager",
+                "ableiben",
+                "sterben"
+            ],
+            "id": "A9a"
+        },
+        {
+            "concepts": [
+                "ver",
+                "leiben"
+            ],
+            "id": "A9b"
+        },
+        {
+            "concepts": [
+                "Rotweins",
+                "edles",
+                "Blut",
+                "Pflanzen",
+                "Blüte"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Fasch",
+                "Ausdrücke",
+                "Blut"
+            ],
+            "id": "B1a"
+        },
+        {
+            "concepts": [
+                "bleibt",
+                "ab",
+                "wurlt",
+                "spritzt",
+                "Regel",
+                "stockt",
+                "sic",
+                "gerinnt",
+                "hämmert",
+                "kommt",
+                "zersetzt",
+                "Verbindungen",
+                "Wunden",
+                "schon",
+                "fließt",
+                "Blut",
+                "beißt",
+                "klopft",
+                "trocknet",
+                "steht",
+                "juckt",
+                "Sinn",
+                "Umständen",
+                "siedet",
+                "läuft",
+                "rinnt"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "warmes",
+                "totes",
+                "süßes",
+                "Wendgen",
+                "rotes",
+                "hitziges",
+                "leichtes",
+                "wildes",
+                "saures",
+                "junges",
+                "dünnes",
+                "unreines",
+                "batziges",
+                "dickes",
+                "stockiges",
+                "krankes",
+                "Blut",
+                "gestocktes",
+                "schweres",
+                "schwarzes",
+                "kaltes",
+                "ruhiges"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "heilige",
+                "Blut"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "rot",
+                "Vergleiche",
+                "Blut"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "macht",
+                "müssen",
+                "schwitzen",
+                "Sinne",
+                "fein",
+                "Blut",
+                "böses",
+                "gutes",
+                "wegläugnen",
+                "liegt"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Kopf",
+                "hitziges",
+                "Geblüt",
+                "gekommen",
+                "heißes",
+                "Regelblut",
+                "gestiegen",
+                "unreines"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "muß",
+                "heute",
+                "blutet",
+                "blüeten",
+                "bluetigen",
+                "möchte",
+                "Alterschichten",
+                "Formen",
+                "Herz",
+                "Stadt",
+                "kommen",
+                "Land",
+                "nebeneinander",
+                "beim",
+                "bluten",
+                "Stamm",
+                "Beschneiden"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "bischen",
+                "wenig",
+                "tröpfeln",
+                "Blutens",
+                "Grad",
+                "fürherzahnen",
+                "leicht",
+                "zwengetzen",
+                "hervorzahnen",
+                "bluten",
+                "hervorzwengetzen"
+            ],
+            "id": "B8a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "heftig",
+                "fest",
+                "stark",
+                "Blutens",
+                "Grad",
+                "Sau",
+                "bluten"
+            ],
+            "id": "B8b"
+        },
+        {
+            "concepts": [
+                "bluten",
+                "bluterln"
+            ],
+            "id": "B8c"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "beschränkt",
+                "bluten",
+                "schweißen"
+            ],
+            "id": "B8d"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "hinein",
+                "blutet",
+                "ausherbluten",
+                "abbluten",
+                "einhinbluten",
+                "derblüeten",
+                "Folgen",
+                "abhinbluten",
+                "derbluten",
+                "zusammenbluten",
+                "bluten",
+                "Tuch"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "Wort",
+                "Vb",
+                "häufig",
+                "vorhanden",
+                "Blutung"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "häufig",
+                "Verblutung"
+            ],
+            "id": "B10a"
+        },
+        {
+            "concepts": [
+                "Blutung",
+                "häufig",
+                "Gebärmutterblutung",
+                "kommen",
+                "Verblutung"
+            ],
+            "id": "B10b"
+        },
+        {
+            "concepts": [
+                "blutendig",
+                "blutend",
+                "verwendet"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "verdienen",
+                "Fluchformeln",
+                "blutiger",
+                "müssen",
+                "Blutiger",
+                "blutig",
+                "Kreuzer",
+                "verdient",
+                "blutigen",
+                "Spaß",
+                "hergeben"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Blüter",
+                "Bluter"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Bluterin",
+                "Blüterin"
+            ],
+            "id": "B13a"
+        },
+        {
+            "concepts": [
+                "Bluterin",
+                "Blüter",
+                "Blüterin",
+                "Bluter"
+            ],
+            "id": "B13b"
+        }
+    ]
+}

@@ -1,0 +1,4020 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Kraut"
+                ],
+                [
+                    "Knospen"
+                ],
+                [
+                    "Wurzeln"
+                ],
+                [
+                    "Saublümlein"
+                ],
+                [
+                    "ziehen"
+                ],
+                [
+                    "Gewitter"
+                ],
+                [
+                    "Kuckucksblümlein"
+                ],
+                [
+                    "Kinderspiel"
+                ],
+                [
+                    "glänzend"
+                ],
+                [
+                    "rötlich"
+                ],
+                [
+                    "Buténerl"
+                ],
+                [
+                    "Augstall"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "große"
+                ],
+                [
+                    "Nachtschatten"
+                ],
+                [
+                    "weiße"
+                ],
+                [
+                    "Husten"
+                ],
+                [
+                    "Ehrenpreis"
+                ],
+                [
+                    "Osterblume"
+                ],
+                [
+                    "wilde"
+                ],
+                [
+                    "Bärenlauch"
+                ],
+                [
+                    "Senderich"
+                ],
+                [
+                    "Pilz"
+                ],
+                [
+                    "Schwamm"
+                ],
+                [
+                    "Reizker"
+                ]
+            ],
+            "2": [
+                [
+                    "Grashalm"
+                ]
+            ],
+            "3": [
+                [
+                    "Pflanze"
+                ],
+                [
+                    "Kelch"
+                ],
+                [
+                    "Sprüche"
+                ],
+                [
+                    "Schneider"
+                ],
+                [
+                    "Volksmedizin"
+                ],
+                [
+                    "rote"
+                ],
+                [
+                    "falscher"
+                ]
+            ],
+            "5": [
+                [
+                    "rot"
+                ],
+                [
+                    "kleine"
+                ]
+            ],
+            "6": [
+                [
+                    "Gras"
+                ],
+                [
+                    "Blüte"
+                ],
+                [
+                    "Stengel"
+                ],
+                [
+                    "Volksglaube"
+                ],
+                [
+                    "giftig"
+                ]
+            ],
+            "9": [
+                [
+                    "Verwendung"
+                ]
+            ],
+            "10": [
+                [
+                    "weiß"
+                ]
+            ],
+            "14": [
+                [
+                    "Blüten"
+                ]
+            ],
+            "27": [
+                [
+                    "Blätter"
+                ]
+            ],
+            "64": [
+                [
+                    "gelb"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "kleine",
+                    "Blüten"
+                ],
+                [
+                    "behaart",
+                    "violett"
+                ],
+                [
+                    "rot",
+                    "gelb"
+                ],
+                [
+                    "unten",
+                    "Blätter"
+                ],
+                [
+                    "Verwendung",
+                    "volksmedizinische"
+                ],
+                [
+                    "gelb",
+                    "Warzenkraut"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Grashalm",
+                    "Schmelche",
+                    "langer"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Pflanze"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflanze"
+            ],
+            "source": 0,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kraut"
+            ],
+            "source": 5,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflanze"
+            ],
+            "source": 5,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stengel"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stengel"
+            ],
+            "source": 12,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stengel"
+            ],
+            "source": 12,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stengel"
+            ],
+            "source": 14,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stengel"
+            ],
+            "source": 14,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 16,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 16,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 16,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 16,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 16,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 16,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 16,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gras"
+            ],
+            "source": 17,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gras"
+            ],
+            "source": 17,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gras"
+            ],
+            "source": 17,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grashalm"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grashalm"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 18,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grashalm",
+                "Schmelche",
+                "langer"
+            ],
+            "source": 19,
+            "target": 20,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Gras"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gras"
+            ],
+            "source": 23,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gras"
+            ],
+            "source": 24,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüte"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüte"
+            ],
+            "source": 27,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüte"
+            ],
+            "source": 27,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kelch"
+            ],
+            "source": 31,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüte"
+            ],
+            "source": 31,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kelch"
+            ],
+            "source": 31,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 31,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 31,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüte"
+            ],
+            "source": 31,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 31,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 31,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 31,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 31,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knospen"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 35,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 35,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 35,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 35,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 35,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kelch"
+            ],
+            "source": 38,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 41,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüte"
+            ],
+            "source": 41,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 41,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 41,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 41,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saublümlein"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buténerl"
+            ],
+            "source": 45,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 46,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rote"
+            ],
+            "source": 48,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rote"
+            ],
+            "source": 48,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 49,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 49,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 49,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewitter"
+            ],
+            "source": 51,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 51,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 51,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 51,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 51,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 52,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 52,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot",
+                "gelb"
+            ],
+            "source": 52,
+            "target": 119,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 52,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 52,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kuckucksblümlein"
+            ],
+            "source": 53,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 53,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 53,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 53,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 53,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 54,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleine",
+                "Blüten"
+            ],
+            "source": 59,
+            "target": 72,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 59,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 59,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 59,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleine"
+            ],
+            "source": 59,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleine"
+            ],
+            "source": 59,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehrenpreis"
+            ],
+            "source": 59,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 60,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 61,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinderspiel"
+            ],
+            "source": 68,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "falscher"
+            ],
+            "source": 68,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "falscher"
+            ],
+            "source": 68,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stengel"
+            ],
+            "source": 70,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 71,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 71,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 71,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 71,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 72,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 72,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 72,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleine"
+            ],
+            "source": 72,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleine"
+            ],
+            "source": 72,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "behaart",
+                "violett"
+            ],
+            "source": 75,
+            "target": 107,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Osterblume"
+            ],
+            "source": 75,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bärenlauch"
+            ],
+            "source": 84,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiße"
+            ],
+            "source": 86,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Senderich"
+            ],
+            "source": 87,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 88,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 88,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 88,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 93,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 93,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 93,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 93,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 93,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 93,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 93,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "giftig"
+            ],
+            "source": 93,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "giftig"
+            ],
+            "source": 93,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "giftig"
+            ],
+            "source": 93,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 95,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 96,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "glänzend"
+            ],
+            "source": 97,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 97,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 97,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 97,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 97,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 97,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 97,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 98,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 98,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 98,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 98,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 98,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 98,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 98,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Augstall"
+            ],
+            "source": 100,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 101,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rötlich"
+            ],
+            "source": 101,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 101,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unten",
+                "Blätter"
+            ],
+            "source": 101,
+            "target": 127,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 101,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 101,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 102,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 102,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 102,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 102,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blüten"
+            ],
+            "source": 104,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 107,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung",
+                "volksmedizinische"
+            ],
+            "source": 107,
+            "target": 133,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 107,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 107,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 107,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nachtschatten"
+            ],
+            "source": 109,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Husten"
+            ],
+            "source": 109,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rote"
+            ],
+            "source": 110,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 119,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 119,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 119,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 119,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 127,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 127,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 133,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb",
+                "Warzenkraut"
+            ],
+            "source": 133,
+            "target": 149,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 133,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 133,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksmedizin"
+            ],
+            "source": 135,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksmedizin"
+            ],
+            "source": 135,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blätter"
+            ],
+            "source": 138,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleine"
+            ],
+            "source": 139,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 149,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 149,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 152,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksmedizin"
+            ],
+            "source": 155,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wilde"
+            ],
+            "source": 160,
+            "target": 193,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 165,
+            "target": 170,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 165,
+            "target": 171,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 170,
+            "target": 171,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "giftig"
+            ],
+            "source": 186,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "giftig"
+            ],
+            "source": 186,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "giftig"
+            ],
+            "source": 196,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pilz"
+            ],
+            "source": 213,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwamm"
+            ],
+            "source": 213,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reizker"
+            ],
+            "source": 225,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "falscher"
+            ],
+            "source": 236,
+            "target": 237,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Ausdruck",
+                "Pflanze"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Blumen",
+                "Blümel",
+                "Blütenpflanze",
+                "brocken",
+                "pflücken",
+                "Blume"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "blümlecht",
+                "geblümt"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "blümeln",
+                "fürblümeln"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Blumach",
+                "Blümelwerk"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Kräutel",
+                "Kraut",
+                "krautartige",
+                "Pflanze",
+                "gewachsen",
+                "dafür"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Kräuterich",
+                "Krautwerk",
+                "Krautach"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "gelten",
+                "Wird",
+                "Kräuterfest",
+                "Was",
+                "gefeiert",
+                "Pflanzen",
+                "Kräuterweihe",
+                "Weihekräuter"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Kräutersuppe",
+                "Kräutelwein",
+                "Suppenkräutel"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "verdirbt",
+                "Unkraut"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "scheinbare",
+                "Kraut",
+                "Krautsdonnerwetter",
+                "krautwelsch",
+                "Kotzkraut"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Kräutersammler",
+                "Kräutlerin",
+                "Dürrkräutler",
+                "Krauterer"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Stingel",
+                "Stengel",
+                "müder",
+                "letzer",
+                "Putz"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "gestingelt",
+                "stingeln",
+                "umherstingeln",
+                "bedeutet"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Stengel",
+                "grober",
+                "Stenggen"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "grobstengelig",
+                "stenggecht"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "breite",
+                "geteilte",
+                "Blätter",
+                "gefiederte",
+                "schmale",
+                "runde",
+                "Ausdrücke",
+                "lanzettförmige"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Gras",
+                "ausläuten",
+                "Volksbrauch",
+                "hört",
+                "wachsen"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "losen",
+                "Grashalm",
+                "Stämmlein",
+                "ziehen",
+                "Gräslein",
+                "Grasl"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Grashalm",
+                "Schmelche",
+                "langer"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Grashalm",
+                "Schmelche",
+                "Schmelchenheu",
+                "langer"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Schmelchach",
+                "Schmelchenwerk"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "schmelchen",
+                "einschrumpfen"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Grasmarkt",
+                "Gras"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "graselen",
+                "Gras"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "angrasen",
+                "abgrasen",
+                "dergrasen"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Grasach",
+                "Graswerk"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Maiblüh",
+                "Blüte",
+                "wenig",
+                "Mühe"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Blüh",
+                "Blütezeit",
+                "stehen"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Blütenmenge",
+                "Blust"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "blühen",
+                "Formen"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Samenkapsel",
+                "Bollen",
+                "Blätter",
+                "Blumenkrone",
+                "Staubgefäße",
+                "Fruchtknoten",
+                "Kelch",
+                "Stempel",
+                "Blüte",
+                "Kelchblätter",
+                "Blütenstaub",
+                "Teile"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Poppel",
+                "Broß",
+                "Knospe",
+                "Poppetze",
+                "Botzen"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "botzecht",
+                "popplecht",
+                "Knospen",
+                "voll"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "springen",
+                "Knospen"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "fallen",
+                "ab",
+                "Blüten"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Auge",
+                "Knospenansatz"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Blumenzwiebel"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Kelch",
+                "krankhafter",
+                "Auswuchs",
+                "Wurzeln"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Auswüchsen",
+                "kelchig",
+                "behaftet",
+                "Wurzeln"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "Bastard",
+                "fruchtlose",
+                "Pflanze"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Maibuschen",
+                "verblühtem",
+                "Sprüche",
+                "Totenlichtel",
+                "gelb",
+                "Zustand",
+                "grauweiß",
+                "Laterne",
+                "Maistock",
+                "Ausblasen",
+                "Blüte",
+                "beim",
+                "Löwenzahn"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Angerröslein",
+                "Rockerl",
+                "Gänseblümchen",
+                "Maßliebchen",
+                "Saublümlein",
+                "Schweinzerl",
+                "Propperl"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "darf",
+                "Glockenblumenarten",
+                "Galblümlein",
+                "abreißen"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Faschingglöcklein",
+                "Feldzange",
+                "Hahnenfußarten",
+                "Hahnenkampel",
+                "Butterblume",
+                "Egelkraut",
+                "Saublümlein"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Himmelschlüssel",
+                "Buténerl",
+                "Schlüsselblume",
+                "Verschluckt",
+                "Ringelblümel",
+                "Ernte",
+                "Primelarten",
+                "Vorbedeutung"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Gänseblume",
+                "Zupfreime",
+                "Margerite",
+                "Sonnwendblume",
+                "große"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Donnerblümel",
+                "Steinnelke",
+                "Mariatränen"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Lichtnelke",
+                "rote"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "blaßlila",
+                "weiß",
+                "Fahndl",
+                "Kuckuckslichtnelke",
+                "Kickerihahnl"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Pechnelke",
+                "klebrig"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "weiß",
+                "rosa",
+                "Volksglaube",
+                "Katzenpfötchen",
+                "Gewitter",
+                "Maukenkraut",
+                "Himmelfahrtstag"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Wiesenklee",
+                "weiß",
+                "gelb",
+                "rot"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Kuckucksblümlein",
+                "schwarzen",
+                "Volksglaube",
+                "Flecken",
+                "Wiesenorchideen",
+                "Knabenkräuter",
+                "rot"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Wiesenpimpinelle",
+                "Bibernell",
+                "Sprüche"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "großer",
+                "Ruhrkolben",
+                "Stillung",
+                "Kalbelfutter",
+                "Wiesenknopf",
+                "dunkelrot",
+                "Rauchfangkehrerbesen",
+                "Kölbelkraut",
+                "Durchfalls"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Krotenveigel",
+                "Brunelle"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Liebfrauenhaarl",
+                "Fieber",
+                "Zittergras"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Genuß",
+                "Wirkung",
+                "übermäßiger",
+                "ziehen",
+                "Sauerampfer",
+                "Saurempel"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "blaue",
+                "Gamander",
+                "Männertreu",
+                "kleine",
+                "Beziehung",
+                "Gewitter",
+                "Ehrenpreis",
+                "Blüten",
+                "unechter"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "gelb",
+                "Gänsefingerkraut",
+                "Gänshaxen",
+                "Gänseweiden"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "schwarzbraun",
+                "Christ",
+                "blüht",
+                "gelb",
+                "Judenbart",
+                "Hainsimse",
+                "April",
+                "Jud",
+                "Hasenpratzel"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Schepperndes",
+                "Klappertopf",
+                "Klaff"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Augentrost",
+                "Heudieb",
+                "Milchdieb",
+                "Huscherl"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Kümmelarten"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Kindern",
+                "rundlichem",
+                "Taubenkropf",
+                "aufgeblasenem",
+                "Schneller",
+                "Hand",
+                "Schnalzerl",
+                "Kelch",
+                "zerknallt"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Teufelsabbiß",
+                "Viehheilung"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Kuckuckshosen",
+                "Schemmer",
+                "Dirn",
+                "Herbstzeitlose",
+                "nackte",
+                "Kaserle"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "falscher",
+                "Kinderspiel",
+                "Schierling",
+                "Wiesenkerbel"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Bärenklau",
+                "Kempfer"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Süßling",
+                "Stengel",
+                "Rockenspor",
+                "Wiesenbocksbart",
+                "gegessen",
+                "Sporakel"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Goldröschen",
+                "Verwendung",
+                "Habichtskraut",
+                "Sympathie"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Trauben",
+                "Muskari",
+                "kleine",
+                "kugelförmige",
+                "Blüten",
+                "Traubenhyazinte"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "Günsel",
+                "kriechend"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "klebriger",
+                "Flöhkraut",
+                "Wiesensalbei",
+                "Salbei"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "Küchenschelle",
+                "violett",
+                "Kuckucksblümlein",
+                "heißt",
+                "behaart",
+                "fein",
+                "Osterblume",
+                "Frucht",
+                "Arschgucke",
+                "Kuhschelle"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "Rattenplage",
+                "Hundszunge"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "Saurüssel"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Taukraut",
+                "Frauenmantel"
+            ],
+            "id": "B38a"
+        },
+        {
+            "concepts": [
+                "Löwenfuß",
+                "Sinau"
+            ],
+            "id": "B38b"
+        },
+        {
+            "concepts": [
+                "wildes",
+                "Springkraut",
+                "Rühr",
+                "Gliedwallen"
+            ],
+            "id": "B39"
+        },
+        {
+            "concepts": [
+                "Alant",
+                "Wurzel"
+            ],
+            "id": "B40"
+        },
+        {
+            "concepts": [
+                "Hirschzunge",
+                "Wiesenknöterich"
+            ],
+            "id": "B41"
+        },
+        {
+            "concepts": [
+                "Hundsknofel",
+                "Milchstern"
+            ],
+            "id": "B42"
+        },
+        {
+            "concepts": [
+                "Ranzen",
+                "Bärenlauch"
+            ],
+            "id": "B43"
+        },
+        {
+            "concepts": [
+                "Algen",
+                "Laichkräuter"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "weiße",
+                "gelbe",
+                "Seerose"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Senderich",
+                "Wasserlinse",
+                "Entengrütze"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Kinderspiel",
+                "Verwendung",
+                "Teichgras",
+                "Binsenarten",
+                "Bimes"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Seggenarten",
+                "Bürstling"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Geröhr",
+                "Schilf",
+                "Schilfrohr"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Rohrkolben",
+                "Lampenputzer"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Kalmus"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "giftig",
+                "Wasserschwertlilie",
+                "gelb"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Sonnentau",
+                "feiste",
+                "Torfmooren",
+                "Mandln"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Läusekraut",
+                "rot"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Wiesengeißbart",
+                "gefiedert",
+                "weiß",
+                "Impenkraut"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Schmalzblume",
+                "gelb",
+                "glänzend",
+                "Moosblümlein"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Trollblume",
+                "gelb",
+                "Blüten",
+                "kugelig",
+                "Butterröslein"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Maunlgrasen",
+                "Sonnwendkraut",
+                "Maunl"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Gras",
+                "fliegendes",
+                "fliegender",
+                "Wollgras",
+                "Heilmittel",
+                "Augstall"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "bestäubt",
+                "Kreuzblümel",
+                "unten",
+                "Mehlprimel",
+                "rötlich",
+                "Blätter"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "blau",
+                "fett",
+                "Blätter",
+                "glänzend",
+                "Fettkraut"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Bachnelkenwurz",
+                "nickend",
+                "rötlich",
+                "Blutströpfchen",
+                "braun",
+                "Blüte"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Bachbunge",
+                "himmelblau",
+                "klein",
+                "Blüten"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Vergißmeinnichtarten"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Riedgras",
+                "Saher",
+                "Safer"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Schafpatzen",
+                "Beinwell",
+                "violett",
+                "gelblichweiß",
+                "Stengel",
+                "behaart",
+                "Verwendung",
+                "Schwarzwurzen",
+                "Blätter",
+                "glockig",
+                "schmutzigrot",
+                "Blüten",
+                "volksmedizinische"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Afelblätter",
+                "Huflattich"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Nachtschatten",
+                "bittersüßer",
+                "Schlinggewächs",
+                "Weiden",
+                "Husten"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "rote",
+                "Lungenkraut",
+                "Buténerl"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Biswurmkraut",
+                "Storchschnabel"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "rotbrauner",
+                "Kranichschnabel",
+                "Benedikt"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "Wiesenschaumkraut",
+                "Schelmkraut"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "An",
+                "Waldwurz",
+                "gelika",
+                "Heiligengeistwurz"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Zotenblume",
+                "Fieberklee"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Minzen"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "Quendel",
+                "Beizkraut",
+                "Künlein"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Fünffingerkraut",
+                "Bubenkraut",
+                "Fingerkrautarten",
+                "Stendelwurz"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Frauenschuh",
+                "gelb",
+                "Aufblühen",
+                "schühlein",
+                "rot",
+                "Hornklee"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Heidekraut",
+                "Heiderich"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Färbeginster",
+                "Beißream"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Augstall",
+                "deutscher",
+                "dornig",
+                "Ginster",
+                "stechendes"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Besenstrauch",
+                "Besen",
+                "Hasenkraut"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "eßbar",
+                "Eberwurz",
+                "Einhacken"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "knallen",
+                "Hügelerdbeere",
+                "Brostling",
+                "Beeren",
+                "Losreißen",
+                "beim"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Tost",
+                "Königskerze",
+                "Hillebrand"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Beifuß",
+                "weißfilzig",
+                "unten",
+                "Blätter",
+                "oben",
+                "dunkelgrün"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Wolfsmilch",
+                "Warzen",
+                "Krotenkraut",
+                "Saft"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Skabiosen",
+                "Grindkraut",
+                "Abbiß"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Steinklee",
+                "Neidkraut"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Fusperkraut",
+                "Ziest"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "gepflanzt",
+                "Volksglaube",
+                "Dächern",
+                "Hauswurz"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Verwendung",
+                "Fettblatt",
+                "gelb",
+                "Mauerpfeffer",
+                "Fetthenne",
+                "Warzenkraut",
+                "volksmedizinische"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "weiblicher",
+                "Streifenfarn",
+                "Neidkräutel",
+                "Räuchern"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Widertan",
+                "Tüpfelfarn",
+                "Steinwurzel",
+                "Volksmedizin",
+                "Steinneidkraut",
+                "Engelsüß"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Einhaken",
+                "Distelarten",
+                "Verwendung",
+                "Wetterdisteln",
+                "Sumpfdisteln"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Kleber",
+                "Klette"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Blätter",
+                "guter",
+                "dreieckig",
+                "Heinrich"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Brennessel",
+                "Beschwörungen",
+                "kleine",
+                "große"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Kaslkraut",
+                "Malve",
+                "kleine"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Mondscheinkraut",
+                "schwarzer",
+                "Nachtschatten",
+                "Mondsucht"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Natternkopf"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Reiherschnabel"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Zigeunerkraut",
+                "Zahnschmerz",
+                "Bilsenkraut",
+                "schwarzes"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Erdrauch",
+                "purpurn"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Stechapfel"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Eisenkraut"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Suppenwurz",
+                "Zauber",
+                "Gumari",
+                "Donnerrebe"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Sympathiemittel",
+                "gelb",
+                "Warzenkraut"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "weiße",
+                "Taubnessel"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Schelmwurz",
+                "Zaunrübe"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "gelb",
+                "Gänserich"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Zaunwicke",
+                "Ameisleiter"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Bettstroh",
+                "Labkraut",
+                "Mauskraut",
+                "Unserer",
+                "echtes",
+                "Frauen",
+                "lieben"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Volksmedizin",
+                "Schafgarbe",
+                "Mausleiterl",
+                "Gacherlkraut"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Heiratsorakel",
+                "Löffelkraut",
+                "Johanniskraut",
+                "Sprüche"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Rainfarn",
+                "Wurmkraut",
+                "Kräuterkuchen",
+                "Wurm"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Odermenning",
+                "Husten"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Wundklee",
+                "Bärentatzerl"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Zichorie",
+                "Galltee",
+                "wilde",
+                "Wegwart"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Breitwegerich",
+                "Vogelwürstel",
+                "Wegrat"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Verletzungen",
+                "Katarrhen",
+                "Spitzwegerich"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Hansl",
+                "Weg",
+                "Vogelknöterich"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "weiß",
+                "Vogelmiere",
+                "Hühnerdarm"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Krähschäderl",
+                "Schneider",
+                "Gallensteine",
+                "Ackersteinsame"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "Dreifaltigkeitsblume",
+                "Ackerveilchen",
+                "Blutreinigungsmittel"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "Flohkraut",
+                "Rieder"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "Ampferarten",
+                "wilder",
+                "Ruhrkraut",
+                "Brein",
+                "Durchfall"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "Melde",
+                "Molte"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "Schneider",
+                "Feldmohn"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "Nasenbluter",
+                "Schneider",
+                "Uhrblume",
+                "Kornrade"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "Kornblume"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "Ackerwinde",
+                "Windling"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "Gauchheil",
+                "Liesl",
+                "faule",
+                "Neuneblümel"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "Hederich",
+                "gelb",
+                "beide",
+                "Ackersenf",
+                "Kelperkern"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "Zinngras",
+                "Ackerschachtelhalm",
+                "Katzenschweif"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Wanzen",
+                "Quecke",
+                "Peier"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "Turd",
+                "Turscht",
+                "Tur",
+                "To",
+                "Taumellolch",
+                "Trespe",
+                "Unsinn"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "Seidenspinner",
+                "Krebs",
+                "Kleeseide",
+                "Zusammenziehende",
+                "Nestelbrut"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "echte",
+                "Kamille",
+                "Hundskamille",
+                "Brachblümel"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "Früchten",
+                "Klettenlabkraut",
+                "Zweizahn",
+                "Kleberl",
+                "anheftenden",
+                "Pechgras",
+                "kleinen",
+                "Bettlerlaus"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "blutstillend",
+                "Hirtentäschchen"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "Rittersporn"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "Stichkraut",
+                "Melisse"
+            ],
+            "id": "K20"
+        },
+        {
+            "concepts": [
+                "echter",
+                "bitter",
+                "Ehrenpreis"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "Nieswurz",
+                "Schneerose",
+                "Schneekatherl",
+                "Krätzenblümlein",
+                "Gillwurz",
+                "giftig"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "Maikraut",
+                "Waldmeister"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "Tausendguldenkraut"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "Filumfalum",
+                "Maiglöckchen",
+                "Baldrian"
+            ],
+            "id": "L5"
+        },
+        {
+            "concepts": [
+                "Schneeglöckchen"
+            ],
+            "id": "L6"
+        },
+        {
+            "concepts": [
+                "Osterblume",
+                "Leberblümchen",
+                "Ebenauskraut"
+            ],
+            "id": "L7"
+        },
+        {
+            "concepts": [
+                "Volksmedizin",
+                "Arnika",
+                "gelber",
+                "Stern"
+            ],
+            "id": "L8"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "Buschwindröschen",
+                "Anemonenarten",
+                "Arsch",
+                "wilde",
+                "Almsäuerling",
+                "Anemone",
+                "Krähenhaxen"
+            ],
+            "id": "L9"
+        },
+        {
+            "concepts": [
+                "Seidelbast",
+                "Insiegel",
+                "Beißbeer"
+            ],
+            "id": "L10"
+        },
+        {
+            "concepts": [
+                "Fingerhut"
+            ],
+            "id": "L11"
+        },
+        {
+            "concepts": [
+                "giftig",
+                "Tollkirsche",
+                "Wolfsbeere"
+            ],
+            "id": "L12"
+        },
+        {
+            "concepts": [
+                "giftig",
+                "Einbeere"
+            ],
+            "id": "L13"
+        },
+        {
+            "concepts": [
+                "Hundsveilchen"
+            ],
+            "id": "L14"
+        },
+        {
+            "concepts": [
+                "Lire",
+                "Waldrebe",
+                "Jülle"
+            ],
+            "id": "L15"
+        },
+        {
+            "concepts": [
+                "Weidenröschen"
+            ],
+            "id": "L16"
+        },
+        {
+            "concepts": [
+                "Weihrauchkraut",
+                "Haselwurz"
+            ],
+            "id": "L17"
+        },
+        {
+            "concepts": [
+                "Aronstab"
+            ],
+            "id": "L18"
+        },
+        {
+            "concepts": [
+                "Türkenbund",
+                "Goldäpfel"
+            ],
+            "id": "L19"
+        },
+        {
+            "concepts": [
+                "Bärenlauch"
+            ],
+            "id": "L20"
+        },
+        {
+            "concepts": [
+                "Senderich",
+                "rote",
+                "nadelförmige",
+                "Frühlingsheide",
+                "Blätter",
+                "leicht",
+                "abfallende",
+                "Zermud"
+            ],
+            "id": "L21"
+        },
+        {
+            "concepts": [
+                "Hasenklee",
+                "Sauerklee",
+                "Kuckucksbrot"
+            ],
+            "id": "L22"
+        },
+        {
+            "concepts": [
+                "Bohnenblümlein",
+                "Frühlingswalderbse",
+                "Vogelwicke"
+            ],
+            "id": "L23"
+        },
+        {
+            "concepts": [
+                "gemeiner",
+                "Steinsame",
+                "Meerhirse"
+            ],
+            "id": "L24"
+        },
+        {
+            "concepts": [
+                "Rotbeere"
+            ],
+            "id": "L25"
+        },
+        {
+            "concepts": [
+                "Schwarzbeere"
+            ],
+            "id": "L26"
+        },
+        {
+            "concepts": [
+                "Grangge",
+                "Preiselbeere"
+            ],
+            "id": "L27"
+        },
+        {
+            "concepts": [
+                "Moosbeere"
+            ],
+            "id": "L28"
+        },
+        {
+            "concepts": [
+                "Schwamm",
+                "Unterschied",
+                "Pilz"
+            ],
+            "id": "M1"
+        },
+        {
+            "concepts": [
+                "Pilz"
+            ],
+            "id": "M2"
+        },
+        {
+            "concepts": [
+                "Schwamm"
+            ],
+            "id": "M3"
+        },
+        {
+            "concepts": [
+                "Schwammsucher"
+            ],
+            "id": "M4"
+        },
+        {
+            "concepts": [
+                "Herrenpilz",
+                "Pilßling"
+            ],
+            "id": "M5"
+        },
+        {
+            "concepts": [
+                "Schuster",
+                "Maronenröhrling"
+            ],
+            "id": "M6"
+        },
+        {
+            "concepts": [
+                "Zigeuner"
+            ],
+            "id": "M7"
+        },
+        {
+            "concepts": [
+                "Birer",
+                "Birkenpilz"
+            ],
+            "id": "M8"
+        },
+        {
+            "concepts": [
+                "Kühtascherl",
+                "Butterpilz"
+            ],
+            "id": "M9"
+        },
+        {
+            "concepts": [
+                "Guckemucken",
+                "Schafedelpilz"
+            ],
+            "id": "M10"
+        },
+        {
+            "concepts": [
+                "Brätling"
+            ],
+            "id": "M11"
+        },
+        {
+            "concepts": [
+                "Halimasch"
+            ],
+            "id": "M12"
+        },
+        {
+            "concepts": [
+                "Rötling",
+                "Raßken",
+                "Reizker"
+            ],
+            "id": "M13"
+        },
+        {
+            "concepts": [
+                "Pfifferling",
+                "Pfeffermilchling"
+            ],
+            "id": "M14"
+        },
+        {
+            "concepts": [
+                "Wolfstatzen",
+                "Bärenpratzen",
+                "Geißbart"
+            ],
+            "id": "M15"
+        },
+        {
+            "concepts": [
+                "Rehling",
+                "Gelbling",
+                "Eierschwamm"
+            ],
+            "id": "M16"
+        },
+        {
+            "concepts": [
+                "Maurachen",
+                "Speisemorchel"
+            ],
+            "id": "M17"
+        },
+        {
+            "concepts": [
+                "Trüffel",
+                "Artoffel"
+            ],
+            "id": "M18"
+        },
+        {
+            "concepts": [
+                "Nelkenschwindling",
+                "Rainnagerl"
+            ],
+            "id": "M19"
+        },
+        {
+            "concepts": [
+                "Teufelstabak",
+                "Bovist",
+                "Bubenfist"
+            ],
+            "id": "M20"
+        },
+        {
+            "concepts": [
+                "Stäubling",
+                "Rauchfang"
+            ],
+            "id": "M21"
+        },
+        {
+            "concepts": [
+                "Fliegenschwamm"
+            ],
+            "id": "M22"
+        },
+        {
+            "concepts": [
+                "Hexenpilz"
+            ],
+            "id": "M23"
+        },
+        {
+            "concepts": [
+                "falscher",
+                "Champion",
+                "Knollenblätterpilz"
+            ],
+            "id": "M24"
+        },
+        {
+            "concepts": [
+                "falscher",
+                "Reizker"
+            ],
+            "id": "M25"
+        },
+        {
+            "concepts": [
+                "Holunderschwamm",
+                "Holzschwämme",
+                "Judasohr",
+                "Glucke",
+                "Buchenschwamm",
+                "Mausöhrl",
+                "Zunder"
+            ],
+            "id": "M26"
+        }
+    ]
+}

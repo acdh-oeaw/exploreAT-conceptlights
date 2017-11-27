@@ -1,0 +1,4150 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "drosseln"
+                ],
+                [
+                    "Luftröhre"
+                ],
+                [
+                    "umdrehen"
+                ],
+                [
+                    "Atemzug"
+                ],
+                [
+                    "mehr"
+                ],
+                [
+                    "Hauch"
+                ],
+                [
+                    "Bedeutungen"
+                ],
+                [
+                    "Loch"
+                ],
+                [
+                    "Gesäß"
+                ],
+                [
+                    "hinein"
+                ],
+                [
+                    "voll"
+                ],
+                [
+                    "Arschloch"
+                ],
+                [
+                    "dicker"
+                ],
+                [
+                    "bedeutet"
+                ],
+                [
+                    "Umschreibungen"
+                ],
+                [
+                    "speien"
+                ],
+                [
+                    "Wind"
+                ],
+                [
+                    "furzen"
+                ],
+                [
+                    "Stuhl"
+                ],
+                [
+                    "Mastdarm"
+                ],
+                [
+                    "Darmes"
+                ],
+                [
+                    "Bruch"
+                ],
+                [
+                    "Leber"
+                ],
+                [
+                    "geht"
+                ],
+                [
+                    "schauen"
+                ],
+                [
+                    "Rippe"
+                ],
+                [
+                    "Gerippe"
+                ],
+                [
+                    "tragen"
+                ],
+                [
+                    "breite"
+                ],
+                [
+                    "schmale"
+                ],
+                [
+                    "Schultern"
+                ],
+                [
+                    "nehmen"
+                ]
+            ],
+            "2": [
+                [
+                    "Speichel"
+                ],
+                [
+                    "atmen"
+                ],
+                [
+                    "geben"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "Scheiß"
+                ],
+                [
+                    "Schulter"
+                ]
+            ],
+            "3": [
+                [
+                    "Kropf"
+                ],
+                [
+                    "Genick"
+                ],
+                [
+                    "Atem"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "harnen"
+                ],
+                [
+                    "Galle"
+                ],
+                [
+                    "heraus"
+                ],
+                [
+                    "Rippen"
+                ]
+            ],
+            "5": [
+                [
+                    "Arsch"
+                ]
+            ],
+            "6": [
+                [
+                    "Volksglaube"
+                ],
+                [
+                    "scheißen"
+                ],
+                [
+                    "brechen"
+                ],
+                [
+                    "Teile"
+                ]
+            ],
+            "10": [
+                [
+                    "Hals"
+                ]
+            ],
+            "15": [
+                [
+                    "Brust"
+                ],
+                [
+                    "Bauch"
+                ]
+            ],
+            "18": [
+                [
+                    "Rücken"
+                ]
+            ],
+            "36": [
+                [
+                    "Herz"
+                ]
+            ],
+            "44": [
+                [
+                    "Magen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Kehle",
+                    "Gurgel"
+                ],
+                [
+                    "Gesäß",
+                    "Arsch"
+                ],
+                [
+                    "Gesäß",
+                    "geben"
+                ],
+                [
+                    "Magen",
+                    "guter"
+                ],
+                [
+                    "Darmwind",
+                    "Scheiß"
+                ],
+                [
+                    "Achsel",
+                    "Schulter"
+                ]
+            ],
+            "3": [
+                [
+                    "spucken",
+                    "spürzen"
+                ],
+                [
+                    "Rücken",
+                    "Buckel"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "heftig",
+                    "atmen",
+                    "schnell"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "lassen",
+                    "Speichel",
+                    "trenzen",
+                    "fließen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "umdrehen"
+            ],
+            "source": 0,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heraus"
+            ],
+            "source": 0,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heraus"
+            ],
+            "source": 0,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kropf"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kropf"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kropf"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 4,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 4,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 4,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 7,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dicker"
+            ],
+            "source": 7,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 8,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals"
+            ],
+            "source": 9,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mehr"
+            ],
+            "source": 23,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kehle",
+                "Gurgel"
+            ],
+            "source": 25,
+            "target": 26,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "drosseln"
+            ],
+            "source": 26,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen"
+            ],
+            "source": 26,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spucken",
+                "spürzen"
+            ],
+            "source": 29,
+            "target": 30,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "spucken",
+                "spürzen"
+            ],
+            "source": 29,
+            "target": 31,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "spucken",
+                "spürzen"
+            ],
+            "source": 30,
+            "target": 31,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 35,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 35,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speichel"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speichel"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen",
+                "Speichel",
+                "trenzen",
+                "fließen"
+            ],
+            "source": 38,
+            "target": 40,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 38,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 39,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 39,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 40,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Luftröhre"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Loch"
+            ],
+            "source": 43,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Genick"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Genick"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 48,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 48,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 48,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Genick"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 51,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 51,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 51,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hinein"
+            ],
+            "source": 51,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 51,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 51,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 51,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 51,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 51,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heraus"
+            ],
+            "source": 51,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 53,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 53,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 53,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "breite"
+            ],
+            "source": 53,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 54,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 54,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmale"
+            ],
+            "source": 54,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 57,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brust"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutungen"
+            ],
+            "source": 60,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 62,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 69,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atem"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atem"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atem"
+            ],
+            "source": 71,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "atmen"
+            ],
+            "source": 74,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "atmen"
+            ],
+            "source": 74,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atemzug"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hauch"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 80,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heftig",
+                "atmen",
+                "schnell"
+            ],
+            "source": 81,
+            "target": 82,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Umschreibungen"
+            ],
+            "source": 85,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 86,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 86,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 87,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 87,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 87,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 87,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 87,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 87,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 87,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 92,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 92,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 92,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 92,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 92,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 92,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 93,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 93,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 93,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 93,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 94,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 94,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 94,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 94,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 95,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 95,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 96,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herz"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken",
+                "Buckel"
+            ],
+            "source": 100,
+            "target": 101,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rücken",
+                "Buckel"
+            ],
+            "source": 100,
+            "target": 105,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 100,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 100,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 100,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 100,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "voll"
+            ],
+            "source": 100,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tragen"
+            ],
+            "source": 100,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken",
+                "Buckel"
+            ],
+            "source": 101,
+            "target": 105,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 101,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 101,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 101,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 101,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 105,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 105,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 105,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 106,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rücken"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 110,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 110,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesäß",
+                "Arsch"
+            ],
+            "source": 113,
+            "target": 114,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gesäß"
+            ],
+            "source": 113,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arsch"
+            ],
+            "source": 113,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arsch"
+            ],
+            "source": 113,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesäß",
+                "geben"
+            ],
+            "source": 114,
+            "target": 115,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arsch"
+            ],
+            "source": 114,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arsch"
+            ],
+            "source": 114,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geben"
+            ],
+            "source": 114,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geben"
+            ],
+            "source": 115,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arsch"
+            ],
+            "source": 116,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arschloch"
+            ],
+            "source": 117,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mastdarm"
+            ],
+            "source": 122,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 123,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 123,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 123,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 123,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 124,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 124,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 124,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 125,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 125,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauch"
+            ],
+            "source": 128,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 129,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 132,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen",
+                "guter"
+            ],
+            "source": 133,
+            "target": 134,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 133,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 133,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 133,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 133,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 133,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 133,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 133,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 134,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 134,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 134,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 134,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 134,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 134,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 134,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 135,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 135,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 135,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 135,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 135,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 135,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 136,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 136,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 136,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 136,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 136,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 137,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 137,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 137,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 137,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 138,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 138,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 138,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 139,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 139,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magen"
+            ],
+            "source": 141,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "speien"
+            ],
+            "source": 154,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 154,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darmwind",
+                "Scheiß"
+            ],
+            "source": 156,
+            "target": 161,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Scheiß"
+            ],
+            "source": 156,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 157,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "furzen"
+            ],
+            "source": 159,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheiß"
+            ],
+            "source": 161,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheißen"
+            ],
+            "source": 162,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheißen"
+            ],
+            "source": 162,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheißen"
+            ],
+            "source": 162,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheißen"
+            ],
+            "source": 163,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheißen"
+            ],
+            "source": 163,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheißen"
+            ],
+            "source": 164,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stuhl"
+            ],
+            "source": 167,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "harnen"
+            ],
+            "source": 172,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "harnen"
+            ],
+            "source": 172,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "harnen"
+            ],
+            "source": 173,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darmes"
+            ],
+            "source": 181,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 181,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 181,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 181,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruch"
+            ],
+            "source": 183,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leber"
+            ],
+            "source": 186,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Galle"
+            ],
+            "source": 188,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Galle"
+            ],
+            "source": 188,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Galle"
+            ],
+            "source": 191,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 200,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 200,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 202,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rippen"
+            ],
+            "source": 203,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rippen"
+            ],
+            "source": 203,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rippe"
+            ],
+            "source": 203,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rippen"
+            ],
+            "source": 204,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerippe"
+            ],
+            "source": 208,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schultern"
+            ],
+            "source": 211,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schulter"
+            ],
+            "source": 211,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schulter"
+            ],
+            "source": 211,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Achsel",
+                "Schulter"
+            ],
+            "source": 217,
+            "target": 218,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Neugierde",
+                "ausdrehen",
+                "heraus",
+                "abkrageln",
+                "Kragen",
+                "wächst",
+                "umdrehen",
+                "schon",
+                "Hals"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "halsen",
+                "abhalsen"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Senkel",
+                "Kropf",
+                "Blähhals"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Kropfsalat",
+                "Kropf"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "kropfig",
+                "Volksglaube",
+                "kropfecht"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "bilden",
+                "Kropf",
+                "krüpfen",
+                "kropfen"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "grolpetzen",
+                "gregetzen",
+                "kropfetzen"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "fetter",
+                "dicker",
+                "Hals"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Hals",
+                "magerer",
+                "dünner"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Schreihals",
+                "Hals",
+                "Halskragen"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Diphteritis"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Halsschmerzen",
+                "Röte"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Belag",
+                "weißer"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Schleim"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Auswurf",
+                "Schlatz",
+                "schleimiger",
+                "Patzen"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "verschleimt",
+                "schleimig"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "schleimt",
+                "ärgert"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "naschen",
+                "schleimeln"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "kratzt",
+                "rauhen",
+                "Hals"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Husten",
+                "Kagetze",
+                "Ausdrücke"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Hauchen",
+                "Gegenmittel",
+                "Krampfhusten"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "kelzen",
+                "husten",
+                "külsen",
+                "bellen",
+                "krigeln"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "bégatzen",
+                "hüsteln",
+                "kelstern"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "macht",
+                "Huster",
+                "Kagetzer",
+                "mehr",
+                "kostet"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "gurgeln",
+                "ausgurgeln"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Kehle",
+                "Huste",
+                "Gurgel"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "würgen",
+                "Kehle",
+                "springen",
+                "Gurgel",
+                "drosseln",
+                "nehmen",
+                "zudrücken",
+                "ausschweiben"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Adamsapfel",
+                "Drosselkolben",
+                "Kehlkopf"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "räuspern",
+                "räuspeln"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "spucken",
+                "spürzen"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "spucken",
+                "umspürzen",
+                "spürzen"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "darauf",
+                "spuck",
+                "spucken",
+                "spürzen"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Spuck",
+                "Spürzlach",
+                "Spürzelwerk",
+                "Spuckled"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Spürzler",
+                "Gewohnheitsspucker"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "Spucknapf"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Ausspucken",
+                "knüpft",
+                "ausspucken",
+                "Volksglaube",
+                "Erschreckender",
+                "Geld",
+                "angespuckt",
+                "ans"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Speichel"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Trenzerling",
+                "Speichelfluß"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Mund",
+                "fließen",
+                "Speichel",
+                "lassen",
+                "safteln",
+                "trenzen"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "trenzt"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "antrenzen",
+                "fließen",
+                "Speichel",
+                "lassen",
+                "trenzen"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Luftröhre"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "Luftröhre",
+                "strosseln",
+                "rosseln",
+                "drosseln",
+                "Schleimrasseln"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "verkutzen",
+                "Loch",
+                "verschießen",
+                "gefehlte",
+                "gekommen",
+                "überzucken"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Schlund",
+                "Speiseröhre"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "Zäpfchen"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "Schilddrüse"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "Bris",
+                "el"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "brechen",
+                "umdrehen",
+                "Genick"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "steifes",
+                "Genick"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "Fettwulst",
+                "Genick"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "hinein",
+                "heraus",
+                "Bauch",
+                "Brust"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Krippe",
+                "Brustkasten"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "breite",
+                "Brust"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Hühnerbrust",
+                "schmale",
+                "Brust"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Brustumfang"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "brusten",
+                "ringen"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "werfen",
+                "brüsten",
+                "Brust"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "brüstig",
+                "dick"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Brusttee",
+                "Brust"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Lunge",
+                "Bedeutungen",
+                "heißt",
+                "Lumpel",
+                "Beuschel",
+                "Brust"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Betrüger",
+                "Beuschelreißer"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "reb",
+                "bedeutet"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "dient",
+                "besteht",
+                "wozu",
+                "woraus",
+                "Greberltee"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Rippenfell"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Rippenfellentzündung"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Exsudat"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Auszehrung",
+                "Brustkrankheit",
+                "Schwindsucht",
+                "Lungelsucht",
+                "Lungentuberkulose"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "schwindsüchtig",
+                "lungenkrank"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Tuberkulose",
+                "Mensch",
+                "leidet",
+                "Tuberer"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Atem",
+                "Natem"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Atem",
+                "außer"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Brustgesperre",
+                "Atemnot",
+                "Asthma"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "dämpfig",
+                "asthmatisch",
+                "herzschlächtig"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "schöpfen",
+                "atmen",
+                "Atem",
+                "holen",
+                "ziehen"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "aufatmen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Atemzug",
+                "Atmetzer"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Atemzug",
+                "tiefen"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "mehr",
+                "Hauch"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "kalter",
+                "Luft",
+                "sichtbarer",
+                "Hauch"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "hauchen",
+                "aushauchen"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "schnaufen",
+                "heftig",
+                "lechzen",
+                "atmen",
+                "schnell",
+                "pfausten",
+                "schnepfetzen",
+                "prusten",
+                "pusten",
+                "keuchen",
+                "schnauden",
+                "pfnehen"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "heftig",
+                "Lechetzer",
+                "atmen",
+                "schnell",
+                "Schnaufer",
+                "Keuchetzer"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "geblast",
+                "blasen",
+                "ausblasen",
+                "geblasen"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Blaser"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "Umschreibungen",
+                "schnarchen",
+                "sagelt",
+                "Holzsägen"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "geht",
+                "aufs",
+                "weh",
+                "gern",
+                "tut",
+                "Herz",
+                "Etwas",
+                "Fleck",
+                "rechten",
+                "lacht",
+                "dabei",
+                "Herzen",
+                "Hand"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "Herzbinkerl",
+                "Herz",
+                "Bierherz",
+                "Bruderherz",
+                "Fettherz"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Herzbeutel",
+                "Herzbeutelentzündung"
+            ],
+            "id": "B38"
+        },
+        {
+            "concepts": [
+                "Herzkammer"
+            ],
+            "id": "B39"
+        },
+        {
+            "concepts": [
+                "Herzklappen"
+            ],
+            "id": "B40"
+        },
+        {
+            "concepts": [
+                "Herzfehler",
+                "Herzens",
+                "Herzweh",
+                "Krankheiten",
+                "Herzdörre"
+            ],
+            "id": "B41"
+        },
+        {
+            "concepts": [
+                "schlägt",
+                "pumpert",
+                "Herz",
+                "klopft"
+            ],
+            "id": "B42"
+        },
+        {
+            "concepts": [
+                "still",
+                "Herz",
+                "steht"
+            ],
+            "id": "B43"
+        },
+        {
+            "concepts": [
+                "herzen",
+                "Herz",
+                "geherz",
+                "herzig",
+                "beherzt",
+                "herzlich",
+                "herzhaft"
+            ],
+            "id": "B44"
+        },
+        {
+            "concepts": [
+                "übertragener",
+                "Herz",
+                "Herzerl"
+            ],
+            "id": "B45"
+        },
+        {
+            "concepts": [
+                "lebzeltenes",
+                "Herz"
+            ],
+            "id": "B46"
+        },
+        {
+            "concepts": [
+                "Kartenspiel",
+                "Herz",
+                "Herzkönig",
+                "Farbe"
+            ],
+            "id": "B47"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Herz",
+                "großes",
+                "weißes",
+                "falsches",
+                "kleines"
+            ],
+            "id": "B48"
+        },
+        {
+            "concepts": [
+                "Zwerchfell",
+                "Herzblatt"
+            ],
+            "id": "B49"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "Buckel",
+                "herunterrutschen",
+                "Buckelkraxen",
+                "herauswachsen",
+                "lachen",
+                "voll",
+                "kannst",
+                "beim",
+                "tragen",
+                "Rücken"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Buckel",
+                "Rucksack",
+                "Rückenmark",
+                "Buckelkorb",
+                "Rücken"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "bucklecht",
+                "bockruckecht",
+                "bucklig",
+                "ausgewachsen",
+                "reisfertig"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "buckeln",
+                "zusammenbuckeln",
+                "schleichen",
+                "gebückt",
+                "daherbuckeln"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Bedeutungen",
+                "rückwärts",
+                "hinterrücks",
+                "rücklich",
+                "rücklings",
+                "zurück"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "ausgewachsener",
+                "Buckel",
+                "Rücken",
+                "Höcker"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "breiter",
+                "Rücken"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "schiefer",
+                "Rücken"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "steifer",
+                "Rücken"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "gekrümmter",
+                "Rücken"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "brechen",
+                "abschlagen",
+                "Ra",
+                "Kreuz"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Kreuzweh"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Steiß"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Hintere",
+                "Popo",
+                "angeben",
+                "Arsch",
+                "Allerwerteste",
+                "Gesäß",
+                "Podex"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "züchtigen",
+                "Arschpracker",
+                "geben",
+                "Hintern",
+                "anschmieren",
+                "Schläge",
+                "Loch",
+                "Arsch",
+                "pracken",
+                "Gesäß"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "stoßen",
+                "geben",
+                "Knie",
+                "Knödel",
+                "Gesäß"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Sauarsch",
+                "Arschgesicht",
+                "Arsch"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "hinein",
+                "schäm",
+                "ganzer",
+                "arschá",
+                "Arschloch",
+                "statt",
+                "eintunken",
+                "Arsch",
+                "Armloch",
+                "Kirtag",
+                "Mein",
+                "ausreißen",
+                "Arm",
+                "voll",
+                "Beim",
+                "Deckwörtern",
+                "verbrennen"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "schmalarschecht"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "entgegengesetzte",
+                "Bewegung",
+                "ärschling",
+                "fürschling"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Arschhamme",
+                "Arschbacke"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Arschkerbe"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Mastdarm",
+                "Arschloch",
+                "After"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Baatschen",
+                "Bauch",
+                "Wampe"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Hängebauch",
+                "Bauch",
+                "dicker"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Nudeln",
+                "Spottwort",
+                "kleine",
+                "Bauchstecherl",
+                "Bauch"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "bauchig",
+                "bauchecht"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "wampecht",
+                "dickbauchig"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Baucherl",
+                "Bauch",
+                "Mensch",
+                "Wamperl",
+                "dickem"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "geben",
+                "schauen",
+                "Tritt",
+                "Stoß",
+                "nimmer",
+                "Bauch",
+                "Lachen",
+                "halten"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Bauchschmerzen"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Bauchfell"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Magen",
+                "Ranzen",
+                "Bauchranzen"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "gehört",
+                "Magen",
+                "dreht",
+                "guter"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Magen",
+                "guter",
+                "starker",
+                "gesunder"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Magen",
+                "schlechter",
+                "empfindlicher",
+                "schwacher"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Magen",
+                "verdorbener"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Magen",
+                "leerer",
+                "öder"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Magen",
+                "überfüllter"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Magen",
+                "anstopfen",
+                "füllen"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Saumagen",
+                "Schelte"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "voller",
+                "Magen"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Magenweh"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Magengeschwür"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "Magenkrebs"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Magensäure"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "verdauen"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "bleibt",
+                "Sinn",
+                "liegen",
+                "liegt",
+                "Magen"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Verdauung"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "verdaulich",
+                "unverdaulich"
+            ],
+            "id": "D26a"
+        },
+        {
+            "concepts": [
+                "Apfele",
+                "Rülpser",
+                "Magenwind"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "rülpsen",
+                "Verb"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "aufstoßen",
+                "saueraufstoßen"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Schlucken",
+                "stößt",
+                "Schnackerl",
+                "bedeutet"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "Umschreibungen",
+                "speien",
+                "Formen",
+                "brechen",
+                "Ulrich",
+                "anrufen",
+                "kotzen"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "speien",
+                "Gerberhund"
+            ],
+            "id": "D32"
+        },
+        {
+            "concepts": [
+                "Darmwind",
+                "Scheiß",
+                "Furz",
+                "Fist"
+            ],
+            "id": "D33"
+        },
+        {
+            "concepts": [
+                "Wind",
+                "Lensch",
+                "leiser"
+            ],
+            "id": "D34"
+        },
+        {
+            "concepts": [
+                "Wind",
+                "lauter"
+            ],
+            "id": "D35"
+        },
+        {
+            "concepts": [
+                "furzen",
+                "fistnen",
+                "lassen",
+                "gehen"
+            ],
+            "id": "D36"
+        },
+        {
+            "concepts": [
+                "furzen",
+                "wiederholt",
+                "scheißeln",
+                "dritscheln"
+            ],
+            "id": "D37"
+        },
+        {
+            "concepts": [
+                "Darmwind",
+                "Scheiß"
+            ],
+            "id": "D38"
+        },
+        {
+            "concepts": [
+                "scheißen",
+                "kacken",
+                "Darmentleerung"
+            ],
+            "id": "D39"
+        },
+        {
+            "concepts": [
+                "scheißen",
+                "Ja",
+                "geschissen",
+                "scheißt",
+                "geredet"
+            ],
+            "id": "D40"
+        },
+        {
+            "concepts": [
+                "scheißen",
+                "bescheißen",
+                "anscheißen"
+            ],
+            "id": "D41"
+        },
+        {
+            "concepts": [
+                "Scheißer"
+            ],
+            "id": "D42"
+        },
+        {
+            "concepts": [
+                "Scheiß",
+                "scheißen",
+                "Scheißkerl"
+            ],
+            "id": "D43"
+        },
+        {
+            "concepts": [
+                "Stuhl",
+                "harter"
+            ],
+            "id": "D44"
+        },
+        {
+            "concepts": [
+                "Stuhl",
+                "weicher",
+                "Dünnschiß"
+            ],
+            "id": "D45"
+        },
+        {
+            "concepts": [
+                "Scheiße",
+                "Kathl",
+                "Diarrhöe",
+                "Durchfall",
+                "schnelle"
+            ],
+            "id": "D46"
+        },
+        {
+            "concepts": [
+                "Wachter",
+                "Statsitzer",
+                "Veigerl",
+                "Kot",
+                "Exkremente",
+                "Dreck",
+                "Haufen"
+            ],
+            "id": "D47"
+        },
+        {
+            "concepts": [
+                "Brunzled",
+                "Geseich",
+                "Seichled",
+                "Harn",
+                "Urin",
+                "Seich"
+            ],
+            "id": "D48"
+        },
+        {
+            "concepts": [
+                "harnen",
+                "wischeln",
+                "bacheln",
+                "brunzen",
+                "sudeln",
+                "seichen"
+            ],
+            "id": "D49"
+        },
+        {
+            "concepts": [
+                "anbrunzen",
+                "harnen",
+                "Syn"
+            ],
+            "id": "D50"
+        },
+        {
+            "concepts": [
+                "Hosenbrunzer",
+                "Brunzerling",
+                "harnen"
+            ],
+            "id": "D51"
+        },
+        {
+            "concepts": [
+                "Scherberl",
+                "Seichkachel",
+                "Potschamper"
+            ],
+            "id": "D52"
+        },
+        {
+            "concepts": [
+                "Harnblase"
+            ],
+            "id": "D53"
+        },
+        {
+            "concepts": [
+                "Geschlechtsteile",
+                "Benennung"
+            ],
+            "id": "D54"
+        },
+        {
+            "concepts": [
+                "Eingeweide",
+                "Gekröse",
+                "Krösel"
+            ],
+            "id": "D55"
+        },
+        {
+            "concepts": [
+                "Netz"
+            ],
+            "id": "D56"
+        },
+        {
+            "concepts": [
+                "Gedärme"
+            ],
+            "id": "D57"
+        },
+        {
+            "concepts": [
+                "Mastdarm",
+                "Darmes",
+                "Teile"
+            ],
+            "id": "D58"
+        },
+        {
+            "concepts": [
+                "Rollen",
+                "Darmes",
+                "Darmverschlingung",
+                "Kolik",
+                "Erkrankungen",
+                "Darmkatarrh",
+                "Koterbrechen",
+                "Miserere",
+                "Gedärmen"
+            ],
+            "id": "D59"
+        },
+        {
+            "concepts": [
+                "Netzbruch",
+                "Bruch"
+            ],
+            "id": "D60"
+        },
+        {
+            "concepts": [
+                "Bruchleiden"
+            ],
+            "id": "D61"
+        },
+        {
+            "concepts": [
+                "heben",
+                "Bruch"
+            ],
+            "id": "D62"
+        },
+        {
+            "concepts": [
+                "Leber"
+            ],
+            "id": "D63"
+        },
+        {
+            "concepts": [
+                "Leberkrebs",
+                "Leber"
+            ],
+            "id": "D64"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Galle"
+            ],
+            "id": "D65"
+        },
+        {
+            "concepts": [
+                "Gallenblase"
+            ],
+            "id": "D66"
+        },
+        {
+            "concepts": [
+                "Gallensteine"
+            ],
+            "id": "D67"
+        },
+        {
+            "concepts": [
+                "Galle",
+                "erbrechen"
+            ],
+            "id": "D68"
+        },
+        {
+            "concepts": [
+                "gallhantig",
+                "Galle"
+            ],
+            "id": "D69"
+        },
+        {
+            "concepts": [
+                "gallig"
+            ],
+            "id": "D70"
+        },
+        {
+            "concepts": [
+                "Gelbsucht"
+            ],
+            "id": "D71"
+        },
+        {
+            "concepts": [
+                "Bauchspeicheldrüse",
+                "Weißleber"
+            ],
+            "id": "D72"
+        },
+        {
+            "concepts": [
+                "Milz"
+            ],
+            "id": "D73"
+        },
+        {
+            "concepts": [
+                "Nieren"
+            ],
+            "id": "D74"
+        },
+        {
+            "concepts": [
+                "Wanderniere"
+            ],
+            "id": "D75"
+        },
+        {
+            "concepts": [
+                "Stein",
+                "Sand",
+                "leiden"
+            ],
+            "id": "D76"
+        },
+        {
+            "concepts": [
+                "verschiedene",
+                "Gratruckelein",
+                "Ruckenbein",
+                "Wirbelsäule",
+                "Rückgrat",
+                "unterscheidet",
+                "Teile"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Wirbel",
+                "etwaige"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Wirbels",
+                "Dorn",
+                "Teile"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "eindrücken",
+                "krachen",
+                "heraus",
+                "schauen",
+                "zählen",
+                "Rippen",
+                "schlagen",
+                "Aussprache",
+                "brechen",
+                "Rippe"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Rippen",
+                "Rippenhals",
+                "Teile"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "ganze",
+                "untere",
+                "Bauchrippen",
+                "Rippen",
+                "falsche",
+                "halbe",
+                "obere",
+                "Art",
+                "unterschieden",
+                "rechte",
+                "Länge"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Rippenbruch",
+                "Rippe"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "rippecht",
+                "gerippt"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "klapperndes",
+                "Gerippe",
+                "abgemagert"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Gerippe",
+                "Totengerippe"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Brustbein"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "zeigen",
+                "klopfen",
+                "kalte",
+                "stehen",
+                "beiden",
+                "Schulter",
+                "Schultern",
+                "blicken",
+                "tragen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "breite",
+                "niedere",
+                "schmale",
+                "Schultern",
+                "hohe"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "schmalschulterig"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Schulterblatt"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Schlüsselbein"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Schlüsselbeingrube"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Achsel",
+                "leichte",
+                "Achseln",
+                "zucken",
+                "ansehen",
+                "nehmen",
+                "Schulter",
+                "schupfen"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Achsel",
+                "Schulter"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Üchse",
+                "Achselhöhle"
+            ],
+            "id": "E20"
+        }
+    ]
+}

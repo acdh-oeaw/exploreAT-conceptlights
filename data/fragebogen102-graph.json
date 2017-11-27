@@ -1,0 +1,4521 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Blütenname"
+                ],
+                [
+                    "Pollen"
+                ],
+                [
+                    "Ofen"
+                ],
+                [
+                    "Brechelhütte"
+                ],
+                [
+                    "Flachsbreche"
+                ],
+                [
+                    "gelegt"
+                ],
+                [
+                    "bearbeiten"
+                ],
+                [
+                    "Zermürben"
+                ],
+                [
+                    "zermürben"
+                ],
+                [
+                    "unterscheiden"
+                ],
+                [
+                    "Bündel"
+                ],
+                [
+                    "ausklopfen"
+                ],
+                [
+                    "Brechlerin"
+                ],
+                [
+                    "Brechlerinnen"
+                ],
+                [
+                    "haspeln"
+                ],
+                [
+                    "spulen"
+                ],
+                [
+                    "Rockenstube"
+                ],
+                [
+                    "Spule"
+                ],
+                [
+                    "Weberschiffchen"
+                ],
+                [
+                    "Weber"
+                ],
+                [
+                    "Volksglaube"
+                ],
+                [
+                    "ziehen"
+                ],
+                [
+                    "Kamm"
+                ],
+                [
+                    "Weppe"
+                ],
+                [
+                    "Gewebe"
+                ],
+                [
+                    "Leinwand"
+                ],
+                [
+                    "Zeug"
+                ],
+                [
+                    "Seilerstätte"
+                ],
+                [
+                    "Seilers"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "Seil"
+                ],
+                [
+                    "seilen"
+                ],
+                [
+                    "Leine"
+                ],
+                [
+                    "führen"
+                ],
+                [
+                    "Strick"
+                ],
+                [
+                    "Schnur"
+                ],
+                [
+                    "schnüren"
+                ],
+                [
+                    "etwaige"
+                ]
+            ],
+            "2": [
+                [
+                    "Reiste"
+                ],
+                [
+                    "Abkampen"
+                ],
+                [
+                    "Garnbaum"
+                ]
+            ],
+            "3": [
+                [
+                    "brecheln"
+                ],
+                [
+                    "Brechel"
+                ],
+                [
+                    "Hechel"
+                ],
+                [
+                    "Abfall"
+                ],
+                [
+                    "Rocken"
+                ],
+                [
+                    "spinnen"
+                ],
+                [
+                    "Tocke"
+                ]
+            ],
+            "4": [
+                [
+                    "Schwingbeil"
+                ]
+            ],
+            "5": [
+                [
+                    "Brecheln"
+                ],
+                [
+                    "Rupfen"
+                ],
+                [
+                    "Brechelbraut"
+                ],
+                [
+                    "Flachses"
+                ],
+                [
+                    "Büschel"
+                ],
+                [
+                    "Garn"
+                ],
+                [
+                    "Schlinge"
+                ]
+            ],
+            "6": [
+                [
+                    "Riffel"
+                ]
+            ],
+            "7": [
+                [
+                    "Haar"
+                ]
+            ],
+            "21": [
+                [
+                    "Werg"
+                ],
+                [
+                    "Teile"
+                ]
+            ],
+            "39": [
+                [
+                    "Flachs"
+                ]
+            ],
+            "55": [
+                [
+                    "Hanf"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Abfall",
+                    "Brecheln"
+                ],
+                [
+                    "Hanfes",
+                    "Flachses"
+                ],
+                [
+                    "Schwingbeil",
+                    "Holzteile"
+                ],
+                [
+                    "Schwingbeil",
+                    "bearbeiten"
+                ],
+                [
+                    "Reibstein",
+                    "Mostreibe"
+                ],
+                [
+                    "Reiste",
+                    "Büschel"
+                ],
+                [
+                    "Hechelabfall",
+                    "Rupfen"
+                ],
+                [
+                    "Gestell",
+                    "Aufspulen"
+                ],
+                [
+                    "Besuch",
+                    "Spinnstube"
+                ],
+                [
+                    "Garn",
+                    "Garnbaum"
+                ],
+                [
+                    "Fäden",
+                    "neuen"
+                ],
+                [
+                    "Schlinge",
+                    "klenken"
+                ]
+            ],
+            "2": [
+                [
+                    "beim",
+                    "Brecheln"
+                ]
+            ],
+            "3": [
+                [
+                    "Haar",
+                    "Flachs"
+                ]
+            ],
+            "35": [
+                [
+                    "Flachs",
+                    "Hanf"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Abkampen",
+                    "Abfall",
+                    "Brecheln"
+                ],
+                [
+                    "Flachs",
+                    "Hanf",
+                    "bearbeiten"
+                ],
+                [
+                    "Brechelbraut",
+                    "Brechelschrecker",
+                    "Burschen"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Abfall",
+                    "beim",
+                    "entstehender",
+                    "Brecheln"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 0,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 1,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 2,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unterscheiden"
+            ],
+            "source": 7,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 7,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blütenname"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hanf"
+            ],
+            "source": 9,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar",
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 24,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Haar"
+            ],
+            "source": 11,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar",
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 27,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 11,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 12,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leinwand"
+            ],
+            "source": 12,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar"
+            ],
+            "source": 14,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar"
+            ],
+            "source": 14,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar"
+            ],
+            "source": 14,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pollen"
+            ],
+            "source": 17,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 27,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 28,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 30,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 33,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 41,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 46,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 55,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 21,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Tocke"
+            ],
+            "source": 22,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tocke"
+            ],
+            "source": 22,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 23,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar",
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 27,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 24,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haar"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 27,
+            "target": 28,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 27,
+            "target": 30,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 27,
+            "target": 33,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 27,
+            "target": 41,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 27,
+            "target": 46,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gelegt"
+            ],
+            "source": 27,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 27,
+            "target": 55,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 27,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 28,
+            "target": 30,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 28,
+            "target": 33,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 28,
+            "target": 41,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 28,
+            "target": 46,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 28,
+            "target": 55,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 28,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachses"
+            ],
+            "source": 29,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reiste"
+            ],
+            "source": 29,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachses"
+            ],
+            "source": 29,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reiste"
+            ],
+            "source": 29,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bündel"
+            ],
+            "source": 29,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachses"
+            ],
+            "source": 29,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 30,
+            "target": 33,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 30,
+            "target": 41,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 30,
+            "target": 46,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 30,
+            "target": 55,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 30,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "ausklopfen"
+            ],
+            "source": 30,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riffel"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riffel"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riffel"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riffel"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riffel"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 32,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 32,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 32,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 32,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 32,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 32,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riffel"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 33,
+            "target": 41,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 33,
+            "target": 46,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf",
+                "bearbeiten"
+            ],
+            "source": 33,
+            "target": 55,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "bearbeiten"
+            ],
+            "source": 33,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 33,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hanfes",
+                "Flachses"
+            ],
+            "source": 35,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachses"
+            ],
+            "source": 35,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechelhütte"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 41,
+            "target": 46,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 41,
+            "target": 55,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 41,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachsbreche"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechel"
+            ],
+            "source": 43,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechel"
+            ],
+            "source": 43,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 44,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 44,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 44,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 44,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 44,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Brecheln"
+            ],
+            "source": 45,
+            "target": 48,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Brecheln"
+            ],
+            "source": 45,
+            "target": 50,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Brecheln"
+            ],
+            "source": 45,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brecheln"
+            ],
+            "source": 45,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brecheln"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brecheln"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 46,
+            "target": 55,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 46,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "brecheln"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfall",
+                "beim",
+                "entstehender",
+                "Brecheln"
+            ],
+            "source": 48,
+            "target": 50,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Abfall",
+                "Brecheln"
+            ],
+            "source": 48,
+            "target": 51,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Brecheln"
+            ],
+            "source": 48,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfall"
+            ],
+            "source": 48,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abkampen",
+                "Abfall",
+                "Brecheln"
+            ],
+            "source": 50,
+            "target": 51,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Brecheln"
+            ],
+            "source": 50,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfall"
+            ],
+            "source": 50,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abkampen"
+            ],
+            "source": 50,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brecheln"
+            ],
+            "source": 51,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abfall"
+            ],
+            "source": 51,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abkampen"
+            ],
+            "source": 51,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechel"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reiste",
+                "Büschel"
+            ],
+            "source": 52,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Büschel"
+            ],
+            "source": 52,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Büschel"
+            ],
+            "source": 52,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwingbeil"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwingbeil",
+                "Holzteile"
+            ],
+            "source": 54,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwingbeil"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zermürben"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwingbeil"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwingbeil",
+                "bearbeiten"
+            ],
+            "source": 55,
+            "target": 57,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Hanf"
+            ],
+            "source": 55,
+            "target": 71,
+            "target_group": [
+                2,
+                35,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwingbeil"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zermürben"
+            ],
+            "source": 56,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachses"
+            ],
+            "source": 56,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reibstein",
+                "Mostreibe"
+            ],
+            "source": 58,
+            "target": 59,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 59,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 59,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 59,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 59,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 60,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 60,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 60,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 60,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 61,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 61,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 61,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 61,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 62,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 62,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 62,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 62,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hechel"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hechel"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 64,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hechel"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 65,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 65,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 65,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 68,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 68,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Büschel"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Büschel"
+            ],
+            "source": 69,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tocke"
+            ],
+            "source": 69,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Büschel"
+            ],
+            "source": 70,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werg"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rupfen"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rupfen"
+            ],
+            "source": 73,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rupfen"
+            ],
+            "source": 73,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 74,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 74,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 74,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hechelabfall",
+                "Rupfen"
+            ],
+            "source": 75,
+            "target": 76,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rupfen"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rupfen"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechlerin"
+            ],
+            "source": 81,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechelbraut"
+            ],
+            "source": 82,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechelbraut"
+            ],
+            "source": 82,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechelbraut"
+            ],
+            "source": 82,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechelbraut"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechelbraut"
+            ],
+            "source": 85,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brechelbraut",
+                "Brechelschrecker",
+                "Burschen"
+            ],
+            "source": 86,
+            "target": 87,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Brechlerinnen"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spinnen"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spinnen"
+            ],
+            "source": 91,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spinnen"
+            ],
+            "source": 92,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 96,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 96,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "haspeln"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gestell",
+                "Aufspulen"
+            ],
+            "source": 100,
+            "target": 101,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 101,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spule"
+            ],
+            "source": 102,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spulen"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rocken"
+            ],
+            "source": 105,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rocken"
+            ],
+            "source": 105,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rockenstube"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Besuch",
+                "Spinnstube"
+            ],
+            "source": 107,
+            "target": 108,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rocken"
+            ],
+            "source": 108,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 108,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 111,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weberschiffchen"
+            ],
+            "source": 113,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garnbaum"
+            ],
+            "source": 113,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garnbaum"
+            ],
+            "source": 113,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kamm"
+            ],
+            "source": 113,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weber"
+            ],
+            "source": 114,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 115,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn"
+            ],
+            "source": 115,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Garn",
+                "Garnbaum"
+            ],
+            "source": 116,
+            "target": 122,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Weppe"
+            ],
+            "source": 116,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zeug"
+            ],
+            "source": 123,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fäden",
+                "neuen"
+            ],
+            "source": 124,
+            "target": 125,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gewebe"
+            ],
+            "source": 124,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seilerstätte"
+            ],
+            "source": 131,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seilers"
+            ],
+            "source": 133,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seil"
+            ],
+            "source": 136,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "seilen"
+            ],
+            "source": 138,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leine"
+            ],
+            "source": 140,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 140,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 141,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strick"
+            ],
+            "source": 142,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnur"
+            ],
+            "source": 144,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schnüren"
+            ],
+            "source": 146,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlinge"
+            ],
+            "source": 149,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlinge"
+            ],
+            "source": 149,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlinge"
+            ],
+            "source": 149,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlinge"
+            ],
+            "source": 150,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlinge"
+            ],
+            "source": 150,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlinge",
+                "klenken"
+            ],
+            "source": 151,
+            "target": 152,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Hanf"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Hanfschotten",
+                "schützt",
+                "Hanfacker",
+                "Hanf",
+                "Hexen",
+                "Speise"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "hänfen",
+                "Hanf"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Staubhanf"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Winterhanf"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Hanfpflanze",
+                "Mastelhanf"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Femelhanf",
+                "Bößling",
+                "Pflanze"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "fürs",
+                "Auge",
+                "beginnen",
+                "Hanf",
+                "bößelt",
+                "Hanfpflanzen",
+                "unterscheiden"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "böse",
+                "Hanfkraut",
+                "Bannmittel",
+                "Geister"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Blütenname",
+                "Hanf"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Hanfsamen"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "Flachsfelder",
+                "hellem",
+                "Lein",
+                "existiert",
+                "Flachs",
+                "Flachssorten"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "flächsen",
+                "leinen",
+                "härwene",
+                "härwen",
+                "Leinwand",
+                "Flachs"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Flachsfeld",
+                "Haarland"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "Winterhaar",
+                "kurzer",
+                "langer",
+                "Späthaar"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Stempenhaar"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Blütenname"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Leinhappen",
+                "Samenkapseln",
+                "Pollen"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Haarlinset",
+                "Samen"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Truhe",
+                "Linsettruhe",
+                "Samens",
+                "Haarfaß"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Ölzelten",
+                "Leinkuchen",
+                "Linsetkäse"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "ausreißen",
+                "ausziehen",
+                "Hanf",
+                "Flachs",
+                "fangen"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Tocke",
+                "Flachsgarbe"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "rotten",
+                "rötzen",
+                "rösten",
+                "Flachs",
+                "Freien"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Haar",
+                "tun",
+                "röstet",
+                "Rötz",
+                "Roße",
+                "Flachs",
+                "Pfütze",
+                "Rötze"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Wasserröste",
+                "Tauröste"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "weißer",
+                "roter"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "verwehe",
+                "hockt",
+                "nieder",
+                "letzten",
+                "wiesnen",
+                "Händeklatschen",
+                "Windradel",
+                "Wind",
+                "Pflanzen",
+                "niederbreiten",
+                "dabei",
+                "Hanf",
+                "gelegt",
+                "ausbreiten",
+                "aufgebreiteten",
+                "Flachs",
+                "Wiese"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Flachs",
+                "Hanf",
+                "einweichen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Buschen",
+                "Bürdel",
+                "Flachses",
+                "Boße",
+                "Reiste",
+                "Bündel",
+                "gedörrten"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Wagenleiter",
+                "Hanf",
+                "boßen",
+                "Flachs",
+                "klocken",
+                "ausklopfen"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Gerät",
+                "Riffelkamm",
+                "Pollen",
+                "Riffel"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Riffel",
+                "Riffelbank",
+                "Riffelzähne",
+                "Teile"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Riffel",
+                "riffen",
+                "riffeln",
+                "Hanf",
+                "bearbeiten",
+                "Flachs"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Riffel",
+                "gröbste",
+                "Lodensorte",
+                "Riffelloden"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "geernteten",
+                "Raum",
+                "Haarhaus",
+                "Flachses",
+                "Hanfes"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "dürren",
+                "därren",
+                "dörren"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Haardörre",
+                "Bad",
+                "Badel",
+                "Dörrofen",
+                "Dörrhäusel",
+                "Badstube"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "innerhalb",
+                "neben",
+                "Ofen",
+                "Dörrkammer",
+                "Häusels"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Dörrhürde"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Junge",
+                "Ofen",
+                "besorgen",
+                "Haarbub"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Brechelmutter",
+                "Brechelhütte",
+                "Frau",
+                "ältere",
+                "Hanf",
+                "Haarkammer",
+                "Flachs",
+                "tragen"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Brechelhütte"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Flachsbreche",
+                "Brechel"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Flachsbreche",
+                "Teile"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Haarbank",
+                "verwendete",
+                "Bank",
+                "beim",
+                "Brecheln"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "brechen",
+                "Flachs",
+                "brecheln",
+                "Hanf"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "brecheln",
+                "erstemal",
+                "überschlagen"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Abfall",
+                "Agen",
+                "entstehender",
+                "ersten",
+                "beim",
+                "holziger",
+                "Brecheln"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "ausmachen",
+                "brecheln",
+                "zweitemal"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Abfall",
+                "zweiten",
+                "feinerer",
+                "Abkampen",
+                "entstehender",
+                "beim",
+                "Brecheln"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Abfall",
+                "Abkampen",
+                "feiner",
+                "Brecheln",
+                "Abkampengarn"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Büschel",
+                "Brechel",
+                "Reiste",
+                "gelegt",
+                "Schübel"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "verwendetes",
+                "außer",
+                "Brecheleisen",
+                "Brechel"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Schwingbeil",
+                "Holzteile",
+                "Hacke",
+                "Zermürben",
+                "Haarhackel"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Schwingbeil",
+                "bleuen",
+                "schwingen",
+                "bracken",
+                "rollen",
+                "müllen",
+                "Hanf",
+                "bearbeiten",
+                "Flachs"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Schwingbeil",
+                "zermürben",
+                "Holzteile",
+                "Haarbleued",
+                "Flachses",
+                "Hanfes"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "Schwingbeil",
+                "Schwingen",
+                "Schwingstock",
+                "bearbeiten",
+                "Unterlage"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Reibstein",
+                "Mostreibe",
+                "Zermürben",
+                "benützt"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "Reibstein",
+                "zermürben",
+                "reiben",
+                "bocken",
+                "holzigen",
+                "Mostreibe",
+                "Teile"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "gröberes",
+                "Basthanf",
+                "Brecheln",
+                "Werg"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "feineres",
+                "Leinwerg",
+                "Werg"
+            ],
+            "id": "C41"
+        },
+        {
+            "concepts": [
+                "werchen",
+                "Werg"
+            ],
+            "id": "C42"
+        },
+        {
+            "concepts": [
+                "leinwerchenes",
+                "Tuch"
+            ],
+            "id": "C43"
+        },
+        {
+            "concepts": [
+                "ziehen",
+                "Hechel",
+                "Hächel"
+            ],
+            "id": "C44"
+        },
+        {
+            "concepts": [
+                "Hechelring",
+                "Hechelzähne",
+                "Hechel",
+                "Teile"
+            ],
+            "id": "C45"
+        },
+        {
+            "concepts": [
+                "Hechelleinwand",
+                "Hechel"
+            ],
+            "id": "C46"
+        },
+        {
+            "concepts": [
+                "Spinnhanf",
+                "gehechelte",
+                "Schuster",
+                "Reinhanf",
+                "je",
+                "Strähnhanf",
+                "Güte",
+                "Werg"
+            ],
+            "id": "C47"
+        },
+        {
+            "concepts": [
+                "flechten",
+                "zusammendrehen",
+                "Werg"
+            ],
+            "id": "C48"
+        },
+        {
+            "concepts": [
+                "Büschel",
+                "Ridel",
+                "Flachswergbüschel",
+                "Reiste",
+                "Zopf",
+                "zusammengedrehtes",
+                "Tocke",
+                "unterscheiden",
+                "Ausdrücke"
+            ],
+            "id": "C49"
+        },
+        {
+            "concepts": [
+                "rund",
+                "Haarkranz",
+                "Büschel",
+                "geflochtenes"
+            ],
+            "id": "C50"
+        },
+        {
+            "concepts": [
+                "Flachs",
+                "reisten",
+                "Hanf",
+                "gehecheltem"
+            ],
+            "id": "C51"
+        },
+        {
+            "concepts": [
+                "Haarzechling",
+                "Haarreisten",
+                "Bündel",
+                "10"
+            ],
+            "id": "C52"
+        },
+        {
+            "concepts": [
+                "Abfall",
+                "Hecheln",
+                "Heede",
+                "Tors",
+                "Rupfen",
+                "Werg"
+            ],
+            "id": "C53"
+        },
+        {
+            "concepts": [
+                "grobem",
+                "rupfenes",
+                "rupfen",
+                "Garn",
+                "Werg"
+            ],
+            "id": "C54"
+        },
+        {
+            "concepts": [
+                "ausschütten",
+                "Hechelabfall",
+                "Rupfen",
+                "Schüttstaberl",
+                "ausklopfen"
+            ],
+            "id": "C55"
+        },
+        {
+            "concepts": [
+                "Binkeln",
+                "Hechelabfall",
+                "Rupfen",
+                "Ballen",
+                "zusammenrollen"
+            ],
+            "id": "C56"
+        },
+        {
+            "concepts": [
+                "Kern",
+                "Abkampen",
+                "Ausdruck",
+                "Gewürch",
+                "Rupfen",
+                "zusammenfassender"
+            ],
+            "id": "C57"
+        },
+        {
+            "concepts": [
+                "Leinöl"
+            ],
+            "id": "C58"
+        },
+        {
+            "concepts": [
+                "Brechelfest"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Brecheltanz"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Brechlerin"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Brechlerin",
+                "Tochter",
+                "schönste",
+                "Brechelbraut",
+                "Bauern"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Brechelkönig"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Königs",
+                "Rede",
+                "Brechelpredigt"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Brechelbraut",
+                "Ringen",
+                "vermummtes"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Burschen",
+                "Brechelbraut",
+                "ringenden",
+                "Brechelschrecker"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Burschen",
+                "Führer",
+                "Brechelbraut",
+                "Brechelschrecker",
+                "ringende",
+                "Brechelkönigin"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Brechelkoch",
+                "bestehend",
+                "Brechelkrapfen",
+                "Brechelhenne",
+                "Brechelmahl"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Brechlerinnen",
+                "Bäuerin",
+                "Geschenk",
+                "Brechelbuschen"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Brechlerinnen",
+                "Büschel",
+                "schenkt",
+                "Flachses",
+                "Bauer",
+                "Reistengeschenk",
+                "feinen"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "gesponnen",
+                "Formen",
+                "fein",
+                "Sonnen",
+                "spinnen"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "versponnen",
+                "ganz",
+                "spinnen",
+                "spinnt",
+                "ausgesponnen"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Spinned",
+                "Gesponnenes",
+                "Menge"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "einfache",
+                "Wirtel",
+                "samt",
+                "Handspindel"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Spinnrad"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Spinnrades",
+                "Teile"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Haspel"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "helles",
+                "dumpfes",
+                "haspeln"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "verhaspeln",
+                "haspeln"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Gestell",
+                "Garnstöckel",
+                "Aufspulen"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Gestell",
+                "Garnstöckels",
+                "Aufspulen",
+                "Teile"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Spule"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "spulen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "spulen",
+                "abspulen"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Rocken"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Rockenstube"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Besuch",
+                "Spinnstube",
+                "Rockenreise"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Rocken",
+                "gehen",
+                "Besuch",
+                "fahren",
+                "Rockenlicht",
+                "Rockenstube",
+                "Spinnstube",
+                "ausführen",
+                "Volksbräuche",
+                "reisen"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Rockenlied"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Rocken",
+                "gewickelt",
+                "Abspinnen",
+                "aufzupfen",
+                "Flachsmenge",
+                "Wickel"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Strafe",
+                "faule",
+                "Volksglaube",
+                "spinnen",
+                "Spinnerinnen",
+                "unerlaubter",
+                "Zeit"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Webstuhl"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Geschnelle",
+                "Brustbaum",
+                "Sp",
+                "Leinwandbaum",
+                "Weberschiffchen",
+                "Schlag",
+                "Schütze",
+                "Zepter",
+                "Peitschenstecken",
+                "Engel",
+                "Handgriff",
+                "Spannstab",
+                "Webstuhls",
+                "Schnellvorrichtung",
+                "Kamm",
+                "Lade",
+                "Tocke",
+                "Garnbaum",
+                "Teile"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Seelen",
+                "Spule",
+                "Stift",
+                "Weberschiffchen",
+                "Weber",
+                "zwei",
+                "steckt",
+                "Spindel",
+                "Seele"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Wepf",
+                "Eintrag",
+                "Schiffchen",
+                "Einschlag",
+                "Garn",
+                "Wefel"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Garn",
+                "Schweif",
+                "Kette",
+                "Weppe",
+                "Aufzug",
+                "gewickelte",
+                "Zettel",
+                "Garnbaum"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Triemling",
+                "Endfäden",
+                "Aufzuges",
+                "Triemen"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Weber"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "wirken",
+                "webern",
+                "weben"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Weberei"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "knüpft",
+                "Volksglaube",
+                "Webers"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "aufbaumen",
+                "wickeln",
+                "Garn",
+                "Garnbaum"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "einziehen",
+                "Zeug",
+                "überstoßen",
+                "Kettenfäden",
+                "ziehen",
+                "Kamm"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "anknüpfen",
+                "neuen",
+                "abdrehen",
+                "alte",
+                "Gewebe",
+                "Fäden"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "anschnüren",
+                "neuen",
+                "Anschnürern",
+                "Anlenkern",
+                "anlenken",
+                "Webstuhles",
+                "Anbindfäden",
+                "Fäden",
+                "befestigen"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Webe",
+                "Gewebe",
+                "Weppe"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Stoff"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Damast",
+                "Kattun",
+                "Organtin",
+                "Rasch",
+                "Leinen",
+                "Shirting",
+                "Kammgarn",
+                "Battist",
+                "Perkal",
+                "Rohleinen",
+                "Musselin",
+                "Wifling",
+                "Homespun",
+                "Trikot",
+                "Voile",
+                "Bar",
+                "Leinwand",
+                "Piqué",
+                "Raß",
+                "Rips",
+                "Baresch",
+                "Köper",
+                "Inlet",
+                "Perkalin",
+                "Stoffarten",
+                "Gradel"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Stoffnamen",
+                "Kittel",
+                "abgeleitete",
+                "Hose",
+                "Zeug",
+                "raschenes",
+                "barchentene",
+                "Rock",
+                "samtener",
+                "seidene",
+                "Bluse",
+                "leinener"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Seiler"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Seilerei",
+                "Spinnstatt",
+                "Seilerstätte"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Seilerstätte"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Seilers",
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Seilers",
+                "Tätigkeit"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Seilerwaren",
+                "SammelN"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "seiltanzen",
+                "Seil",
+                "werfen"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Spannseil",
+                "Seil",
+                "Seiltänzer"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "seilen"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "seilen",
+                "aufseilen"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "heben",
+                "führen",
+                "Leinel",
+                "Leine"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Leine"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "führen",
+                "Strick",
+                "Stricke",
+                "legen"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Strickleiter",
+                "Strick",
+                "Zweifelstrick"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Schnur",
+                "Schnürl",
+                "geht",
+                "hauen"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Schnur",
+                "schnurgerade",
+                "Richtschnur"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "schnüren"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "schnüren",
+                "verschnüren"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Spagat",
+                "Bindfaden"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Klank",
+                "Schlinge",
+                "Bindfadens"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Schlinge"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Schlinge",
+                "klenken"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Schlinge",
+                "zusammenklenken",
+                "klenken"
+            ],
+            "id": "G23"
+        }
+    ]
+}

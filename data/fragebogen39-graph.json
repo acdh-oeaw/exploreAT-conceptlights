@@ -1,0 +1,2156 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "markieren"
+                ],
+                [
+                    "trennen"
+                ],
+                [
+                    "kleiner"
+                ],
+                [
+                    "säumen"
+                ],
+                [
+                    "Knauf"
+                ],
+                [
+                    "jemand"
+                ],
+                [
+                    "Aussprache"
+                ],
+                [
+                    "Gewand"
+                ],
+                [
+                    "flicken"
+                ]
+            ],
+            "2": [
+                [
+                    "Knöpfe"
+                ],
+                [
+                    "Objekte"
+                ]
+            ],
+            "3": [
+                [
+                    "Falte"
+                ],
+                [
+                    "Schneiderei"
+                ]
+            ],
+            "4": [
+                [
+                    "nähen"
+                ]
+            ],
+            "5": [
+                [
+                    "bügeln"
+                ]
+            ],
+            "6": [
+                [
+                    "Stich"
+                ],
+                [
+                    "Saum"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Bletz"
+                ]
+            ],
+            "12": [
+                [
+                    "Knopf"
+                ]
+            ],
+            "13": [
+                [
+                    "Naht"
+                ]
+            ],
+            "17": [
+                [
+                    "Vb"
+                ]
+            ],
+            "26": [
+                [
+                    "Fleck"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Naht",
+                    "nähen"
+                ],
+                [
+                    "Naht",
+                    "gerade"
+                ],
+                [
+                    "übliche",
+                    "Objekte"
+                ],
+                [
+                    "Vb",
+                    "reißt"
+                ],
+                [
+                    "Geld",
+                    "Knopf"
+                ],
+                [
+                    "Knopf",
+                    "Knöpfe"
+                ],
+                [
+                    "Vb",
+                    "Knopf"
+                ],
+                [
+                    "Haftel",
+                    "Häftlein"
+                ],
+                [
+                    "nähen",
+                    "Vb"
+                ],
+                [
+                    "Vb",
+                    "werfen"
+                ],
+                [
+                    "Falten",
+                    "bügeln"
+                ],
+                [
+                    "Bodens",
+                    "Fleck"
+                ]
+            ],
+            "3": [
+                [
+                    "Borte",
+                    "Litze"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Zeug",
+                    "Stück",
+                    "Fleck"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Saum"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saum"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saum"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säumen"
+            ],
+            "source": 0,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 0,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saum"
+            ],
+            "source": 1,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saum"
+            ],
+            "source": 1,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Borte",
+                "Litze"
+            ],
+            "source": 2,
+            "target": 3,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Borte",
+                "Litze"
+            ],
+            "source": 2,
+            "target": 4,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Borte",
+                "Litze"
+            ],
+            "source": 3,
+            "target": 4,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "markieren"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht",
+                "nähen"
+            ],
+            "source": 8,
+            "target": 10,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 8,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "reißt"
+            ],
+            "source": 8,
+            "target": 28,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 8,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen",
+                "Vb"
+            ],
+            "source": 8,
+            "target": 45,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 8,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 8,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 8,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht",
+                "gerade"
+            ],
+            "source": 9,
+            "target": 11,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 10,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Naht"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stich"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stich"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stich"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 13,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 13,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stich"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stich"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 14,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 14,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 14,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 14,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 14,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stich"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleiner"
+            ],
+            "source": 15,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saum"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trennen"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "übliche",
+                "Objekte"
+            ],
+            "source": 22,
+            "target": 24,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Objekte"
+            ],
+            "source": 22,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 23,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Objekte"
+            ],
+            "source": 24,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geld",
+                "Knopf"
+            ],
+            "source": 26,
+            "target": 28,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 26,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knauf"
+            ],
+            "source": 26,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 27,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Knopf"
+            ],
+            "source": 28,
+            "target": 32,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "werfen"
+            ],
+            "source": 28,
+            "target": 45,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 28,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 28,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knöpfe"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knöpfe"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf",
+                "Knöpfe"
+            ],
+            "source": 30,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopf"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 32,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 32,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 32,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haftel",
+                "Häftlein"
+            ],
+            "source": 37,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 41,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Falte"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Falte"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewand"
+            ],
+            "source": 44,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Falte"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Falten",
+                "bügeln"
+            ],
+            "source": 45,
+            "target": 50,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bügeln"
+            ],
+            "source": 45,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bügeln"
+            ],
+            "source": 45,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 45,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 45,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 49,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 49,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bügeln"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bügeln"
+            ],
+            "source": 50,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bügeln"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 58,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 58,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bodens",
+                "Fleck"
+            ],
+            "source": 58,
+            "target": 64,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zeug",
+                "Stück",
+                "Fleck"
+            ],
+            "source": 58,
+            "target": 75,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 59,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 59,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 59,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 60,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 61,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 61,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 62,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 63,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 63,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleck"
+            ],
+            "source": 64,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "flicken"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bletz"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bletz"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bletz"
+            ],
+            "source": 75,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bletz"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bletz"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bletz"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "nähen",
+                "säumen",
+                "Saum",
+                "einsäumen"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "einfassen",
+                "Saum"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Einfaßband",
+                "Geschlecht",
+                "Borte",
+                "Litze",
+                "Börtel"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Haarborte",
+                "Bortenhaube",
+                "Borte",
+                "Litze"
+            ],
+            "id": "E19a"
+        },
+        {
+            "concepts": [
+                "börtlet",
+                "borten",
+                "Borte",
+                "Litze",
+                "bortener",
+                "Hosenträger"
+            ],
+            "id": "E19b"
+        },
+        {
+            "concepts": [
+                "börteln"
+            ],
+            "id": "E19c"
+        },
+        {
+            "concepts": [
+                "hauptwörtliche",
+                "markieren"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Naht"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Vb",
+                "übernähen",
+                "hält",
+                "zer",
+                "wutzeln",
+                "jemand",
+                "nähen",
+                "läßt",
+                "reißt",
+                "Naht",
+                "gehn",
+                "markieren"
+            ],
+            "id": "E21a"
+        },
+        {
+            "concepts": [
+                "französiche",
+                "gehöhlte",
+                "schöne",
+                "englische",
+                "markierte",
+                "falsche",
+                "gerade",
+                "wilde",
+                "Naht"
+            ],
+            "id": "E21b"
+        },
+        {
+            "concepts": [
+                "Naht",
+                "Nahtwerk",
+                "nähen",
+                "Genähteret"
+            ],
+            "id": "E21c"
+        },
+        {
+            "concepts": [
+                "schräg",
+                "Ziernaht",
+                "gerade",
+                "Überwindlings",
+                "Leibelnaht",
+                "Naht",
+                "stellen"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Naht",
+                "Nahtbruch"
+            ],
+            "id": "E22a"
+        },
+        {
+            "concepts": [
+                "Stecher",
+                "einmaliger",
+                "Schneiderei",
+                "Stich"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "Stich"
+            ],
+            "id": "E23a"
+        },
+        {
+            "concepts": [
+                "kleiner",
+                "großer",
+                "wilder",
+                "Stich"
+            ],
+            "id": "E23b"
+        },
+        {
+            "concepts": [
+                "Schneiderstich",
+                "Stich"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Saum"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "Saum",
+                "Lückelsaum"
+            ],
+            "id": "E25a"
+        },
+        {
+            "concepts": [
+                "trennen",
+                "weghertrennen"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "trennen",
+                "Trennarbeit",
+                "Trennerei",
+                "Getrenne"
+            ],
+            "id": "E26a"
+        },
+        {
+            "concepts": [
+                "Wattierung",
+                "Wattierstoff",
+                "Watte"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "übliche",
+                "einlegen",
+                "unterlegen",
+                "Betonung",
+                "wattieren",
+                "gut",
+                "Einlage",
+                "Objekte",
+                "Volkswitze",
+                "Ersatzwörter",
+                "auswattieren"
+            ],
+            "id": "E27a"
+        },
+        {
+            "concepts": [
+                "Futter",
+                "üblichen",
+                "Hose",
+                "Schneiderei",
+                "auspflastern",
+                "Unterfutter",
+                "Fütterung",
+                "Arten",
+                "bedeutet",
+                "fürherdrehen",
+                "Namen",
+                "Futterstoff",
+                "ausklopfen"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "füttern",
+                "übliche",
+                "Objekte"
+            ],
+            "id": "E28a"
+        },
+        {
+            "concepts": [
+                "Steifleinwand",
+                "Zuschnitt",
+                "Verwendung",
+                "Ausdrücke"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "Kleiderknopf",
+                "kleiner",
+                "Klotz",
+                "Geld",
+                "Knospe",
+                "Knauf",
+                "Mensch",
+                "Knopf"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "silberner",
+                "schön",
+                "beinener",
+                "schöner",
+                "Knopf",
+                "gilt"
+            ],
+            "id": "E30a"
+        },
+        {
+            "concepts": [
+                "Opferstock",
+                "Vb",
+                "statt",
+                "Sammelbüchse",
+                "annähen",
+                "Geld",
+                "werfen",
+                "reißt",
+                "Knopf"
+            ],
+            "id": "E30b"
+        },
+        {
+            "concepts": [
+                "Weste",
+                "Zahl",
+                "zwei",
+                "Joppe",
+                "drei",
+                "bezüglich",
+                "sagt",
+                "dreiknöpfig",
+                "Reihen",
+                "Knöpfe"
+            ],
+            "id": "E30c"
+        },
+        {
+            "concepts": [
+                "abzählen",
+                "Tasche",
+                "Spiel",
+                "Beschreibung",
+                "hergeben",
+                "rechter",
+                "schupfen",
+                "Knopf",
+                "Knöpfe"
+            ],
+            "id": "E30d"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "Allgemeinbezeichnung",
+                "Brauch",
+                "Münze",
+                "Münzen",
+                "Knopf",
+                "Knöpfe"
+            ],
+            "id": "E30e"
+        },
+        {
+            "concepts": [
+                "säumen",
+                "Vb",
+                "ausstechen",
+                "Knopfmacher",
+                "Kommißknopf",
+                "Joppenknopf",
+                "Hornknopf",
+                "ausnähen",
+                "ausreißen",
+                "Verwendungen",
+                "Reserveknopf",
+                "Knopfloch",
+                "Knopf",
+                "Enzknopf"
+            ],
+            "id": "E31"
+        },
+        {
+            "concepts": [
+                "knopfig",
+                "knopfet"
+            ],
+            "id": "E32"
+        },
+        {
+            "concepts": [
+                "knöpfeln",
+                "zugeknöpft",
+                "häufiger",
+                "knöpfen",
+                "umhinknöpfen"
+            ],
+            "id": "E33"
+        },
+        {
+            "concepts": [
+                "Knauf",
+                "Knafel",
+                "Knäufel"
+            ],
+            "id": "E34"
+        },
+        {
+            "concepts": [
+                "knäufeln"
+            ],
+            "id": "E34a"
+        },
+        {
+            "concepts": [
+                "Haftel",
+                "Häftlein",
+                "Verbindungen"
+            ],
+            "id": "E35"
+        },
+        {
+            "concepts": [
+                "Haftel",
+                "Häftlein",
+                "Haftelmacher",
+                "Haftelmännlein"
+            ],
+            "id": "E35a"
+        },
+        {
+            "concepts": [
+                "hafteln",
+                "häfteln"
+            ],
+            "id": "E35b"
+        },
+        {
+            "concepts": [
+                "Heft",
+                "ausherziehen",
+                "faden"
+            ],
+            "id": "E36"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "Aussprache",
+                "Probe",
+                "Probieren",
+                "bringen",
+                "probieren"
+            ],
+            "id": "E37"
+        },
+        {
+            "concepts": [
+                "mittels",
+                "Anprobe",
+                "Änderungen",
+                "Seife",
+                "Stecknadel",
+                "Kreide",
+                "anzeichnen"
+            ],
+            "id": "E38"
+        },
+        {
+            "concepts": [
+                "aufherheften",
+                "ausherlassen"
+            ],
+            "id": "E39"
+        },
+        {
+            "concepts": [
+                "Frauenkleidern",
+                "Gribler",
+                "Falte",
+                "Gewand"
+            ],
+            "id": "E40"
+        },
+        {
+            "concepts": [
+                "macht",
+                "Vb",
+                "Verwandte",
+                "wirft",
+                "herstellen",
+                "Falten",
+                "pludert",
+                "spannt",
+                "legen",
+                "gibt",
+                "werfen",
+                "nähen",
+                "bügeln",
+                "zwickt",
+                "Falte",
+                "ziehen",
+                "zieht",
+                "reihen"
+            ],
+            "id": "E40a"
+        },
+        {
+            "concepts": [
+                "gelegte",
+                "Falte",
+                "große",
+                "Schösselfalte"
+            ],
+            "id": "E40b"
+        },
+        {
+            "concepts": [
+                "faltig"
+            ],
+            "id": "E40c"
+        },
+        {
+            "concepts": [
+                "fälteln"
+            ],
+            "id": "E40d"
+        },
+        {
+            "concepts": [
+                "Bügeleisen",
+                "Bügeltuch",
+                "Stahl",
+                "herrichten",
+                "hitzen",
+                "Ausdrücke",
+                "reinigen"
+            ],
+            "id": "E41"
+        },
+        {
+            "concepts": [
+                "beinand",
+                "Gewand",
+                "Falten",
+                "Aussprache",
+                "Waschen",
+                "Fasson",
+                "bügeln",
+                "jemand",
+                "Objekte",
+                "Bügeln"
+            ],
+            "id": "E42"
+        },
+        {
+            "concepts": [
+                "zusammenbügeln",
+                "bügeln"
+            ],
+            "id": "E42a"
+        },
+        {
+            "concepts": [
+                "Büglerei",
+                "Gebüglecht",
+                "Bügelwerk",
+                "Bügler"
+            ],
+            "id": "E43"
+        },
+        {
+            "concepts": [
+                "aufdünsten",
+                "dünsten",
+                "bügeln"
+            ],
+            "id": "E44"
+        },
+        {
+            "concepts": [
+                "Ablieferung",
+                "Kleidungsstückes",
+                "Ausdrücke",
+                "Anzuges"
+            ],
+            "id": "E45"
+        },
+        {
+            "concepts": [
+                "Schneider",
+                "auszwicken"
+            ],
+            "id": "E46"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Werkstätte",
+                "Schluß",
+                "Störens",
+                "dabei",
+                "Gebräuche",
+                "Arbeit",
+                "Ausdrücke",
+                "beziehen"
+            ],
+            "id": "E47"
+        },
+        {
+            "concepts": [
+                "Schneiders",
+                "Werkzeuge",
+                "Stoffteile",
+                "Naterknecht",
+                "kleinere",
+                "beides",
+                "festzuhalten",
+                "Hansel"
+            ],
+            "id": "E48"
+        },
+        {
+            "concepts": [
+                "sonstige",
+                "Scheibe",
+                "Ort",
+                "Farbe",
+                "Spottrede",
+                "Zeug",
+                "Stück",
+                "Schneiderei",
+                "Fleck",
+                "Mehlspeise",
+                "Schwarze",
+                "Schmutz",
+                "Kaldaunen",
+                "Pfosten",
+                "Krankheit",
+                "Bodens"
+            ],
+            "id": "E49"
+        },
+        {
+            "concepts": [
+                "Flick",
+                "kommt",
+                "Fleck"
+            ],
+            "id": "E49a"
+        },
+        {
+            "concepts": [
+                "Tuchfleck",
+                "Fürfleck",
+                "Fleck",
+                "Enzfleck",
+                "Schandfleck",
+                "Marktfleck",
+                "Kuttelfleck",
+                "Eierfleck"
+            ],
+            "id": "E49b"
+        },
+        {
+            "concepts": [
+                "Fleckelschwester",
+                "Fleckrede",
+                "Fleckelwerk",
+                "Fleckputzer",
+                "Fleck",
+                "Fleckelteig",
+                "Fleckelarbeit"
+            ],
+            "id": "E49c"
+        },
+        {
+            "concepts": [
+                "alter",
+                "roter",
+                "frischer",
+                "Fleck",
+                "weißer",
+                "blauer"
+            ],
+            "id": "E49d"
+        },
+        {
+            "concepts": [
+                "darübersetzen",
+                "Vb",
+                "Fleck",
+                "putzen",
+                "aufhinnähen",
+                "einstückeln"
+            ],
+            "id": "E49e"
+        },
+        {
+            "concepts": [
+                "richtigen",
+                "Fleckel",
+                "heiraten",
+                "Herz",
+                "stehen",
+                "Fleck",
+                "eigenen",
+                "rechten",
+                "schießen",
+                "kommen",
+                "Fleckerl",
+                "Bodens"
+            ],
+            "id": "E49f"
+        },
+        {
+            "concepts": [
+                "Gefleckeret",
+                "Gefleckelet"
+            ],
+            "id": "E50"
+        },
+        {
+            "concepts": [
+                "fleckig"
+            ],
+            "id": "E51"
+        },
+        {
+            "concepts": [
+                "flecket",
+                "geflecket"
+            ],
+            "id": "E52"
+        },
+        {
+            "concepts": [
+                "flecken",
+                "Zeitwort",
+                "zerflecken"
+            ],
+            "id": "E53"
+        },
+        {
+            "concepts": [
+                "fleckeln"
+            ],
+            "id": "E53a"
+        },
+        {
+            "concepts": [
+                "flicken",
+                "Kitze",
+                "geflickt"
+            ],
+            "id": "E54"
+        },
+        {
+            "concepts": [
+                "flicken",
+                "Flickwerk",
+                "zuflicken"
+            ],
+            "id": "E54a"
+        },
+        {
+            "concepts": [
+                "Flicker",
+                "Flickerin"
+            ],
+            "id": "E55"
+        },
+        {
+            "concepts": [
+                "Flickerei"
+            ],
+            "id": "E56"
+        },
+        {
+            "concepts": [
+                "Geflicket",
+                "Sammelbezeichnung"
+            ],
+            "id": "E57"
+        },
+        {
+            "concepts": [
+                "Bletz",
+                "Schnitte",
+                "Zeug",
+                "Stück",
+                "Fleck",
+                "Haut",
+                "Bletzen"
+            ],
+            "id": "E58"
+        },
+        {
+            "concepts": [
+                "Bletz"
+            ],
+            "id": "E58a"
+        },
+        {
+            "concepts": [
+                "Bletz",
+                "Vb"
+            ],
+            "id": "E58b"
+        },
+        {
+            "concepts": [
+                "Bletz",
+                "bletzig"
+            ],
+            "id": "E59"
+        },
+        {
+            "concepts": [
+                "zerbletzen",
+                "anbletzen",
+                "bletzen",
+                "Baum"
+            ],
+            "id": "E60"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Kleider",
+                "geflickte",
+                "tragen"
+            ],
+            "id": "E61"
+        },
+        {
+            "concepts": [
+                "Nachträge"
+            ],
+            "id": "E62"
+        }
+    ]
+}

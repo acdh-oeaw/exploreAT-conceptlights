@@ -1,0 +1,6281 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Posamentiererhandwerk"
+                ],
+                [
+                    "Tapezierers"
+                ],
+                [
+                    "Tapeziererhandwerk"
+                ],
+                [
+                    "Schmied"
+                ],
+                [
+                    "Schmiedes"
+                ],
+                [
+                    "Schmiedhandwerk"
+                ],
+                [
+                    "Hufeisen"
+                ],
+                [
+                    "Kupferschmiede"
+                ],
+                [
+                    "Spenglerei"
+                ],
+                [
+                    "blechen"
+                ],
+                [
+                    "Spenglerhandwerk"
+                ],
+                [
+                    "golden"
+                ],
+                [
+                    "Silber"
+                ],
+                [
+                    "Platin"
+                ],
+                [
+                    "Goldschmiedhandwerk"
+                ],
+                [
+                    "Schmuck"
+                ],
+                [
+                    "Schatz"
+                ],
+                [
+                    "Perl"
+                ],
+                [
+                    "ei"
+                ],
+                [
+                    "Perlen"
+                ],
+                [
+                    "schmücken"
+                ],
+                [
+                    "perlen"
+                ],
+                [
+                    "Uhrmacherhandwerk"
+                ],
+                [
+                    "Holzschnitzerhandwerk"
+                ],
+                [
+                    "Holzschnitzerei"
+                ],
+                [
+                    "Drechslerei"
+                ],
+                [
+                    "Drechslerhandwerk"
+                ],
+                [
+                    "drechseln"
+                ],
+                [
+                    "Töpferhandwerk"
+                ],
+                [
+                    "Glasbläserei"
+                ],
+                [
+                    "Glasbläserhandwerk"
+                ],
+                [
+                    "Glasschleiferei"
+                ],
+                [
+                    "Glasschleiferhandwerk"
+                ],
+                [
+                    "Bürstenbinderhandwerk"
+                ],
+                [
+                    "Bürste"
+                ],
+                [
+                    "Schuhe"
+                ],
+                [
+                    "Papiermachers"
+                ],
+                [
+                    "Buchdruckers"
+                ],
+                [
+                    "Druck"
+                ],
+                [
+                    "kommt"
+                ],
+                [
+                    "Zeitung"
+                ],
+                [
+                    "Photograph"
+                ],
+                [
+                    "Photographen"
+                ],
+                [
+                    "photographieren"
+                ],
+                [
+                    "Lichtbild"
+                ],
+                [
+                    "Buchbinderhandwerk"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Buches"
+                ]
+            ],
+            "3": [
+                [
+                    "Kupferschmieden"
+                ],
+                [
+                    "Spengler"
+                ],
+                [
+                    "Spenglers"
+                ],
+                [
+                    "Gold"
+                ],
+                [
+                    "Goldschmieds"
+                ],
+                [
+                    "Uhrmachers"
+                ],
+                [
+                    "Drechslers"
+                ],
+                [
+                    "Glasschleifers"
+                ],
+                [
+                    "Bürstenbinders"
+                ]
+            ],
+            "6": [
+                [
+                    "Posamentierers"
+                ],
+                [
+                    "Schmiede"
+                ],
+                [
+                    "Blech"
+                ],
+                [
+                    "Draht"
+                ],
+                [
+                    "Holzschnitzers"
+                ],
+                [
+                    "Töpfers"
+                ],
+                [
+                    "Glasbläsers"
+                ],
+                [
+                    "Buchdruckergewerbe"
+                ],
+                [
+                    "Material"
+                ],
+                [
+                    "Buchbinders"
+                ]
+            ],
+            "10": [
+                [
+                    "Rohmaterial"
+                ]
+            ],
+            "13": [
+                [
+                    "Geräte"
+                ]
+            ],
+            "14": [
+                [
+                    "Bräuche"
+                ]
+            ],
+            "39": [
+                [
+                    "Erzeugnisse"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Rohr",
+                    "Röhre"
+                ],
+                [
+                    "goldenes",
+                    "Hochzeit"
+                ]
+            ],
+            "6": [
+                [
+                    "bemerkenswerte",
+                    "Erzeugnisse"
+                ]
+            ],
+            "78": [
+                [
+                    "Geräte",
+                    "Werkzeuge"
+                ]
+            ]
+        },
+        "3": {
+            "91": [
+                [
+                    "Zunfttag",
+                    "Bräuche",
+                    "Zunftheiliger"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Posamentiererhandwerk"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Posamentierers"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Posamentierers"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Posamentierers"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 3,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 3,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 3,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 3,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Posamentierers"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Posamentierers"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 19,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 28,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 52,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 80,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 108,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 114,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 122,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 4,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 4,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Posamentierers"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 12,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 22,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 6,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 54,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 82,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 110,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 116,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 124,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 6,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 7,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tapeziererhandwerk"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tapezierers"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Material"
+            ],
+            "source": 10,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Material"
+            ],
+            "source": 10,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Material"
+            ],
+            "source": 10,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 22,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 12,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 54,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 82,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 110,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 116,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 124,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 12,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Schmied"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiedhandwerk"
+            ],
+            "source": 14,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiede"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiede"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiede"
+            ],
+            "source": 16,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiede"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiede"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiede"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmiedes"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 28,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 52,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 80,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 108,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 114,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 122,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 19,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 19,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hufeisen"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 22,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 54,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 82,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 110,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 116,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 124,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 22,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Kupferschmiede"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 27,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 27,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 27,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kupferschmieden"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kupferschmieden"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 52,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 80,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 108,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 114,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 122,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 28,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 28,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kupferschmieden"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 30,
+            "target": 220,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 31,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spengler"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spengler"
+            ],
+            "source": 38,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 38,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spengler"
+            ],
+            "source": 39,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spenglerei"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spenglerhandwerk"
+            ],
+            "source": 40,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blech"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blech"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blech"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blech"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blech"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blechen"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blech"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Draht"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Draht"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Draht"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Draht"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Draht"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Draht"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ei"
+            ],
+            "source": 49,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spenglers"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spenglers"
+            ],
+            "source": 52,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 80,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 108,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 114,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 122,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 52,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 52,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Spenglers"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 82,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 110,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 116,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 124,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 54,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Rohr",
+                "Röhre"
+            ],
+            "source": 55,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 55,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 55,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 55,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 55,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 55,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 55,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 55,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Goldschmieds"
+            ],
+            "source": 60,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Goldschmieds"
+            ],
+            "source": 60,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Goldschmiedhandwerk"
+            ],
+            "source": 61,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gold"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gold"
+            ],
+            "source": 66,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gold"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "golden"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "goldenes",
+                "Hochzeit"
+            ],
+            "source": 68,
+            "target": 75,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Silber"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Platin"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Goldschmieds"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 108,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 114,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 122,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 80,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 80,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 110,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 116,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 124,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 82,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Schmuck"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmücken"
+            ],
+            "source": 87,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schatz"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Perl"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Perlen"
+            ],
+            "source": 97,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "perlen"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Uhrmacherhandwerk"
+            ],
+            "source": 105,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Uhrmachers"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Uhrmachers"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 107,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 107,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Uhrmachers"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 108,
+            "target": 114,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 108,
+            "target": 122,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 108,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 108,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 108,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 108,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 108,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 108,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 116,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 124,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 110,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Holzschnitzerhandwerk"
+            ],
+            "source": 113,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holzschnitzerei"
+            ],
+            "source": 113,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holzschnitzers"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holzschnitzers"
+            ],
+            "source": 114,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holzschnitzers"
+            ],
+            "source": 114,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 114,
+            "target": 122,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 114,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 114,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 114,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 114,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 114,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 114,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Holzschnitzers"
+            ],
+            "source": 115,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holzschnitzers"
+            ],
+            "source": 115,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 116,
+            "target": 124,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 116,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 116,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 116,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 116,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 116,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 116,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Holzschnitzers"
+            ],
+            "source": 117,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bemerkenswerte",
+                "Erzeugnisse"
+            ],
+            "source": 118,
+            "target": 125,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 118,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bemerkenswerte",
+                "Erzeugnisse"
+            ],
+            "source": 118,
+            "target": 142,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bemerkenswerte",
+                "Erzeugnisse"
+            ],
+            "source": 118,
+            "target": 149,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 118,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 118,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drechslerei"
+            ],
+            "source": 120,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drechslerhandwerk"
+            ],
+            "source": 120,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drechslers"
+            ],
+            "source": 122,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drechslers"
+            ],
+            "source": 122,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 122,
+            "target": 131,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 122,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 122,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 122,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 122,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 122,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "drechseln"
+            ],
+            "source": 123,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drechslers"
+            ],
+            "source": 123,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 124,
+            "target": 133,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 124,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 124,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 124,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 124,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 124,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 125,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bemerkenswerte",
+                "Erzeugnisse"
+            ],
+            "source": 125,
+            "target": 142,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bemerkenswerte",
+                "Erzeugnisse"
+            ],
+            "source": 125,
+            "target": 149,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 125,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 125,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Töpferhandwerk"
+            ],
+            "source": 127,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Töpfers"
+            ],
+            "source": 129,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Töpfers"
+            ],
+            "source": 129,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Töpfers"
+            ],
+            "source": 129,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Material"
+            ],
+            "source": 129,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Material"
+            ],
+            "source": 129,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Töpfers"
+            ],
+            "source": 131,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Töpfers"
+            ],
+            "source": 131,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 131,
+            "target": 139,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 131,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 131,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 131,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 131,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Töpfers"
+            ],
+            "source": 132,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 133,
+            "target": 141,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 133,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 133,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 133,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 133,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 134,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 134,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 134,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 134,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasbläserei"
+            ],
+            "source": 136,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasbläserhandwerk"
+            ],
+            "source": 136,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasbläsers"
+            ],
+            "source": 138,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasbläsers"
+            ],
+            "source": 138,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasbläsers"
+            ],
+            "source": 138,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 138,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasbläsers"
+            ],
+            "source": 139,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasbläsers"
+            ],
+            "source": 139,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 139,
+            "target": 146,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 139,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 139,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 139,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Glasbläsers"
+            ],
+            "source": 140,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 141,
+            "target": 148,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 141,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 141,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 141,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "bemerkenswerte",
+                "Erzeugnisse"
+            ],
+            "source": 142,
+            "target": 149,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 142,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 142,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasschleiferei"
+            ],
+            "source": 144,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasschleiferhandwerk"
+            ],
+            "source": 144,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasschleifers"
+            ],
+            "source": 146,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glasschleifers"
+            ],
+            "source": 146,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 146,
+            "target": 154,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 146,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 146,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Glasschleifers"
+            ],
+            "source": 147,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 148,
+            "target": 156,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 148,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 148,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 149,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 149,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bürstenbinderhandwerk"
+            ],
+            "source": 151,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bürstenbinders"
+            ],
+            "source": 153,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bürstenbinders"
+            ],
+            "source": 153,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bürstenbinders"
+            ],
+            "source": 154,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 154,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 154,
+            "target": 218,
+            "target_group": [
+                2,
+                78,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 156,
+            "target": 184,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 156,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bürste"
+            ],
+            "source": 157,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schuhe"
+            ],
+            "source": 160,
+            "target": 161,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Papiermachers"
+            ],
+            "source": 170,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 173,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchdruckergewerbe"
+            ],
+            "source": 175,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchdruckergewerbe"
+            ],
+            "source": 175,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchdruckergewerbe"
+            ],
+            "source": 175,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchdruckers"
+            ],
+            "source": 177,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 177,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchdruckergewerbe"
+            ],
+            "source": 182,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchdruckergewerbe"
+            ],
+            "source": 182,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchdruckergewerbe"
+            ],
+            "source": 183,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 184,
+            "target": 220,
+            "target_group": [
+                3,
+                91,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Druck"
+            ],
+            "source": 185,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zeitung"
+            ],
+            "source": 190,
+            "target": 193,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Photograph"
+            ],
+            "source": 200,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Photographen"
+            ],
+            "source": 202,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Material"
+            ],
+            "source": 202,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 205,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "photographieren"
+            ],
+            "source": 207,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichtbild"
+            ],
+            "source": 209,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchbinderhandwerk"
+            ],
+            "source": 215,
+            "target": 220,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchbinders"
+            ],
+            "source": 217,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchbinders"
+            ],
+            "source": 217,
+            "target": 219,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchbinders"
+            ],
+            "source": 217,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchbinders"
+            ],
+            "source": 218,
+            "target": 219,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchbinders"
+            ],
+            "source": 218,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buchbinders"
+            ],
+            "source": 219,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buches"
+            ],
+            "source": 222,
+            "target": 223,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Goldspinner",
+                "Posamentierer"
+            ],
+            "id": "269"
+        },
+        {
+            "concepts": [
+                "Posamentiererhandwerk"
+            ],
+            "id": "270"
+        },
+        {
+            "concepts": [
+                "Posamentiererwerkstatt"
+            ],
+            "id": "271"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Posamentierers"
+            ],
+            "id": "272"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Posamentierers"
+            ],
+            "id": "273"
+        },
+        {
+            "concepts": [
+                "Posamentierers"
+            ],
+            "id": "274"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Posamentiererhandwerk",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "id": "275"
+        },
+        {
+            "concepts": [
+                "Erzeugnisse",
+                "Posamentierers"
+            ],
+            "id": "276"
+        },
+        {
+            "concepts": [
+                "Tapezierer"
+            ],
+            "id": "277"
+        },
+        {
+            "concepts": [
+                "Tapeziererhandwerk"
+            ],
+            "id": "278"
+        },
+        {
+            "concepts": [
+                "Tapezierers",
+                "Tapezierernagel",
+                "Tapete",
+                "Material",
+                "Makulatur",
+                "Sesselleiste"
+            ],
+            "id": "279"
+        },
+        {
+            "concepts": [
+                "steppen",
+                "Matratzen",
+                "ausstopfen",
+                "austapezieren",
+                "Tapezierers",
+                "tapezieren"
+            ],
+            "id": "280"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Tapeziererhandwerk",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "id": "281"
+        },
+        {
+            "concepts": [
+                "besser",
+                "Schmiedel",
+                "Schmied",
+                "Jeder",
+                "Glückes"
+            ],
+            "id": "282"
+        },
+        {
+            "concepts": [
+                "Schmiedhandwerk"
+            ],
+            "id": "283"
+        },
+        {
+            "concepts": [
+                "Schmied",
+                "Schmiedmeister",
+                "Ränkeschmied"
+            ],
+            "id": "284"
+        },
+        {
+            "concepts": [
+                "Schmiede"
+            ],
+            "id": "285"
+        },
+        {
+            "concepts": [
+                "Schmiedefeuer",
+                "Schmiede",
+                "Hufschmiede"
+            ],
+            "id": "286"
+        },
+        {
+            "concepts": [
+                "Schmiede",
+                "Amboß",
+                "Esse",
+                "Blasebalg"
+            ],
+            "id": "287"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Schmiedes"
+            ],
+            "id": "288"
+        },
+        {
+            "concepts": [
+                "Notstall",
+                "Ochsen",
+                "störrische",
+                "Beschlagstand",
+                "Pferde",
+                "Schmiede"
+            ],
+            "id": "289"
+        },
+        {
+            "concepts": [
+                "aufziehen",
+                "Hufeisen",
+                "vernageln",
+                "anpassen",
+                "Radreifen",
+                "Schmiedes",
+                "beschlagen",
+                "ausschneiden",
+                "Hufe"
+            ],
+            "id": "290"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Eisen",
+                "muß",
+                "Feuer",
+                "heiß",
+                "Bräuche",
+                "Schmiedhandwerk",
+                "zwei",
+                "Zunftheiliger",
+                "schmieden",
+                "solange"
+            ],
+            "id": "291"
+        },
+        {
+            "concepts": [
+                "Beschläge"
+            ],
+            "id": "292"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Hufeisen"
+            ],
+            "id": "293"
+        },
+        {
+            "concepts": [
+                "Hufnagel"
+            ],
+            "id": "294"
+        },
+        {
+            "concepts": [
+                "Kupferschmied"
+            ],
+            "id": "295"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Kupferschmiede"
+            ],
+            "id": "296"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Kupferschmieden",
+                "Werkzeuge"
+            ],
+            "id": "297"
+        },
+        {
+            "concepts": [
+                "Kupferschmieden"
+            ],
+            "id": "298"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Zunfttage",
+                "Kupferschmiede"
+            ],
+            "id": "299"
+        },
+        {
+            "concepts": [
+                "Erzeugnisse",
+                "Kupferschmieden"
+            ],
+            "id": "300"
+        },
+        {
+            "concepts": [
+                "Eisenwerk"
+            ],
+            "id": "301"
+        },
+        {
+            "concepts": [
+                "werk",
+                "Eisenhammer"
+            ],
+            "id": "302"
+        },
+        {
+            "concepts": [
+                "Walzwerk"
+            ],
+            "id": "303"
+        },
+        {
+            "concepts": [
+                "Gußwerk"
+            ],
+            "id": "304"
+        },
+        {
+            "concepts": [
+                "Hochofen"
+            ],
+            "id": "305"
+        },
+        {
+            "concepts": [
+                "Schmelzhütte",
+                "Schmelz"
+            ],
+            "id": "306"
+        },
+        {
+            "concepts": [
+                "Blechschmied",
+                "Klemperer",
+                "kommt",
+                "Schlaf",
+                "Spengler",
+                "Blechner"
+            ],
+            "id": "307"
+        },
+        {
+            "concepts": [
+                "Pfannenschmied",
+                "Schlitzkrowat",
+                "Spottrufe",
+                "herumziehender",
+                "Spengler",
+                "Klampferer",
+                "Heferlbinder",
+                "Kesselflicker",
+                "Rastelbinder"
+            ],
+            "id": "308"
+        },
+        {
+            "concepts": [
+                "Spenglerhandwerk",
+                "Spenglerei"
+            ],
+            "id": "309"
+        },
+        {
+            "concepts": [
+                "Spenglerwerkstatt",
+                "Spenglerei"
+            ],
+            "id": "310"
+        },
+        {
+            "concepts": [
+                "Wellblech",
+                "verzinntes",
+                "Blechsorten",
+                "Blech"
+            ],
+            "id": "311"
+        },
+        {
+            "concepts": [
+                "Blechteller",
+                "Blech"
+            ],
+            "id": "312"
+        },
+        {
+            "concepts": [
+                "blechen"
+            ],
+            "id": "313"
+        },
+        {
+            "concepts": [
+                "ausblechen",
+                "ausschlagen",
+                "Blech"
+            ],
+            "id": "314"
+        },
+        {
+            "concepts": [
+                "blechen",
+                "Blech"
+            ],
+            "id": "315"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Zuge",
+                "wäre",
+                "Draht",
+                "ziehen",
+                "Zain",
+                "Drahtel"
+            ],
+            "id": "316"
+        },
+        {
+            "concepts": [
+                "Riemerdraht",
+                "Draht",
+                "verzinkter",
+                "Messingdraht",
+                "Drahtarten"
+            ],
+            "id": "317"
+        },
+        {
+            "concepts": [
+                "drahtlos",
+                "Draht",
+                "ei",
+                "Drahtgitter"
+            ],
+            "id": "318"
+        },
+        {
+            "concepts": [
+                "Draht",
+                "drahten"
+            ],
+            "id": "319"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "Spengler",
+                "Materialien",
+                "Stoffe",
+                "sonstige"
+            ],
+            "id": "320"
+        },
+        {
+            "concepts": [
+                "Spenglers",
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "id": "321"
+        },
+        {
+            "concepts": [
+                "pressen",
+                "löten",
+                "lackieren",
+                "verzinnen",
+                "graphitieren",
+                "feilen",
+                "spengeln",
+                "lochen",
+                "polieren",
+                "klampfern",
+                "Spenglers",
+                "nieten",
+                "stanzen"
+            ],
+            "id": "322"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger",
+                "Spenglerhandwerk"
+            ],
+            "id": "323"
+        },
+        {
+            "concepts": [
+                "Röhre",
+                "Spenglers",
+                "Erzeugnisse",
+                "Rohr"
+            ],
+            "id": "324"
+        },
+        {
+            "concepts": [
+                "Röhre",
+                "Gasrohr",
+                "Rohrbruch",
+                "Rohr"
+            ],
+            "id": "325"
+        },
+        {
+            "concepts": [
+                "Eisenarbeiter"
+            ],
+            "id": "326"
+        },
+        {
+            "concepts": [
+                "Eisenhändler"
+            ],
+            "id": "327"
+        },
+        {
+            "concepts": [
+                "Alteisenhändler"
+            ],
+            "id": "328"
+        },
+        {
+            "concepts": [
+                "macht",
+                "Goldschmied",
+                "Goldarbeiter",
+                "Goldschmieds",
+                "Bub",
+                "Der"
+            ],
+            "id": "329"
+        },
+        {
+            "concepts": [
+                "Goldschmiedhandwerk"
+            ],
+            "id": "330"
+        },
+        {
+            "concepts": [
+                "Goldschmiedwerkstatt"
+            ],
+            "id": "331"
+        },
+        {
+            "concepts": [
+                "Metall"
+            ],
+            "id": "332"
+        },
+        {
+            "concepts": [
+                "Edelmetall"
+            ],
+            "id": "333"
+        },
+        {
+            "concepts": [
+                "glänzen",
+                "metallisch"
+            ],
+            "id": "334"
+        },
+        {
+            "concepts": [
+                "einfassen",
+                "bezahlen",
+                "Es",
+                "glänzt",
+                "Gold"
+            ],
+            "id": "335"
+        },
+        {
+            "concepts": [
+                "Goldkette",
+                "Rausc",
+                "Gold",
+                "goldgelb"
+            ],
+            "id": "336"
+        },
+        {
+            "concepts": [
+                "Tag",
+                "Sonntagnächte",
+                "versprechen",
+                "Pforte",
+                "Hochzeit",
+                "goldenen",
+                "goldene",
+                "drei",
+                "goldener",
+                "Boden",
+                "golden",
+                "gulden",
+                "Handwerk",
+                "Sonntag",
+                "Berge",
+                "goldenes",
+                "Messe",
+                "gülden",
+                "Schnittlein",
+                "Wasser"
+            ],
+            "id": "337"
+        },
+        {
+            "concepts": [
+                "golden",
+                "Goldenamt",
+                "weißgolden"
+            ],
+            "id": "338"
+        },
+        {
+            "concepts": [
+                "vergolden"
+            ],
+            "id": "339"
+        },
+        {
+            "concepts": [
+                "Vergolder"
+            ],
+            "id": "340"
+        },
+        {
+            "concepts": [
+                "Kind",
+                "goldiges",
+                "goldig"
+            ],
+            "id": "341"
+        },
+        {
+            "concepts": [
+                "Gold",
+                "Reden",
+                "Silber",
+                "Schweigen"
+            ],
+            "id": "342"
+        },
+        {
+            "concepts": [
+                "Silberschüssel",
+                "Chinasilber",
+                "Silber",
+                "Pakfong"
+            ],
+            "id": "343"
+        },
+        {
+            "concepts": [
+                "Büchsel",
+                "silberne",
+                "Hochzeit",
+                "silbernen",
+                "silbern",
+                "Nixel",
+                "goldenes"
+            ],
+            "id": "344"
+        },
+        {
+            "concepts": [
+                "silberig"
+            ],
+            "id": "345"
+        },
+        {
+            "concepts": [
+                "versilbern"
+            ],
+            "id": "346"
+        },
+        {
+            "concepts": [
+                "Platin"
+            ],
+            "id": "347"
+        },
+        {
+            "concepts": [
+                "Platin"
+            ],
+            "id": "348"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Goldschmieds"
+            ],
+            "id": "349"
+        },
+        {
+            "concepts": [
+                "Goldschmieds"
+            ],
+            "id": "350"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger",
+                "Goldschmiedhandwerk"
+            ],
+            "id": "351"
+        },
+        {
+            "concepts": [
+                "Filigranarbeit"
+            ],
+            "id": "352"
+        },
+        {
+            "concepts": [
+                "Filigran"
+            ],
+            "id": "353"
+        },
+        {
+            "concepts": [
+                "Schmuck",
+                "Geschmuck"
+            ],
+            "id": "354"
+        },
+        {
+            "concepts": [
+                "Schmuckstück",
+                "Schmuck",
+                "Kopfschmuck",
+                "Geschmeide"
+            ],
+            "id": "355"
+        },
+        {
+            "concepts": [
+                "schmücken",
+                "zieren"
+            ],
+            "id": "356"
+        },
+        {
+            "concepts": [
+                "Juwelier"
+            ],
+            "id": "357"
+        },
+        {
+            "concepts": [
+                "Juwel"
+            ],
+            "id": "358"
+        },
+        {
+            "concepts": [
+                "Edelstein"
+            ],
+            "id": "359"
+        },
+        {
+            "concepts": [
+                "beten",
+                "blüht",
+                "Schatz"
+            ],
+            "id": "360"
+        },
+        {
+            "concepts": [
+                "Schatzgräber",
+                "Schatz",
+                "Mahlschatz"
+            ],
+            "id": "361"
+        },
+        {
+            "concepts": [
+                "Armband",
+                "Brasselett"
+            ],
+            "id": "362"
+        },
+        {
+            "concepts": [
+                "Brosche",
+                "Rinke"
+            ],
+            "id": "363"
+        },
+        {
+            "concepts": [
+                "Kollier",
+                "Halskette"
+            ],
+            "id": "364"
+        },
+        {
+            "concepts": [
+                "Perlenkette"
+            ],
+            "id": "365"
+        },
+        {
+            "concepts": [
+                "fischen",
+                "Perl",
+                "werfen",
+                "Perlen",
+                "Säue"
+            ],
+            "id": "366"
+        },
+        {
+            "concepts": [
+                "Perl",
+                "Feinperlen"
+            ],
+            "id": "367"
+        },
+        {
+            "concepts": [
+                "ei",
+                "Perlrock"
+            ],
+            "id": "368"
+        },
+        {
+            "concepts": [
+                "perlen",
+                "Perlen"
+            ],
+            "id": "369"
+        },
+        {
+            "concepts": [
+                "schmücken",
+                "perlen"
+            ],
+            "id": "370"
+        },
+        {
+            "concepts": [
+                "Anhänger",
+                "Anhängsel"
+            ],
+            "id": "371"
+        },
+        {
+            "concepts": [
+                "Diadem"
+            ],
+            "id": "372"
+        },
+        {
+            "concepts": [
+                "Uhrmacher"
+            ],
+            "id": "373"
+        },
+        {
+            "concepts": [
+                "Uhrmacherhandwerk"
+            ],
+            "id": "374"
+        },
+        {
+            "concepts": [
+                "Uhrmacherwerkstatt"
+            ],
+            "id": "375"
+        },
+        {
+            "concepts": [
+                "Uhrmachers",
+                "Rohmaterial"
+            ],
+            "id": "376"
+        },
+        {
+            "concepts": [
+                "Uhrmachers",
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "id": "377"
+        },
+        {
+            "concepts": [
+                "Uhrmachers"
+            ],
+            "id": "378"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger",
+                "Uhrmacherhandwerk"
+            ],
+            "id": "379"
+        },
+        {
+            "concepts": [
+                "Holzschnitzer"
+            ],
+            "id": "380"
+        },
+        {
+            "concepts": [
+                "Herrgottschnitzer"
+            ],
+            "id": "381"
+        },
+        {
+            "concepts": [
+                "Holzschnitzerei",
+                "Holzschnitzerhandwerk"
+            ],
+            "id": "382"
+        },
+        {
+            "concepts": [
+                "Holzschnitzers",
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "id": "383"
+        },
+        {
+            "concepts": [
+                "Holzschnitzers"
+            ],
+            "id": "384"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Holzschnitzerhandwerk",
+                "Zunftheiliger"
+            ],
+            "id": "385"
+        },
+        {
+            "concepts": [
+                "Erzeugnis",
+                "Holzschnitzers",
+                "Ausdruck",
+                "Holzschnitzerei"
+            ],
+            "id": "386"
+        },
+        {
+            "concepts": [
+                "bemerkenswerte",
+                "Leiden",
+                "Erzeugnisse",
+                "Christi",
+                "Holzschnitzers"
+            ],
+            "id": "387"
+        },
+        {
+            "concepts": [
+                "Drechsler"
+            ],
+            "id": "388"
+        },
+        {
+            "concepts": [
+                "Drechslerei",
+                "Drechslerhandwerk"
+            ],
+            "id": "389"
+        },
+        {
+            "concepts": [
+                "Drechslerei",
+                "Drechslerwerkstatt"
+            ],
+            "id": "390"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Drechslers"
+            ],
+            "id": "391"
+        },
+        {
+            "concepts": [
+                "drechseln",
+                "Drechslers"
+            ],
+            "id": "392"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "drechseln",
+                "Zunftheiliger",
+                "Drechslerhandwerk",
+                "gedrechselt"
+            ],
+            "id": "393"
+        },
+        {
+            "concepts": [
+                "bemerkenswerte",
+                "Erzeugnisse",
+                "Drechslers"
+            ],
+            "id": "394"
+        },
+        {
+            "concepts": [
+                "Unterschied",
+                "Ofensetzer",
+                "Tongefäßerzeuger",
+                "Hafner",
+                "Töpfer"
+            ],
+            "id": "395"
+        },
+        {
+            "concepts": [
+                "Töpferei",
+                "Töpferhandwerk"
+            ],
+            "id": "396"
+        },
+        {
+            "concepts": [
+                "Töpferwerkstatt"
+            ],
+            "id": "397"
+        },
+        {
+            "concepts": [
+                "Tahen",
+                "Töpfers",
+                "Material",
+                "Graphit",
+                "Ton",
+                "Terrakotta",
+                "Kaolin",
+                "Porzellanerde"
+            ],
+            "id": "398"
+        },
+        {
+            "concepts": [
+                "köten",
+                "irden"
+            ],
+            "id": "399"
+        },
+        {
+            "concepts": [
+                "Töpfers",
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "id": "400"
+        },
+        {
+            "concepts": [
+                "Töpfers",
+                "formen",
+                "brennen"
+            ],
+            "id": "401"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger",
+                "Töpferhandwerk"
+            ],
+            "id": "402"
+        },
+        {
+            "concepts": [
+                "Töpfers",
+                "Erzeugnisse"
+            ],
+            "id": "403"
+        },
+        {
+            "concepts": [
+                "Glasbläser"
+            ],
+            "id": "404"
+        },
+        {
+            "concepts": [
+                "Glasbläserhandwerk",
+                "Glasbläserei"
+            ],
+            "id": "405"
+        },
+        {
+            "concepts": [
+                "Glasbläserei",
+                "Glashütte"
+            ],
+            "id": "406"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Glasbläsers"
+            ],
+            "id": "407"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Glasbläsers"
+            ],
+            "id": "408"
+        },
+        {
+            "concepts": [
+                "Glasbläsers"
+            ],
+            "id": "409"
+        },
+        {
+            "concepts": [
+                "Glasbläserhandwerk",
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "id": "410"
+        },
+        {
+            "concepts": [
+                "bemerkenswerte",
+                "Erzeugnisse",
+                "Glasbläsers"
+            ],
+            "id": "411"
+        },
+        {
+            "concepts": [
+                "Glasschleifer"
+            ],
+            "id": "412"
+        },
+        {
+            "concepts": [
+                "Glasschleiferei",
+                "Glasschleiferhandwerk"
+            ],
+            "id": "413"
+        },
+        {
+            "concepts": [
+                "Glasschleiferwerkstatt",
+                "Glasschleiferei"
+            ],
+            "id": "414"
+        },
+        {
+            "concepts": [
+                "Glasschleifers",
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "id": "415"
+        },
+        {
+            "concepts": [
+                "Glasschleifers"
+            ],
+            "id": "416"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger",
+                "Glasschleiferhandwerk"
+            ],
+            "id": "417"
+        },
+        {
+            "concepts": [
+                "bemerkenswerte",
+                "Erzeugnisse",
+                "Glasschleifers"
+            ],
+            "id": "418"
+        },
+        {
+            "concepts": [
+                "Bürstenbinder",
+                "saufen"
+            ],
+            "id": "419"
+        },
+        {
+            "concepts": [
+                "Bürstenbinderhandwerk"
+            ],
+            "id": "420"
+        },
+        {
+            "concepts": [
+                "Bürstenbinderwerkstatt"
+            ],
+            "id": "421"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Bürstenbinders"
+            ],
+            "id": "422"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Bürstenbinders"
+            ],
+            "id": "423"
+        },
+        {
+            "concepts": [
+                "Bürstenbinders"
+            ],
+            "id": "424"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Bürstenbinderhandwerk",
+                "Zunftheiliger"
+            ],
+            "id": "425"
+        },
+        {
+            "concepts": [
+                "Bürste"
+            ],
+            "id": "426"
+        },
+        {
+            "concepts": [
+                "Kratzbürste",
+                "Bürste",
+                "Bürstenholz"
+            ],
+            "id": "427"
+        },
+        {
+            "concepts": [
+                "Schuhputzer"
+            ],
+            "id": "428"
+        },
+        {
+            "concepts": [
+                "wichsen",
+                "putzen",
+                "Schuhe"
+            ],
+            "id": "429"
+        },
+        {
+            "concepts": [
+                "spiegeln",
+                "Schuhe",
+                "Glanz"
+            ],
+            "id": "430"
+        },
+        {
+            "concepts": [
+                "voller",
+                "Wichs",
+                "Schuhwichse"
+            ],
+            "id": "431"
+        },
+        {
+            "concepts": [
+                "Bodenwichser"
+            ],
+            "id": "432"
+        },
+        {
+            "concepts": [
+                "Fensterputzer"
+            ],
+            "id": "433"
+        },
+        {
+            "concepts": [
+                "Laternenputzer"
+            ],
+            "id": "434"
+        },
+        {
+            "concepts": [
+                "Pflasterer"
+            ],
+            "id": "435"
+        },
+        {
+            "concepts": [
+                "Papiermacher"
+            ],
+            "id": "436"
+        },
+        {
+            "concepts": [
+                "Papierfabrik"
+            ],
+            "id": "437"
+        },
+        {
+            "concepts": [
+                "Papiermühle"
+            ],
+            "id": "438"
+        },
+        {
+            "concepts": [
+                "Papiermachers"
+            ],
+            "id": "439"
+        },
+        {
+            "concepts": [
+                "Papierhändler"
+            ],
+            "id": "440"
+        },
+        {
+            "concepts": [
+                "Papierhandlung"
+            ],
+            "id": "441"
+        },
+        {
+            "concepts": [
+                "Karton",
+                "Pappe",
+                "Erzeugnisse",
+                "ndeckel",
+                "Papiermachers"
+            ],
+            "id": "442"
+        },
+        {
+            "concepts": [
+                "Buchdrucker",
+                "Drucker"
+            ],
+            "id": "443"
+        },
+        {
+            "concepts": [
+                "Buchdruckergewerbe"
+            ],
+            "id": "444"
+        },
+        {
+            "concepts": [
+                "Buchdruckerwerkstatt",
+                "Druckerei"
+            ],
+            "id": "445"
+        },
+        {
+            "concepts": [
+                "Matritze",
+                "Buchdruckers",
+                "Geräte",
+                "Setzkasten",
+                "Druckerpresse",
+                "Buchstabentypen",
+                "Maschinen"
+            ],
+            "id": "446"
+        },
+        {
+            "concepts": [
+                "Buchdruckers",
+                "drucken",
+                "setzen"
+            ],
+            "id": "447"
+        },
+        {
+            "concepts": [
+                "Setzer"
+            ],
+            "id": "448"
+        },
+        {
+            "concepts": [
+                "Metteur"
+            ],
+            "id": "449"
+        },
+        {
+            "concepts": [
+                "Korrektor"
+            ],
+            "id": "450"
+        },
+        {
+            "concepts": [
+                "Einleger",
+                "Buchdruckergewerbe"
+            ],
+            "id": "451"
+        },
+        {
+            "concepts": [
+                "Faktor",
+                "Buchdruckergewerbe"
+            ],
+            "id": "452"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Buchdruckergewerbe",
+                "Zunftheiliger"
+            ],
+            "id": "453"
+        },
+        {
+            "concepts": [
+                "Druck"
+            ],
+            "id": "454"
+        },
+        {
+            "concepts": [
+                "Tiefdruck",
+                "Druck"
+            ],
+            "id": "455"
+        },
+        {
+            "concepts": [
+                "Manuskript",
+                "Handschrift"
+            ],
+            "id": "456"
+        },
+        {
+            "concepts": [
+                "Korrektur",
+                "Buchdruck"
+            ],
+            "id": "457"
+        },
+        {
+            "concepts": [
+                "Bürstenabzug",
+                "Fahne"
+            ],
+            "id": "458"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "kommt",
+                "Neuigkeit",
+                "Zeitung"
+            ],
+            "id": "459"
+        },
+        {
+            "concepts": [
+                "Monatszeitschrift",
+                "Tageszeitung",
+                "Modejournal",
+                "Zeitungsarten",
+                "Wochenblatt"
+            ],
+            "id": "460"
+        },
+        {
+            "concepts": [
+                "Extraausgabe"
+            ],
+            "id": "461"
+        },
+        {
+            "concepts": [
+                "Zeitungsschreiber",
+                "Zeitung"
+            ],
+            "id": "462"
+        },
+        {
+            "concepts": [
+                "Holzschnitt"
+            ],
+            "id": "463"
+        },
+        {
+            "concepts": [
+                "Stahlstecher"
+            ],
+            "id": "464"
+        },
+        {
+            "concepts": [
+                "Stahlstich"
+            ],
+            "id": "465"
+        },
+        {
+            "concepts": [
+                "Lithographie",
+                "Steindruck"
+            ],
+            "id": "466"
+        },
+        {
+            "concepts": [
+                "Steindrucker"
+            ],
+            "id": "467"
+        },
+        {
+            "concepts": [
+                "Steinzeichner",
+                "Lithograph"
+            ],
+            "id": "468"
+        },
+        {
+            "concepts": [
+                "Photograph"
+            ],
+            "id": "469"
+        },
+        {
+            "concepts": [
+                "Schnellphotograph",
+                "Photograph"
+            ],
+            "id": "470"
+        },
+        {
+            "concepts": [
+                "Material",
+                "Platte",
+                "Entwickler",
+                "Film",
+                "Fixierbad",
+                "Photographen"
+            ],
+            "id": "471"
+        },
+        {
+            "concepts": [
+                "Atelier"
+            ],
+            "id": "472"
+        },
+        {
+            "concepts": [
+                "Apparat"
+            ],
+            "id": "473"
+        },
+        {
+            "concepts": [
+                "Kamera",
+                "Sucher",
+                "Linse",
+                "Apparats",
+                "Teile"
+            ],
+            "id": "474"
+        },
+        {
+            "concepts": [
+                "Photoapparat",
+                "Stativ"
+            ],
+            "id": "475"
+        },
+        {
+            "concepts": [
+                "entwickeln",
+                "einstellen",
+                "retuschieren",
+                "belichten",
+                "fixieren",
+                "exponieren",
+                "photographieren",
+                "Photographen",
+                "abnehmen"
+            ],
+            "id": "476"
+        },
+        {
+            "concepts": [
+                "getroffen",
+                "gut",
+                "verwackelt",
+                "photographieren",
+                "geschmeichelt",
+                "unterexponiert",
+                "unscharf"
+            ],
+            "id": "477"
+        },
+        {
+            "concepts": [
+                "Photographie",
+                "Lichtbild"
+            ],
+            "id": "478"
+        },
+        {
+            "concepts": [
+                "Farbenphotographie",
+                "Photographienalbum"
+            ],
+            "id": "479"
+        },
+        {
+            "concepts": [
+                "ganze",
+                "Brustbild",
+                "Visitformat",
+                "Kabinett",
+                "Format",
+                "Lichtbild",
+                "Paßbild",
+                "Figur"
+            ],
+            "id": "480"
+        },
+        {
+            "concepts": [
+                "Aufnahme",
+                "vorn",
+                "en",
+                "Profil",
+                "Seite",
+                "Photographieren",
+                "Arten",
+                "face"
+            ],
+            "id": "481"
+        },
+        {
+            "concepts": [
+                "Blitzlichtaufnahme"
+            ],
+            "id": "482"
+        },
+        {
+            "concepts": [
+                "Buchbinder"
+            ],
+            "id": "483"
+        },
+        {
+            "concepts": [
+                "Buchbinderhandwerk"
+            ],
+            "id": "484"
+        },
+        {
+            "concepts": [
+                "Buchbinderwerkstatt",
+                "Buchbinderei"
+            ],
+            "id": "485"
+        },
+        {
+            "concepts": [
+                "Leinenpapier",
+                "Material",
+                "Buchbinders",
+                "Heftklammern",
+                "Kleister"
+            ],
+            "id": "486"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Buchbinders",
+                "Werkzeuge"
+            ],
+            "id": "487"
+        },
+        {
+            "concepts": [
+                "Buchbinders"
+            ],
+            "id": "488"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger",
+                "Buchbinderhandwerk"
+            ],
+            "id": "489"
+        },
+        {
+            "concepts": [
+                "Heft",
+                "Erzeugnisse",
+                "Buch",
+                "Werk",
+                "Band",
+                "Buchbinders"
+            ],
+            "id": "490"
+        },
+        {
+            "concepts": [
+                "Deckblatt",
+                "Einband",
+                "Titelblatt",
+                "Einbanddecke",
+                "Titel",
+                "Buches",
+                "Teile"
+            ],
+            "id": "491"
+        },
+        {
+            "concepts": [
+                "Franz",
+                "broschiert",
+                "Halbleder",
+                "Halbfranz",
+                "Goldschnitt",
+                "gebunden",
+                "Pappband",
+                "Leder",
+                "Halbleinen",
+                "Art",
+                "Leinen",
+                "Buches"
+            ],
+            "id": "492"
+        },
+        {
+            "concepts": [
+                "Buchhändler"
+            ],
+            "id": "493"
+        },
+        {
+            "concepts": [
+                "Buchhandlung"
+            ],
+            "id": "494"
+        }
+    ]
+}

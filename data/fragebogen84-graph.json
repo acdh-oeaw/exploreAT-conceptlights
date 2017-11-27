@@ -1,0 +1,1552 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Schusters"
+                ],
+                [
+                    "Schuhe"
+                ],
+                [
+                    "Sohle"
+                ],
+                [
+                    "Zunge"
+                ],
+                [
+                    "Egge"
+                ],
+                [
+                    "dreiteilige"
+                ],
+                [
+                    "Walze"
+                ],
+                [
+                    "Zähne"
+                ],
+                [
+                    "Sense"
+                ],
+                [
+                    "Geräte"
+                ]
+            ],
+            "3": [
+                [
+                    "Schuster"
+                ]
+            ],
+            "5": [
+                [
+                    "deren"
+                ]
+            ],
+            "7": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "49": [
+                [
+                    "Teile"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Pflug",
+                    "Teile"
+                ]
+            ],
+            "2": [
+                [
+                    "Stiel",
+                    "Teile"
+                ]
+            ],
+            "9": [
+                [
+                    "deren",
+                    "Teile"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Pflug",
+                    "Arling",
+                    "Teile"
+                ],
+                [
+                    "deren",
+                    "Stiel",
+                    "Teile"
+                ]
+            ],
+            "2": [
+                [
+                    "besondere",
+                    "Ausdrücke",
+                    "Teile"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "besondere",
+                    "Pflug",
+                    "Ausdrücke",
+                    "Teile"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Schuster"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schuster"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schuster"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schusters"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 4,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 5,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 5,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 5,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sohle"
+            ],
+            "source": 12,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunge"
+            ],
+            "source": 12,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schuhe"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug",
+                "Teile"
+            ],
+            "source": 22,
+            "target": 23,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug",
+                "Arling",
+                "Teile"
+            ],
+            "source": 22,
+            "target": 25,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 22,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Pflug",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "source": 23,
+            "target": 25,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "source": 23,
+            "target": 28,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 24,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "source": 25,
+            "target": 28,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 25,
+            "target": 30,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 25,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 25,
+            "target": 36,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "deren"
+            ],
+            "source": 25,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 25,
+            "target": 48,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 25,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 25,
+            "target": 55,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Egge"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 26,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zähne"
+            ],
+            "source": 26,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 26,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 26,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 26,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 26,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dreiteilige"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 28,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 28,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 28,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 28,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 28,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Walze"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 30,
+            "target": 36,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "deren"
+            ],
+            "source": 30,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 30,
+            "target": 48,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 30,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 30,
+            "target": 55,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stiel",
+                "Teile"
+            ],
+            "source": 33,
+            "target": 36,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stiel",
+                "Teile"
+            ],
+            "source": 33,
+            "target": 48,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 33,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 33,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sense"
+            ],
+            "source": 36,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Stiel",
+                "Teile"
+            ],
+            "source": 36,
+            "target": 48,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 36,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 36,
+            "target": 55,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "deren"
+            ],
+            "source": 40,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren"
+            ],
+            "source": 40,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Teile"
+            ],
+            "source": 48,
+            "target": 55,
+            "target_group": [
+                2,
+                9,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 50,
+            "target": 55,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Schuhmacher",
+                "macht",
+                "Frauen",
+                "Jude",
+                "Schuster",
+                "unstet",
+                "gehende",
+                "ewige",
+                "Altern",
+                "Ladel"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Schuster",
+                "Schusterbub"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Schuster",
+                "Ausdrücke",
+                "Flickschuster"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "schustern",
+                "zuschustern"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Pfriem",
+                "Schusters",
+                "Sohlensteg",
+                "Werkzeuge",
+                "Ahle",
+                "Geräte",
+                "Örtel",
+                "Schusternadel"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "einzelne",
+                "benageln",
+                "Schusters",
+                "versohlen",
+                "doppeln",
+                "einfache",
+                "sohlen",
+                "aufsetzen",
+                "Fleck",
+                "schuhen",
+                "vorschuhen",
+                "neue",
+                "gibt",
+                "Absätze",
+                "Ausdrücke"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Schuh",
+                "bergen",
+                "weiß",
+                "Brauch",
+                "drückt",
+                "werfen",
+                "scheißen",
+                "Gesellschaftsspiel",
+                "kommen"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Schuhwerk",
+                "Schühung",
+                "Geschüh"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "ungeschuh",
+                "geschuh",
+                "beschuht",
+                "unbeschuht"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "beschuhen"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Sporn",
+                "Stiefel"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "stiefeln",
+                "gespornt",
+                "gestiefelt"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "weh",
+                "Öse",
+                "Lasche",
+                "Schnürriemen",
+                "Hinterteil",
+                "Kappe",
+                "Sohlenfleck",
+                "Schnürlöcher",
+                "Zunge",
+                "Füße",
+                "Absatz",
+                "hohe",
+                "Schuhbandel",
+                "Doppelsohle",
+                "Übergeschüh",
+                "Stöckel",
+                "tun",
+                "Oberteil",
+                "Sohlen",
+                "niedere",
+                "Sohle",
+                "aufgesetzter"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Stifletten",
+                "Hausschuh",
+                "Lackschuh",
+                "statt",
+                "sagt",
+                "Bundschuh",
+                "punktum",
+                "puntschuh",
+                "Holzschuh",
+                "Patschen",
+                "Fleckelpatschen",
+                "Zoggel",
+                "Pant",
+                "Zugschuh"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Stiefelzieher"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "wichsen",
+                "putzen",
+                "Schuhe",
+                "reinigen"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Stiefelputzer"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Glanzbürste",
+                "Gebrauchsmittel",
+                "Stiefelwichse",
+                "Schuhe",
+                "Putzen"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Gamaschen"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Schneereifen"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Steigeisen"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Schar",
+                "Pflugmesser",
+                "Säulen",
+                "Moltbrett",
+                "Geiz",
+                "Sech",
+                "Sturzbretter",
+                "Arling",
+                "Böhmerwald",
+                "Wagensun",
+                "Sterzen",
+                "Hörndel",
+                "Kolte",
+                "Pflugwid",
+                "Kopf",
+                "Haken",
+                "Grindel",
+                "Teile",
+                "Flügen",
+                "Sohle",
+                "Pflugmandel",
+                "Stützen",
+                "Pflug",
+                "Riester"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Gerichtel",
+                "Jöchel",
+                "Rädergestell",
+                "Lehre",
+                "Menstecken",
+                "Mener",
+                "Widring",
+                "besondere",
+                "Lehrhaken",
+                "Kette",
+                "Grett",
+                "Zunge",
+                "Auftragel",
+                "Geräderet",
+                "Hakeleisen",
+                "Pflug",
+                "Ausdrücke",
+                "Wide",
+                "Teile"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Reutel",
+                "Reinigen",
+                "Stecken",
+                "Pfluges",
+                "Teile"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Abheben",
+                "Leitenpflug",
+                "Kreuzpflug",
+                "Arlgereite",
+                "Pflugarten",
+                "Arl",
+                "Holzpflug",
+                "besondere",
+                "Koppel",
+                "Jodel",
+                "Rasens",
+                "Arling",
+                "Wühlpflug",
+                "Pflug",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Staffel",
+                "Schwingen",
+                "att",
+                "Eggenschwere",
+                "Egge",
+                "Fasche",
+                "Zähne",
+                "Teile"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "dreiteilige",
+                "Egge",
+                "Eggenarten"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Ackergeier",
+                "Ochsenschinder",
+                "Teile",
+                "besondere",
+                "Wurzenreißer",
+                "Ausdrücke",
+                "Extirpator"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "extirpieren",
+                "geiern"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Walger",
+                "deren",
+                "Walze",
+                "Bloch",
+                "Teile"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Walzenarten",
+                "Walze",
+                "dreiteilige"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Mähmaschine"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Stiel",
+                "Helb",
+                "Rechengabel",
+                "Zahn",
+                "Furkel",
+                "Rechen",
+                "Reching",
+                "Halb",
+                "Teile"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Zähne",
+                "Kiesrechen",
+                "Rechenarten"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Heurechen",
+                "fahrbarer",
+                "Heuwender"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Stiel",
+                "Abrecher",
+                "Windel",
+                "Habel",
+                "Hamme",
+                "Watsche",
+                "Mündel",
+                "Streichrute",
+                "Gärte",
+                "Handel",
+                "Handhaben",
+                "Worb",
+                "Sense",
+                "Winkel",
+                "Gere",
+                "Teile"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Sensenarten"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Behälter",
+                "Kumpf",
+                "Wetzstein",
+                "Gumpf"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Sense",
+                "wetzen"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "deren",
+                "überscharf",
+                "Dengel",
+                "stumpf",
+                "schartig",
+                "scharf",
+                "Sensenschneide"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "tangeln",
+                "langweiliges",
+                "dengeln",
+                "Dengelkraut",
+                "Gedengel",
+                "Dengelmandel",
+                "Tanglach"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Dengelhammer",
+                "Dengelzeug"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Griff",
+                "Sichel",
+                "samt",
+                "Sichelstutz"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Sichelarten"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Rübenschneidemesser"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Schleifstein"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Haue",
+                "Rüben",
+                "Häunel",
+                "Werkzeug",
+                "Behacken",
+                "Erdäpfel"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Stiel",
+                "Hose",
+                "Zinken",
+                "Mistgabel",
+                "Zueggen",
+                "Teile"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Mistkräuel",
+                "Gabelarten",
+                "Ladegabel"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Drischelhalb",
+                "Drischel",
+                "Schwingel",
+                "Dreschflegel",
+                "Drischelhut",
+                "Teile"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Zaine",
+                "Korbarten",
+                "Zistel",
+                "Kürbe",
+                "Pragerkorb"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Krächse",
+                "Tragreff",
+                "Krainze"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Getreidesieb",
+                "Reiter"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "Eimer",
+                "Gefäße",
+                "Butten",
+                "abgefragte"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Gerüst",
+                "Dreschmaschine",
+                "Teile",
+                "Getreideputzmaschine",
+                "Windmühle",
+                "Trieur",
+                "Verhältnisse",
+                "Betrieb",
+                "bedingte",
+                "Trier",
+                "Geräte",
+                "aufgestellte",
+                "Göppel",
+                "sonstige"
+            ],
+            "id": "B34"
+        }
+    ]
+}

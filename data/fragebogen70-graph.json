@@ -1,0 +1,3955 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Lamm"
+                ],
+                [
+                    "Lampel"
+                ],
+                [
+                    "Schäferhund"
+                ],
+                [
+                    "Vlies"
+                ],
+                [
+                    "Wolf"
+                ],
+                [
+                    "Krempelkämme"
+                ],
+                [
+                    "trocknen"
+                ],
+                [
+                    "Lämmer"
+                ],
+                [
+                    "Schafsuppe"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "Scheuchrufe"
+                ],
+                [
+                    "Schutzpatron"
+                ],
+                [
+                    "gib"
+                ],
+                [
+                    "bockelen"
+                ],
+                [
+                    "stoßen"
+                ],
+                [
+                    "geben"
+                ],
+                [
+                    "Milch"
+                ],
+                [
+                    "Gaißlein"
+                ],
+                [
+                    "verlangen"
+                ],
+                [
+                    "gaißen"
+                ],
+                [
+                    "begatten"
+                ],
+                [
+                    "böcken"
+                ],
+                [
+                    "werfen"
+                ],
+                [
+                    "gaißeln"
+                ],
+                [
+                    "ankommen"
+                ],
+                [
+                    "wann"
+                ]
+            ],
+            "2": [
+                [
+                    "Gorre"
+                ],
+                [
+                    "junge"
+                ],
+                [
+                    "bockig"
+                ]
+            ],
+            "3": [
+                [
+                    "besondere"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "Fleisch"
+                ],
+                [
+                    "Volksglaube"
+                ],
+                [
+                    "beim"
+                ]
+            ],
+            "6": [
+                [
+                    "Gaiß"
+                ]
+            ],
+            "9": [
+                [
+                    "Schafen"
+                ],
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "18": [
+                [
+                    "Widder"
+                ]
+            ],
+            "20": [
+                [
+                    "Ziege"
+                ],
+                [
+                    "Bock"
+                ]
+            ],
+            "21": [
+                [
+                    "Wolle"
+                ]
+            ],
+            "27": [
+                [
+                    "Schaf"
+                ]
+            ],
+            "28": [
+                [
+                    "Ziegen"
+                ]
+            ],
+            "35": [
+                [
+                    "Schafe"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Halsjoch",
+                    "Schafen"
+                ],
+                [
+                    "Badezeit",
+                    "Schafe"
+                ],
+                [
+                    "deren",
+                    "Namen"
+                ],
+                [
+                    "Ziegenjunges",
+                    "Kitz"
+                ],
+                [
+                    "junge",
+                    "Ziege"
+                ],
+                [
+                    "Bock",
+                    "bocken"
+                ],
+                [
+                    "verlangend",
+                    "bockig"
+                ]
+            ],
+            "2": [
+                [
+                    "Hammel",
+                    "Widder"
+                ]
+            ],
+            "3": [
+                [
+                    "riechen",
+                    "schmecken"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Mutterschaf",
+                    "Aa",
+                    "Gorre"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Hammel",
+                    "verschnittener",
+                    "Schöps",
+                    "Widder"
+                ],
+                [
+                    "Kilber",
+                    "Lampitze",
+                    "gelammt",
+                    "Schaf"
+                ],
+                [
+                    "bezeichnend",
+                    "Ausdrücke",
+                    "Gestalt",
+                    "gerade"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lamm"
+            ],
+            "source": 0,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 0,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 0,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 0,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 0,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 0,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 0,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 0,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 0,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 0,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 0,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gib"
+            ],
+            "source": 0,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 1,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 1,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 1,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 3,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "riechen",
+                "schmecken"
+            ],
+            "source": 3,
+            "target": 134,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "riechen",
+                "schmecken"
+            ],
+            "source": 3,
+            "target": 145,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 6,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 6,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 6,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 8,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 8,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 8,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 9,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuchrufe"
+            ],
+            "source": 9,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "deren",
+                "Namen"
+            ],
+            "source": 10,
+            "target": 139,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 11,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 11,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 11,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 11,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 11,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 11,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bezeichnend",
+                "Ausdrücke",
+                "Gestalt",
+                "gerade"
+            ],
+            "source": 11,
+            "target": 140,
+            "target_group": [
+                4,
+                1,
+                2
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 13,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 13,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 13,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 13,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 13,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 13,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schutzpatron"
+            ],
+            "source": 13,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gorre"
+            ],
+            "source": 14,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gorre"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 14,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 14,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 14,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stoßen"
+            ],
+            "source": 14,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 15,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 15,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 15,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hammel",
+                "verschnittener",
+                "Schöps",
+                "Widder"
+            ],
+            "source": 16,
+            "target": 17,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Hammel",
+                "Widder"
+            ],
+            "source": 16,
+            "target": 29,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 16,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 16,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hammel",
+                "Widder"
+            ],
+            "source": 17,
+            "target": 29,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 17,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 17,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutterschaf",
+                "Aa",
+                "Gorre"
+            ],
+            "source": 18,
+            "target": 19,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Kilber",
+                "Lampitze",
+                "gelammt",
+                "Schaf"
+            ],
+            "source": 20,
+            "target": 21,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 20,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schaf"
+            ],
+            "source": 21,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 24,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 28,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 28,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 28,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 28,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 29,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 29,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolf"
+            ],
+            "source": 31,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 35,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "begatten"
+            ],
+            "source": 36,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Widder"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bockelen"
+            ],
+            "source": 37,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verlangen"
+            ],
+            "source": 37,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bockig"
+            ],
+            "source": 38,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verlangend",
+                "bockig"
+            ],
+            "source": 38,
+            "target": 181,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lämmer"
+            ],
+            "source": 39,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "junge"
+            ],
+            "source": 39,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "junge"
+            ],
+            "source": 39,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 39,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lampel"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafsuppe"
+            ],
+            "source": 57,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Halsjoch",
+                "Schafen"
+            ],
+            "source": 61,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 61,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 61,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 62,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 62,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schäferhund"
+            ],
+            "source": 72,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafen"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 86,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 86,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 86,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 86,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Badezeit",
+                "Schafe"
+            ],
+            "source": 87,
+            "target": 88,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 87,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 87,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 87,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 88,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 88,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 88,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vlies"
+            ],
+            "source": 89,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trocknen"
+            ],
+            "source": 89,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 89,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 90,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 90,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 102,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 102,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 102,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 102,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 102,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 102,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 103,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 103,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 103,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 103,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 103,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 104,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 104,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 104,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 104,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 104,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 104,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 105,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 105,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krempelkämme"
+            ],
+            "source": 110,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schafe"
+            ],
+            "source": 117,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 117,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 117,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 117,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 128,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaiß"
+            ],
+            "source": 130,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaiß"
+            ],
+            "source": 130,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 130,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 130,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 130,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaißlein"
+            ],
+            "source": 130,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaiß"
+            ],
+            "source": 130,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 130,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 130,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 130,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaiß"
+            ],
+            "source": 131,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geben"
+            ],
+            "source": 131,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaiß"
+            ],
+            "source": 131,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 131,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 132,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 132,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 132,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 132,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 132,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 132,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 132,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 133,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 133,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 134,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 134,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 134,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "riechen",
+                "schmecken"
+            ],
+            "source": 134,
+            "target": 145,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gaißeln"
+            ],
+            "source": 134,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 134,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 134,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 134,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gaißen"
+            ],
+            "source": 135,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 138,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 138,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 138,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 138,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 138,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 140,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 140,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 140,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 140,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 141,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 141,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 141,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 142,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 142,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 142,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 142,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 142,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 142,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 143,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 143,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 143,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 143,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 143,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 144,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 145,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 145,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 145,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 145,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bockig"
+            ],
+            "source": 146,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 147,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock",
+                "bocken"
+            ],
+            "source": 147,
+            "target": 180,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 147,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ankommen"
+            ],
+            "source": 148,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 152,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 152,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaiß"
+            ],
+            "source": 153,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 154,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 154,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 154,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 154,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 154,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 155,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 155,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 155,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 155,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Milch"
+            ],
+            "source": 156,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 156,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 156,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 156,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegenjunges",
+                "Kitz"
+            ],
+            "source": 158,
+            "target": 159,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "junge",
+                "Ziege"
+            ],
+            "source": 163,
+            "target": 164,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 163,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziege"
+            ],
+            "source": 164,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bock"
+            ],
+            "source": 180,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "böcken"
+            ],
+            "source": 180,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 189,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 189,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziegen"
+            ],
+            "source": 191,
+            "target": 195,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Schlachtbank",
+                "Happ",
+                "Tschap",
+                "Lamm",
+                "verlorenes",
+                "führen",
+                "Ausdrücke",
+                "gib",
+                "dumm",
+                "Hausschaf",
+                "Schaf",
+                "lassen",
+                "angeführten",
+                "Schäfel",
+                "Schafen"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Kartenspiel",
+                "Schaf",
+                "Schafbauer"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Brätlein",
+                "schäfen",
+                "schäfenes"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "Schaf",
+                "schäfern",
+                "schmecken"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "schäfeln",
+                "bilden",
+                "Schäfchenwolken"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Schäferei"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Schaf",
+                "schäfig"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Jungschaf",
+                "Schaffrisching"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "galtes",
+                "Schaf"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Scheuchrufe",
+                "Schafe",
+                "Lamperl"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "deren",
+                "hornlose",
+                "Steinschäflein",
+                "kurzschwänzige",
+                "Bauernschafe",
+                "Lämmerrassen",
+                "Namen"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Schafe",
+                "gerade",
+                "Gestalt",
+                "bezeichnend",
+                "Ausdrücke"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Lämmernamen"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Schafe",
+                "Schutzpatron"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "stoßen",
+                "Widder",
+                "Schafwidder",
+                "Widel",
+                "Ramm",
+                "Gorre"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Widder"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Schötz",
+                "verschnittener",
+                "Kapp",
+                "Schöps",
+                "Widder",
+                "Hammel",
+                "Straun",
+                "Gaster",
+                "Görl"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "verschnittener",
+                "Sauhammel",
+                "Schöps",
+                "Widder",
+                "Hammel"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Mutterschaf",
+                "Aa",
+                "Öwe",
+                "Lemperöwe",
+                "Gorre"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Mutterschaf",
+                "Aa",
+                "Gorre"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Kilber",
+                "Lampitze",
+                "Schaf",
+                "Ggeis",
+                "gelammt"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Kilber",
+                "Lampitze",
+                "gelammt",
+                "Schaf"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Schafjunges",
+                "Lämmlein"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "lammfromm",
+                "Lamm"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "lemperisch",
+                "erisch",
+                "lemm",
+                "schleppend"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Schafskopf"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Schafsaugen"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Ramsnase"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Hörnerform",
+                "Ausdrücke"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Hammel",
+                "hornloser",
+                "Widder"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Schafsfell"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Schafspelz",
+                "Wolf"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Schafsschweif"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "blöken"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Schafkot"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Schafmist"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "begatten",
+                "rammeln"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "verlangen",
+                "bockelen",
+                "Widder",
+                "widdern"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "verlangend",
+                "remmlig",
+                "bockig",
+                "Widder"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "lampeln",
+                "Lämmer",
+                "kilbern",
+                "junge",
+                "werfen"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "mänlich",
+                "geht",
+                "zutraulich",
+                "Lampel"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Lampel",
+                "scheu",
+                "schreckt",
+                "geschreckt",
+                "schiech"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Drehkrankheit"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Schafbremse",
+                "Verursacher"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Lungensucht"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Leberfäule"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Blattern"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Wassersucht"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Räude"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Krätze"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Schaflausfliege"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Egelwürmer"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Dämonen",
+                "Schaf",
+                "Tiere"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Schafstall"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Schafstalles",
+                "Teile"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Schafhürde"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Schafheu",
+                "sauer"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Schafsuppe",
+                "Futterkraut"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Schafherde"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Leithammel"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Schafweide"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Zaun",
+                "schlüpfen",
+                "anlegt",
+                "Halsjoch",
+                "Kamp",
+                "Schafen"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "anlegen",
+                "weten",
+                "Halsjoch",
+                "laiteln",
+                "kampen",
+                "Schafen"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Schafglöckchen"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Schäfer"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Schäferin"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Schäfers",
+                "Gehilfe"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Schäferhütte"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Schäferkarren",
+                "Wohnung"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Schäferstab"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Schäfertasche"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Schäferpfeife"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Schäferhund"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "schäferig",
+                "wachsam",
+                "hersein",
+                "scharf",
+                "Schafen"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "Schäferhund",
+                "schäfert",
+                "setzt",
+                "Schafen"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Schafdieb",
+                "Frischingzieher"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Schäfertanz"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Hammeltanz"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "Schafmilch"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Schafkäse"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Weiderecht",
+                "Blumensuchrecht"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Schafwolle"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "schafwollen",
+                "schafwollenes",
+                "Gewand"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "feineren",
+                "Lämmerwolle",
+                "Geweben"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Kammwolle"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Streichwolle"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "waschen",
+                "baden",
+                "Schafe",
+                "schwemmen"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Badezeit",
+                "Schafe"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Schafe",
+                "Tage",
+                "kalte",
+                "Badezeit",
+                "Schafwinter"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "trocknen",
+                "lassen",
+                "Vlies"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Schafe",
+                "scheren"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Schafschur"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "besonderer",
+                "Schur",
+                "Name",
+                "Zeit"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Schafschere"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Schafscherer"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Wollflocke"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "geschoren",
+                "ungewaschen",
+                "Schmutzwolle"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "einzelnes",
+                "Wollhaar"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Wollhaarsträhnchen"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Wollhaarbüschel"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "zusammenhängende",
+                "ganze",
+                "Vlies"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Wollfett"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "Knoten",
+                "falls",
+                "Wolle",
+                "Schmutzklümpchen",
+                "benannt",
+                "Fitze"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "schlicht",
+                "grob",
+                "fein",
+                "gekraust",
+                "Wolle",
+                "gewellt",
+                "Ausdrücke"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Verkaufe",
+                "beim",
+                "Wolle",
+                "gemessen"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "entstauben",
+                "Wolle"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "womit",
+                "entfetten",
+                "Wolle",
+                "Gefäß"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Wolf",
+                "Wolle",
+                "hiezu",
+                "Gerät",
+                "auflockern"
+            ],
+            "id": "G27"
+        },
+        {
+            "concepts": [
+                "krempeln",
+                "Wolle"
+            ],
+            "id": "G28"
+        },
+        {
+            "concepts": [
+                "Wollkrempel",
+                "Karde"
+            ],
+            "id": "G29"
+        },
+        {
+            "concepts": [
+                "Kratzkämme",
+                "grobe",
+                "Krempelkämme"
+            ],
+            "id": "G30a"
+        },
+        {
+            "concepts": [
+                "feine",
+                "Kardätschen",
+                "Krempelkämme",
+                "Streichen"
+            ],
+            "id": "G30b"
+        },
+        {
+            "concepts": [
+                "Krempelbank"
+            ],
+            "id": "G31"
+        },
+        {
+            "concepts": [
+                "Krempeln",
+                "Fachausdrücke",
+                "sonstige"
+            ],
+            "id": "G32"
+        },
+        {
+            "concepts": [
+                "Krempelkamm",
+                "Krempel"
+            ],
+            "id": "G33"
+        },
+        {
+            "concepts": [
+                "Saitling",
+                "Schafsdarm"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "trocknen",
+                "bekannt",
+                "Darmhaspel",
+                "spannen",
+                "zusammendrehen",
+                "Darmbeize",
+                "Saitenrahmen",
+                "glätten"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Schafe",
+                "wann",
+                "Sprüche",
+                "Lämmer",
+                "Volksglaube",
+                "schlachtet"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Schaffleisch"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Lammfleisch",
+                "Lämmernes"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Schöpsenfleisch",
+                "Schötzenes",
+                "Kasträunenes"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Lammsrücken"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "samt",
+                "Vorderfuß",
+                "Lammsbügel",
+                "Schulter"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "Hinterfuß",
+                "Lammshase"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Schöpsenrippen"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "Schafsmagen",
+                "Gärungsmittel"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "Schöpsenfett"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "Schaftalg"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "Martiniloben",
+                "Schafsuppe",
+                "beim"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "Lämmerbauch",
+                "abgezogene",
+                "Schafe",
+                "ausgeweidete"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "zugrunde",
+                "Huttel",
+                "gehen",
+                "Hippel",
+                "länger",
+                "wachsen",
+                "überall",
+                "zugeht",
+                "lustig",
+                "Schweif",
+                "Hettel",
+                "Ausdruck",
+                "Gaiß",
+                "dabei",
+                "Gaißlein",
+                "Herrgott",
+                "lassen",
+                "Ziege",
+                "henkt"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "Habergaiß",
+                "Gaißhirten",
+                "geben",
+                "Burschen",
+                "Volksglaube",
+                "Garaus",
+                "Gaißgift",
+                "Rest",
+                "Leibe",
+                "Faschingdonnerstag",
+                "Gaiß",
+                "Gaißbärtel"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "Anzahl",
+                "Happvieh",
+                "Ziegen",
+                "Gaißkrack",
+                "Gaißach",
+                "SammelN"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "gaißenes",
+                "Fleisch"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "Ziegen",
+                "gaißeln",
+                "schmecken"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "gaißen",
+                "umhersteigen",
+                "Bergen"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "umgaißeln",
+                "umherlaufen"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "Gamsa",
+                "ZiegenN",
+                "Zunterla",
+                "Buttermaula"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "Scheuchrufe",
+                "gus",
+                "Ziegen",
+                "lee",
+                "geß",
+                "he"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Ziegenrassen",
+                "Namen"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "gerade",
+                "Ziegen",
+                "Gestalt",
+                "bezeichnend",
+                "Ausdrücke"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "Ziegen",
+                "Schutzpatron"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Gaißbock",
+                "Bockübergeher",
+                "Kleinkinderspiel",
+                "Ziegenbock",
+                "Potsch",
+                "abgestochener",
+                "Flüche",
+                "Bocksmarter",
+                "Bock",
+                "Daß",
+                "gib",
+                "stoße",
+                "Gärtner",
+                "Böcken",
+                "dreinschauen",
+                "melken"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "Zauberer",
+                "großer",
+                "Teufel",
+                "Beschwörer",
+                "erbrechen",
+                "Schlucht",
+                "Bock",
+                "Bockshidlbub",
+                "Eltesbock",
+                "bockbeinig",
+                "wilde",
+                "Sündenbock",
+                "Aberglaube",
+                "starker",
+                "Bockschnitt"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "Leder",
+                "bockenes",
+                "Fleisch"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "bockelen",
+                "schmecken",
+                "bockenzen",
+                "Bock"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "bockig",
+                "schmollend"
+            ],
+            "id": "L5"
+        },
+        {
+            "concepts": [
+                "stoßen",
+                "bocken",
+                "Bock",
+                "trotzen",
+                "Bockssprünge"
+            ],
+            "id": "L6"
+        },
+        {
+            "concepts": [
+                "ankommen",
+                "anbocken",
+                "anstoßen",
+                "unrecht"
+            ],
+            "id": "L7"
+        },
+        {
+            "concepts": [
+                "verbockt",
+                "halsstarrig"
+            ],
+            "id": "L8"
+        },
+        {
+            "concepts": [
+                "zertreten",
+                "derbocken",
+                "Umherspringen"
+            ],
+            "id": "L9"
+        },
+        {
+            "concepts": [
+                "stehen",
+                "Schultern"
+            ],
+            "id": "L10"
+        },
+        {
+            "concepts": [
+                "böcketzen",
+                "schreien",
+                "Bock"
+            ],
+            "id": "L11"
+        },
+        {
+            "concepts": [
+                "Mutterziege",
+                "Gaißin",
+                "Gaiß",
+                "alte"
+            ],
+            "id": "L12"
+        },
+        {
+            "concepts": [
+                "Gittel",
+                "gehabt",
+                "Ziege",
+                "Jungen"
+            ],
+            "id": "L13"
+        },
+        {
+            "concepts": [
+                "unfruchtbare",
+                "Spoiche",
+                "Ziege"
+            ],
+            "id": "L14"
+        },
+        {
+            "concepts": [
+                "trächtige",
+                "Laßgaiß",
+                "Milch",
+                "gibt",
+                "Ziege"
+            ],
+            "id": "L15"
+        },
+        {
+            "concepts": [
+                "gelassen",
+                "entlassen",
+                "geben",
+                "Milch"
+            ],
+            "id": "L16"
+        },
+        {
+            "concepts": [
+                "Ziegenjunges",
+                "Gitz",
+                "Gaißfrisching",
+                "Kitz",
+                "Gaißlein",
+                "Zicklein"
+            ],
+            "id": "L17"
+        },
+        {
+            "concepts": [
+                "Kitzmacher",
+                "Ziegenjunges",
+                "obszön",
+                "Kitz",
+                "kitzeljung"
+            ],
+            "id": "L18"
+        },
+        {
+            "concepts": [
+                "kitzenes",
+                "Fleisch"
+            ],
+            "id": "L19"
+        },
+        {
+            "concepts": [
+                "umherspringen",
+                "umkitzeln"
+            ],
+            "id": "L20"
+        },
+        {
+            "concepts": [
+                "spielen",
+                "Kitzleins",
+                "Gaiß",
+                "Ainkitzel"
+            ],
+            "id": "L21"
+        },
+        {
+            "concepts": [
+                "junge",
+                "Ziege",
+                "Bockkitz"
+            ],
+            "id": "L22"
+        },
+        {
+            "concepts": [
+                "Gittelein",
+                "Gaißkitz",
+                "junge",
+                "Ziege"
+            ],
+            "id": "L23"
+        },
+        {
+            "concepts": [
+                "Gaißhirn"
+            ],
+            "id": "M1"
+        },
+        {
+            "concepts": [
+                "jagen",
+                "Hörner",
+                "Bockhorn"
+            ],
+            "id": "M2"
+        },
+        {
+            "concepts": [
+                "ungehörnte",
+                "Ziege"
+            ],
+            "id": "M3"
+        },
+        {
+            "concepts": [
+                "Memmelein",
+                "Halszitzen"
+            ],
+            "id": "M4"
+        },
+        {
+            "concepts": [
+                "Bocksbart"
+            ],
+            "id": "M5"
+        },
+        {
+            "concepts": [
+                "Haare"
+            ],
+            "id": "M6"
+        },
+        {
+            "concepts": [
+                "Gaißfell"
+            ],
+            "id": "M7"
+        },
+        {
+            "concepts": [
+                "Gaißleder"
+            ],
+            "id": "M8"
+        },
+        {
+            "concepts": [
+                "Gaißwedel"
+            ],
+            "id": "M9"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Bocksfuß"
+            ],
+            "id": "M10"
+        },
+        {
+            "concepts": [
+                "Darm"
+            ],
+            "id": "M11"
+        },
+        {
+            "concepts": [
+                "Bocksbeutel"
+            ],
+            "id": "M12"
+        },
+        {
+            "concepts": [
+                "etzen",
+                "meckern",
+                "meg"
+            ],
+            "id": "N1"
+        },
+        {
+            "concepts": [
+                "Gaißbohne",
+                "Ziegenkot"
+            ],
+            "id": "N2"
+        },
+        {
+            "concepts": [
+                "Bockmist"
+            ],
+            "id": "N3"
+        },
+        {
+            "concepts": [
+                "böcken",
+                "bocken",
+                "verlangen",
+                "gaißen",
+                "Bock"
+            ],
+            "id": "N4"
+        },
+        {
+            "concepts": [
+                "verlangend",
+                "bockig",
+                "Bock"
+            ],
+            "id": "N5"
+        },
+        {
+            "concepts": [
+                "begatten",
+                "böcken"
+            ],
+            "id": "N6"
+        },
+        {
+            "concepts": [
+                "Junge",
+                "gaißeln",
+                "kitzeln",
+                "werfen"
+            ],
+            "id": "N7"
+        },
+        {
+            "concepts": [
+                "Ziegenstall"
+            ],
+            "id": "O1"
+        },
+        {
+            "concepts": [
+                "Gaißfenster",
+                "Ziegenstallfenster",
+                "ankommen",
+                "übel",
+                "beim"
+            ],
+            "id": "O2"
+        },
+        {
+            "concepts": [
+                "Gaißkamp",
+                "Ziegenweide"
+            ],
+            "id": "O3"
+        },
+        {
+            "concepts": [
+                "Ziegenweg"
+            ],
+            "id": "O4"
+        },
+        {
+            "concepts": [
+                "Ziegenherde"
+            ],
+            "id": "O5"
+        },
+        {
+            "concepts": [
+                "Gaißklöckel",
+                "gelockt",
+                "Ziegen",
+                "Klapper",
+                "Almhütte"
+            ],
+            "id": "O6"
+        },
+        {
+            "concepts": [
+                "Gaißmelker",
+                "Gaißer",
+                "Kitzbub",
+                "Ziegenhirt"
+            ],
+            "id": "O7"
+        },
+        {
+            "concepts": [
+                "Gaißjaa",
+                "Kopfgeschirr",
+                "Ziegen"
+            ],
+            "id": "O8"
+        },
+        {
+            "concepts": [
+                "Ziegengespann"
+            ],
+            "id": "O9"
+        },
+        {
+            "concepts": [
+                "Ziegenmilch"
+            ],
+            "id": "O10"
+        },
+        {
+            "concepts": [
+                "Ziegenkäse"
+            ],
+            "id": "O11"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "wann",
+                "Ostersonntag",
+                "Ziegen",
+                "geschlachtet",
+                "jungen",
+                "Kitze"
+            ],
+            "id": "O12"
+        }
+    ]
+}

@@ -1,0 +1,2542 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Lichte"
+                ],
+                [
+                    "licht"
+                ],
+                [
+                    "hell"
+                ],
+                [
+                    "lichten"
+                ],
+                [
+                    "Unterschied"
+                ],
+                [
+                    "Kerze"
+                ],
+                [
+                    "Lichthalter"
+                ],
+                [
+                    "Öllampe"
+                ],
+                [
+                    "genannt"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Arten"
+                ],
+                [
+                    "Docht"
+                ],
+                [
+                    "geht"
+                ],
+                [
+                    "Gas"
+                ],
+                [
+                    "leuchten"
+                ],
+                [
+                    "Lichter"
+                ]
+            ],
+            "3": [
+                [
+                    "Fackel"
+                ],
+                [
+                    "Petroleumlampe"
+                ],
+                [
+                    "bedeutet"
+                ]
+            ],
+            "14": [
+                [
+                    "Kienleuchte"
+                ]
+            ],
+            "142": [
+                [
+                    "Licht"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Stelle",
+                    "Licht"
+                ],
+                [
+                    "Lichtspäne",
+                    "Kienleuchte"
+                ]
+            ],
+            "2": [
+                [
+                    "künstlichem",
+                    "Licht"
+                ]
+            ]
+        },
+        "3": {
+            "2": [
+                [
+                    "Ende",
+                    "künstlichem",
+                    "Licht"
+                ]
+            ],
+            "4": [
+                [
+                    "künstlichem",
+                    "Arbeit",
+                    "Licht"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Lichtarbeit",
+                    "künstlichem",
+                    "Arbeit",
+                    "Licht"
+                ]
+            ]
+        },
+        "7": {
+            "1": [
+                [
+                    "Bach",
+                    "Anfang",
+                    "Licht",
+                    "Ende",
+                    "Arbeit",
+                    "künstlichem",
+                    "Lichtarbeitszeit"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 0,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 0,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Licht"
+            ],
+            "source": 1,
+            "target": 2,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 1,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 2,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichte"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 3,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 3,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "licht"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hell"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lichten"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Unterschied"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 10,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 10,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 11,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichtspäne",
+                "Kienleuchte"
+            ],
+            "source": 12,
+            "target": 13,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kienleuchte"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichthalter"
+            ],
+            "source": 15,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fackel"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fackel"
+            ],
+            "source": 18,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fackel"
+            ],
+            "source": 19,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kerze"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "genannt"
+            ],
+            "source": 23,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 23,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 23,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Docht"
+            ],
+            "source": 26,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 28,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Öllampe"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 32,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 33,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Petroleumlampe"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Petroleumlampe"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Petroleumlampe"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 44,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gas"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 54,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 67,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 68,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leuchten"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 69,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 72,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 72,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 72,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 72,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 72,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 72,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 73,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 73,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 73,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 73,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 73,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 73,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichter"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 78,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 78,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 78,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 78,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichtarbeit",
+                "künstlichem",
+                "Arbeit",
+                "Licht"
+            ],
+            "source": 79,
+            "target": 80,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "künstlichem",
+                "Licht"
+            ],
+            "source": 79,
+            "target": 81,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "künstlichem",
+                "Arbeit",
+                "Licht"
+            ],
+            "source": 79,
+            "target": 82,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "künstlichem",
+                "Arbeit",
+                "Licht"
+            ],
+            "source": 79,
+            "target": 83,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "künstlichem",
+                "Licht"
+            ],
+            "source": 80,
+            "target": 81,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "künstlichem",
+                "Arbeit",
+                "Licht"
+            ],
+            "source": 80,
+            "target": 82,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "künstlichem",
+                "Arbeit",
+                "Licht"
+            ],
+            "source": 80,
+            "target": 83,
+            "target_group": [
+                3,
+                4,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ende",
+                "künstlichem",
+                "Licht"
+            ],
+            "source": 81,
+            "target": 82,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ende",
+                "künstlichem",
+                "Licht"
+            ],
+            "source": 81,
+            "target": 83,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bach",
+                "Anfang",
+                "Licht",
+                "Ende",
+                "Arbeit",
+                "künstlichem",
+                "Lichtarbeitszeit"
+            ],
+            "source": 82,
+            "target": 83,
+            "target_group": [
+                7,
+                1,
+                0
+            ],
+            "weight": 7
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "gehen",
+                "Vater",
+                "geht",
+                "Freie",
+                "rücken",
+                "stehst",
+                "hinters",
+                "geh",
+                "führen",
+                "Licht",
+                "Glaserer",
+                "rechte",
+                "sei"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "lichtscheu",
+                "moos",
+                "erster",
+                "Licht",
+                "Lichtstrahl"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "zweiter",
+                "Licht",
+                "Lebenslicht",
+                "ausblasen",
+                "Oberlicht"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "steigt",
+                "einfallende",
+                "Klumsen",
+                "Lichtschein",
+                "Einfall",
+                "herein",
+                "klugen",
+                "Lichte",
+                "fällt",
+                "bedeutet"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Lichte",
+                "innere"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Lichtzaun",
+                "licht",
+                "Wahnsinn",
+                "Unterschied",
+                "Höhe",
+                "helle",
+                "Zaun",
+                "lichte",
+                "Weite",
+                "lichten",
+                "Breite",
+                "hell",
+                "lichter",
+                "Haufen",
+                "Augenblick"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "brinnlicht",
+                "licht"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "sonnenhell",
+                "hell"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "lichten",
+                "Haare",
+                "Wald"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Unterschied",
+                "tumper",
+                "düster",
+                "dusmig",
+                "dunkel",
+                "timper"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Kienleuchterl",
+                "Lichtkendel",
+                "Mädchen",
+                "magere",
+                "Kienleuchte"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "einzelne",
+                "Spleiße",
+                "Lichtspan",
+                "Kienleuchte"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Lichtholz",
+                "Lichtspäne",
+                "geschnitzt",
+                "Kienleuchte",
+                "Holz"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Aufgabe",
+                "bestimmten",
+                "schneiden",
+                "hieß",
+                "Familienmitgliedes",
+                "Lichtspäne",
+                "Kienleuchte",
+                "Wie",
+                "Spanschneider"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Werkzeuge",
+                "Kienmesser",
+                "Schneiden",
+                "Kienleuchte",
+                "Liechtspäne"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Lichthalter",
+                "kurze",
+                "Vorrichtung",
+                "Befestigung",
+                "Beschreibung",
+                "Lichtspanes",
+                "Kienleuchte",
+                "Skizze"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Gerät",
+                "Spanlichts",
+                "Spanlichtputze",
+                "Reinigung"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Kienspan",
+                "abgebrannten",
+                "erneuern",
+                "anstecken"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Fackel"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Brandfackel",
+                "Fackelschein",
+                "Fackel"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Fuchtel",
+                "Wuchtel",
+                "Fackelarten",
+                "Wachsfackel",
+                "Kienfackel",
+                "Buchel"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "lange",
+                "fackeln",
+                "fackelt"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Kreise",
+                "drehen",
+                "Fackel"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Kerzenlicht",
+                "genannt",
+                "Kerze",
+                "Licht",
+                "Kerzen",
+                "gießen",
+                "Lichtel",
+                "ziehen",
+                "bedeutet"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "kerzengerade",
+                "Kerzengießer",
+                "Lichtelschießen",
+                "Lichtl",
+                "Kerze",
+                "Kerzer",
+                "Lichtelträger",
+                "Lichtelzieher",
+                "Kerzenweihe"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Kerzenarten",
+                "Dreikreuzerkerze",
+                "Pfenniglicht",
+                "Milikerzen"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Dachtel",
+                "Docht",
+                "Dahen"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Lichthalter",
+                "Leuchter"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Luster",
+                "Arten",
+                "Lichtermännlein"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Brennöl"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Ölkanne"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Lichtampel",
+                "Öllampe",
+                "Öllicht"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Öllampe",
+                "Gestell",
+                "Lichtklotzen",
+                "dder",
+                "Schwimmer",
+                "Teile"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Funze",
+                "übertragener",
+                "Licht",
+                "Bedeutung",
+                "niedrig",
+                "brennendes",
+                "schlecht"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "immer",
+                "Gasthaus",
+                "Nachtlicht",
+                "heimkehrt",
+                "spät",
+                "genannt"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Petroleum",
+                "Betonung",
+                "Steinöl"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Petroleumlampe"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Teile",
+                "Fuß",
+                "Sonnenbrenner",
+                "Petroleumlampe",
+                "Brenner"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Lampenzylinder",
+                "Petroleumlampe"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Lichtblende",
+                "Lampenschirm"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Pertroleumlampen",
+                "Stallampe",
+                "Arten"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Laterne"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "Laternenarten",
+                "Blendlaterne",
+                "Windlicht"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Laternanzünder"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "schneuzen",
+                "Lampe",
+                "schneuz",
+                "Docht",
+                "besser",
+                "beschneiden",
+                "Licht",
+                "siehst",
+                "putzen",
+                "reinigen"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "Schneuzschere",
+                "Lampenschere"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "Zylinderwischer"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Goas",
+                "Gas"
+            ],
+            "id": "B38"
+        },
+        {
+            "concepts": [
+                "Kochgas"
+            ],
+            "id": "B39"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Gaslaterne",
+                "ganze",
+                "Gasfabrik",
+                "Gas"
+            ],
+            "id": "B40"
+        },
+        {
+            "concepts": [
+                "Gasometer"
+            ],
+            "id": "B41"
+        },
+        {
+            "concepts": [
+                "Auerlicht"
+            ],
+            "id": "B42"
+        },
+        {
+            "concepts": [
+                "Glühstrumpf"
+            ],
+            "id": "B43"
+        },
+        {
+            "concepts": [
+                "Karbid"
+            ],
+            "id": "B44"
+        },
+        {
+            "concepts": [
+                "elektrisches",
+                "Licht"
+            ],
+            "id": "B45"
+        },
+        {
+            "concepts": [
+                "Elektrizität"
+            ],
+            "id": "B46"
+        },
+        {
+            "concepts": [
+                "Elektrizitätswerk"
+            ],
+            "id": "B47"
+        },
+        {
+            "concepts": [
+                "Starkstromleitung"
+            ],
+            "id": "B48"
+        },
+        {
+            "concepts": [
+                "Transformatorenhaus"
+            ],
+            "id": "B49"
+        },
+        {
+            "concepts": [
+                "durchgebrannt",
+                "Sicherung"
+            ],
+            "id": "B50"
+        },
+        {
+            "concepts": [
+                "Kurzschluß"
+            ],
+            "id": "B51"
+        },
+        {
+            "concepts": [
+                "Abdrehen",
+                "Schalter",
+                "Reiber"
+            ],
+            "id": "B52"
+        },
+        {
+            "concepts": [
+                "Steckdose",
+                "Stecker"
+            ],
+            "id": "B53"
+        },
+        {
+            "concepts": [
+                "Glühbirne"
+            ],
+            "id": "B54"
+        },
+        {
+            "concepts": [
+                "Bogenlampe"
+            ],
+            "id": "B55"
+        },
+        {
+            "concepts": [
+                "Taschenlampe"
+            ],
+            "id": "B56"
+        },
+        {
+            "concepts": [
+                "Feuerzeug"
+            ],
+            "id": "B57"
+        },
+        {
+            "concepts": [
+                "einschalten",
+                "anzünden",
+                "aufdrehen",
+                "Licht"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "abblasen",
+                "auslöschen",
+                "zureiben",
+                "Licht",
+                "schalten"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Nachtfischerei",
+                "leuchtet",
+                "wenig",
+                "Leuchten",
+                "Ehebruch",
+                "verbotene",
+                "drückt",
+                "Licht",
+                "gut",
+                "lassen",
+                "leuchten",
+                "loichtn",
+                "leuchte",
+                "luichtn"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Leuchtkäfer",
+                "beleuchten",
+                "leuchten"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Beleuchtung"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "unerwarteten",
+                "Augen",
+                "blendet",
+                "Gesichtseindruck",
+                "unangenehmen",
+                "berauben",
+                "geblendet",
+                "Licht",
+                "blenden",
+                "Eindruck",
+                "flüchtigen",
+                "Augenlichts"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "abblenden",
+                "Licht"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "verblendet"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Verblendung"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "zusammenkommen",
+                "drei",
+                "Tisch",
+                "Lichter",
+                "bedeutet"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Geburtstag",
+                "Lichtmeß",
+                "wieviele",
+                "Hause",
+                "Festlichkeiten",
+                "Weihnachten",
+                "Lichter",
+                "abgebrannt"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Versteigerungen",
+                "Zweck",
+                "verwendet",
+                "Hammer",
+                "Licht",
+                "neben"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Lichtarbeit",
+                "Licht",
+                "Arbeit",
+                "künstlichem"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "versammelt",
+                "Lichtarbeit",
+                "Licht",
+                "Lichtstube",
+                "Stube",
+                "Arbeit",
+                "künstlichem"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "muß",
+                "Beginn",
+                "Lichtbraten",
+                "festlich",
+                "Jahresabschnittes",
+                "arbeiten",
+                "Festmahl",
+                "Licht",
+                "Ende",
+                "etwa",
+                "künstlichem",
+                "begangen"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Anfang",
+                "Bach",
+                "Licht",
+                "vergraben",
+                "Ende",
+                "werfen",
+                "Arbeit",
+                "künstlichem",
+                "Lichtarbeitszeit",
+                "gekennzeichnet"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Anfang",
+                "Sprüche",
+                "Bach",
+                "schwimmt",
+                "bringt",
+                "Licht",
+                "eingraben",
+                "Ende",
+                "Habern",
+                "Arbeit",
+                "künstlichem",
+                "Lichtarbeitszeit",
+                "nimmt"
+            ],
+            "id": "D8"
+        }
+    ]
+}

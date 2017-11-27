@@ -1,0 +1,1591 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "sprengen"
+                ],
+                [
+                    "weitere"
+                ],
+                [
+                    "hüpfen"
+                ],
+                [
+                    "schlupfen"
+                ],
+                [
+                    "glatt"
+                ],
+                [
+                    "gleiten"
+                ],
+                [
+                    "schlipfen"
+                ],
+                [
+                    "walzen"
+                ],
+                [
+                    "Rolle"
+                ],
+                [
+                    "Kugel"
+                ],
+                [
+                    "Spiele"
+                ],
+                [
+                    "krächseln"
+                ],
+                [
+                    "Krächse"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "wachsen"
+                ],
+                [
+                    "Wuchs"
+                ],
+                [
+                    "schwellen"
+                ]
+            ],
+            "2": [
+                [
+                    "Verwendungen"
+                ]
+            ],
+            "3": [
+                [
+                    "Sprung"
+                ],
+                [
+                    "schliefen"
+                ],
+                [
+                    "walgen"
+                ],
+                [
+                    "etwaige"
+                ],
+                [
+                    "rollen"
+                ],
+                [
+                    "steigen"
+                ],
+                [
+                    "klettern"
+                ],
+                [
+                    "kommt"
+                ],
+                [
+                    "heben"
+                ]
+            ],
+            "6": [
+                [
+                    "springen"
+                ]
+            ],
+            "10": [
+                [
+                    "sonstige"
+                ]
+            ],
+            "35": [
+                [
+                    "Formen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "kriechen",
+                    "Kriecher"
+                ],
+                [
+                    "Formen",
+                    "Verwendungen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "springen"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "springen"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "springen"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 0,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 0,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "springen"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "springen"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprung"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprung"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprung"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprengen"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "springen"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 8,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hüpfen"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 11,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 12,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 12,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 12,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 12,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 12,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 12,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kriechen",
+                "Kriecher"
+            ],
+            "source": 14,
+            "target": 15,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schliefen"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schliefen"
+            ],
+            "source": 16,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 16,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 16,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spiele"
+            ],
+            "source": 16,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 16,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 16,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 16,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schliefen"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlupfen"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gleiten"
+            ],
+            "source": 22,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 22,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 22,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "glatt"
+            ],
+            "source": 23,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlipfen"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 32,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 32,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 32,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 32,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 32,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "walgen"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "walgen"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 33,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 33,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 33,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 33,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "walgen"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "walzen"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rollen"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rollen"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 38,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rolle"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 40,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rollen"
+            ],
+            "source": 40,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 40,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 40,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 43,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 43,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steigen"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steigen"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 45,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 45,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 45,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steigen"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klettern"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klettern"
+            ],
+            "source": 48,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "krächseln"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klettern"
+            ],
+            "source": 50,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krächse"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 53,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wachsen"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 54,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wuchs"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwellen"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 58,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heben"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heben"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heben"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "springen",
+                "Formen",
+                "Verwendungen"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "zerspringen",
+                "Springginkes",
+                "Wasserspringen",
+                "springen",
+                "springgiftig"
+            ],
+            "id": "F1a"
+        },
+        {
+            "concepts": [
+                "Springer"
+            ],
+            "id": "F1b"
+        },
+        {
+            "concepts": [
+                "Sprüng",
+                "Sprung"
+            ],
+            "id": "F1c"
+        },
+        {
+            "concepts": [
+                "Ursprung",
+                "Urspring",
+                "Sprungbrett",
+                "Ansprung",
+                "Sprung"
+            ],
+            "id": "F1d"
+        },
+        {
+            "concepts": [
+                "gesprangt",
+                "sprengen",
+                "Sprengprügel"
+            ],
+            "id": "F1e"
+        },
+        {
+            "concepts": [
+                "Gespreng",
+                "Gesprengwerk",
+                "Spreng",
+                "Sprengling"
+            ],
+            "id": "F1f"
+        },
+        {
+            "concepts": [
+                "sprengen",
+                "weitere"
+            ],
+            "id": "F1g"
+        },
+        {
+            "concepts": [
+                "derschricken",
+                "kommt",
+                "Schreck",
+                "springen",
+                "schricken",
+                "Kesschrick",
+                "Schrick",
+                "schrickig",
+                "Gletscherspalte",
+                "Sprung"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "betrügen",
+                "springen",
+                "laichen",
+                "aufspringen",
+                "aufräschen",
+                "weitere",
+                "lecken"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "gesprungen",
+                "gehupft",
+                "überhupfen",
+                "überhupft",
+                "derhupft",
+                "Hupfauf",
+                "Hüpfel",
+                "Hupfend",
+                "Hupf",
+                "hüpfen",
+                "Brote",
+                "verhupft",
+                "Sackhupfend",
+                "Hupfhainzel",
+                "Hupfer"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "gämsen",
+                "hopsa",
+                "kommt",
+                "wicken",
+                "gampern",
+                "hopsassa",
+                "hoppen",
+                "hüpfen",
+                "Hopfser",
+                "gumpen",
+                "Ausdrücke"
+            ],
+            "id": "F4a"
+        },
+        {
+            "concepts": [
+                "erschrinden",
+                "Formen",
+                "schrinden"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Schrund",
+                "schrundecht"
+            ],
+            "id": "F5a"
+        },
+        {
+            "concepts": [
+                "Arschkriecher",
+                "Formen",
+                "Kriecher",
+                "kriechen",
+                "zusammenkriechen"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "kriechen",
+                "Kriecher"
+            ],
+            "id": "F6a"
+        },
+        {
+            "concepts": [
+                "schliefen",
+                "Schliefwinkel",
+                "Kettenschliefen",
+                "Formen",
+                "Spiele",
+                "schluff"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Schlüpfer"
+            ],
+            "id": "F7a"
+        },
+        {
+            "concepts": [
+                "schliefen",
+                "schlaufen"
+            ],
+            "id": "F7b"
+        },
+        {
+            "concepts": [
+                "Schluff",
+                "Schlupf",
+                "Unterschlupf",
+                "Schlauf"
+            ],
+            "id": "F7c"
+        },
+        {
+            "concepts": [
+                "schliefen",
+                "schlupfen",
+                "Ohrenschliefer",
+                "Schliefer",
+                "Zaunschlupfer"
+            ],
+            "id": "F7d"
+        },
+        {
+            "concepts": [
+                "schlucken",
+                "verwendet",
+                "schlupfen"
+            ],
+            "id": "F7e"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "gleiten"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "völlig",
+                "Glätte",
+                "Glattwasser",
+                "glatt",
+                "glattweg",
+                "geradezu",
+                "lauter"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "glutschig",
+                "glitschig",
+                "Glutsch",
+                "glitschen",
+                "glutschen"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Schlüpfrigkeit",
+                "haletzen",
+                "glatt",
+                "hal",
+                "halmaulet",
+                "glitzelhal",
+                "ausgleiten",
+                "Hale"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "rutschen",
+                "Wörter",
+                "Sinnes",
+                "Rutschepeter",
+                "rutschig"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "gleiten",
+                "schleifen"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Fuchsgeschleif",
+                "Tanz",
+                "Schleiferliedel",
+                "Schleife",
+                "schleiferisch",
+                "Unterschleif",
+                "Schleifer",
+                "Geschleif"
+            ],
+            "id": "F13a"
+        },
+        {
+            "concepts": [
+                "darunter",
+                "schlaiffen",
+                "schlaiken",
+                "Schlaipfbaum",
+                "schlaipfen"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Schlaipfe",
+                "Schlaipf",
+                "Pantoffel",
+                "fahren",
+                "Schlaike",
+                "Pflugschlaipfe",
+                "Schelte",
+                "Frauenzimmer",
+                "Geschlaipf",
+                "Art",
+                "Schlaipfschlitten",
+                "Wagen",
+                "Aussehen",
+                "Schlitten",
+                "Teig"
+            ],
+            "id": "F14a"
+        },
+        {
+            "concepts": [
+                "schlipfen"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Schlipfkrapfen",
+                "etwaige",
+                "Schlipfer",
+                "schlipfen",
+                "Bergschlipf",
+                "Schlipf",
+                "sonstige"
+            ],
+            "id": "F15a"
+        },
+        {
+            "concepts": [
+                "walgen",
+                "Formen",
+                "abwalgen"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Walger",
+                "Walgerle",
+                "Walgerling",
+                "Nudelwalger",
+                "walgen"
+            ],
+            "id": "F16a"
+        },
+        {
+            "concepts": [
+                "welgern",
+                "wulgern",
+                "wulkern",
+                "welgen",
+                "Welger",
+                "Bed",
+                "Wulker",
+                "walgen",
+                "Haufen"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "walzen"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "walzerisch",
+                "Walzer",
+                "Walzel",
+                "walzen"
+            ],
+            "id": "F18a"
+        },
+        {
+            "concepts": [
+                "Gerste",
+                "rollen",
+                "Verwendungen",
+                "Rollgerste",
+                "zusammenrollen",
+                "gerollte"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Röllerl",
+                "Schelle",
+                "Rolle"
+            ],
+            "id": "F19a"
+        },
+        {
+            "concepts": [
+                "Roller",
+                "rollen",
+                "Geröll",
+                "Gerüllet",
+                "Rolle",
+                "sonstige"
+            ],
+            "id": "F19b"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "rodeln",
+                "Käsrödel",
+                "atmen",
+                "katarrhalisch",
+                "malen",
+                "Eier",
+                "Spiel",
+                "rödeln",
+                "Grütze",
+                "Rödel",
+                "Erbsen",
+                "Rodel"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "kollern",
+                "kullern",
+                "Koller"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "zusammenkugeln",
+                "Kegelkugel",
+                "Kugel",
+                "kugeln",
+                "Kugelschütz",
+                "kugelig",
+                "sonstige"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Hurgel",
+                "hurlen",
+                "rollen",
+                "Kugel",
+                "wälzen",
+                "hurgeln"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "zornig",
+                "steif",
+                "Formen",
+                "gehn"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "Steigbaum"
+            ],
+            "id": "G1a"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "Hutsteiget",
+                "Steiger",
+                "Spiele",
+                "Steigede",
+                "steigerisch"
+            ],
+            "id": "G1b"
+        },
+        {
+            "concepts": [
+                "klettern"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "klimmen",
+                "Klimmzug"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "klettern",
+                "Kraxler",
+                "krächseln",
+                "Baumkraxler",
+                "kraxeln"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Kraxentrager",
+                "Hosenkraxe",
+                "Krächse",
+                "Kraxe",
+                "Wagenkraxe"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "krächsnen",
+                "Rücken",
+                "Krächset",
+                "Krächse",
+                "Krächsner",
+                "krächseln",
+                "tragen"
+            ],
+            "id": "G5a"
+        },
+        {
+            "concepts": [
+                "klettern",
+                "krageln",
+                "regeln",
+                "härpfen",
+                "kleppen",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "wachsen"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "erwachsen",
+                "verwachsen",
+                "wachsen"
+            ],
+            "id": "G7a"
+        },
+        {
+            "concepts": [
+                "Wachset",
+                "Wachstum",
+                "Erlwachs",
+                "kommt",
+                "gewächsig",
+                "Gewächs",
+                "wachsende",
+                "Wachsend",
+                "Wuchs",
+                "Mond",
+                "Wachs"
+            ],
+            "id": "G7b"
+        },
+        {
+            "concepts": [
+                "halbwüchsig",
+                "Wuchs"
+            ],
+            "id": "G7c"
+        },
+        {
+            "concepts": [
+                "geschwollene",
+                "Formen",
+                "schwillt",
+                "Finger",
+                "geschwollen",
+                "schwellen",
+                "Rede"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Bach",
+                "schwellen"
+            ],
+            "id": "G8a"
+        },
+        {
+            "concepts": [
+                "Wasserschwall",
+                "Schwall",
+                "Schwallbrett"
+            ],
+            "id": "G8b"
+        },
+        {
+            "concepts": [
+                "Vorrichtung",
+                "Wasseranschwellen",
+                "Schwelle"
+            ],
+            "id": "G8c"
+        },
+        {
+            "concepts": [
+                "lang",
+                "Formen",
+                "hebt",
+                "loben",
+                "Taufe",
+                "Verwendungen",
+                "heben"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Hebstange",
+                "heben"
+            ],
+            "id": "G9a"
+        },
+        {
+            "concepts": [
+                "Hub"
+            ],
+            "id": "G9b"
+        },
+        {
+            "concepts": [
+                "Heber",
+                "urheblich",
+                "Hebel",
+                "hebig",
+                "schwer",
+                "Hosenheber",
+                "heben",
+                "sonstige"
+            ],
+            "id": "G9c"
+        },
+        {
+            "concepts": [
+                "Lupf",
+                "lüpfen"
+            ],
+            "id": "G10"
+        }
+    ]
+}

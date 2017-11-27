@@ -1,0 +1,4922 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Beispielsätze"
+                ],
+                [
+                    "guter"
+                ],
+                [
+                    "tadeln"
+                ],
+                [
+                    "lügen"
+                ],
+                [
+                    "weinerlich"
+                ],
+                [
+                    "daherreden"
+                ],
+                [
+                    "langweilig"
+                ],
+                [
+                    "fragen"
+                ],
+                [
+                    "sticheln"
+                ],
+                [
+                    "diskurieren"
+                ],
+                [
+                    "Sprachfehler"
+                ],
+                [
+                    "davon"
+                ],
+                [
+                    "stellen"
+                ],
+                [
+                    "fallen"
+                ],
+                [
+                    "Antwort"
+                ],
+                [
+                    "Sprach"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "immer"
+                ]
+            ],
+            "2": [
+                [
+                    "kommen"
+                ],
+                [
+                    "Leute"
+                ],
+                [
+                    "Das"
+                ],
+                [
+                    "Spruch"
+                ]
+            ],
+            "3": [
+                [
+                    "rufen"
+                ],
+                [
+                    "jemanden"
+                ],
+                [
+                    "aussprechen"
+                ],
+                [
+                    "Formen"
+                ],
+                [
+                    "Rede"
+                ],
+                [
+                    "halten"
+                ],
+                [
+                    "Wort"
+                ]
+            ],
+            "5": [
+                [
+                    "sagen"
+                ]
+            ],
+            "6": [
+                [
+                    "schreien"
+                ],
+                [
+                    "Reden"
+                ],
+                [
+                    "Sprache"
+                ]
+            ],
+            "27": [
+                [
+                    "Wendungen"
+                ]
+            ],
+            "62": [
+                [
+                    "Mensch"
+                ]
+            ],
+            "64": [
+                [
+                    "sprechen"
+                ]
+            ],
+            "164": [
+                [
+                    "reden"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "kommen",
+                    "reden"
+                ],
+                [
+                    "reden",
+                    "sprechen"
+                ],
+                [
+                    "gut",
+                    "reden"
+                ],
+                [
+                    "Das",
+                    "heißt"
+                ],
+                [
+                    "Gerede",
+                    "reden"
+                ],
+                [
+                    "Leute",
+                    "reden"
+                ],
+                [
+                    "Mensch",
+                    "gern"
+                ],
+                [
+                    "Reden",
+                    "reden"
+                ],
+                [
+                    "angebunden",
+                    "kurz"
+                ],
+                [
+                    "jammern",
+                    "klagen"
+                ],
+                [
+                    "sagen",
+                    "sagt"
+                ],
+                [
+                    "Wendungen",
+                    "fallen"
+                ],
+                [
+                    "Spruch",
+                    "Zuspruch"
+                ]
+            ],
+            "2": [
+                [
+                    "lästig",
+                    "Reden"
+                ]
+            ],
+            "3": [
+                [
+                    "flüstern",
+                    "wispeln"
+                ],
+                [
+                    "plappern",
+                    "schwätzen"
+                ],
+                [
+                    "Mensch",
+                    "redet"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "fallen",
+                    "lästig",
+                    "Reden"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "infolge",
+                    "stigetzen",
+                    "stottern",
+                    "sprechen"
+                ]
+            ]
+        },
+        "5": {
+            "1": [
+                [
+                    "klatschen",
+                    "jemand",
+                    "Übles",
+                    "ausrichten",
+                    "reden"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden",
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 7,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 0,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 0,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 1,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aussprechen"
+            ],
+            "source": 1,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aussprechen"
+            ],
+            "source": 1,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 2,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 3,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen",
+                "reden"
+            ],
+            "source": 4,
+            "target": 6,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 4,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerede",
+                "reden"
+            ],
+            "source": 4,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 4,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 5,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut",
+                "reden"
+            ],
+            "source": 6,
+            "target": 7,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Das",
+                "heißt"
+            ],
+            "source": 6,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leute",
+                "reden"
+            ],
+            "source": 6,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leute"
+            ],
+            "source": 6,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reden"
+            ],
+            "source": 6,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reden"
+            ],
+            "source": 6,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reden",
+                "reden"
+            ],
+            "source": 6,
+            "target": 58,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reden"
+            ],
+            "source": 6,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 6,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Das"
+            ],
+            "source": 6,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 6,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beispielsätze"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 7,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 7,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sagen"
+            ],
+            "source": 7,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sagen"
+            ],
+            "source": 7,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sagen"
+            ],
+            "source": 7,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "davon"
+            ],
+            "source": 7,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Das"
+            ],
+            "source": 8,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rufen"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rufen"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 9,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rufen"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreien"
+            ],
+            "source": 11,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreien"
+            ],
+            "source": 11,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreien"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreien"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreien"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 16,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 16,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 16,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 16,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 16,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 16,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreien"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "flüstern",
+                "wispeln"
+            ],
+            "source": 19,
+            "target": 20,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "flüstern",
+                "wispeln"
+            ],
+            "source": 19,
+            "target": 21,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 19,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 19,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 19,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 19,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 19,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 19,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "flüstern",
+                "wispeln"
+            ],
+            "source": 20,
+            "target": 21,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 22,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 22,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 22,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 22,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "redet"
+            ],
+            "source": 23,
+            "target": 60,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "redet",
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 80,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemanden"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 24,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemanden"
+            ],
+            "source": 24,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 24,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 24,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "plappern",
+                "schwätzen"
+            ],
+            "source": 25,
+            "target": 26,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "plappern",
+                "schwätzen"
+            ],
+            "source": 25,
+            "target": 27,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 25,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 25,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 25,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "plappern",
+                "schwätzen"
+            ],
+            "source": 26,
+            "target": 27,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "jemanden"
+            ],
+            "source": 26,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 29,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "daherreden"
+            ],
+            "source": 30,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 30,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 32,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klatschen",
+                "jemand",
+                "Übles",
+                "ausrichten",
+                "reden"
+            ],
+            "source": 33,
+            "target": 34,
+            "target_group": [
+                5,
+                1,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "Leute"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 33,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 34,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "gern"
+            ],
+            "source": 35,
+            "target": 40,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 35,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 35,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 35,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 35,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 35,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 35,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 35,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 40,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 40,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 40,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 40,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 40,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 40,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 40,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tadeln"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 44,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 44,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 44,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 44,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 44,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 44,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 44,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lügen"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 48,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 50,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 52,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 52,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 52,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 52,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 52,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stellen"
+            ],
+            "source": 54,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lästig",
+                "Reden"
+            ],
+            "source": 56,
+            "target": 57,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fallen",
+                "lästig",
+                "Reden"
+            ],
+            "source": 56,
+            "target": 58,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Reden"
+            ],
+            "source": 56,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 56,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lästig",
+                "Reden"
+            ],
+            "source": 57,
+            "target": 58,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reden"
+            ],
+            "source": 57,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 58,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 58,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 58,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 58,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 58,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 58,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reden"
+            ],
+            "source": 58,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 58,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 58,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "fallen"
+            ],
+            "source": 58,
+            "target": 114,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 58,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weinerlich"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 59,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 59,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 59,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 59,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 59,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 59,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "redet"
+            ],
+            "source": 60,
+            "target": 80,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 60,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 60,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 60,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "langweilig"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 64,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 64,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 64,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 64,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fragen"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 74,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 74,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 74,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Antwort"
+            ],
+            "source": 76,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "angebunden",
+                "kurz"
+            ],
+            "source": 79,
+            "target": 80,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 79,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 79,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 79,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 79,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 79,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 80,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 80,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 80,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sticheln"
+            ],
+            "source": 81,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 81,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 81,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 81,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 81,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 84,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 84,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 84,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jammern",
+                "klagen"
+            ],
+            "source": 85,
+            "target": 86,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 87,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 87,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "immer"
+            ],
+            "source": 87,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "diskurieren"
+            ],
+            "source": 88,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 88,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprechen"
+            ],
+            "source": 88,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 92,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 92,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 93,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "infolge",
+                "stigetzen",
+                "stottern",
+                "sprechen"
+            ],
+            "source": 97,
+            "target": 98,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Sprachfehler"
+            ],
+            "source": 98,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reden"
+            ],
+            "source": 99,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aussprechen"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sagen"
+            ],
+            "source": 104,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sagen",
+                "sagt"
+            ],
+            "source": 104,
+            "target": 106,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sagen"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rede"
+            ],
+            "source": 106,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rede"
+            ],
+            "source": 106,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprache"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprache"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprache"
+            ],
+            "source": 107,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprache"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprache"
+            ],
+            "source": 108,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprache"
+            ],
+            "source": 109,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 109,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 109,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprach"
+            ],
+            "source": 109,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rede"
+            ],
+            "source": 113,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 114,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "halten"
+            ],
+            "source": 114,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "halten"
+            ],
+            "source": 114,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spruch"
+            ],
+            "source": 115,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spruch"
+            ],
+            "source": 115,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spruch",
+                "Zuspruch"
+            ],
+            "source": 116,
+            "target": 117,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "halten"
+            ],
+            "source": 118,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 119,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 119,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 120,
+            "target": 121,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "sprach",
+                "sprechen",
+                "gred",
+                "Formen",
+                "resd",
+                "gsprocha",
+                "brächten",
+                "re",
+                "reden"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "tun",
+                "versprechen",
+                "Ehre",
+                "besprechen",
+                "ansprechen",
+                "sprechen",
+                "zusprechen",
+                "aussprechen",
+                "absprechen",
+                "Leben",
+                "Gelübde"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Sprecher",
+                "Vorsprecher",
+                "sprechen"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "erreden",
+                "bereden",
+                "reden"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Gerede",
+                "Überredung",
+                "Rederei",
+                "reden",
+                "Verabredung",
+                "guter",
+                "kommen",
+                "Redner"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "redsam",
+                "redfaul",
+                "redselig",
+                "reden"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "hast",
+                "hart",
+                "beim",
+                "heißt",
+                "zusammen",
+                "umhinreden",
+                "gut",
+                "Das",
+                "br",
+                "Reden",
+                "leicht",
+                "bald",
+                "besagen",
+                "Leute",
+                "geredet",
+                "kommen",
+                "reden"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "wi",
+                "Weiber",
+                "gut",
+                "Weile",
+                "Beispielsätze",
+                "Nachbar",
+                "schon",
+                "sprechen",
+                "Viehhändler",
+                "sagen",
+                "Unser",
+                "Man",
+                "reden",
+                "Die",
+                "ganze",
+                "Preis",
+                "zwei",
+                "sagte",
+                "spricht",
+                "morgen",
+                "davon",
+                "Der"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "gekauft",
+                "heißt",
+                "Wald",
+                "Sie",
+                "Es",
+                "Er",
+                "Beispielsätze",
+                "Das",
+                "hießen",
+                "Hause",
+                "Pferd",
+                "heißen",
+                "geheißen",
+                "Dort"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "gerufen",
+                "Formen",
+                "rufen",
+                "griaft"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "rufen",
+                "zurufen"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Wörter",
+                "schreien",
+                "rufen",
+                "geschrieen"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Ruf",
+                "guter",
+                "schlechter"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Verruf",
+                "kommen"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "verrufen"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Gerüft"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "plerren",
+                "schreien",
+                "grellen",
+                "sprechen",
+                "brüllen",
+                "auffallend",
+                "laut",
+                "platzen"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "schreien"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Geplerre",
+                "schreien",
+                "Aufschrei",
+                "Platzerei",
+                "Geschrei",
+                "Wehschrei",
+                "Brüllerei",
+                "Geplatze",
+                "Schrei"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "säusen",
+                "flüstern",
+                "sprechen",
+                "säuseln",
+                "murmeln",
+                "wispeln",
+                "leise"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "flüstern",
+                "wispeln"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Gewispel",
+                "flüstern",
+                "Wispler",
+                "wispeln"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Knödel",
+                "rebern",
+                "en",
+                "undeutlich",
+                "sprechen",
+                "madeln",
+                "Maul",
+                "talken",
+                "Zunge",
+                "dalfern",
+                "schwerer",
+                "lallen",
+                "walchen"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "talkt",
+                "Talk",
+                "Lali",
+                "lallt",
+                "redet",
+                "Mensch"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "überzeugen",
+                "hineinreden",
+                "sprechen",
+                "Absicht",
+                "jemanden",
+                "eindringlich",
+                "einreden",
+                "zureden"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "gaustern",
+                "plappern",
+                "bedeutungsloses",
+                "tratschen",
+                "sprechen",
+                "tattern",
+                "schwadronieren",
+                "ratschen",
+                "waschen",
+                "kauschen",
+                "Zeug",
+                "trefeln",
+                "pappeln",
+                "brodeln",
+                "plauschen",
+                "schwätzen"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "vertratschen",
+                "jemanden",
+                "verplappern",
+                "angeplauscht",
+                "plappern",
+                "schwätzen"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "zusammenkommen",
+                "Plausch",
+                "gehen",
+                "Tratscherl",
+                "Tratsch",
+                "plappern",
+                "schwätzen"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "schöne",
+                "Tratscherei",
+                "Plauscherei",
+                "herauskommen"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Tratsche",
+                "Plauschen",
+                "Plauscher",
+                "plauscht",
+                "Trefel",
+                "tratscht",
+                "Mensch",
+                "gerne",
+                "Gausterer"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "blödeln",
+                "daherreden",
+                "Unsinn",
+                "reden"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "aufschneiden",
+                "protzmaulen",
+                "prahlen",
+                "großsprechen",
+                "sprächten"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Prahlhans",
+                "aufschneidet",
+                "Mensch",
+                "Aufschneider",
+                "Protzmaul"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "geschimpft",
+                "Gerede",
+                "klatschen",
+                "jemand",
+                "Übles",
+                "Leute",
+                "ausrichten",
+                "bringen",
+                "reden"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "klatschen",
+                "jemand",
+                "Übles",
+                "ausrichterisch",
+                "ausrichten",
+                "reden"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "ausrichtet",
+                "Mensch",
+                "gern",
+                "Leute"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "verleumden"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Verleumder"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Verleumdung"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "fienzen",
+                "hänseln",
+                "verhöhnen",
+                "ausspotten",
+                "verspotten",
+                "fieneln",
+                "spötteln",
+                "spienzeln"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "Spottvogel",
+                "Spötter",
+                "gern",
+                "verspottet",
+                "Mensch"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Spott",
+                "Schand"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "spottschlecht",
+                "spotten"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "ausbrummen",
+                "ausgreinen",
+                "ausschimpfen",
+                "abhausen",
+                "zurechtweisen",
+                "ausmachen",
+                "tadeln",
+                "Leviten",
+                "Text",
+                "lesen",
+                "zusammenputzen"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Ausgemachtes",
+                "kriegen",
+                "Schimpfer",
+                "tadeln",
+                "Brummer"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "fluchen",
+                "menten",
+                "mentieren",
+                "schelten",
+                "sakramenten",
+                "abwenedeiten",
+                "schimpfen"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "Fluchworte",
+                "Teufel",
+                "Sakra",
+                "Kreuzdiwidomini",
+                "fix",
+                "Saprawolt",
+                "Kruzifix",
+                "einhin"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "sakrisch",
+                "gegiftet",
+                "Dirndl",
+                "sauberes"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "anplauschen",
+                "anschmieren",
+                "lassen",
+                "lügen",
+                "anpeilen",
+                "Unwahrheit",
+                "anlaufen",
+                "reden"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Himmel",
+                "schwarz",
+                "Bären",
+                "aufbinden",
+                "biegt",
+                "lügen",
+                "abherlügen",
+                "Blaue",
+                "gedruckt"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "schweinigeln",
+                "unziemlich",
+                "Sauglocken",
+                "läuten",
+                "reden"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "verzählen",
+                "erzählen"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Verzählung",
+                "gemacht"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "erklären",
+                "jemandem",
+                "explizieren",
+                "ausdeuten"
+            ],
+            "id": "A54"
+        },
+        {
+            "concepts": [
+                "Abrede",
+                "ablaugnen",
+                "stellen",
+                "laugnen"
+            ],
+            "id": "A55"
+        },
+        {
+            "concepts": [
+                "beistimmen"
+            ],
+            "id": "A56"
+        },
+        {
+            "concepts": [
+                "penzen",
+                "angrieseln",
+                "anzwidern",
+                "lästig",
+                "anöden",
+                "fallen",
+                "Reden",
+                "sempern"
+            ],
+            "id": "A57"
+        },
+        {
+            "concepts": [
+                "lästig",
+                "fällt",
+                "Semperer",
+                "Griesler",
+                "Mensch",
+                "Reden"
+            ],
+            "id": "A58"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "lästig",
+                "Loch",
+                "Bauch",
+                "fallen",
+                "Reden",
+                "reden"
+            ],
+            "id": "A59"
+        },
+        {
+            "concepts": [
+                "knenketzen",
+                "raunzen",
+                "knerren",
+                "weinerlich",
+                "knauschen",
+                "knauen",
+                "reden"
+            ],
+            "id": "A60"
+        },
+        {
+            "concepts": [
+                "weinerlich",
+                "Mensch",
+                "Raunzer",
+                "redet"
+            ],
+            "id": "A61"
+        },
+        {
+            "concepts": [
+                "wehwetzen",
+                "winseln",
+                "woiseln"
+            ],
+            "id": "A62"
+        },
+        {
+            "concepts": [
+                "Winsler",
+                "Woisler"
+            ],
+            "id": "A63"
+        },
+        {
+            "concepts": [
+                "triemen",
+                "daherreden",
+                "launeln",
+                "langweilig"
+            ],
+            "id": "A64"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "langweilig",
+                "daherredet"
+            ],
+            "id": "A65"
+        },
+        {
+            "concepts": [
+                "aussagen"
+            ],
+            "id": "A66"
+        },
+        {
+            "concepts": [
+                "Aussage"
+            ],
+            "id": "A67"
+        },
+        {
+            "concepts": [
+                "behaupten"
+            ],
+            "id": "A68"
+        },
+        {
+            "concepts": [
+                "Behauptung"
+            ],
+            "id": "A69"
+        },
+        {
+            "concepts": [
+                "fragen"
+            ],
+            "id": "A70"
+        },
+        {
+            "concepts": [
+                "fragen",
+                "ausfragen"
+            ],
+            "id": "A71"
+        },
+        {
+            "concepts": [
+                "fratscheln",
+                "ausfratscheln"
+            ],
+            "id": "A72"
+        },
+        {
+            "concepts": [
+                "Fratschler"
+            ],
+            "id": "A73"
+        },
+        {
+            "concepts": [
+                "Frage",
+                "Anfrage"
+            ],
+            "id": "A74"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "schlechte",
+                "Nachfrage",
+                "Leumund",
+                "Wein",
+                "gute"
+            ],
+            "id": "A75"
+        },
+        {
+            "concepts": [
+                "antworten"
+            ],
+            "id": "A76"
+        },
+        {
+            "concepts": [
+                "Antwort"
+            ],
+            "id": "A77"
+        },
+        {
+            "concepts": [
+                "jå",
+                "jou",
+                "jåu",
+                "ja",
+                "jo"
+            ],
+            "id": "A78"
+        },
+        {
+            "concepts": [
+                "nein",
+                "oa",
+                "na"
+            ],
+            "id": "A79"
+        },
+        {
+            "concepts": [
+                "reden",
+                "angebunden",
+                "abschnappen",
+                "kurz",
+                "schnappen"
+            ],
+            "id": "A80"
+        },
+        {
+            "concepts": [
+                "Schnapperl",
+                "angebunden",
+                "redet",
+                "Schnappen",
+                "Mensch",
+                "kurz"
+            ],
+            "id": "A81"
+        },
+        {
+            "concepts": [
+                "sticheln",
+                "wörteln",
+                "tratzen",
+                "stichelnd",
+                "beißen",
+                "reden"
+            ],
+            "id": "A82"
+        },
+        {
+            "concepts": [
+                "herbeißen",
+                "sticheln"
+            ],
+            "id": "A83"
+        },
+        {
+            "concepts": [
+                "Stichler",
+                "Tratzer",
+                "Stichelreden",
+                "führt"
+            ],
+            "id": "A84"
+        },
+        {
+            "concepts": [
+                "geifernd",
+                "reden"
+            ],
+            "id": "A85"
+        },
+        {
+            "concepts": [
+                "lamentieren",
+                "jammern",
+                "klagen"
+            ],
+            "id": "A86"
+        },
+        {
+            "concepts": [
+                "jammern",
+                "klagen",
+                "Lamento"
+            ],
+            "id": "A87"
+        },
+        {
+            "concepts": [
+                "immer",
+                "jammert",
+                "Jämmerling",
+                "gleich",
+                "Lamentierer",
+                "Mensch",
+                "Jammerkasten"
+            ],
+            "id": "A88"
+        },
+        {
+            "concepts": [
+                "diskurieren",
+                "lebhaft",
+                "aufgeräumt",
+                "sprechen"
+            ],
+            "id": "A89"
+        },
+        {
+            "concepts": [
+                "Diskurs"
+            ],
+            "id": "A90"
+        },
+        {
+            "concepts": [
+                "rierer",
+                "Disk"
+            ],
+            "id": "A91"
+        },
+        {
+            "concepts": [
+                "Diskrierpfeiferl",
+                "diskurieren"
+            ],
+            "id": "A92"
+        },
+        {
+            "concepts": [
+                "entrüstet",
+                "aufbegehren",
+                "zornig",
+                "aufdrehen",
+                "reden"
+            ],
+            "id": "A93"
+        },
+        {
+            "concepts": [
+                "ausläßt",
+                "Zorn",
+                "Aufdreher",
+                "rasch",
+                "Worten",
+                "Mensch"
+            ],
+            "id": "A94"
+        },
+        {
+            "concepts": [
+                "hussen",
+                "aufhetzen"
+            ],
+            "id": "A95"
+        },
+        {
+            "concepts": [
+                "Hetzer",
+                "Husser"
+            ],
+            "id": "A96"
+        },
+        {
+            "concepts": [
+                "bezichtigen",
+                "beargen",
+                "jemanden",
+                "verdächtigen"
+            ],
+            "id": "A97"
+        },
+        {
+            "concepts": [
+                "Sprachfehlers",
+                "sprechen",
+                "meggetzen",
+                "giggetzen",
+                "gaggetzen",
+                "stigetzen",
+                "stottern",
+                "infolge"
+            ],
+            "id": "A98"
+        },
+        {
+            "concepts": [
+                "Meggetzer",
+                "sprechen",
+                "Stigetzer",
+                "Sprachfehler",
+                "stigetzen",
+                "stottern",
+                "infolge"
+            ],
+            "id": "A99"
+        },
+        {
+            "concepts": [
+                "Nase",
+                "reden"
+            ],
+            "id": "A100"
+        },
+        {
+            "concepts": [
+                "siffeln",
+                "aussprechen"
+            ],
+            "id": "A101"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Siffler",
+                "aussprechen"
+            ],
+            "id": "A102"
+        },
+        {
+            "concepts": [
+                "auffallende",
+                "jemandes",
+                "nachahmen",
+                "antern",
+                "Reden"
+            ],
+            "id": "A103"
+        },
+        {
+            "concepts": [
+                "genannte",
+                "reden"
+            ],
+            "id": "A104"
+        },
+        {
+            "concepts": [
+                "sagst",
+                "gs",
+                "Formen",
+                "sagt",
+                "oat",
+                "sagen",
+                "sage",
+                "gesagt"
+            ],
+            "id": "A105"
+        },
+        {
+            "concepts": [
+                "sagen",
+                "zusagen"
+            ],
+            "id": "A106"
+        },
+        {
+            "concepts": [
+                "nachschauen",
+                "heimkomme",
+                "sagt",
+                "direkte",
+                "Wenn",
+                "sagen",
+                "eingeschobenes",
+                "Rede"
+            ],
+            "id": "A107"
+        },
+        {
+            "concepts": [
+                "Sprache"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Sprache",
+                "versteht",
+                "Kauderwelsch",
+                "fremde"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Ausher",
+                "Sprache",
+                "Das",
+                "Sprach"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Sprachfehler"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Ansprache",
+                "Verkehr"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Sprache",
+                "Aussprache",
+                "Zusprache"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Rede",
+                "Nachrede"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "verschlägt",
+                "stellen",
+                "stehn",
+                "Antwort",
+                "fallen",
+                "Rede",
+                "davon",
+                "Red",
+                "halten"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Spruch"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Spruch",
+                "Zuspruch"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Spruch",
+                "Ansprüche",
+                "Zuspruch"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Sprach",
+                "halten",
+                "Gespräch"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Wort"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "paar",
+                "geben",
+                "muß",
+                "immer",
+                "letzte",
+                "brechen",
+                "nehmen",
+                "beim",
+                "halten",
+                "Worte"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Hauptwort"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Satz"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Gesätzlein",
+                "Gesätz"
+            ],
+            "id": "B17"
+        }
+    ]
+}

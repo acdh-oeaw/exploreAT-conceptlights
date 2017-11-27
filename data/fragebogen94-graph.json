@@ -1,0 +1,3100 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "schlagen"
+                ],
+                [
+                    "feuern"
+                ],
+                [
+                    "brändeln"
+                ],
+                [
+                    "Singen"
+                ],
+                [
+                    "Brinn"
+                ],
+                [
+                    "Funke"
+                ],
+                [
+                    "fünkeln"
+                ],
+                [
+                    "etwa"
+                ],
+                [
+                    "Glut"
+                ],
+                [
+                    "glühen"
+                ],
+                [
+                    "verbrennen"
+                ],
+                [
+                    "Asche"
+                ],
+                [
+                    "riechen"
+                ],
+                [
+                    "stark"
+                ],
+                [
+                    "rußen"
+                ],
+                [
+                    "Ofen"
+                ],
+                [
+                    "einheizen"
+                ],
+                [
+                    "heizen"
+                ],
+                [
+                    "Haus"
+                ],
+                [
+                    "zünden"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "geben"
+                ],
+                [
+                    "Span"
+                ],
+                [
+                    "spänen"
+                ],
+                [
+                    "späneln"
+                ],
+                [
+                    "Kohle"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Boden"
+                ],
+                [
+                    "macht"
+                ],
+                [
+                    "Gluthitze"
+                ],
+                [
+                    "Hitze"
+                ],
+                [
+                    "Wärme"
+                ],
+                [
+                    "wärmen"
+                ],
+                [
+                    "lau"
+                ],
+                [
+                    "kühlen"
+                ],
+                [
+                    "kalt"
+                ],
+                [
+                    "Kälte"
+                ]
+            ],
+            "2": [
+                [
+                    "Funken"
+                ],
+                [
+                    "Ruß"
+                ],
+                [
+                    "geht"
+                ],
+                [
+                    "warm"
+                ]
+            ],
+            "3": [
+                [
+                    "rauchen"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "Späne"
+                ],
+                [
+                    "Torf"
+                ],
+                [
+                    "hitzen"
+                ]
+            ],
+            "6": [
+                [
+                    "Zorn"
+                ],
+                [
+                    "heiß"
+                ]
+            ],
+            "8": [
+                [
+                    "Brand"
+                ]
+            ],
+            "10": [
+                [
+                    "Rauch"
+                ]
+            ],
+            "12": [
+                [
+                    "brennen"
+                ]
+            ],
+            "89": [
+                [
+                    "Feuer"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Feuer",
+                    "Licht"
+                ],
+                [
+                    "Brunst",
+                    "Brand"
+                ],
+                [
+                    "Angebranntem",
+                    "Brand"
+                ],
+                [
+                    "sprühen",
+                    "Funken"
+                ],
+                [
+                    "Funkenasche",
+                    "Üsel"
+                ],
+                [
+                    "Schelte",
+                    "Ruß"
+                ],
+                [
+                    "geht",
+                    "Feuer"
+                ],
+                [
+                    "warm",
+                    "stellen"
+                ]
+            ],
+            "3": [
+                [
+                    "brinnen",
+                    "brennen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlagen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer",
+                "Licht"
+            ],
+            "source": 0,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 0,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geben"
+            ],
+            "source": 0,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 0,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 1,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "feuern"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 3,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 3,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 4,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 4,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 4,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stark"
+            ],
+            "source": 4,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einheizen"
+            ],
+            "source": 4,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 4,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwa"
+            ],
+            "source": 5,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zorn"
+            ],
+            "source": 5,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zorn"
+            ],
+            "source": 5,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zorn"
+            ],
+            "source": 5,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Funken"
+            ],
+            "source": 6,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sprühen",
+                "Funken"
+            ],
+            "source": 6,
+            "target": 35,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "brändeln"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fünkeln"
+            ],
+            "source": 8,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 8,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunst",
+                "Brand"
+            ],
+            "source": 9,
+            "target": 10,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 9,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 10,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brinn"
+            ],
+            "source": 11,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angebranntem",
+                "Brand"
+            ],
+            "source": 12,
+            "target": 13,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "riechen"
+            ],
+            "source": 12,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 16,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 16,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 16,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 16,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 16,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verbrennen"
+            ],
+            "source": 17,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 18,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brinnen",
+                "brennen"
+            ],
+            "source": 20,
+            "target": 21,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "brinnen",
+                "brennen"
+            ],
+            "source": 20,
+            "target": 22,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 20,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 20,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brinnen",
+                "brennen"
+            ],
+            "source": 21,
+            "target": 22,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 21,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 21,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 22,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 22,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brennen"
+            ],
+            "source": 25,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Singen"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 32,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Funke"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Funken"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 33,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glut"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 36,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gluthitze"
+            ],
+            "source": 37,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "glühen"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zorn"
+            ],
+            "source": 38,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zorn"
+            ],
+            "source": 38,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Asche"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 43,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Funkenasche",
+                "Üsel"
+            ],
+            "source": 46,
+            "target": 47,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 48,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 48,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 48,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 48,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 49,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 49,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 49,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rauchen"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rauchen"
+            ],
+            "source": 50,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 50,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 50,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 50,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 50,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 50,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 50,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 50,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rauchen"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zorn"
+            ],
+            "source": 51,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 53,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rauch"
+            ],
+            "source": 54,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schelte",
+                "Ruß"
+            ],
+            "source": 56,
+            "target": 57,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ruß"
+            ],
+            "source": 56,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ruß"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rußen"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 62,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heizen"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 67,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 67,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 67,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 67,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zünden"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 73,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 73,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 73,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 74,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 74,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 74,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 75,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 75,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 76,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 76,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Span"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Späne"
+            ],
+            "source": 77,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Späne"
+            ],
+            "source": 77,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Späne"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spänen"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "späneln"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "macht"
+            ],
+            "source": 85,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kohle"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 91,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Torf"
+            ],
+            "source": 92,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Torf"
+            ],
+            "source": 92,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Torf"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 97,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiß"
+            ],
+            "source": 102,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiß"
+            ],
+            "source": 102,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiß"
+            ],
+            "source": 102,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiß"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiß"
+            ],
+            "source": 103,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiß"
+            ],
+            "source": 104,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hitze"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hitzen"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hitzen"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hitzen"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "warm"
+            ],
+            "source": 111,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "warm",
+                "stellen"
+            ],
+            "source": 111,
+            "target": 126,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "warm"
+            ],
+            "source": 112,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wärme"
+            ],
+            "source": 113,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wärmen"
+            ],
+            "source": 115,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lau"
+            ],
+            "source": 118,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kühlen"
+            ],
+            "source": 123,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kalt"
+            ],
+            "source": 126,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kälte"
+            ],
+            "source": 128,
+            "target": 129,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "geht",
+                "Feuer",
+                "nieder",
+                "springt",
+                "ab",
+                "fluscht",
+                "geben",
+                "acht",
+                "schlagen",
+                "Stroh",
+                "Licht",
+                "froh",
+                "gelegt",
+                "us",
+                "greift",
+                "gebt",
+                "auskommt"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Blitz",
+                "Bräuche",
+                "Feuer",
+                "Feuerbaum",
+                "Zündmittel",
+                "Großfeuer",
+                "eingeschlagen",
+                "Kreidenfeuer",
+                "Bre"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "feurig",
+                "foira"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "schmerzen",
+                "gehen",
+                "schlagen",
+                "feuern",
+                "eilig"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Böller",
+                "Glas",
+                "auftragen",
+                "stark",
+                "feuern",
+                "setzen",
+                "Brand",
+                "ausfeuern",
+                "abfeuern",
+                "einheizen",
+                "lassen",
+                "Wein",
+                "hinausfeuern",
+                "einfeuern",
+                "anfeuern",
+                "hinauswerfen"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "anfünkeln",
+                "Zorn",
+                "sagt",
+                "anfeuerlen",
+                "etwa",
+                "reizen"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "feuretzen",
+                "jucken",
+                "sprühen",
+                "Funken",
+                "prickeln"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Herdfeuer",
+                "unterster",
+                "Holzknecht",
+                "Feurer",
+                "besorgen"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "brändeln",
+                "feuerletzen",
+                "Feuer",
+                "spielen",
+                "gokeln",
+                "fünkeln",
+                "zündeln",
+                "Licht"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Brunst",
+                "Mord",
+                "Brand"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Waldbrand",
+                "Brunst",
+                "Brand",
+                "Feuersbrunst",
+                "Brandstifter",
+                "doppelte"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Brinn",
+                "Brandstatt"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "brändeln",
+                "brintschen",
+                "brändelt",
+                "normal",
+                "bräntscheln",
+                "ganz",
+                "Brand",
+                "brinzeln",
+                "loheinen",
+                "Angebranntem"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "brintschlecht",
+                "riechend",
+                "Brand",
+                "brenzlig",
+                "brenzlige",
+                "brandig",
+                "Geschichte",
+                "Angebranntem"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Angebranntes",
+                "Brantsch",
+                "Brintsche"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Abbrändler"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "Kind",
+                "fürchtet",
+                "gebranntes",
+                "brennen",
+                "gebrennt",
+                "Schnaps"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Hemd",
+                "Finger",
+                "verbrennt",
+                "Student",
+                "verbrennen"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "abbrennen",
+                "Haus",
+                "Haut",
+                "abgebrannt"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Mädchen",
+                "Gretel",
+                "zimperliches",
+                "angebrannte"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "gebrunnen",
+                "brennt",
+                "lichterloh",
+                "brennen",
+                "intrans",
+                "brinnen",
+                "alt",
+                "Zunder"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "verbrinnen",
+                "brinnen",
+                "brennen"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "brinnrot",
+                "brinnen",
+                "brennen"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Holzstück",
+                "verkohltes",
+                "angebranntes"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "flackern",
+                "lohetzen",
+                "lohen",
+                "flammen"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "zischend",
+                "fluschen",
+                "brennen"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "krachen",
+                "kraxen"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Kracher",
+                "Krach"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "prasseln",
+                "prazeln"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "knattern",
+                "knaxen",
+                "knistern"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Singen",
+                "winzen",
+                "Feuers"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Knistern",
+                "knüpfen",
+                "Singen",
+                "Vorstellungen",
+                "Holzes",
+                "Krachen",
+                "brennenden"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Lohe",
+                "Feuer",
+                "Laug",
+                "Brinn",
+                "Flamme"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "Fanken",
+                "Feuerräusperer",
+                "Funke",
+                "Gan",
+                "Fänkelein",
+                "Gänlein",
+                "bißchen",
+                "Glanster",
+                "ahnen",
+                "Funken",
+                "Fünkelein",
+                "machst",
+                "kleines",
+                "Pulverfaß"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "funkenneu",
+                "Funke",
+                "Funkenflug"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "ganstern",
+                "gänseln",
+                "fünkeln",
+                "sprühen",
+                "gänen",
+                "Funken"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "blasen",
+                "Glose",
+                "etwa",
+                "Ausdruck",
+                "Ofen",
+                "mehr",
+                "dafür",
+                "Glut"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Rotglut",
+                "Glut",
+                "Gluthitze"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "glühetzen",
+                "Zorn",
+                "verlangen",
+                "glühen",
+                "brennen",
+                "glüten",
+                "glühnen"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Glühwein",
+                "glühen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "glüig",
+                "glüentig",
+                "glüetend",
+                "glühend"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "glosen",
+                "glimmen"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "glimmend",
+                "glosentig"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Herd",
+                "Asche",
+                "gehen",
+                "hellem",
+                "Aschen",
+                "dunklem",
+                "Sack",
+                "gar",
+                "verbrennen"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Aschentruhe",
+                "Asche",
+                "Ascher",
+                "Märchen",
+                "aschenfarb",
+                "Kohlenasche"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "einäschern"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Funkenasche",
+                "Üsel"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Funkenasche",
+                "üselfarb",
+                "Üsel"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "steigt",
+                "Höhe",
+                "Ruck",
+                "Boden",
+                "Rauken",
+                "eigenen",
+                "schlägt",
+                "Rauch"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Rauch",
+                "Waldrauch",
+                "Rauchgeld"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "rauchende",
+                "Kopf",
+                "arbeiten",
+                "Blut",
+                "rauchender",
+                "rauchendes",
+                "Schüsseln",
+                "raucht",
+                "Mist",
+                "rauchen"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Zorn",
+                "verrauchen",
+                "verraucht",
+                "rauchen"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "rauchig"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "rückeln",
+                "raucheln",
+                "flemseln",
+                "Rauch",
+                "raucheinen"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Bofel",
+                "Qualm",
+                "dichter",
+                "Rauch",
+                "starker"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "qualmen",
+                "dicht",
+                "stark",
+                "bofeln",
+                "bucheln",
+                "rauchen"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "fangst",
+                "schwarz",
+                "austragen",
+                "kosende",
+                "Rußelein",
+                "Schelte",
+                "schau",
+                "Ruß"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Schelte",
+                "Rußsack",
+                "Kienruß",
+                "Ruß"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "rußig"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "rußen",
+                "schwärzen",
+                "Ruß"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "berußt",
+                "rußen",
+                "verrußt"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "balgen",
+                "rußeln"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Wasserdampf",
+                "zugrunde",
+                "gehen",
+                "Dampf",
+                "geht",
+                "heraus",
+                "Atem",
+                "Maul",
+                "Rauch",
+                "bleiben",
+                "beim"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "heizen",
+                "Ofen",
+                "Stube",
+                "gut",
+                "heizt"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "heizbar",
+                "vorheizen",
+                "Heizhaus",
+                "heizen",
+                "einheizen"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Heizer"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Heizung"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Feuer"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "kenden",
+                "gezündet",
+                "zünden"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Florian",
+                "zünden",
+                "zünd",
+                "entzünden",
+                "verschon",
+                "Haus",
+                "andre",
+                "verzünden",
+                "verleumden"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "drückt",
+                "Das",
+                "brennend",
+                "entzündet",
+                "Heu",
+                "worden"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "nachlegen"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "schüren",
+                "Zorn",
+                "nachschüren"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "anfachen"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "ausgehen",
+                "lassen",
+                "geht",
+                "Feuer"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "dämpfen",
+                "Feuer"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "ersticken",
+                "erstickt",
+                "Feuer",
+                "ausglühen"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "geben",
+                "kärglich",
+                "Spanl",
+                "Span",
+                "Vermögen",
+                "Späne"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Kienspan",
+                "Span",
+                "spandünn",
+                "Knauser",
+                "Unterzündholz"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Späne",
+                "Spandörre",
+                "Trocknen"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Späne",
+                "Pfändung",
+                "ansetzen",
+                "spänen"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Spänbrief",
+                "zerspänen",
+                "spänen"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "auseinanderspreizen",
+                "späneln",
+                "spalten"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "aufspäneln",
+                "hinhalten",
+                "späneln",
+                "einspäneln"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "besteht",
+                "Spänen",
+                "Gestell",
+                "Steigenlassen",
+                "genannt",
+                "Papierdrache",
+                "Spanler"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "macht",
+                "Hölzchen",
+                "Unterschied",
+                "Streifhölzchen",
+                "Spänlein",
+                "Zünder"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Feuerstein"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Kohle",
+                "Kohlen",
+                "sitzen",
+                "glühenden"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Braschen",
+                "Kohle",
+                "kohlschwarz",
+                "Staubkohle",
+                "Kohlenschaufel",
+                "Kohllösch"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Koks"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Brikett",
+                "Preßkohle"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Ausdrücke",
+                "Kohlenbergbaus"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Torf"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Torfziegel",
+                "Torf"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "stechen",
+                "Torf",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Feuerwehr",
+                "Berufsfeuerwehr",
+                "freiwillige"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Feuerwehrhauptmann",
+                "Spritzenmeister"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "löschen",
+                "Feuer"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "spritzen"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Feuerwehrgeräte",
+                "Feuerspritze"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "blinder",
+                "Feuerlärm"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "Feuersignal"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "gekocht",
+                "macht",
+                "heiß",
+                "weiß",
+                "Schmerzes",
+                "Ausruf",
+                "Hölle",
+                "Boden",
+                "heißer",
+                "gegessen",
+                "gewo",
+                "Füßen",
+                "heißesten"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "nagelheiß",
+                "heißhungrig",
+                "heiß"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "heiß",
+                "heißelecht"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Hitze",
+                "Heiße",
+                "kommen"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Hitze",
+                "Hitzschlag",
+                "Gluthitze"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "hitzen",
+                "hitzt"
+            ],
+            "id": "G6a"
+        },
+        {
+            "concepts": [
+                "heiß",
+                "trans",
+                "Kessel",
+                "hitzen",
+                "Wasser"
+            ],
+            "id": "G6b"
+        },
+        {
+            "concepts": [
+                "erhitzen",
+                "hitzen"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "hitzig"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "warm",
+                "halten",
+                "stellen",
+                "wärmsten",
+                "jemanden",
+                "geworden",
+                "wärmer"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "bacherlwarm",
+                "warm",
+                "Warmbrunnen"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Wärme"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Körperwärme",
+                "Wärme"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "bacheln",
+                "wärmen"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Wärmflasche",
+                "wärmen",
+                "gewärmen",
+                "erwärmen"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Pulswärmer"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "lau"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "lauwarm",
+                "laulecht"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "einlaueln",
+                "laueln",
+                "lau"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "kühl",
+                "Wind",
+                "kühler",
+                "kühle",
+                "Ausrede"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Kühle",
+                "Kühlheit"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "kühlen"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "erkälten",
+                "verkühlen",
+                "kühlen"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Verkühlung",
+                "Erkältung"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "kältesten",
+                "warm",
+                "kalte",
+                "Weh",
+                "Vergicht",
+                "kaltes",
+                "Fieber",
+                "kälter",
+                "Koch",
+                "stellen",
+                "kalt"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Kaltschmied",
+                "eiskalt",
+                "kalt"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Kälte"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Kälte",
+                "Bärenkälte"
+            ],
+            "id": "G27"
+        }
+    ]
+}

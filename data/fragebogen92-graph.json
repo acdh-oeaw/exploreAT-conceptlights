@@ -1,0 +1,5158 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Unterschied"
+                ],
+                [
+                    "Balken"
+                ],
+                [
+                    "Gred"
+                ],
+                [
+                    "Vorbau"
+                ],
+                [
+                    "Haustür"
+                ],
+                [
+                    "drücken"
+                ],
+                [
+                    "Schnallen"
+                ],
+                [
+                    "Schloß"
+                ],
+                [
+                    "Schlüssel"
+                ],
+                [
+                    "Schlosserei"
+                ],
+                [
+                    "Tor"
+                ],
+                [
+                    "Hoftor"
+                ],
+                [
+                    "Feuerhaus"
+                ],
+                [
+                    "offener"
+                ],
+                [
+                    "Kessel"
+                ],
+                [
+                    "hintere"
+                ],
+                [
+                    "Kinder"
+                ],
+                [
+                    "Fußboden"
+                ],
+                [
+                    "Plafond"
+                ],
+                [
+                    "legen"
+                ],
+                [
+                    "Stuckaturrohr"
+                ],
+                [
+                    "Stubendecke"
+                ],
+                [
+                    "sitzen"
+                ],
+                [
+                    "Ofens"
+                ],
+                [
+                    "stehen"
+                ],
+                [
+                    "Stuhl"
+                ],
+                [
+                    "Sessel"
+                ],
+                [
+                    "Stübel"
+                ],
+                [
+                    "fallen"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "Bettes"
+                ],
+                [
+                    "Polster"
+                ],
+                [
+                    "Zieche"
+                ],
+                [
+                    "liegen"
+                ],
+                [
+                    "ziehen"
+                ],
+                [
+                    "Hülle"
+                ],
+                [
+                    "Stellage"
+                ],
+                [
+                    "Seife"
+                ],
+                [
+                    "Spiegel"
+                ],
+                [
+                    "kriegen"
+                ],
+                [
+                    "Bild"
+                ],
+                [
+                    "bauen"
+                ],
+                [
+                    "Geländer"
+                ],
+                [
+                    "Hauses"
+                ],
+                [
+                    "Umgang"
+                ],
+                [
+                    "steigen"
+                ],
+                [
+                    "Hause"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "Häusel"
+                ],
+                [
+                    "Söller"
+                ]
+            ],
+            "3": [
+                [
+                    "Kammer"
+                ]
+            ],
+            "5": [
+                [
+                    "Stiege"
+                ],
+                [
+                    "Hausflur"
+                ],
+                [
+                    "Gaden"
+                ],
+                [
+                    "Dachboden"
+                ],
+                [
+                    "Stock"
+                ]
+            ],
+            "6": [
+                [
+                    "Riegel"
+                ],
+                [
+                    "Tisch"
+                ],
+                [
+                    "Bett"
+                ]
+            ],
+            "8": [
+                [
+                    "Stube"
+                ]
+            ],
+            "9": [
+                [
+                    "Tür"
+                ],
+                [
+                    "Bank"
+                ]
+            ],
+            "11": [
+                [
+                    "offenen"
+                ]
+            ],
+            "12": [
+                [
+                    "Wand"
+                ]
+            ],
+            "17": [
+                [
+                    "Herd"
+                ],
+                [
+                    "Ofen"
+                ]
+            ],
+            "27": [
+                [
+                    "Küche"
+                ],
+                [
+                    "Teile"
+                ]
+            ],
+            "76": [
+                [
+                    "Haus"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "halten",
+                    "Haus"
+                ],
+                [
+                    "Bank",
+                    "Haus"
+                ],
+                [
+                    "Fletz",
+                    "Hausflur"
+                ],
+                [
+                    "öffnen",
+                    "Tür"
+                ],
+                [
+                    "Ofen",
+                    "setzen"
+                ],
+                [
+                    "Stube",
+                    "Küche"
+                ],
+                [
+                    "Stube",
+                    "Wohnstube"
+                ],
+                [
+                    "Stiege",
+                    "Stock"
+                ],
+                [
+                    "Gaden",
+                    "Speisekammer"
+                ],
+                [
+                    "Dachboden",
+                    "Diele"
+                ],
+                [
+                    "Laube",
+                    "Gang"
+                ],
+                [
+                    "Brüstung",
+                    "Umganges"
+                ]
+            ],
+            "2": [
+                [
+                    "Ofen",
+                    "Wand"
+                ]
+            ],
+            "10": [
+                [
+                    "offenen",
+                    "Herd"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "gucken",
+                    "durchs",
+                    "Schlüsselloch"
+                ],
+                [
+                    "Wölbung",
+                    "Herd",
+                    "Schutzdach"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Ofen",
+                    "Hölle",
+                    "Wand",
+                    "Platz"
+                ],
+                [
+                    "Füße",
+                    "Teile",
+                    "Lehne",
+                    "Sitzbrett"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Unterschied"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuerhaus"
+            ],
+            "source": 0,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "halten",
+                "Haus"
+            ],
+            "source": 1,
+            "target": 27,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 1,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hause"
+            ],
+            "source": 1,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häusel"
+            ],
+            "source": 1,
+            "target": 228,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 2,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hauses"
+            ],
+            "source": 7,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 9,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 10,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 11,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 13,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 13,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 13,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 13,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 13,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 13,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 13,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaden"
+            ],
+            "source": 15,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaden"
+            ],
+            "source": 15,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaden"
+            ],
+            "source": 15,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 16,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "drücken"
+            ],
+            "source": 16,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 16,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 16,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 16,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 17,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 17,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 17,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 17,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Balken"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bauen"
+            ],
+            "source": 22,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 23,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 23,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wand"
+            ],
+            "source": 23,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gred"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 24,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 24,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 24,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 24,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 24,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Umgang"
+            ],
+            "source": 24,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank",
+                "Haus"
+            ],
+            "source": 26,
+            "target": 27,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 26,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 26,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 26,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 26,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 27,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sitzen"
+            ],
+            "source": 27,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 27,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 27,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 27,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorbau"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haustür"
+            ],
+            "source": 28,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 29,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 30,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fletz",
+                "Hausflur"
+            ],
+            "source": 31,
+            "target": 32,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hausflur"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 31,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hausflur"
+            ],
+            "source": 31,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laube",
+                "Gang"
+            ],
+            "source": 31,
+            "target": 214,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hausflur"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fußboden"
+            ],
+            "source": 32,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hausflur"
+            ],
+            "source": 32,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hausflur"
+            ],
+            "source": 33,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 35,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 35,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hintere"
+            ],
+            "source": 35,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 36,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "öffnen",
+                "Tür"
+            ],
+            "source": 36,
+            "target": 58,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 36,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 36,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 37,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 37,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tür"
+            ],
+            "source": 41,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stehen"
+            ],
+            "source": 41,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnallen"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schloß"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riegel"
+            ],
+            "source": 45,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riegel"
+            ],
+            "source": 45,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riegel"
+            ],
+            "source": 45,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlüssel"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kriegen"
+            ],
+            "source": 48,
+            "target": 193,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gucken",
+                "durchs",
+                "Schlüsselloch"
+            ],
+            "source": 49,
+            "target": 51,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Schlosserei"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 53,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riegel"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riegel"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riegel"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tor"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hoftor"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 66,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 66,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 66,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 66,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 66,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 66,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube",
+                "Küche"
+            ],
+            "source": 66,
+            "target": 198,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 67,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 67,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 67,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 67,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 67,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 69,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 69,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 69,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 69,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 70,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 70,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 70,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 71,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 71,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 71,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 72,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 72,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 72,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 72,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 72,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 72,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 72,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offener"
+            ],
+            "source": 73,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 74,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 74,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 74,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 74,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 74,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 74,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 74,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 74,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 74,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 74,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 74,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 74,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wölbung",
+                "Herd",
+                "Schutzdach"
+            ],
+            "source": 75,
+            "target": 76,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 75,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 75,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 75,
+            "target": 80,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 75,
+            "target": 81,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 75,
+            "target": 82,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 75,
+            "target": 83,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 76,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 76,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 76,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 76,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 76,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 77,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 77,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 77,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 77,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 77,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 77,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kessel"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 78,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 78,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 78,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen"
+            ],
+            "source": 78,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 79,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 79,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herd"
+            ],
+            "source": 79,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 80,
+            "target": 81,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 80,
+            "target": 82,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 80,
+            "target": 83,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 81,
+            "target": 82,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 81,
+            "target": 83,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "offenen",
+                "Herd"
+            ],
+            "source": 82,
+            "target": 83,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 89,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 89,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 98,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stübel"
+            ],
+            "source": 98,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 98,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube",
+                "Wohnstube"
+            ],
+            "source": 98,
+            "target": 198,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 99,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 99,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "legen"
+            ],
+            "source": 100,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube"
+            ],
+            "source": 100,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Plafond"
+            ],
+            "source": 101,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stubendecke"
+            ],
+            "source": 101,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stuckaturrohr"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stellage"
+            ],
+            "source": 111,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 113,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 113,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 113,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 113,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 113,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 113,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofens"
+            ],
+            "source": 117,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 117,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 117,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 117,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 117,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 117,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geländer"
+            ],
+            "source": 118,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 119,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 119,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 119,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 119,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 119,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen",
+                "setzen"
+            ],
+            "source": 121,
+            "target": 123,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 121,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 121,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 121,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen",
+                "Hölle",
+                "Wand",
+                "Platz"
+            ],
+            "source": 123,
+            "target": 124,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 123,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen",
+                "Wand"
+            ],
+            "source": 123,
+            "target": 157,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 124,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen",
+                "Wand"
+            ],
+            "source": 124,
+            "target": 157,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 125,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tisch"
+            ],
+            "source": 131,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tisch"
+            ],
+            "source": 131,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tisch"
+            ],
+            "source": 131,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tisch"
+            ],
+            "source": 132,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tisch"
+            ],
+            "source": 132,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tisch"
+            ],
+            "source": 134,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 135,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 135,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 135,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 135,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 136,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 136,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bank"
+            ],
+            "source": 138,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße",
+                "Teile",
+                "Lehne",
+                "Sitzbrett"
+            ],
+            "source": 139,
+            "target": 145,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 139,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 139,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stuhl"
+            ],
+            "source": 142,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 145,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 145,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sessel"
+            ],
+            "source": 146,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kammer"
+            ],
+            "source": 150,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kammer"
+            ],
+            "source": 150,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaden"
+            ],
+            "source": 150,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaden"
+            ],
+            "source": 150,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kammer"
+            ],
+            "source": 151,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bett"
+            ],
+            "source": 154,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bett"
+            ],
+            "source": 154,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bett"
+            ],
+            "source": 154,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegen"
+            ],
+            "source": 154,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bett"
+            ],
+            "source": 155,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bett"
+            ],
+            "source": 155,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bett"
+            ],
+            "source": 156,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bettes"
+            ],
+            "source": 159,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 159,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Polster"
+            ],
+            "source": 163,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zieche"
+            ],
+            "source": 168,
+            "target": 169,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hülle"
+            ],
+            "source": 173,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seife"
+            ],
+            "source": 188,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spiegel"
+            ],
+            "source": 191,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bild"
+            ],
+            "source": 193,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 195,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küche"
+            ],
+            "source": 196,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stiege",
+                "Stock"
+            ],
+            "source": 199,
+            "target": 200,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stiege"
+            ],
+            "source": 199,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stiege"
+            ],
+            "source": 199,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 199,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 199,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stiege"
+            ],
+            "source": 200,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stiege"
+            ],
+            "source": 200,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 200,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dachboden"
+            ],
+            "source": 200,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dachboden"
+            ],
+            "source": 200,
+            "target": 210,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dachboden"
+            ],
+            "source": 200,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 200,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stiege"
+            ],
+            "source": 201,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steigen"
+            ],
+            "source": 204,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 205,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Söller"
+            ],
+            "source": 205,
+            "target": 228,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gaden",
+                "Speisekammer"
+            ],
+            "source": 206,
+            "target": 207,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Dachboden",
+                "Diele"
+            ],
+            "source": 208,
+            "target": 210,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Dachboden"
+            ],
+            "source": 208,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dachboden"
+            ],
+            "source": 210,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brüstung",
+                "Umganges"
+            ],
+            "source": 215,
+            "target": 216,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Wirtschaftsgebäuden",
+                "Unterschied",
+                "Feuerhaus",
+                "Wohnhaus"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "daheim",
+                "Hof",
+                "niemand",
+                "lassen",
+                "Hause",
+                "Häusel",
+                "Haus",
+                "heim",
+                "komme",
+                "halten",
+                "bringen",
+                "gehe"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Hausbrauch",
+                "Aberglaube",
+                "Gehäuse",
+                "Haus"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "häuslich",
+                "hauslich"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Hausung",
+                "Behausung"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "hart",
+                "hausen",
+                "verhausen",
+                "gut",
+                "letz",
+                "leicht",
+                "schwer",
+                "schlecht"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "einhäuseln",
+                "Schnecken",
+                "verglasen",
+                "gesagt"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "aufgesetzten",
+                "gemauerte",
+                "Unterschied",
+                "Teil",
+                "untere",
+                "heißt",
+                "Mantel",
+                "hölzernen",
+                "Hauses"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Nebenwohngebäude",
+                "großen",
+                "Stöckel",
+                "Wirtschaftshofes"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "großes",
+                "kleines",
+                "Haus"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "baufälliges",
+                "Haus"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Stockwerke",
+                "Haus"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "ebenerdig"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "mehrstöckiges",
+                "Haus"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "mehrstöckig"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Stockwerk",
+                "Gaden",
+                "Mauf",
+                "Obenauf"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "vier",
+                "Wänden",
+                "Wand",
+                "drücken"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Schrotwand",
+                "Wand"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Wände",
+                "heißen",
+                "Balken",
+                "gezimmert"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Enden",
+                "Wandbalken",
+                "Schrotköpfe",
+                "übergreifende"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Schließschrote"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Tennen",
+                "Wandschrot",
+                "hervorstehender",
+                "Ställen",
+                "Balken"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "bauen",
+                "Schrotwände",
+                "schroten"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Grundbalken",
+                "Geschwell",
+                "Wand"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "soviel",
+                "Umgang",
+                "Scheiterholz",
+                "gepflasterte",
+                "aufgeschlichtete",
+                "Gred",
+                "Holz",
+                "Haus",
+                "aufschlichten",
+                "ums",
+                "gredeln"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Gredbaum",
+                "Gred",
+                "Hausumgang"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Haus",
+                "Bank"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Feierabend",
+                "sitzen",
+                "grün",
+                "Bank",
+                "Haus",
+                "halten"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Vorbau",
+                "Haustür",
+                "Brückel",
+                "Vorhaus",
+                "Pablatsch"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Vorbau",
+                "Haus"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Kreuzhaus",
+                "durchgängiges",
+                "Haus"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Laube",
+                "Fletz",
+                "Hausflur",
+                "Gang",
+                "Haus",
+                "Vorkuchel"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Fußboden",
+                "Estrich",
+                "Fletz",
+                "Hausflur",
+                "Haustenne"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "befindet",
+                "Hauskapelle",
+                "Marge",
+                "Mauerkasten",
+                "Almer",
+                "Hausflur",
+                "Sensenhalter",
+                "Kiste"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Haustür"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "vordere",
+                "seitliche",
+                "hintere",
+                "Tür",
+                "unterschieden"
+            ],
+            "id": "B4a"
+        },
+        {
+            "concepts": [
+                "durluck",
+                "Tür",
+                "nehmen",
+                "aufgetan",
+                "aufmachen",
+                "viele",
+                "Urlaub",
+                "Haus",
+                "fallen",
+                "öffnen",
+                "hinterlassen",
+                "Kinder",
+                "weit",
+                "schutzlose"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Hintertürl",
+                "Stalltür",
+                "Tür"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Falltür",
+                "Lauch"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Türschwelle",
+                "komm",
+                "Schwelle",
+                "Drischübel"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Türstock"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Türangel",
+                "türangelweit",
+                "stehen",
+                "Tür",
+                "offen",
+                "Angeln",
+                "heben",
+                "Angel"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "putzen",
+                "Türklinke",
+                "Schnallen"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Schnallendrücker",
+                "Schnallen",
+                "betteln",
+                "drücken"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Türschloß"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Schloß",
+                "Riegel"
+            ],
+            "id": "B13a"
+        },
+        {
+            "concepts": [
+                "Vorhängschloß",
+                "Haspe"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Schloß",
+                "Türe",
+                "zusperren"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "abziehen",
+                "Hausfrau",
+                "Schlüssel"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "gucken",
+                "durchs",
+                "Schlüsselloch"
+            ],
+            "id": "B16a"
+        },
+        {
+            "concepts": [
+                "Nachschlüssel",
+                "Schlüssel",
+                "Schlüsselbund"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "gucken",
+                "durchs",
+                "Schlüsselloch"
+            ],
+            "id": "B17a"
+        },
+        {
+            "concepts": [
+                "Schlosser",
+                "Schlossermeister",
+                "Schlosserei"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Eisen",
+                "Drahtzieher",
+                "löten",
+                "Werkzeuge",
+                "Arbeiten",
+                "Schmiedeeisen",
+                "Eisenfeilspäne",
+                "Fachausdrücke",
+                "Schlosserei",
+                "Materialien",
+                "Draht",
+                "Stahl",
+                "ziehen",
+                "Blech",
+                "Messing",
+                "Lötkolben"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Schnapper",
+                "Keil",
+                "Türverschlüsse",
+                "Fürfletz",
+                "Riegel"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "vorschieben",
+                "schießen",
+                "Riegel"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Riegelholz",
+                "Riegel"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Türbalken",
+                "oberer",
+                "Übertür"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Tor",
+                "öffnen",
+                "Tür"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Tor",
+                "Türwogl",
+                "Torsäule",
+                "Tenntor"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Hoftor"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Hofmauer"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "neben",
+                "Türchen",
+                "Hoftor"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Türfensterchen",
+                "Guckerl"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Türklopfer"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Türspalte"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "ausgezankt",
+                "Kuchel",
+                "Stube",
+                "Küche",
+                "Keller",
+                "kommen",
+                "Putzkuchel"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Kuchelalmer",
+                "Trichterküche",
+                "Gewürz",
+                "Küchenmagd",
+                "Küche",
+                "Küchenpersonal",
+                "Kuchlerin"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Küchengewölbe"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Mädchen",
+                "besuchen",
+                "kucheln",
+                "Küche"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Rauchstube",
+                "Feuerhaus",
+                "schwarze",
+                "Küche"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Heizstatt",
+                "Feuerstätte",
+                "Küche"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Herd",
+                "häusliche",
+                "Goldes",
+                "eigener",
+                "wert"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "offener",
+                "Sparherd"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Herdrand",
+                "Wichelstein",
+                "Unterbau",
+                "offenen",
+                "Feuerloch",
+                "Herdes",
+                "Teile"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Herd",
+                "Schutzdach",
+                "Wölbung",
+                "Kobel",
+                "Feuerhut",
+                "offenen"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Herd",
+                "Schutzdach",
+                "Wölbung",
+                "darüber",
+                "Kobelherd",
+                "offener"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Aschenkasten",
+                "Scheff",
+                "Herdringe",
+                "Herdplatte",
+                "Schür",
+                "Öfelein",
+                "Wasserbehälter",
+                "Bratrohr",
+                "Heizung",
+                "Sparherdes",
+                "Schiff",
+                "Rost",
+                "Teile"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "offenen",
+                "Kessel",
+                "großer",
+                "Feuer"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Herd",
+                "Feuerhengst",
+                "offenem",
+                "Kessel",
+                "Hahel",
+                "Kesselkran",
+                "Herdkette"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Pfannenstielhalter",
+                "Herd",
+                "offenen",
+                "Gack"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Herd",
+                "Reiter",
+                "Pfannknecht",
+                "verschiebbarem",
+                "Dreifuß",
+                "offenen"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Herd",
+                "Feuerschragen",
+                "offenen",
+                "Auflegen",
+                "Scheite",
+                "Ständer"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "offenen",
+                "Herd",
+                "Kesselhaken"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Feuerzange"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Feuerkrucke",
+                "Heizhaken",
+                "Ofengabel"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Brandschaufel"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "schreiben",
+                "Schlot",
+                "hängen",
+                "Kutte",
+                "Schornstein",
+                "Hurd",
+                "Rauchfang"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Schlotfeger",
+                "Rauchfangkehrer"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Rauchabzugloch",
+                "schwarzen",
+                "Küche"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Schlotkappe"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Küchenkasten"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Küchentisch"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Tellerbrett"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "Schüsselkorb"
+            ],
+            "id": "C28a"
+        },
+        {
+            "concepts": [
+                "Kelltattel",
+                "Kochlöffel",
+                "Halter",
+                "Quirl"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Behälter",
+                "Salz",
+                "Mehl",
+                "Taue"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Gewürzkästchen"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "hintere",
+                "Stübel",
+                "Stube",
+                "voll",
+                "Kinder",
+                "Wohnstube"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Heidenstube",
+                "Stübelbrot",
+                "Felsenhöhle",
+                "Stubenhocker",
+                "Bräustübel",
+                "Stube"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Fußboden",
+                "Lehm",
+                "legen",
+                "Stube",
+                "Brettern"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Plafond",
+                "Stubendecke"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Tüppelbaum",
+                "Plafond",
+                "Tram",
+                "Tragbalken"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Tüppelboden"
+            ],
+            "id": "D5a"
+        },
+        {
+            "concepts": [
+                "Holznägeln",
+                "Mittelbalken",
+                "Unterzug",
+                "versehener",
+                "Inschriften",
+                "Röstbaum"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "legen",
+                "Trame",
+                "tramen"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Rehmling",
+                "Plafondbretter"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Stürzladen",
+                "zweite",
+                "Bretterlage"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Stuckaturrohr"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "befestigen",
+                "anrohren",
+                "Stuckaturrohr"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Ventilationsklappe"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Stubendecke",
+                "Obst",
+                "unterhalb",
+                "Aufschütten",
+                "Stellage",
+                "Bühne"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Stubenofen"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Ofen",
+                "sitzen"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Kachelofen"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Ofenkacheln"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Kimi",
+                "Kemich",
+                "Kamin"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Aschenloch",
+                "kupfernes",
+                "Schuber",
+                "Ofenloch",
+                "Wasserhafen",
+                "Ofenröhre",
+                "Ofens",
+                "Becken",
+                "Kohlenschaufel",
+                "Teile"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Geländer",
+                "oberhalb",
+                "Ofens"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Ofen",
+                "raucht"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "Hafner",
+                "Ofensetzer",
+                "Ofner"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Ofen",
+                "ofnen",
+                "setzen"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Ofenbank"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Hölle",
+                "Wand",
+                "setzen",
+                "Ofen",
+                "Höll",
+                "Platz"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Hölle",
+                "Wand",
+                "Ofen",
+                "Höllmauer",
+                "Platz"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Holzpritsche",
+                "Pograt",
+                "Ofen"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "Hausapotheke"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "Hausaltar",
+                "Herrgottswinkel"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Kasten",
+                "Schrank"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "Gläserkasten",
+                "Glaskästchen"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "Schubladkasten"
+            ],
+            "id": "D32"
+        },
+        {
+            "concepts": [
+                "rücken",
+                "stehen",
+                "Tisch",
+                "Tische"
+            ],
+            "id": "D33"
+        },
+        {
+            "concepts": [
+                "Tischzeug",
+                "Tisch"
+            ],
+            "id": "D34"
+        },
+        {
+            "concepts": [
+                "Tischarten",
+                "Klapptisch"
+            ],
+            "id": "D35"
+        },
+        {
+            "concepts": [
+                "niederklappen",
+                "Tisch"
+            ],
+            "id": "D36"
+        },
+        {
+            "concepts": [
+                "Tisches",
+                "Tischplatte",
+                "Teile"
+            ],
+            "id": "D37"
+        },
+        {
+            "concepts": [
+                "schieben",
+                "lange",
+                "Bank"
+            ],
+            "id": "D38"
+        },
+        {
+            "concepts": [
+                "Wandbank",
+                "feste"
+            ],
+            "id": "D39a"
+        },
+        {
+            "concepts": [
+                "Fürbank",
+                "Bank"
+            ],
+            "id": "D39b"
+        },
+        {
+            "concepts": [
+                "Sitzbrett",
+                "Bank",
+                "Füße",
+                "Lehne",
+                "Teile"
+            ],
+            "id": "D40"
+        },
+        {
+            "concepts": [
+                "Fleiwensack",
+                "Polsterbank"
+            ],
+            "id": "D41"
+        },
+        {
+            "concepts": [
+                "Kanapee",
+                "Sofa",
+                "Divan"
+            ],
+            "id": "D42"
+        },
+        {
+            "concepts": [
+                "Stuhl",
+                "dasitzen",
+                "ungepolstert"
+            ],
+            "id": "D43"
+        },
+        {
+            "concepts": [
+                "Stuhl",
+                "Gesottstuhl",
+                "Stuhlschreiber"
+            ],
+            "id": "D44"
+        },
+        {
+            "concepts": [
+                "Gestül"
+            ],
+            "id": "D45"
+        },
+        {
+            "concepts": [
+                "Sitzbrett",
+                "Füße",
+                "Stuhles",
+                "Lehne",
+                "Teile"
+            ],
+            "id": "D46"
+        },
+        {
+            "concepts": [
+                "Sessel",
+                "gepolstert"
+            ],
+            "id": "D47"
+        },
+        {
+            "concepts": [
+                "Sessel",
+                "Sesselreiter",
+                "Tragsessel",
+                "Schreiber"
+            ],
+            "id": "D48"
+        },
+        {
+            "concepts": [
+                "Teppich"
+            ],
+            "id": "D49"
+        },
+        {
+            "concepts": [
+                "Laufteppich",
+                "Teppicharten",
+                "Bettvorleger"
+            ],
+            "id": "D50"
+        },
+        {
+            "concepts": [
+                "Schlafraum",
+                "Gaden",
+                "Kammer",
+                "Stübel"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Kammerwald",
+                "Kammer"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Kämmerling",
+                "Kämmerlingsonntag"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Liegestatt",
+                "Bettstelle"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "Bett",
+                "frisches",
+                "weiches",
+                "aufschlagen",
+                "hartes",
+                "richten",
+                "Tisch",
+                "fallen",
+                "liegen",
+                "rüsten"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Bettgeher",
+                "liegerhaft",
+                "Bett",
+                "Laubbett"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Staffelbett",
+                "feststehendes",
+                "Bett",
+                "zweischläferiges",
+                "Bettarten"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Pritsche",
+                "Wand",
+                "Ofen",
+                "Gäste",
+                "Hennenbruck"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Bidl",
+                "Bett",
+                "Gebitt",
+                "Untergebitt",
+                "SammelN"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Bettes",
+                "Bettstaffel",
+                "Bettgestell",
+                "treten",
+                "Drahtmatratze",
+                "Teile"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Häupten",
+                "Fußende",
+                "Bettes",
+                "Füßen"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Bettzeug"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "GesamtN",
+                "Bettgewand",
+                "Stücke",
+                "Bettüberzuges"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Polster"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Kopfpolster",
+                "Kissen",
+                "Kisch"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "kochen",
+                "Polster",
+                "Polstern",
+                "Streupolster",
+                "Polsterzipf",
+                "Polstersuppe",
+                "faul",
+                "herumliegen"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Federbett",
+                "Tuchent"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Bettsack"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Federbettüberzug",
+                "Zieche"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Zieche",
+                "Kißzieche",
+                "Ziechhaupt",
+                "Tuchentüberzug"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Federritten",
+                "Inlet",
+                "Tuchentstoff"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Gradl",
+                "Matratzenstoff"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Leilach",
+                "liegen",
+                "Bettuch",
+                "Betthuder"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Ohren",
+                "einfache",
+                "Decke",
+                "Bettdecke",
+                "ziehen",
+                "Hülle"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Hülle",
+                "Hüllzeug"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "Golterzipf",
+                "Steppdecke",
+                "heute",
+                "genagt",
+                "Golter"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "Bettüberdecke"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "Bettkastel",
+                "Nachtkasten"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "Scherben",
+                "Nachtgeschirr",
+                "Kachel"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "Stellage",
+                "Zinnâse",
+                "Stelle"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "Stiefelknecht"
+            ],
+            "id": "E31"
+        },
+        {
+            "concepts": [
+                "Waschtisch"
+            ],
+            "id": "E32"
+        },
+        {
+            "concepts": [
+                "Zwachnüscherl",
+                "Lavoir",
+                "Waschbecken"
+            ],
+            "id": "E33"
+        },
+        {
+            "concepts": [
+                "zwahen",
+                "waschen"
+            ],
+            "id": "E34"
+        },
+        {
+            "concepts": [
+                "Wasserkrug"
+            ],
+            "id": "E35"
+        },
+        {
+            "concepts": [
+                "Waschfleck"
+            ],
+            "id": "E36"
+        },
+        {
+            "concepts": [
+                "Handtuch",
+                "Wischelhudel"
+            ],
+            "id": "E37"
+        },
+        {
+            "concepts": [
+                "Schwamm"
+            ],
+            "id": "E38"
+        },
+        {
+            "concepts": [
+                "Seife"
+            ],
+            "id": "E39"
+        },
+        {
+            "concepts": [
+                "Seife",
+                "Seifenschaum"
+            ],
+            "id": "E40"
+        },
+        {
+            "concepts": [
+                "Badewanne"
+            ],
+            "id": "E41"
+        },
+        {
+            "concepts": [
+                "Spiegel"
+            ],
+            "id": "E42"
+        },
+        {
+            "concepts": [
+                "Spiegel",
+                "Stehspiegel",
+                "spiegelglatt"
+            ],
+            "id": "E43"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "einlegen",
+                "Bildl",
+                "Bild"
+            ],
+            "id": "E44"
+        },
+        {
+            "concepts": [
+                "Ebenbild",
+                "Bildwerk",
+                "Bilderbuch",
+                "Bild"
+            ],
+            "id": "E45"
+        },
+        {
+            "concepts": [
+                "Ziergegenstände",
+                "sonstige"
+            ],
+            "id": "E46"
+        },
+        {
+            "concepts": [
+                "Hauskammer",
+                "Küche"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Ausnahmstübel"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Zweck",
+                "Kammer",
+                "Wohnstube",
+                "schöne",
+                "obenaufige",
+                "Stube",
+                "Arbeitsstübel",
+                "Hochstube",
+                "gute",
+                "Kreuzstübel",
+                "Küche",
+                "Schlafkammer"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Stiege",
+                "Erdgeschoß",
+                "Stock",
+                "Bruck"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Stiege",
+                "Dachboden",
+                "Stock",
+                "Speicherstiege"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Stiege",
+                "Staffel",
+                "Himmel",
+                "Tritt",
+                "bauen",
+                "Geländer",
+                "Stapfe",
+                "Stufe",
+                "Treppe",
+                "Teile"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Wendeltreppe"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Außenstiege"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Stiege",
+                "stapfelsteigen",
+                "stapfeln",
+                "steigen"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Söller",
+                "Stock",
+                "Hausflur",
+                "Laubboden"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Gaden",
+                "Speisekammer",
+                "Speis"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Zehrgaden",
+                "Gaden",
+                "Speisekammer",
+                "Milch"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Unterdach",
+                "Diel",
+                "Dachboden",
+                "Speicher",
+                "hoh",
+                "Diele"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Koscht",
+                "Getreidekiste",
+                "Mehltruhe",
+                "Hutzelkiste",
+                "Bodens"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Dachboden",
+                "Kammerdiele",
+                "Dielenbatzeln",
+                "Diele"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Dachkammer"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Hochboden",
+                "Gewandgang",
+                "Dachbodenflur"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Dachboden",
+                "Lehmfußboden"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "Brückl",
+                "Umgang",
+                "Laube",
+                "Fürlaube",
+                "Bühnl",
+                "Stock",
+                "Gang",
+                "außerhalb",
+                "Altane",
+                "Schrot",
+                "Hauses"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Brüstung",
+                "Umganges"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "Umganges",
+                "Brüstung",
+                "Verzierungen",
+                "laufende",
+                "Hund"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "Gerüst",
+                "außen",
+                "worauf",
+                "Brennholz",
+                "bestimmte",
+                "aufgeschlichtet",
+                "Trocknen",
+                "Hause",
+                "Stangen"
+            ],
+            "id": "F21a"
+        },
+        {
+            "concepts": [
+                "Laubendille"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Hauskeller"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Hauskellers",
+                "drehbares",
+                "Lebensmittel",
+                "Gestell",
+                "Trandel",
+                "hängendes"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Mägdekammer",
+                "Dienstbotenkammer"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "Zimmer",
+                "Getreidekammer"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Waschhaus"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Waschkessel"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Sechtelofen",
+                "Waschküche"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "Eimer",
+                "Sechter",
+                "Bottich",
+                "Waschtrog",
+                "Brente",
+                "Gatze",
+                "Zuber",
+                "Schaff",
+                "Waschgefäße"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "Waschhauses",
+                "Rührlöffel",
+                "Rumpel",
+                "sonstige"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "Söller",
+                "Abort",
+                "Gangl",
+                "Häusel",
+                "Holder",
+                "Hütte"
+            ],
+            "id": "F32"
+        }
+    ]
+}

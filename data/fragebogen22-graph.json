@@ -1,0 +1,2519 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Knöchel"
+                ],
+                [
+                    "knöchlet"
+                ],
+                [
+                    "verwendet"
+                ],
+                [
+                    "fest"
+                ],
+                [
+                    "stark"
+                ],
+                [
+                    "beinig"
+                ],
+                [
+                    "beinerig"
+                ],
+                [
+                    "Gegenmittel"
+                ],
+                [
+                    "Menschen"
+                ],
+                [
+                    "Beinel"
+                ],
+                [
+                    "Volksmund"
+                ],
+                [
+                    "aufs"
+                ]
+            ],
+            "2": [
+                [
+                    "essen"
+                ],
+                [
+                    "Flachs"
+                ],
+                [
+                    "Vb"
+                ]
+            ],
+            "3": [
+                [
+                    "Wort"
+                ]
+            ],
+            "4": [
+                [
+                    "Knorpel"
+                ]
+            ],
+            "5": [
+                [
+                    "Beiner"
+                ]
+            ],
+            "9": [
+                [
+                    "Knochen"
+                ],
+                [
+                    "Muskel"
+                ]
+            ],
+            "22": [
+                [
+                    "Sehne"
+                ]
+            ],
+            "85": [
+                [
+                    "Bein"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "knochig",
+                    "knochet"
+                ],
+                [
+                    "Stein",
+                    "Bein"
+                ],
+                [
+                    "essen",
+                    "Bein"
+                ],
+                [
+                    "Beinbruch",
+                    "Knochenbruch"
+                ],
+                [
+                    "Beiner",
+                    "Bein"
+                ],
+                [
+                    "Bein",
+                    "Knochen"
+                ],
+                [
+                    "kruschpeln",
+                    "knorpeln"
+                ]
+            ],
+            "2": [
+                [
+                    "Flachs",
+                    "Flechse"
+                ]
+            ],
+            "5": [
+                [
+                    "Flachs",
+                    "Sehne"
+                ]
+            ],
+            "6": [
+                [
+                    "Knorpel",
+                    "Kruschpel"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Vb",
+                    "beziehend",
+                    "Bein"
+                ],
+                [
+                    "verstärkendem",
+                    "Sinn",
+                    "Bein"
+                ],
+                [
+                    "Flachs",
+                    "Sehne",
+                    "Flechse"
+                ],
+                [
+                    "Maus",
+                    "Mäusel",
+                    "Muskel"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Knöchel"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein",
+                "Knochen"
+            ],
+            "source": 0,
+            "target": 39,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 0,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "knöchlet"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "knochig",
+                "knochet"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fest"
+            ],
+            "source": 9,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 9,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 10,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Menschen"
+            ],
+            "source": 10,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 11,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knochen"
+            ],
+            "source": 11,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 11,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 11,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 12,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beiner"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stein",
+                "Bein"
+            ],
+            "source": 13,
+            "target": 20,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beiner",
+                "Bein"
+            ],
+            "source": 13,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beiner"
+            ],
+            "source": 13,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinel"
+            ],
+            "source": 13,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 13,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aufs"
+            ],
+            "source": 13,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 14,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beiner"
+            ],
+            "source": 16,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beiner"
+            ],
+            "source": 16,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 17,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "beziehend",
+                "Bein"
+            ],
+            "source": 18,
+            "target": 19,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 18,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 18,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 18,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 18,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 18,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 18,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 18,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen",
+                "Bein"
+            ],
+            "source": 19,
+            "target": 23,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 19,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 19,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 19,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 19,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 19,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 19,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 19,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stark"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 20,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 20,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 20,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 20,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 20,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beinig"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 23,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 23,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 23,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 23,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 23,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 23,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beinerig"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksmund"
+            ],
+            "source": 28,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinbruch",
+                "Knochenbruch"
+            ],
+            "source": 34,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beiner"
+            ],
+            "source": 38,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 38,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 39,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verstärkendem",
+                "Sinn",
+                "Bein"
+            ],
+            "source": 40,
+            "target": 44,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 40,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 44,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knorpel",
+                "Kruschpel"
+            ],
+            "source": 47,
+            "target": 48,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knorpel",
+                "Kruschpel"
+            ],
+            "source": 47,
+            "target": 49,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knorpel"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knorpel",
+                "Kruschpel"
+            ],
+            "source": 47,
+            "target": 51,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knorpel",
+                "Kruschpel"
+            ],
+            "source": 48,
+            "target": 49,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knorpel"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knorpel",
+                "Kruschpel"
+            ],
+            "source": 48,
+            "target": 51,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knorpel"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knorpel",
+                "Kruschpel"
+            ],
+            "source": 49,
+            "target": 51,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Knorpel"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kruschpeln",
+                "knorpeln"
+            ],
+            "source": 53,
+            "target": 54,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Flechse"
+            ],
+            "source": 55,
+            "target": 56,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 55,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs"
+            ],
+            "source": 55,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Flechse"
+            ],
+            "source": 55,
+            "target": 60,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Sehne"
+            ],
+            "source": 56,
+            "target": 58,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Sehne"
+            ],
+            "source": 56,
+            "target": 59,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Sehne",
+                "Flechse"
+            ],
+            "source": 56,
+            "target": 60,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 56,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 56,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 56,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 56,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Sehne"
+            ],
+            "source": 58,
+            "target": 59,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Sehne"
+            ],
+            "source": 58,
+            "target": 60,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 58,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 58,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 58,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 58,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flachs",
+                "Sehne"
+            ],
+            "source": 59,
+            "target": 60,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 59,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 59,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 59,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 62,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 63,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sehne"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 68,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 68,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 69,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 69,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 70,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muskel"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maus",
+                "Mäusel",
+                "Muskel"
+            ],
+            "source": 73,
+            "target": 74,
+            "target_group": [
+                3,
+                1,
+                3
+            ],
+            "weight": 3
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Knöchel",
+                "gegenüber",
+                "gleiche",
+                "allein",
+                "Haut",
+                "Tier",
+                "Bein",
+                "Mensch",
+                "Knochen"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Knöchel"
+            ],
+            "id": "D1a"
+        },
+        {
+            "concepts": [
+                "Sg",
+                "Knocken"
+            ],
+            "id": "D1b"
+        },
+        {
+            "concepts": [
+                "knöchern"
+            ],
+            "id": "D1c"
+        },
+        {
+            "concepts": [
+                "knöcheln"
+            ],
+            "id": "D1d"
+        },
+        {
+            "concepts": [
+                "knöchlet"
+            ],
+            "id": "D1e"
+        },
+        {
+            "concepts": [
+                "knöchlet",
+                "feinknöchlet",
+                "häufig"
+            ],
+            "id": "D1f"
+        },
+        {
+            "concepts": [
+                "Grad",
+                "knochig",
+                "knochet"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "starkknochig",
+                "knochig",
+                "knochet"
+            ],
+            "id": "D2a"
+        },
+        {
+            "concepts": [
+                "faulig",
+                "fest",
+                "bröslet",
+                "mürb",
+                "stinkend",
+                "elend",
+                "Knochen"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Tierknochen",
+                "Menschen",
+                "Körperstelle",
+                "Verw",
+                "Kinderknöcherl",
+                "Knochen",
+                "Schinkenknochen",
+                "Herkunft",
+                "Knöche"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Wort",
+                "woher",
+                "Knochenmehl",
+                "Knochengeruch",
+                "verwendet",
+                "Skelett",
+                "Knochenfraß",
+                "Dünger",
+                "erster",
+                "Knochenmann",
+                "kommend",
+                "Gegenmittel",
+                "Knochen"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "untere",
+                "Gliedmaße",
+                "Sinne",
+                "Bein"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "tun",
+                "hinein",
+                "zusammenpack",
+                "aufs",
+                "weh",
+                "Gras",
+                "schauen",
+                "Fleisch",
+                "heraus",
+                "Stein",
+                "Rain",
+                "lassen",
+                "übrig",
+                "beste",
+                "Beinel",
+                "Bein",
+                "gehn",
+                "Beiner",
+                "beim"
+            ],
+            "id": "E1a"
+        },
+        {
+            "concepts": [
+                "kleine",
+                "Bein"
+            ],
+            "id": "E1b"
+        },
+        {
+            "concepts": [
+                "Hauptbein"
+            ],
+            "id": "E1c"
+        },
+        {
+            "concepts": [
+                "Beiner",
+                "heiligen",
+                "Reliquien"
+            ],
+            "id": "E1d"
+        },
+        {
+            "concepts": [
+                "letzteren",
+                "Beineret",
+                "vorhanden",
+                "Gebein",
+                "Beinerwerk",
+                "Beinerach",
+                "Form",
+                "Nebensinn",
+                "Poandrach",
+                "Bein",
+                "Beinerzeug",
+                "Beinert",
+                "SammelN"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Zustände",
+                "krachen",
+                "Vb",
+                "springen",
+                "aushergehn",
+                "wackeln",
+                "brechen",
+                "splittern",
+                "klappern",
+                "schnackeln",
+                "Bein",
+                "Beins",
+                "scheppern",
+                "schnellen",
+                "schnalzen",
+                "wachsen",
+                "beziehend"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "zerbeißen",
+                "Vb",
+                "zuzeln",
+                "gesund",
+                "fieseln",
+                "gilt",
+                "schnullen",
+                "fressen",
+                "stärkend",
+                "Handlungen",
+                "essen",
+                "Bein",
+                "beißen",
+                "her",
+                "umeinanderfeckeln",
+                "beziehend"
+            ],
+            "id": "E3a"
+        },
+        {
+            "concepts": [
+                "Spatz",
+                "dünn",
+                "fest",
+                "dick",
+                "stark",
+                "Stein",
+                "fein",
+                "Zündhölzel",
+                "fe",
+                "Bleistift",
+                "klein",
+                "Trumm",
+                "Holz",
+                "schwach",
+                "Bein",
+                "schmächtig",
+                "graziös",
+                "schon",
+                "grazil",
+                "groß"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "stark",
+                "Steigerungsformen",
+                "gebaut",
+                "beinig"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "beinig",
+                "halsbeinig"
+            ],
+            "id": "E5a"
+        },
+        {
+            "concepts": [
+                "beine",
+                "beinernen",
+                "Bein",
+                "Knie",
+                "Tisch",
+                "essen",
+                "gemacht",
+                "gesagt",
+                "Zahn"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "beinerig"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "beinerig",
+                "grobbeinerig"
+            ],
+            "id": "E7a"
+        },
+        {
+            "concepts": [
+                "beinert",
+                "beineret"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Strumpf",
+                "Geschlechtsteil",
+                "Beinling"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Beinkrankheit",
+                "Volksmund",
+                "soweit",
+                "Namen",
+                "Gegenmittel"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Knochenverletzung",
+                "Beinschrot"
+            ],
+            "id": "E10a"
+        },
+        {
+            "concepts": [
+                "knochenkrank",
+                "beinschrotig"
+            ],
+            "id": "E10b"
+        },
+        {
+            "concepts": [
+                "Knochenverrenkung"
+            ],
+            "id": "E10c"
+        },
+        {
+            "concepts": [
+                "Beingeschwulst",
+                "Auswuchs",
+                "knochenartiger"
+            ],
+            "id": "E10d"
+        },
+        {
+            "concepts": [
+                "Überbein",
+                "Beinwachs"
+            ],
+            "id": "E10e"
+        },
+        {
+            "concepts": [
+                "Knochenbruch",
+                "Beinbruch",
+                "beschreiben",
+                "Beinbruchsegen",
+                "anführen",
+                "Heilung"
+            ],
+            "id": "E10f"
+        },
+        {
+            "concepts": [
+                "beinbrüchig"
+            ],
+            "id": "E10g"
+        },
+        {
+            "concepts": [
+                "Schulterbeinbruch",
+                "Beinbruch",
+                "Beinbruchdoktor",
+                "Knochenbruch"
+            ],
+            "id": "E10h"
+        },
+        {
+            "concepts": [
+                "Segen",
+                "Beinfraß"
+            ],
+            "id": "E10i"
+        },
+        {
+            "concepts": [
+                "Tierbein",
+                "üblicher",
+                "Fischbein",
+                "Kopf",
+                "Kinnbein",
+                "Menschenbein",
+                "Gesichtsbeiner",
+                "Bein",
+                "Gesicht",
+                "Beiner"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Knochen",
+                "Beinhaut",
+                "Bein"
+            ],
+            "id": "E11a"
+        },
+        {
+            "concepts": [
+                "verstärkendem",
+                "beinhart",
+                "Sinn",
+                "Bein"
+            ],
+            "id": "E11b"
+        },
+        {
+            "concepts": [
+                "Menschen",
+                "Beinerhäusel",
+                "genannt",
+                "Beinerbeißer",
+                "wer",
+                "Beiner",
+                "weit"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Beindlstürer",
+                "Knochensammler",
+                "Beindlvieh",
+                "Vieh",
+                "Bialbeinl",
+                "Rauhnachtsprüchen",
+                "mageres",
+                "Beindl",
+                "Beinel",
+                "grobbeinelt"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "en",
+                "boan",
+                "boin",
+                "beinen",
+                "einhinbeinen",
+                "boana",
+                "schelten"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "verstärkendem",
+                "Wort",
+                "frpoant",
+                "verdammt",
+                "belegen",
+                "Kerl",
+                "verstockt",
+                "verbeinen",
+                "Bein",
+                "unempfindlich",
+                "verbeint",
+                "gescheiter",
+                "frpant",
+                "Sinn",
+                "verdammen",
+                "verflucht",
+                "versessen"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "beineln",
+                "dafür",
+                "Bein"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "sterben",
+                "abbeineln"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Mädchen",
+                "Knorpel",
+                "Gruschpl",
+                "Kruschkel",
+                "spröden",
+                "Krustel",
+                "Pflanzen",
+                "Kruschpel"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Knorpel",
+                "Kruschpel"
+            ],
+            "id": "F1a"
+        },
+        {
+            "concepts": [
+                "Knorpel",
+                "let",
+                "Gekruschp",
+                "Gekruschpl",
+                "ach",
+                "Kruschpel",
+                "Kruspelwerch"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Kruspel",
+                "Knorpel"
+            ],
+            "id": "F2a"
+        },
+        {
+            "concepts": [
+                "Knorpel",
+                "Kruschpel",
+                "Kruschpelholz",
+                "Nasenkruschpel"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "kruschpelicht",
+                "kruschpelig",
+                "knorpelig",
+                "resch"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "kruschpeln",
+                "gelten",
+                "krüschkeln",
+                "überhaupt",
+                "krüschpeln",
+                "beurteilt",
+                "krachend",
+                "knorpeln",
+                "Kruspeln",
+                "knirschend",
+                "Fleischarten",
+                "essen",
+                "abfällig"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "kruschpeln",
+                "verkruschpeln",
+                "knorpeln"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Flachs",
+                "Flachsen",
+                "überreißen",
+                "Flechse"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Flachs",
+                "Sehne",
+                "Flechse"
+            ],
+            "id": "G1a"
+        },
+        {
+            "concepts": [
+                "Flachsader"
+            ],
+            "id": "G1b"
+        },
+        {
+            "concepts": [
+                "Gflachswerch",
+                "Geflächse",
+                "überall",
+                "Sehne",
+                "Geflachseret",
+                "Flachs",
+                "Geflachset",
+                "Flachsenzeug"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Flachs",
+                "Sehne"
+            ],
+            "id": "G2a"
+        },
+        {
+            "concepts": [
+                "Sehne",
+                "Flechse",
+                "Flachsenhaut",
+                "Flachs",
+                "sonstige"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "flechsig",
+                "flachsicht"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "ersetzt",
+                "wodurch",
+                "Bogensehne",
+                "Sehne"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "tot",
+                "lahm",
+                "Sehne",
+                "gelähmt"
+            ],
+            "id": "G5a"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "zerren",
+                "lähmen",
+                "ver",
+                "dehnen",
+                "Sehne",
+                "zerreißen"
+            ],
+            "id": "G5b"
+        },
+        {
+            "concepts": [
+                "Sehnader"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "dagegen",
+                "Sehne",
+                "Sehnendehnung",
+                "Kniesehne",
+                "Mittel"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "sehnig"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Muskel",
+                "Muschgl"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Muskel",
+                "Verbindungen"
+            ],
+            "id": "G9a"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Muskel"
+            ],
+            "id": "G9b"
+        },
+        {
+            "concepts": [
+                "Muskulatur"
+            ],
+            "id": "G9c"
+        },
+        {
+            "concepts": [
+                "Begriff",
+                "muskulös",
+                "Volksmund",
+                "wiedergegeben",
+                "muskelig"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Maus",
+                "Wort",
+                "Fleischsorte",
+                "nennt",
+                "aufs",
+                "wann",
+                "Mäusel",
+                "Muskel",
+                "Mäuslein",
+                "Mäuserl",
+                "gekriegt",
+                "fürher",
+                "eins",
+                "läuft"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Maus",
+                "Mäusel",
+                "Muskel",
+                "Mausfleisch",
+                "Mäuselstück",
+                "Armmaus"
+            ],
+            "id": "G11a"
+        },
+        {
+            "concepts": [
+                "Muskels",
+                "Krankheiten",
+                "Schwäche"
+            ],
+            "id": "G12"
+        }
+    ]
+}

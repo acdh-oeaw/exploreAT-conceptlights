@@ -1,0 +1,2378 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Garten"
+                ],
+                [
+                    "Kohl"
+                ],
+                [
+                    "Rübe"
+                ],
+                [
+                    "Apfel"
+                ],
+                [
+                    "Speisen"
+                ],
+                [
+                    "Birne"
+                ],
+                [
+                    "Äpfel"
+                ],
+                [
+                    "Vorrichtungen"
+                ],
+                [
+                    "reiben"
+                ],
+                [
+                    "Prunus"
+                ],
+                [
+                    "Branntwein"
+                ],
+                [
+                    "Kirschen"
+                ],
+                [
+                    "Kirsche"
+                ],
+                [
+                    "Nüsse"
+                ],
+                [
+                    "Nuß"
+                ],
+                [
+                    "weiße"
+                ],
+                [
+                    "Ribis"
+                ]
+            ],
+            "2": [
+                [
+                    "besondere"
+                ],
+                [
+                    "Kastanie"
+                ]
+            ],
+            "3": [
+                [
+                    "Grabschmuck"
+                ],
+                [
+                    "Obst"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Sorten"
+                ]
+            ],
+            "6": [
+                [
+                    "Kraut"
+                ],
+                [
+                    "Most"
+                ],
+                [
+                    "Birnen"
+                ],
+                [
+                    "Zwetschken"
+                ]
+            ],
+            "8": [
+                [
+                    "Ausdrücke"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Ausdrücke",
+                    "Rasen"
+                ],
+                [
+                    "besondere",
+                    "Ausdrücke"
+                ],
+                [
+                    "Kesten",
+                    "Kastanie"
+                ],
+                [
+                    "gelber",
+                    "blauer"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Hutzel",
+                    "Klôze",
+                    "Dörrbirne",
+                    "Klöze"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Garten"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 3,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Rasen"
+            ],
+            "source": 4,
+            "target": 5,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 4,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 4,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke"
+            ],
+            "source": 4,
+            "target": 137,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 5,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 5,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 5,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelber",
+                "blauer"
+            ],
+            "source": 11,
+            "target": 174,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "weiße"
+            ],
+            "source": 13,
+            "target": 171,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grabschmuck"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grabschmuck"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grabschmuck"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kraut"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kraut"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kraut"
+            ],
+            "source": 75,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kraut"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kraut"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kraut"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 77,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 77,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kohl"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rübe"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reiben"
+            ],
+            "source": 92,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Obst"
+            ],
+            "source": 116,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Obst"
+            ],
+            "source": 116,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Apfel"
+            ],
+            "source": 117,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 119,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 119,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speisen"
+            ],
+            "source": 120,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Äpfel"
+            ],
+            "source": 120,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Birne"
+            ],
+            "source": 122,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Birnen"
+            ],
+            "source": 123,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Birnen"
+            ],
+            "source": 123,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Birnen"
+            ],
+            "source": 123,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Birnen"
+            ],
+            "source": 125,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorrichtungen"
+            ],
+            "source": 125,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Birnen"
+            ],
+            "source": 125,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hutzel",
+                "Klôze",
+                "Dörrbirne",
+                "Klöze"
+            ],
+            "source": 126,
+            "target": 127,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Birnen"
+            ],
+            "source": 128,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Obst"
+            ],
+            "source": 130,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 131,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 134,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Most"
+            ],
+            "source": 139,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Most"
+            ],
+            "source": 139,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Most"
+            ],
+            "source": 139,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Most"
+            ],
+            "source": 141,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Most"
+            ],
+            "source": 141,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Most"
+            ],
+            "source": 142,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Prunus"
+            ],
+            "source": 147,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwetschken"
+            ],
+            "source": 148,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwetschken"
+            ],
+            "source": 148,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwetschken"
+            ],
+            "source": 148,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Branntwein"
+            ],
+            "source": 151,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwetschken"
+            ],
+            "source": 151,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwetschken"
+            ],
+            "source": 151,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirschen"
+            ],
+            "source": 151,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nüsse"
+            ],
+            "source": 151,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ribis"
+            ],
+            "source": 151,
+            "target": 171,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zwetschken"
+            ],
+            "source": 153,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sorten"
+            ],
+            "source": 156,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sorten"
+            ],
+            "source": 156,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sorten"
+            ],
+            "source": 157,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirsche"
+            ],
+            "source": 158,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nuß"
+            ],
+            "source": 163,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kastanie"
+            ],
+            "source": 167,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kesten",
+                "Kastanie"
+            ],
+            "source": 167,
+            "target": 169,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kastanie"
+            ],
+            "source": 168,
+            "target": 169,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Gemüsegarten",
+                "Gartel",
+                "Garten",
+                "Blumengärtchen",
+                "Prägarten"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Gärtner",
+                "Gartengehilfe"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "gartnen",
+                "garteln",
+                "Gartenarbeit",
+                "verrichten"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Baumschere",
+                "Gartengeräte",
+                "besondere",
+                "Gieskanne",
+                "Obstkörbel",
+                "Spritzkrug",
+                "Setzholz",
+                "Stupfer"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Gärtners",
+                "entraupen",
+                "propfen",
+                "Bäume",
+                "stutzen",
+                "antreiben",
+                "Rasen",
+                "besondere",
+                "okulieren",
+                "pelzen",
+                "begießen",
+                "Ausdrücke"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Blumenstock",
+                "Buschen",
+                "Büscherl",
+                "Gartenkultur",
+                "Baumgruppe",
+                "Gartengeschirr",
+                "Ausdrücke",
+                "Rasen",
+                "Rasenplatz",
+                "Wasen",
+                "Gartenweg",
+                "Mistbeet",
+                "Beet"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Rosenstock",
+                "Rose"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Gichtrose",
+                "Monatsrose",
+                "Päonie",
+                "Rosensorten"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Malve",
+                "Pappelrose"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Sonnenblume"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Nelke"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Eisenhut",
+                "gelber",
+                "Täuberl",
+                "blauer",
+                "giftig",
+                "Nest",
+                "Kalesche",
+                "Sturmhut"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Garten",
+                "Herr",
+                "Liebstöckel"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "weiße",
+                "gelbe",
+                "Narzisse"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Lilie"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Schwertlilie",
+                "Fledermaus"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Feuerlilie"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Chrisantheme",
+                "Oktoberrose",
+                "Armeseelenstock",
+                "Grabschmuck"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Strohblume"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Totenblume",
+                "Grabschmuck"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Grabschmuck",
+                "Aster",
+                "Sternblume"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Rosmarin"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Singrün",
+                "Wintergrün",
+                "Immergrün"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Reseda"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Stiefmütterchen",
+                "Nachtveigerl"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Levkoje"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Pelargonie",
+                "Geranie"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Begonie"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Brennende",
+                "Cinerarie",
+                "Liebe"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Frauenschuh"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Hortensie"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Lavendel"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Buxbaum",
+                "Bux"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Flox"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Hyazinthe"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Tulpe"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Fuchsie",
+                "Fuchserlstock"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Akelei",
+                "Glocke"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "Meerzwiebel"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Blaustern",
+                "Josefiblümlein"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "Goldlack"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "Löwenmaul"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "dunkelrot",
+                "Fuchsschwanz"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Stauden",
+                "Gretel",
+                "Braut",
+                "Haaren"
+            ],
+            "id": "B38"
+        },
+        {
+            "concepts": [
+                "lieber",
+                "je",
+                "Je",
+                "länger"
+            ],
+            "id": "B39"
+        },
+        {
+            "concepts": [
+                "Teufelszwirn",
+                "Bocksdorn"
+            ],
+            "id": "B40"
+        },
+        {
+            "concepts": [
+                "Kaiserblume"
+            ],
+            "id": "B41"
+        },
+        {
+            "concepts": [
+                "rosa",
+                "Frauenherz",
+                "Doppelflügel",
+                "Herzerl"
+            ],
+            "id": "B42"
+        },
+        {
+            "concepts": [
+                "Georgine",
+                "Dahlie"
+            ],
+            "id": "B43"
+        },
+        {
+            "concepts": [
+                "Balsamine"
+            ],
+            "id": "B44"
+        },
+        {
+            "concepts": [
+                "Kapuzinerkresse"
+            ],
+            "id": "B45"
+        },
+        {
+            "concepts": [
+                "Petunie"
+            ],
+            "id": "B46"
+        },
+        {
+            "concepts": [
+                "Moschus"
+            ],
+            "id": "B47"
+        },
+        {
+            "concepts": [
+                "Passionsblume"
+            ],
+            "id": "B48"
+        },
+        {
+            "concepts": [
+                "Heliotrop",
+                "Vanillegeruch"
+            ],
+            "id": "B49"
+        },
+        {
+            "concepts": [
+                "Frauenhaar"
+            ],
+            "id": "B50"
+        },
+        {
+            "concepts": [
+                "Myrte"
+            ],
+            "id": "B51"
+        },
+        {
+            "concepts": [
+                "Veronika",
+                "Blätter"
+            ],
+            "id": "B52"
+        },
+        {
+            "concepts": [
+                "Glyzine"
+            ],
+            "id": "B53"
+        },
+        {
+            "concepts": [
+                "dunkellila",
+                "Clematis"
+            ],
+            "id": "B54"
+        },
+        {
+            "concepts": [
+                "Wachsblume"
+            ],
+            "id": "B55"
+        },
+        {
+            "concepts": [
+                "Tubarose"
+            ],
+            "id": "B56"
+        },
+        {
+            "concepts": [
+                "Agave"
+            ],
+            "id": "B57"
+        },
+        {
+            "concepts": [
+                "Kaktusarten"
+            ],
+            "id": "B58"
+        },
+        {
+            "concepts": [
+                "Fikus"
+            ],
+            "id": "B59"
+        },
+        {
+            "concepts": [
+                "Blumensprache"
+            ],
+            "id": "B60"
+        },
+        {
+            "concepts": [
+                "Wermut"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Weinraute"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Eibisch"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Krauseminz"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Gartensalbei"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Ysop"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Elereis",
+                "Gertelkraut",
+                "Gartham",
+                "Stabwurz"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Cichorium",
+                "Valerianella",
+                "Salatarten",
+                "endivia",
+                "Salat",
+                "Salathäuptel",
+                "Lactuca",
+                "Nisselsalat",
+                "locusta",
+                "Salateri",
+                "Gründonnerstagspeise"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Brunnenkresse"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "besser",
+                "Fleisch",
+                "Rüben",
+                "Kraut",
+                "fressen",
+                "Untern",
+                "Türken",
+                "Laus",
+                "gar",
+                "Koch"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "Krautvogel",
+                "schreit",
+                "Krautacker",
+                "Kraut"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "abschlagen",
+                "schneiden",
+                "kräuten",
+                "Stengel",
+                "Krauthacke",
+                "Krautet",
+                "Kraut",
+                "Krauternte",
+                "Krauthackbrücke",
+                "Ernte",
+                "ernten",
+                "abschneiden",
+                "Ausdrücke"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Kraut",
+                "langes",
+                "Flackenkraut",
+                "Krautarten",
+                "kurzes",
+                "süßes",
+                "saures"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Kohl"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Kohl",
+                "Kohlhäuptel"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Wirsingkohl",
+                "Kohlarten"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Blumenkohl",
+                "Karfiol"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Rosenkohl",
+                "Kohlsprossen"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Kohlrabi",
+                "Kohlrübe"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Rübe",
+                "Rannese",
+                "Rote",
+                "Ranne"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Gelbe",
+                "Rübe",
+                "Möhre"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Karotte"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Speiserübe"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Wruke",
+                "Dorsche"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "Verweis",
+                "Radi",
+                "Rettich",
+                "Rettig",
+                "Sprachmeister"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Radieschen",
+                "Bierrettig",
+                "Retticharten"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "geben",
+                "Nase",
+                "reiben",
+                "Krenbier",
+                "Meerrettig",
+                "gerade",
+                "Mandl",
+                "dazugeben",
+                "Krenreiben",
+                "krensauer",
+                "recht",
+                "Kren"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "zwiefeln",
+                "Zwiefel",
+                "prügeln",
+                "zwiefelen",
+                "Zwiebel",
+                "Zwiefelhäuptel",
+                "spalten"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "Porre"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Knoblauchzehe",
+                "Knoblauch",
+                "knofeln"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Zeller",
+                "Sellerie"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Spinat"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Paradeiser"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Rhabarber"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "Mohnsamen",
+                "Mohn"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "Gummerer",
+                "Gurke",
+                "Kümmerling",
+                "Umurke"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Plutzer",
+                "Plumpes",
+                "Kürbis"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "Melone"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "Petersilie",
+                "Schnittpetersilie"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Schnittlauch"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Majoran",
+                "Maigram"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Dille"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Fenchel"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Kerbelkraut",
+                "Käferfüll"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Boretsch"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Bertramwurz"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Thymian"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Anis"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Koriander"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Paprika"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Öbstler",
+                "Obsthändler",
+                "Obst"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Apfel",
+                "Stamm",
+                "fällt",
+                "weit"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Apfalter",
+                "Apfelbaum"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Stiel",
+                "Schelfer",
+                "Kerngehäuse",
+                "Butzen",
+                "Apfels",
+                "Blütenrest",
+                "Schale",
+                "Griebs",
+                "Schäler",
+                "Teile"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "apfelecht",
+                "Äpfeln",
+                "Faß",
+                "Apfelpanzen",
+                "Speisen",
+                "Apfel",
+                "apfelförmig",
+                "Äpfel"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Maschansker",
+                "Apfelsorten",
+                "Reinetten",
+                "Kittenäpfel",
+                "Lederäpfel"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Birne"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Birne",
+                "Speisen",
+                "Birnen",
+                "Birnwasser"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Birnsorten",
+                "Kaiserbirne",
+                "Salzburger",
+                "Muskateller"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Birnen",
+                "Vorrichtungen",
+                "dörren",
+                "hiezu",
+                "Dörrhäufel"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Klôbirn",
+                "Dörrbirne",
+                "Klöze",
+                "Hutzel",
+                "Klôze"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Dörrbirne",
+                "Klöze",
+                "Hutzel",
+                "Klôze",
+                "Klôzenbrot"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "schälen",
+                "Birnen",
+                "Äpfel"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Windobst"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "schütteln",
+                "beuteln",
+                "Obst"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "zeitig",
+                "mürbe",
+                "hart",
+                "puffhert",
+                "brennmarb",
+                "hert",
+                "Obstes",
+                "marb",
+                "Reifezustand",
+                "baazweich",
+                "weich",
+                "reif",
+                "Ausdrücke"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Mostobst"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Blinerl",
+                "Wieslinge",
+                "Dorschbirnen",
+                "Konstanzerl",
+                "Mostobstsorten",
+                "Griesäpfel"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Zermalmen",
+                "Mostobstes",
+                "Vorrichtungen",
+                "Steinrad",
+                "Reibgrant",
+                "Birnreibe",
+                "benannte",
+                "Rührer",
+                "Tummelbaum",
+                "Drucker",
+                "Stößel",
+                "Stoßgrant",
+                "Teile"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "zermalmen",
+                "reiben",
+                "Obst"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "feste",
+                "Obstteile",
+                "Würfel",
+                "daraus",
+                "zermalmten",
+                "Kagern",
+                "Kagerstock",
+                "Pressen"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Käspresse",
+                "Preßbalken",
+                "Reiter",
+                "besondere",
+                "Obstpresse",
+                "Arten",
+                "Preßstein",
+                "Leiterpresse",
+                "Ausdrücke",
+                "Öl",
+                "Teile"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Gefäße",
+                "verwendete",
+                "Mostfaß"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Most",
+                "muß",
+                "miteinander",
+                "saust",
+                "plaudert",
+                "Fässer",
+                "arbeitet",
+                "ausarbeiten",
+                "Gärung",
+                "gärt",
+                "plappert",
+                "reden"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Trebern",
+                "Geleger",
+                "Bodensatz",
+                "schwimmenden",
+                "Obstteilchen"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "Most"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Most",
+                "Mostbrot"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Most",
+                "mösten",
+                "bereiten",
+                "mosten"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "mostig"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "einhainzeln",
+                "abstehen",
+                "Nachmost",
+                "Hainzel",
+                "hainzeln",
+                "lassen",
+                "Spielmost"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "Pflaume"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "Prunus",
+                "Mirabellen",
+                "Pabsteier",
+                "Zeiberln",
+                "Punzen",
+                "syriaca",
+                "Spilling",
+                "Ringlotten",
+                "Pflaumensorten",
+                "cerea",
+                "italica",
+                "Kriecherln"
+            ],
+            "id": "F32"
+        },
+        {
+            "concepts": [
+                "Prunus",
+                "Zwetschken",
+                "domestica"
+            ],
+            "id": "F33"
+        },
+        {
+            "concepts": [
+                "Zwetschkensorten",
+                "Dalmaschker",
+                "Pelzzwetschken"
+            ],
+            "id": "F34"
+        },
+        {
+            "concepts": [
+                "Sliwowitz",
+                "Zwetschkenbranntwein"
+            ],
+            "id": "F35"
+        },
+        {
+            "concepts": [
+                "Birnen",
+                "Ribis",
+                "Nüsse",
+                "Zwetschken",
+                "außer",
+                "Heidelbeeren",
+                "gebrannt",
+                "Branntwein",
+                "Kirschen",
+                "Obstsorten"
+            ],
+            "id": "F36"
+        },
+        {
+            "concepts": [
+                "Branntwein",
+                "Fachausdrücke",
+                "Branntweinbrennerei",
+                "brennen"
+            ],
+            "id": "F37"
+        },
+        {
+            "concepts": [
+                "Pfläumlein",
+                "getrocknete",
+                "Zwetschken",
+                "Prünellen"
+            ],
+            "id": "F38"
+        },
+        {
+            "concepts": [
+                "Zwetschkenmus",
+                "Powidl"
+            ],
+            "id": "F39"
+        },
+        {
+            "concepts": [
+                "Zwetschken",
+                "Zwetschkenkern"
+            ],
+            "id": "F40"
+        },
+        {
+            "concepts": [
+                "Sorten",
+                "Aprikose",
+                "Marille"
+            ],
+            "id": "F41"
+        },
+        {
+            "concepts": [
+                "Sorten",
+                "Pfirsich"
+            ],
+            "id": "F42"
+        },
+        {
+            "concepts": [
+                "Kirsche",
+                "essen",
+                "Kirschen",
+                "gut"
+            ],
+            "id": "F43"
+        },
+        {
+            "concepts": [
+                "Sauerkirsche",
+                "Weichsel",
+                "Amarelle",
+                "Kirschensorten",
+                "Hamerln"
+            ],
+            "id": "F44"
+        },
+        {
+            "concepts": [
+                "Kirsche",
+                "Kirschbaum"
+            ],
+            "id": "F45"
+        },
+        {
+            "concepts": [
+                "Asperl",
+                "Nesperl",
+                "Mispel"
+            ],
+            "id": "F46"
+        },
+        {
+            "concepts": [
+                "Mandelbaum",
+                "Mandel"
+            ],
+            "id": "F47"
+        },
+        {
+            "concepts": [
+                "Nuß",
+                "Nüsse",
+                "bôßen"
+            ],
+            "id": "F48"
+        },
+        {
+            "concepts": [
+                "Nussenschnalzen",
+                "Nussenspiel"
+            ],
+            "id": "F49"
+        },
+        {
+            "concepts": [
+                "Corylus",
+                "avellana",
+                "Wassernuß",
+                "Trapa",
+                "Juglans",
+                "natans",
+                "maxima",
+                "Nußsorten"
+            ],
+            "id": "F50"
+        },
+        {
+            "concepts": [
+                "Nuß",
+                "Almnüssel",
+                "Pumpernuß",
+                "Nußschale",
+                "Nußbaum",
+                "Nußbeugel",
+                "Nußblüte"
+            ],
+            "id": "F51"
+        },
+        {
+            "concepts": [
+                "Kesten",
+                "Kastanie"
+            ],
+            "id": "F52"
+        },
+        {
+            "concepts": [
+                "Kastanie",
+                "Echte"
+            ],
+            "id": "F53"
+        },
+        {
+            "concepts": [
+                "Kestenbrater",
+                "Kesten",
+                "Kastanie",
+                "Kastanienschale"
+            ],
+            "id": "F54"
+        },
+        {
+            "concepts": [
+                "Ananaserdbeere"
+            ],
+            "id": "F55"
+        },
+        {
+            "concepts": [
+                "Johannesbeere",
+                "Ribis",
+                "rote",
+                "weiße",
+                "schwarze"
+            ],
+            "id": "F56"
+        },
+        {
+            "concepts": [
+                "Sorten",
+                "Ainschlitze",
+                "Meiketsche",
+                "Agrasl",
+                "Eiterbatzen",
+                "Jakobsbeere",
+                "Miggetze"
+            ],
+            "id": "F57"
+        },
+        {
+            "concepts": [
+                "Edelweiß"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Enzianarten",
+                "Frühlingsenzian",
+                "gelber",
+                "Milchkraut",
+                "Lungenenzian",
+                "Enzian",
+                "Schusternagerl",
+                "Vergißmeinnicht",
+                "deutscher",
+                "verna",
+                "Enzianschnaps",
+                "blauer",
+                "Gentiana"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Meisterwurz"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Baslgoam",
+                "Basilienkraut"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Weißer",
+                "Germer",
+                "Hemmerwurz"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Almrausch",
+                "Donnerrose",
+                "Almbetonder",
+                "Alpenrose"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Frauenrauch",
+                "Speikarten"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "violett",
+                "Kohlröslein"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Platenigel",
+                "Alpenprimel",
+                "Petergstamm"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Braunelle"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Zyklame",
+                "Alpenveilchen"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Almlieberl",
+                "Alpenleimkraut"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Stengelloses",
+                "Teufelspeitsche",
+                "Leimkraut"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Milderl",
+                "Silberwurz",
+                "Gemeine"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Rosenwurz"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Saunigel",
+                "Steinbrecharten",
+                "falsche",
+                "Steinäpfel",
+                "Hauswurz",
+                "Sanikel"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Bärenwurz",
+                "Bergpudel"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Gamsbart"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Alpendost",
+                "Waldblern"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Rabenpletscherl",
+                "Alpenbrandlattich"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Alpenkreuzwurz",
+                "Schawa"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Judenkirsche",
+                "Laterndel"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Lachkraut",
+                "Bergziest"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Alpenbetonie",
+                "Schafwanze",
+                "gelbweiß"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Aurikel",
+                "Gamsblümlein"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Zwiebeln",
+                "Bergknöterich"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Stropfenpletschen",
+                "Alpenampfer"
+            ],
+            "id": "G27"
+        },
+        {
+            "concepts": [
+                "wilder",
+                "Purzigagerle",
+                "Frühlingskrokus",
+                "Safran",
+                "Zeitlose"
+            ],
+            "id": "G28"
+        },
+        {
+            "concepts": [
+                "Frühlingslevkoje",
+                "Mörzenbecher",
+                "Schneeveilchen"
+            ],
+            "id": "G29"
+        },
+        {
+            "concepts": [
+                "Lanawurz",
+                "Allermannsharnisch"
+            ],
+            "id": "G30"
+        }
+    ]
+}

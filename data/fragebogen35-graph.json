@@ -1,0 +1,1691 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Hansel"
+                ],
+                [
+                    "wozu"
+                ],
+                [
+                    "große"
+                ],
+                [
+                    "Hand"
+                ],
+                [
+                    "halten"
+                ],
+                [
+                    "Stoff"
+                ],
+                [
+                    "Muff"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Hände"
+                ],
+                [
+                    "Ringen"
+                ],
+                [
+                    "Daumring"
+                ],
+                [
+                    "bekannt"
+                ]
+            ],
+            "2": [
+                [
+                    "Fingern"
+                ]
+            ],
+            "3": [
+                [
+                    "Nägel"
+                ],
+                [
+                    "Aberglaube"
+                ],
+                [
+                    "großer"
+                ],
+                [
+                    "üblich"
+                ]
+            ],
+            "6": [
+                [
+                    "Daumen"
+                ]
+            ],
+            "9": [
+                [
+                    "wann"
+                ]
+            ],
+            "10": [
+                [
+                    "Nagel"
+                ]
+            ],
+            "15": [
+                [
+                    "Handschuh"
+                ]
+            ],
+            "20": [
+                [
+                    "Finger"
+                ],
+                [
+                    "Ring"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "weher",
+                    "böser"
+                ],
+                [
+                    "Fäustling",
+                    "Zwerg"
+                ],
+                [
+                    "Fingern",
+                    "Finger"
+                ],
+                [
+                    "Ausdruck",
+                    "allgemeiner"
+                ],
+                [
+                    "Ring",
+                    "wann"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Stützlein",
+                    "Stutzen",
+                    "Halbhandschuh"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "großer"
+            ],
+            "source": 1,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "großer"
+            ],
+            "source": 1,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nägel"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nägel"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 2,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 2,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 2,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 2,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 2,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nägel"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 7,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weher",
+                "böser"
+            ],
+            "source": 9,
+            "target": 18,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 10,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 10,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Daumen"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 11,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 11,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Daumen"
+            ],
+            "source": 11,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "halten"
+            ],
+            "source": 11,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Daumen"
+            ],
+            "source": 11,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hansel"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Daumen"
+            ],
+            "source": 12,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Daumen"
+            ],
+            "source": 12,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Daumring"
+            ],
+            "source": 12,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 15,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 15,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 15,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 15,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 17,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 17,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 17,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fingern"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fingern",
+                "Finger"
+            ],
+            "source": 18,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 18,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 19,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 19,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 20,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 20,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 21,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 21,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fingern"
+            ],
+            "source": 21,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 22,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 22,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannt"
+            ],
+            "source": 22,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 23,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 23,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 24,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 24,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 24,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 24,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 24,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "großer"
+            ],
+            "source": 25,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 26,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handschuh"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 28,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fäustling",
+                "Zwerg"
+            ],
+            "source": 29,
+            "target": 30,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Daumen"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stoff"
+            ],
+            "source": 33,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Finger"
+            ],
+            "source": 33,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stützlein",
+                "Stutzen",
+                "Halbhandschuh"
+            ],
+            "source": 34,
+            "target": 35,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Muff"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 36,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hände"
+            ],
+            "source": 36,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 36,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck",
+                "allgemeiner"
+            ],
+            "source": 38,
+            "target": 39,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 42,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 42,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 43,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 43,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 44,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 44,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring",
+                "wann"
+            ],
+            "source": 45,
+            "target": 52,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 45,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 46,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 46,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ringen"
+            ],
+            "source": 47,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ring"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "geschabt",
+                "verwendet",
+                "Gift",
+                "Fingernagel",
+                "giftig",
+                "Nagel",
+                "breit",
+                "gilt"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "großer",
+                "schmutziger",
+                "Krempel",
+                "harter",
+                "Schmutz",
+                "Kramperln",
+                "Schwarze",
+                "ramiger",
+                "blauer",
+                "langer",
+                "breiter",
+                "Nagel",
+                "weicher"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Kindern",
+                "wann",
+                "schneiden",
+                "Volksglaube",
+                "abgeschnittenen",
+                "toten",
+                "geschieht",
+                "Nägel",
+                "abgeschnittene",
+                "Nagel",
+                "verboten"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Nägeln",
+                "kauen",
+                "abbeißen",
+                "Volksmeinung",
+                "Nägel",
+                "beißen"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Nägel",
+                "putzen",
+                "Nagels",
+                "feilen"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Nagelwurzel"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Nagelmutter"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Flecken",
+                "weiße",
+                "Punkte",
+                "wächst",
+                "Nagelblüh",
+                "Aberglaube",
+                "Glück"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Neidnagel"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "ausschwärender",
+                "abgehender",
+                "weher",
+                "böser",
+                "fauler",
+                "Nagelgeschwür",
+                "eingerissener",
+                "Nagel",
+                "blutunterlaufener"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Nagelputzer",
+                "üblich",
+                "Daumennagel",
+                "Nagel",
+                "weit"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Daumen",
+                "aufs",
+                "Auge",
+                "drehen",
+                "jemand",
+                "drücken",
+                "rühren",
+                "wozu",
+                "wackeln",
+                "Aberglaube",
+                "Daumfinger",
+                "halten",
+                "Lausabknicker"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Daumring",
+                "daumlang",
+                "Hansel",
+                "daumenlanger",
+                "Verslein",
+                "Daumen"
+            ],
+            "id": "D24a"
+        },
+        {
+            "concepts": [
+                "foltern",
+                "daumeln",
+                "Daumschraube"
+            ],
+            "id": "D24b"
+        },
+        {
+            "concepts": [
+                "Schlecker",
+                "Zeigefinger"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "mittere",
+                "Mittelfinger",
+                "Arschfinger",
+                "Finger",
+                "Mitterfinger",
+                "Hansel",
+                "lange",
+                "Große",
+                "Großfinger",
+                "große"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Herzfinger"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "wem",
+                "ganze",
+                "kleiner",
+                "Ohrfinger",
+                "sagt",
+                "Finger",
+                "reicht",
+                "Hand",
+                "nimmt",
+                "frag",
+                "gesagt",
+                "Kleine"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "tauber",
+                "erfrorener",
+                "schwärender",
+                "Fingerwurm",
+                "Jucken",
+                "verschwollener",
+                "törischer",
+                "hornaggeln",
+                "hornigeln",
+                "Finger",
+                "weher",
+                "böser",
+                "dernarrter",
+                "nickel",
+                "erstarrter",
+                "Fingern",
+                "Gegenmittel",
+                "Prickeln"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Schwurfinger",
+                "Aberglaube",
+                "Totenfinger",
+                "Finger"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "Speise",
+                "Fingerkraut",
+                "Finger",
+                "fingerlang"
+            ],
+            "id": "D30a"
+        },
+        {
+            "concepts": [
+                "helles",
+                "Handbekleidung",
+                "Maß",
+                "Kreisen",
+                "Handschuh",
+                "versehene",
+                "Handschuhen",
+                "Fingern",
+                "angreifen"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Tuchhandschuh",
+                "zwirnener",
+                "gewirkter",
+                "wollener",
+                "bekannt",
+                "seidener",
+                "gestrickter",
+                "lederner",
+                "Glacéhandschuh",
+                "tüchener",
+                "Handschuh",
+                "Glacé",
+                "wozu",
+                "genähter",
+                "baum",
+                "Gummihandschuh",
+                "Lederhandschuh",
+                "bloß"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "geht",
+                "einhintremmeln",
+                "zusammen",
+                "spannt",
+                "Mühe",
+                "Handschuh",
+                "Gewalt",
+                "anziehen",
+                "anstreifen"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Handschuhe",
+                "muß",
+                "wann",
+                "Handschuhbauer",
+                "Kälte",
+                "Handschuh",
+                "tragen"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "großen",
+                "großer",
+                "Schlag",
+                "Handschuhnumero",
+                "Ohrfeige",
+                "derbe",
+                "großes",
+                "Hand",
+                "Handschuhgröße",
+                "große",
+                "Handschuhnummer"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "behandschuht",
+                "Ausdrücke"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Handschuh",
+                "Trauerhandschuh"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Handschuhfinger",
+                "Fingerschuster",
+                "üblich",
+                "Handschuh",
+                "Bed"
+            ],
+            "id": "E7a"
+        },
+        {
+            "concepts": [
+                "Handwurzel",
+                "Daumenfinger",
+                "lederne",
+                "heißt",
+                "Binde",
+                "Seilziehen",
+                "anlegt",
+                "Mehlspeise",
+                "Fäustling",
+                "Zwerg",
+                "ferner"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "verschieden",
+                "allein",
+                "Damling",
+                "Däumling",
+                "Überzug",
+                "Fäustling",
+                "Zwerg",
+                "Daumenschraube",
+                "Daumen"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Daumschuh"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Händling",
+                "Handling"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "halten",
+                "zwei",
+                "Stoff",
+                "Fingerschuh",
+                "Fingerling",
+                "Finger",
+                "Leder",
+                "soviel",
+                "Hülle",
+                "Fingern"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Fingerknöchel",
+                "Ausschmückung",
+                "Stützlein",
+                "Öffnung",
+                "Halbhandschuh",
+                "reichend",
+                "Stutzer",
+                "Stutzen",
+                "Perlen",
+                "Daumen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Stützlein",
+                "Pulswärmer",
+                "Stutzen",
+                "Halbhandschuh"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Muff",
+                "wann",
+                "Stoff",
+                "beide",
+                "Hände",
+                "Größe",
+                "Arten",
+                "trägt",
+                "wer",
+                "Wärmesack"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Tragbänder",
+                "Muff"
+            ],
+            "id": "E15a"
+        },
+        {
+            "concepts": [
+                "Ausdruck",
+                "Armschmuck",
+                "allgemeiner"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Handschmuck",
+                "Ausdruck",
+                "allgemeiner"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Handschelle",
+                "Armband",
+                "scherzhaft",
+                "Goldbrasselett",
+                "Brasselett"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Handkrause",
+                "etwaige",
+                "urteilt",
+                "Manschetten",
+                "Manschettenknopf",
+                "Tragen",
+                "Manschette"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Geringerde",
+                "Fingerl",
+                "Ring",
+                "Fingerring",
+                "Geringeret",
+                "Kreis"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Ring",
+                "großer",
+                "Rinke"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Wallfahrten",
+                "übliche",
+                "Brauch",
+                "Ring",
+                "Formen",
+                "Märkten",
+                "Ringtragens",
+                "ersteht",
+                "Angaben",
+                "Losgewinst",
+                "gerne"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Zweck",
+                "wann",
+                "silberner",
+                "Hochzeit",
+                "Goldring",
+                "Ring",
+                "seit",
+                "goldener",
+                "härener",
+                "üblich",
+                "Tierhaar",
+                "besetzter",
+                "Steinen",
+                "bleierner",
+                "schwerer",
+                "dafür",
+                "messingener",
+                "Anlaß",
+                "eiserner"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Ring",
+                "bezüglich"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "teilen",
+                "Ringen",
+                "Spiele",
+                "Ringlein"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "Ringe",
+                "ringeln",
+                "wechseln"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "beringen"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "ringelig"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "Ringprotz",
+                "überhäufter",
+                "Finger",
+                "Hände",
+                "Mensch",
+                "Ringen",
+                "Ausdrücke"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "Papstes",
+                "wann",
+                "oft",
+                "Ring",
+                "Bischofsring",
+                "bekannt",
+                "Ehering",
+                "Verlobungsring",
+                "Schlagring",
+                "gebraucht",
+                "Fischerring",
+                "Trauring",
+                "Mordsring",
+                "Doktorring",
+                "Daumring",
+                "Primizring"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "Ringstein",
+                "Ring",
+                "Ringelspiel"
+            ],
+            "id": "E30a"
+        }
+    ]
+}

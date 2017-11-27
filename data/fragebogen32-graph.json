@@ -1,0 +1,2180 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "gliedern"
+                ],
+                [
+                    "gelenkig"
+                ],
+                [
+                    "Füße"
+                ],
+                [
+                    "verstauchen"
+                ],
+                [
+                    "etwaige"
+                ],
+                [
+                    "rach"
+                ],
+                [
+                    "gesagt"
+                ],
+                [
+                    "Aberglaube"
+                ],
+                [
+                    "kalte"
+                ],
+                [
+                    "Vorstellungen"
+                ],
+                [
+                    "Hand"
+                ],
+                [
+                    "rühren"
+                ],
+                [
+                    "Elle"
+                ],
+                [
+                    "Stecken"
+                ]
+            ],
+            "2": [
+                [
+                    "Mensch"
+                ]
+            ],
+            "5": [
+                [
+                    "Heilmittel"
+                ],
+                [
+                    "kommt"
+                ],
+                [
+                    "Arm"
+                ]
+            ],
+            "6": [
+                [
+                    "Gelenk"
+                ]
+            ],
+            "8": [
+                [
+                    "Arme"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "9": [
+                [
+                    "verrenken"
+                ],
+                [
+                    "Glieder"
+                ]
+            ],
+            "10": [
+                [
+                    "Glied"
+                ]
+            ],
+            "26": [
+                [
+                    "Gicht"
+                ]
+            ],
+            "27": [
+                [
+                    "Gliedmaßen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Vb",
+                    "strecken"
+                ],
+                [
+                    "Kette",
+                    "Glied"
+                ],
+                [
+                    "Glieder",
+                    "Glied"
+                ],
+                [
+                    "kommt",
+                    "Formen"
+                ],
+                [
+                    "verrenken",
+                    "auskegeln"
+                ],
+                [
+                    "Heilmittel",
+                    "Segen"
+                ],
+                [
+                    "Gicht",
+                    "sonstige"
+                ],
+                [
+                    "Vergicht",
+                    "Gicht"
+                ],
+                [
+                    "Mensch",
+                    "Ausdrücke"
+                ],
+                [
+                    "Ausdrücke",
+                    "sonstige"
+                ],
+                [
+                    "Arm",
+                    "Arme"
+                ]
+            ],
+            "3": [
+                [
+                    "Lid",
+                    "Glied"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Gliedmaßen",
+                    "Arme",
+                    "Beine"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen",
+                "Arme",
+                "Beine"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 0,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 0,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 0,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 1,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 1,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stecken"
+            ],
+            "source": 1,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 2,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 3,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 3,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "strecken"
+            ],
+            "source": 4,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 4,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 4,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 4,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kette",
+                "Glied"
+            ],
+            "source": 5,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 5,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 5,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gelenk"
+            ],
+            "source": 5,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gelenk"
+            ],
+            "source": 5,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gelenk"
+            ],
+            "source": 5,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lid",
+                "Glied"
+            ],
+            "source": 6,
+            "target": 10,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lid",
+                "Glied"
+            ],
+            "source": 6,
+            "target": 11,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 6,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 6,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 6,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder",
+                "Glied"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 7,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 7,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 7,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kalte"
+            ],
+            "source": 7,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glied"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 8,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 8,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 8,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rach"
+            ],
+            "source": 8,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rühren"
+            ],
+            "source": 8,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 9,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 9,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 9,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lid",
+                "Glied"
+            ],
+            "source": 10,
+            "target": 11,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gelenkig"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gesagt"
+            ],
+            "source": 11,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gliedern"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 15,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 15,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 15,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 15,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gliedmaßen"
+            ],
+            "source": 16,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 16,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 16,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gelenk"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gelenk"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "Formen"
+            ],
+            "source": 17,
+            "target": 24,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 17,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gelenk"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verstauchen"
+            ],
+            "source": 22,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 24,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 24,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 24,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 24,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 24,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 24,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verrenken",
+                "auskegeln"
+            ],
+            "source": 30,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Heilmittel"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heilmittel"
+            ],
+            "source": 30,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heilmittel"
+            ],
+            "source": 30,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 31,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorstellungen"
+            ],
+            "source": 31,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 31,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 33,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 33,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 33,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heilmittel",
+                "Segen"
+            ],
+            "source": 34,
+            "target": 45,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Heilmittel"
+            ],
+            "source": 34,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glieder"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 36,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heilmittel"
+            ],
+            "source": 45,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht",
+                "sonstige"
+            ],
+            "source": 46,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergicht",
+                "Gicht"
+            ],
+            "source": 46,
+            "target": 51,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 46,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 46,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 46,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 47,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 47,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 47,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 48,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 48,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 48,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 49,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 49,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 49,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 49,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 50,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 50,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 51,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gicht"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 55,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 56,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 57,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 57,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm",
+                "Arme"
+            ],
+            "source": 58,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Elle"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Gliedmaßen",
+                "Arme",
+                "Beine"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Griffel",
+                "Windmühle",
+                "Grueggen",
+                "Gouken",
+                "Gruecken",
+                "Zaunstecken",
+                "Stecken",
+                "Gliedmaßen"
+            ],
+            "id": "A1a"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Beine",
+                "Weise",
+                "schlankeln",
+                "allein",
+                "spielender",
+                "bewegen",
+                "Kinder",
+                "tappeln",
+                "gaukeln",
+                "Gliedmaßen",
+                "Arme"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Gliedmaßen",
+                "ganzen"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "spüren",
+                "strecken",
+                "abdrücken",
+                "Gliedmaßen"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "zweiten",
+                "Fingerglied",
+                "Kettenglied",
+                "Verwandtschaft",
+                "Geschlechtsteil",
+                "Gelenk",
+                "Glied",
+                "Bild",
+                "ersten",
+                "Kette",
+                "waltet"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Lid",
+                "Deckel",
+                "Glied",
+                "Lidl",
+                "neben",
+                "hierher"
+            ],
+            "id": "A5a"
+        },
+        {
+            "concepts": [
+                "künstliches",
+                "ganze",
+                "kalte",
+                "schwache",
+                "Glied",
+                "Glieder",
+                "gesunde",
+                "kranke",
+                "tote"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "sprengen",
+                "zusammenschweißen",
+                "ganz",
+                "viere",
+                "Glieder",
+                "Glied",
+                "ranzen",
+                "rühren",
+                "hängen",
+                "lassen",
+                "Kette",
+                "strecken",
+                "rach"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "gebrauchen",
+                "Fuß",
+                "arbeiten",
+                "Hände",
+                "Hand",
+                "Füße",
+                "Gliedmaßen",
+                "Füßen",
+                "Händen"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Mitglied",
+                "Weibsglied",
+                "Lid",
+                "Glied"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Lid",
+                "Gliederpuppe",
+                "Glied",
+                "gliedweise",
+                "gelenkig",
+                "gesagt"
+            ],
+            "id": "A9a"
+        },
+        {
+            "concepts": [
+                "lidern",
+                "daneben",
+                "gliedern"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "zusammengliedern",
+                "gliedern"
+            ],
+            "id": "A10a"
+        },
+        {
+            "concepts": [
+                "gliederig",
+                "schnell",
+                "gelenkig",
+                "liedig",
+                "liediges",
+                "Gehn"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "verstümmeln",
+                "Glieder",
+                "berauben",
+                "Füße",
+                "gekommen",
+                "genommen",
+                "Arme"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Gliedmaßen",
+                "verloren"
+            ],
+            "id": "A12a"
+        },
+        {
+            "concepts": [
+                "Bevölkerungsschichten",
+                "kommt",
+                "GleNkch",
+                "Werkzeuge",
+                "GleNg",
+                "Gewerb",
+                "Formen",
+                "Gelenk",
+                "vorhanden",
+                "Gleich",
+                "Gloach",
+                "GleNkh",
+                "GleN"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Fingergelenk",
+                "Gelenk"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Gelenk",
+                "Gelenkskopf"
+            ],
+            "id": "A14a"
+        },
+        {
+            "concepts": [
+                "gelenk",
+                "un",
+                "ig"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "gleichsam",
+                "gleichig"
+            ],
+            "id": "A15a"
+        },
+        {
+            "concepts": [
+                "verstauchen"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Verstauchung"
+            ],
+            "id": "A16a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "etwaige",
+                "rensen",
+                "kommt",
+                "ranken",
+                "Formen",
+                "beachte",
+                "rentsen",
+                "verrenken",
+                "renken"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "ausrenken"
+            ],
+            "id": "A17a"
+        },
+        {
+            "concepts": [
+                "Verrenkung"
+            ],
+            "id": "A17b"
+        },
+        {
+            "concepts": [
+                "verrenken",
+                "ausrecken"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "verlenken",
+                "verrenken",
+                "lenken"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "ausdrehen"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Heilmittel",
+                "Arsch",
+                "auskegeln",
+                "verrenken",
+                "Gesicht"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "verstauchen",
+                "Vorstellungen",
+                "auskegeln",
+                "verrenken",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "A21a"
+        },
+        {
+            "concepts": [
+                "einrichten"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Einrenkung",
+                "Ausdrücke"
+            ],
+            "id": "A22a"
+        },
+        {
+            "concepts": [
+                "Dörrband",
+                "Heilmittel",
+                "Gliederverrenkung",
+                "Segen"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Gelenkskrankheit",
+                "Gliedmaßen",
+                "gibt"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "darauf",
+                "Mensch",
+                "doppelte",
+                "englische",
+                "Zwiewachs",
+                "Glieder",
+                "unterwachsen",
+                "Knochenerweichung",
+                "Krankheit",
+                "angesetzte",
+                "Aberglaube",
+                "Ausdrücke",
+                "beziehen"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Gliedschwamm"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Glieder",
+                "Einschlafen"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Gliederreißen"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Gelenksrheumatismus",
+                "Form",
+                "Wortes",
+                "Rheumatismus"
+            ],
+            "id": "A28a"
+        },
+        {
+            "concepts": [
+                "gliedersüchtig",
+                "rheumatisch"
+            ],
+            "id": "A28b"
+        },
+        {
+            "concepts": [
+                "Gelenksentzündung"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Gelenkssteifigkeit",
+                "Rähe",
+                "Kreuzrähe",
+                "etwaige"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Tieren",
+                "gelenksteif",
+                "räch",
+                "rach",
+                "gesagt",
+                "gelenkssteif"
+            ],
+            "id": "A30a"
+        },
+        {
+            "concepts": [
+                "fliegendes",
+                "Katzenschmalz",
+                "Element",
+                "Krummholzöl",
+                "Gemsunschlitt",
+                "Segen",
+                "Gebräuche",
+                "Heilmittel",
+                "Aberglaube"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Gall",
+                "kriegen",
+                "Vricht",
+                "Gicht",
+                "Vergicht",
+                "Gegicht",
+                "sonstige"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "warme",
+                "Gicht",
+                "Potigra",
+                "kalte",
+                "laufende",
+                "Arten",
+                "Podagra",
+                "Fingergicht",
+                "fliegende"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Gicht",
+                "zusammen",
+                "Verbindungen",
+                "reißt",
+                "zwickt",
+                "zieht"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "angewendet",
+                "Krötenbein",
+                "Gicht",
+                "Gichtrauch",
+                "Gichtrosenkränze",
+                "bestehend",
+                "Luchssporn",
+                "Elefantenläuse",
+                "Gallpulver",
+                "woraus",
+                "Heilmittel",
+                "sonstige"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "ab",
+                "Gicht",
+                "Wortlaut",
+                "Gesundbeten",
+                "verbeten",
+                "Gichtsegen",
+                "beten",
+                "Heilung"
+            ],
+            "id": "A35a"
+        },
+        {
+            "concepts": [
+                "Gicht",
+                "Hühnergicht",
+                "Vergicht",
+                "Gichtknober",
+                "Pflanze",
+                "gichtbrüchig"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "vergichtig",
+                "gichtisch"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Gichtiker",
+                "Gichtmatikus"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Gicht",
+                "Ursachen",
+                "Leben",
+                "Vorstellungen",
+                "gutes",
+                "essen",
+                "Hühnerfleisch"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "sonstige",
+                "Hexenstich",
+                "Hexenschuß",
+                "Einschuß",
+                "Krankheiten",
+                "bloß",
+                "Schuß"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "kontrakt",
+                "Gicht",
+                "Gliedern",
+                "entstellt",
+                "kch",
+                "okcht",
+                "Mensch",
+                "zugehörige",
+                "Ausdrücke",
+                "ontr"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Geräten",
+                "steht",
+                "schwa",
+                "Wegweisers",
+                "Wand",
+                "Flusses",
+                "Macht",
+                "Kleiderständer",
+                "Hand",
+                "Arm",
+                "ausher",
+                "starker",
+                "Waage"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "verkaufen",
+                "gehen",
+                "kommt",
+                "greifen",
+                "darüber",
+                "rühren",
+                "reichen",
+                "Ausdruck",
+                "Mein",
+                "Arm",
+                "halten",
+                "Arme"
+            ],
+            "id": "B1a"
+        },
+        {
+            "concepts": [
+                "Elle",
+                "untere",
+                "häufiger",
+                "Armes",
+                "obere",
+                "Arm",
+                "mittlere",
+                "Vorderarm",
+                "Teile"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Elle",
+                "Speiche",
+                "Armknochen"
+            ],
+            "id": "B2a"
+        },
+        {
+            "concepts": [
+                "Armmuskeln",
+                "Fleisch",
+                "Armmäusel",
+                "Mausfleisch",
+                "dicke"
+            ],
+            "id": "B2b"
+        },
+        {
+            "concepts": [
+                "Flüg",
+                "Arm",
+                "Stecken",
+                "Ausdrücke",
+                "Arme",
+                "sonstige"
+            ],
+            "id": "B3"
+        }
+    ]
+}

@@ -1,0 +1,2237 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "dabei"
+                ],
+                [
+                    "Personen"
+                ],
+                [
+                    "Mutter"
+                ],
+                [
+                    "Ausrüstung"
+                ],
+                [
+                    "Brautführers"
+                ],
+                [
+                    "viele"
+                ],
+                [
+                    "Obliegenheiten"
+                ],
+                [
+                    "Schmuck"
+                ],
+                [
+                    "Kleidung"
+                ],
+                [
+                    "Geladenen"
+                ],
+                [
+                    "Morgensuppe"
+                ],
+                [
+                    "besonderer"
+                ],
+                [
+                    "darunter"
+                ],
+                [
+                    "Bräuche"
+                ],
+                [
+                    "Ausdruck"
+                ],
+                [
+                    "später"
+                ],
+                [
+                    "Tracht"
+                ],
+                [
+                    "Witwe"
+                ]
+            ],
+            "2": [
+                [
+                    "Begleiter"
+                ],
+                [
+                    "wann"
+                ],
+                [
+                    "Bräutigam"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "wem"
+                ]
+            ],
+            "3": [
+                [
+                    "Laden"
+                ],
+                [
+                    "Lader"
+                ],
+                [
+                    "Benennungen"
+                ],
+                [
+                    "Brautjungfer"
+                ],
+                [
+                    "Hochzeit"
+                ]
+            ],
+            "6": [
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "wer"
+                ]
+            ],
+            "8": [
+                [
+                    "Namen"
+                ],
+                [
+                    "besondere"
+                ]
+            ],
+            "10": [
+                [
+                    "heiraten"
+                ]
+            ],
+            "17": [
+                [
+                    "Laders"
+                ]
+            ],
+            "34": [
+                [
+                    "Braut"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Laders",
+                    "Abzeichen"
+                ],
+                [
+                    "Namen",
+                    "Begleiter"
+                ],
+                [
+                    "Polterabend",
+                    "Bräuche"
+                ],
+                [
+                    "besondere",
+                    "Brautführer"
+                ],
+                [
+                    "besondere",
+                    "Namen"
+                ],
+                [
+                    "Braut",
+                    "wann"
+                ],
+                [
+                    "Bräutigam",
+                    "Braut"
+                ],
+                [
+                    "Bräuche",
+                    "sonstige"
+                ],
+                [
+                    "wem",
+                    "bestritten"
+                ],
+                [
+                    "bevorzugt",
+                    "Arten"
+                ]
+            ],
+            "2": [
+                [
+                    "bestehend",
+                    "woraus"
+                ]
+            ],
+            "3": [
+                [
+                    "Laders",
+                    "Begleiter"
+                ],
+                [
+                    "Bräutigam",
+                    "wann"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "bestehend",
+                    "verwendet",
+                    "woraus"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lader"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lader"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tracht"
+            ],
+            "source": 1,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders",
+                "Abzeichen"
+            ],
+            "source": 2,
+            "target": 5,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 2,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 2,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 2,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausrüstung"
+            ],
+            "source": 2,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmuck"
+            ],
+            "source": 2,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräutigam",
+                "wann"
+            ],
+            "source": 3,
+            "target": 7,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 3,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 3,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräutigam"
+            ],
+            "source": 3,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Personen"
+            ],
+            "source": 3,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "viele"
+            ],
+            "source": 3,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräutigam",
+                "wann"
+            ],
+            "source": 3,
+            "target": 49,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Laders",
+                "Begleiter"
+            ],
+            "source": 4,
+            "target": 5,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Laders",
+                "Begleiter"
+            ],
+            "source": 4,
+            "target": 6,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 4,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen",
+                "Begleiter"
+            ],
+            "source": 4,
+            "target": 12,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 4,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 4,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 4,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders",
+                "Begleiter"
+            ],
+            "source": 5,
+            "target": 6,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 5,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Begleiter"
+            ],
+            "source": 5,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laders"
+            ],
+            "source": 6,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Begleiter"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laden"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Laden"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 7,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräutigam"
+            ],
+            "source": 7,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräutigam",
+                "wann"
+            ],
+            "source": 7,
+            "target": 49,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Laden"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "später"
+            ],
+            "source": 10,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 10,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geladenen"
+            ],
+            "source": 11,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lader"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 12,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 12,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 12,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 13,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 13,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 13,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 13,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 13,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut",
+                "wann"
+            ],
+            "source": 13,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 13,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 17,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 18,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderer"
+            ],
+            "source": 18,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 19,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 19,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 19,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 20,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heiraten"
+            ],
+            "source": 21,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Polterabend",
+                "Bräuche"
+            ],
+            "source": 22,
+            "target": 23,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 22,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche",
+                "sonstige"
+            ],
+            "source": 23,
+            "target": 55,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 23,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 24,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 24,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 25,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 25,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 25,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 25,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 25,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 26,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräutigam",
+                "Braut"
+            ],
+            "source": 26,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 26,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "darunter"
+            ],
+            "source": 27,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 28,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 28,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 28,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 29,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 29,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 29,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 30,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 30,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 30,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 30,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 31,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 31,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Brautführer"
+            ],
+            "source": 32,
+            "target": 35,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Namen"
+            ],
+            "source": 32,
+            "target": 41,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 32,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brautführers"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Obliegenheiten"
+            ],
+            "source": 33,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kleidung"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 35,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 35,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brautjungfer"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brautjungfer"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brautjungfer"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 41,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 41,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 45,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 45,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 45,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 46,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Morgensuppe"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bestehend",
+                "woraus"
+            ],
+            "source": 49,
+            "target": 57,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bestehend",
+                "woraus"
+            ],
+            "source": 49,
+            "target": 59,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 49,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 52,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 55,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wem",
+                "bestritten"
+            ],
+            "source": 56,
+            "target": 57,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wem"
+            ],
+            "source": 56,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bestehend",
+                "verwendet",
+                "woraus"
+            ],
+            "source": 57,
+            "target": 59,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "wem"
+            ],
+            "source": 57,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bevorzugt",
+                "Arten"
+            ],
+            "source": 58,
+            "target": 60,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Bittmann",
+                "Leutbitter",
+                "Bittelmann",
+                "guten",
+                "Laderleute",
+                "Spruchmann",
+                "beteiligt",
+                "Lader",
+                "Eigenschaften",
+                "Laders",
+                "Vermögensverhandlungen",
+                "Heiratsvermittler",
+                "Werber",
+                "Hochzeitlader",
+                "Prokurator"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Laders",
+                "Tracht"
+            ],
+            "id": "B10a"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Ganzen",
+                "Abzeichen",
+                "Hakelstecken",
+                "Säbel",
+                "spanisches",
+                "Ausrüstung",
+                "Laders",
+                "Rohr",
+                "Laderstecken",
+                "Laderbuschen",
+                "Schmuck",
+                "Teile"
+            ],
+            "id": "B10b"
+        },
+        {
+            "concepts": [
+                "wann",
+                "Bräutigam",
+                "laden",
+                "warum",
+                "Personen",
+                "Ortsmetzger",
+                "Musikanten",
+                "viele",
+                "dabei",
+                "Mesner",
+                "gehn"
+            ],
+            "id": "B10c"
+        },
+        {
+            "concepts": [
+                "Hennenklemmer",
+                "Begleiter",
+                "Laders",
+                "Hundwehrer",
+                "Kranzelherr",
+                "Namen"
+            ],
+            "id": "B10d"
+        },
+        {
+            "concepts": [
+                "Laders",
+                "Begleiter",
+                "Abzeichen"
+            ],
+            "id": "B10e"
+        },
+        {
+            "concepts": [
+                "Verwandtschaftsverhältnis",
+                "Hochzeitern",
+                "sollen",
+                "stehn",
+                "Begleiter",
+                "Laders"
+            ],
+            "id": "B10f"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "besorgt",
+                "wann",
+                "Bräutigam",
+                "allein",
+                "Armut",
+                "Laden"
+            ],
+            "id": "B10g"
+        },
+        {
+            "concepts": [
+                "Ladereim",
+                "Ladespruch"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Laderbüchlein"
+            ],
+            "id": "B11a"
+        },
+        {
+            "concepts": [
+                "Braut",
+                "Gebaren",
+                "Beginn",
+                "Geschäftes",
+                "geschieht",
+                "eingehalten",
+                "Benehmen",
+                "sofort",
+                "bestimmte",
+                "Verlauf",
+                "später",
+                "Laders",
+                "Stube",
+                "Laden",
+                "Eintritt",
+                "Ladung",
+                "schreibt",
+                "Ausdrücke",
+                "Reihenfolge"
+            ],
+            "id": "B11b"
+        },
+        {
+            "concepts": [
+                "Geladenen",
+                "Laden",
+                "Verstecken",
+                "Scherze",
+                "Krautfaß"
+            ],
+            "id": "B11c"
+        },
+        {
+            "concepts": [
+                "bewirtet",
+                "Begleiter",
+                "Lader",
+                "womit",
+                "Namen"
+            ],
+            "id": "B11d"
+        },
+        {
+            "concepts": [
+                "Braut",
+                "wann",
+                "gegeben",
+                "Lader",
+                "Geschenke"
+            ],
+            "id": "B11e"
+        },
+        {
+            "concepts": [
+                "Hochzeitladens",
+                "zusammenhängende"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "gesinnt",
+                "Fremden",
+                "Dorf",
+                "Einheiraten"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Frauen",
+                "normales",
+                "Heiratsalter",
+                "Männern"
+            ],
+            "id": "B13a"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Vergleiche",
+                "Altersheiraten",
+                "großem",
+                "Altersunterschied",
+                "Heiraten",
+                "Urteil"
+            ],
+            "id": "B13b"
+        },
+        {
+            "concepts": [
+                "heiraten",
+                "verloben",
+                "besonderer",
+                "Heirat",
+                "beiliegen"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "heureiten",
+                "heiraten",
+                "Ausdrücke",
+                "heiraspeln"
+            ],
+            "id": "B14a"
+        },
+        {
+            "concepts": [
+                "miteinander",
+                "heiraten",
+                "Jahre",
+                "juristisch",
+                "verheiratet"
+            ],
+            "id": "B14b"
+        },
+        {
+            "concepts": [
+                "zweiten",
+                "heiraten",
+                "Mal",
+                "darüber",
+                "dritten",
+                "Urteile"
+            ],
+            "id": "B14c"
+        },
+        {
+            "concepts": [
+                "Polterabend",
+                "Bräuche",
+                "Hofrecht",
+                "Grunacht",
+                "Rumorabend",
+                "Gunkelnacht",
+                "Nachttanz",
+                "dabei",
+                "Vorhochzeit",
+                "Pumperabend",
+                "halten"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Polterabend",
+                "Schießen",
+                "Bräuche",
+                "Peitschenknallen",
+                "ausschnellen",
+                "Zeit",
+                "Büscherlbinden",
+                "gute",
+                "Absingen",
+                "sonstige"
+            ],
+            "id": "C1a"
+        },
+        {
+            "concepts": [
+                "geweiste",
+                "grüne",
+                "geschenkte",
+                "Hochzeit"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Braut",
+                "jungfräuliche",
+                "Hochzeiterin",
+                "Kranzelbraut"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Bräutigam",
+                "Braut",
+                "angeredet",
+                "Hochzeiter"
+            ],
+            "id": "C3a"
+        },
+        {
+            "concepts": [
+                "darunter",
+                "Brautvolk",
+                "Bräutvolk",
+                "verstanden",
+                "Brautleute",
+                "Personen"
+            ],
+            "id": "C3b"
+        },
+        {
+            "concepts": [
+                "Heiratslust",
+                "besonderen",
+                "nennt",
+                "Witwe",
+                "heiraten",
+                "stark",
+                "Schau",
+                "Witwer",
+                "Ehemensch",
+                "trägt",
+                "Namen"
+            ],
+            "id": "C3c"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Braut",
+                "Benennungen",
+                "Altfrau",
+                "Ehrenmutter",
+                "Brautmutter",
+                "Mutter",
+                "Altmutter"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Vater",
+                "Bräutigams",
+                "Brautvater",
+                "Ehrenvater",
+                "besondere",
+                "Mutter",
+                "Ausdrücke",
+                "Altvater"
+            ],
+            "id": "C4a"
+        },
+        {
+            "concepts": [
+                "macht",
+                "Braut",
+                "Beistand",
+                "hält",
+                "Trauzeuge",
+                "Gerhab",
+                "Lehre"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Fotzmännlein",
+                "mehrere",
+                "Brautweiser",
+                "zweiter",
+                "stehen",
+                "Kränzelbub",
+                "Junggeselle",
+                "besondere",
+                "Brautführer",
+                "Zubräutigam",
+                "Zaumer",
+                "Fähnrich",
+                "Junker",
+                "erster",
+                "Brautjunker",
+                "irgendwelchem",
+                "gibt",
+                "Ve",
+                "Namen"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Obliegenheiten",
+                "Brautführers"
+            ],
+            "id": "C6a"
+        },
+        {
+            "concepts": [
+                "Kleidung",
+                "Brautführers",
+                "vorhanden",
+                "Ausrüstung",
+                "dafür",
+                "Gesamtausdruck"
+            ],
+            "id": "C6b"
+        },
+        {
+            "concepts": [
+                "Schwert",
+                "Brautschutz",
+                "gezogen",
+                "besondere",
+                "Brautführer",
+                "Vorgangs",
+                "Schwertes",
+                "ganzen",
+                "blank",
+                "führt"
+            ],
+            "id": "C6c"
+        },
+        {
+            "concepts": [
+                "Kränzeldirn",
+                "Körbeljungfer",
+                "Zubraut",
+                "Brautmoidl",
+                "Prangerin",
+                "Muhme",
+                "Brautjungfer",
+                "viele",
+                "Brautjungfern"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Brautjungfer",
+                "Obliegenheiten"
+            ],
+            "id": "C7a"
+        },
+        {
+            "concepts": [
+                "Kleidung",
+                "Brautjungfer",
+                "Schmuck"
+            ],
+            "id": "C7b"
+        },
+        {
+            "concepts": [
+                "Brauthüterin",
+                "Hochzeitweib"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Hochzeitsgäste"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Verwandte",
+                "Hochzeit",
+                "teilnehmen",
+                "schlodern",
+                "besondere",
+                "Schlodermutter",
+                "gewisse",
+                "Namen"
+            ],
+            "id": "C9a"
+        },
+        {
+            "concepts": [
+                "Ehrentag",
+                "Hochzeitstag"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Hochzeitwoche"
+            ],
+            "id": "D1a"
+        },
+        {
+            "concepts": [
+                "Hochzeitmorgen"
+            ],
+            "id": "D1b"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "Hochzeit",
+                "Kronen",
+                "dauert",
+                "bezahlt",
+                "gefeiert",
+                "lange",
+                "10",
+                "wer",
+                "Mark",
+                "weisen",
+                "Hochzeithaus"
+            ],
+            "id": "D1c"
+        },
+        {
+            "concepts": [
+                "Braut",
+                "Schüsse",
+                "Brautwecken",
+                "Aufwecken"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Läuten",
+                "Aberglaube",
+                "Hochzeitsmorgen"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Hochzeitsbad"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Braut",
+                "Ausgang",
+                "getrennt",
+                "wann",
+                "Bräutigam",
+                "Kränzelmahl",
+                "bestehend",
+                "Beisein",
+                "eingenommen",
+                "Gästen",
+                "Morgensuppe",
+                "Frühtrunk",
+                "wessen",
+                "Neunebrot",
+                "hochzeitlicher",
+                "ausgemach",
+                "woraus"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Geladenen",
+                "Ganzes",
+                "Begrüßung",
+                "Vorgang",
+                "wer",
+                "begrüßt",
+                "Ausdrücke"
+            ],
+            "id": "D5a"
+        },
+        {
+            "concepts": [
+                "wer",
+                "bedient",
+                "Morgensuppe",
+                "Bedienenden"
+            ],
+            "id": "D5b"
+        },
+        {
+            "concepts": [
+                "Brot",
+                "Laib",
+                "Ausdruck",
+                "wer",
+                "besonderer",
+                "schneidet"
+            ],
+            "id": "D5c"
+        },
+        {
+            "concepts": [
+                "versteht",
+                "Ehrenzeichen",
+                "langen",
+                "darunter"
+            ],
+            "id": "D5d"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Suppendank"
+            ],
+            "id": "D5e"
+        },
+        {
+            "concepts": [
+                "Vaters",
+                "Bräuche",
+                "blasen",
+                "Frühsuppenmahls",
+                "Mist",
+                "Abschluß",
+                "sonstige"
+            ],
+            "id": "D5f"
+        },
+        {
+            "concepts": [
+                "Ausdruck",
+                "Ehrengewand",
+                "wem",
+                "bestritten"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "wem",
+                "verwendet",
+                "bestehend",
+                "bestritten",
+                "Sterbehemd",
+                "woraus",
+                "Schärkenhemd",
+                "Bestandteile",
+                "Hochzeitsgewandes"
+            ],
+            "id": "D6a"
+        },
+        {
+            "concepts": [
+                "bevorzugt",
+                "Arten",
+                "Brautschuhe"
+            ],
+            "id": "D6b"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "Brautkranz",
+                "bestehend",
+                "später",
+                "wozu",
+                "woraus"
+            ],
+            "id": "D6c"
+        },
+        {
+            "concepts": [
+                "Brautstrumpf",
+                "Farbe",
+                "Hochzeitsgewands",
+                "rotes",
+                "besondere",
+                "Band",
+                "Hals",
+                "Brautschleier",
+                "Stücke",
+                "Arten",
+                "bevorzugt",
+                "Tuch",
+                "sonstige"
+            ],
+            "id": "D6d"
+        },
+        {
+            "concepts": [
+                "Hochzeittüchlein",
+                "wem",
+                "verteilt",
+                "wen"
+            ],
+            "id": "D6e"
+        },
+        {
+            "concepts": [
+                "Braut",
+                "Kind",
+                "Witwe",
+                "Kranz",
+                "Strümpfe",
+                "Kranze",
+                "weißen",
+                "Stand",
+                "ledigem",
+                "Grün",
+                "unterscheidet",
+                "Tracht",
+                "gehabt"
+            ],
+            "id": "D6f"
+        }
+    ]
+}

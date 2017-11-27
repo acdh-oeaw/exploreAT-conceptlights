@@ -1,0 +1,1861 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Zusammenschluß"
+                ],
+                [
+                    "trinken"
+                ],
+                [
+                    "Sinne"
+                ],
+                [
+                    "lieb"
+                ],
+                [
+                    "treu"
+                ],
+                [
+                    "Wort"
+                ],
+                [
+                    "halten"
+                ],
+                [
+                    "nachlaufen"
+                ],
+                [
+                    "spröde"
+                ],
+                [
+                    "macht"
+                ],
+                [
+                    "miteinander"
+                ],
+                [
+                    "Burschen"
+                ],
+                [
+                    "Besuch"
+                ],
+                [
+                    "heißen"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "Liebsten"
+                ],
+                [
+                    "Fensterln"
+                ]
+            ],
+            "2": [
+                [
+                    "Liebesverhältnis"
+                ],
+                [
+                    "fensterln"
+                ]
+            ],
+            "3": [
+                [
+                    "Gehängen"
+                ],
+                [
+                    "Feind"
+                ],
+                [
+                    "jemanden"
+                ],
+                [
+                    "Mensch"
+                ]
+            ],
+            "5": [
+                [
+                    "lassen"
+                ],
+                [
+                    "Mädchen"
+                ]
+            ],
+            "6": [
+                [
+                    "lieben"
+                ],
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "9": [
+                [
+                    "gehen"
+                ]
+            ],
+            "10": [
+                [
+                    "Liebe"
+                ]
+            ],
+            "15": [
+                [
+                    "jemandem"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Bünde",
+                    "Mitglieder"
+                ],
+                [
+                    "gesellig",
+                    "kommod"
+                ],
+                [
+                    "ungut",
+                    "ungesellig"
+                ],
+                [
+                    "Geliebter",
+                    "Geliebte"
+                ],
+                [
+                    "lassen",
+                    "Hof"
+                ],
+                [
+                    "Liebesverhältnis",
+                    "anknüpfen"
+                ],
+                [
+                    "Mädchen",
+                    "Bursche"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "gehen",
+                    "Liebesbesuche",
+                    "fensterln"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 1,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Besuch"
+            ],
+            "source": 1,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bünde",
+                "Mitglieder"
+            ],
+            "source": 5,
+            "target": 6,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zusammenschluß"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißen"
+            ],
+            "source": 6,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gesellig",
+                "kommod"
+            ],
+            "source": 10,
+            "target": 11,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 11,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ungut",
+                "ungesellig"
+            ],
+            "source": 12,
+            "target": 13,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 13,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "macht"
+            ],
+            "source": 15,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sinne"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feind"
+            ],
+            "source": 17,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feind"
+            ],
+            "source": 17,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 26,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 26,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 26,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 26,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gehängen"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gehängen"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemanden"
+            ],
+            "source": 28,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemanden"
+            ],
+            "source": 28,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gehängen"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 29,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 29,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 29,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 29,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treu"
+            ],
+            "source": 32,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feind"
+            ],
+            "source": 35,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemanden"
+            ],
+            "source": 41,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 43,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 43,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 45,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 45,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 46,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 46,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 46,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 46,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 47,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 47,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 47,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lieb"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lieben"
+            ],
+            "source": 49,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lieben"
+            ],
+            "source": 49,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lieben"
+            ],
+            "source": 49,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geliebter",
+                "Geliebte"
+            ],
+            "source": 51,
+            "target": 52,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 52,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 52,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 53,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 53,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lieben"
+            ],
+            "source": 54,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lieben"
+            ],
+            "source": 54,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 55,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 55,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 55,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemandem"
+            ],
+            "source": 56,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebe"
+            ],
+            "source": 58,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lieben"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "halten"
+            ],
+            "source": 61,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "miteinander"
+            ],
+            "source": 64,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen",
+                "Hof"
+            ],
+            "source": 66,
+            "target": 67,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 66,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 67,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebesverhältnis"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebesverhältnis",
+                "anknüpfen"
+            ],
+            "source": 72,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Liebesverhältnis"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 73,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 73,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 73,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädchen"
+            ],
+            "source": 79,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädchen"
+            ],
+            "source": 79,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädchen"
+            ],
+            "source": 79,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nachlaufen"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Burschen"
+            ],
+            "source": 80,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädchen"
+            ],
+            "source": 82,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädchen"
+            ],
+            "source": 82,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädchen",
+                "Bursche"
+            ],
+            "source": 88,
+            "target": 91,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "spröde"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 93,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fensterln"
+            ],
+            "source": 94,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen",
+                "Liebesbesuche",
+                "fensterln"
+            ],
+            "source": 94,
+            "target": 97,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 94,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fensterln"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liebsten"
+            ],
+            "source": 96,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fensterln"
+            ],
+            "source": 99,
+            "target": 101,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "besuchen",
+                "zukehren",
+                "heimsuchen"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "gehen",
+                "ankündigen",
+                "Besuch",
+                "baldige",
+                "Vorzeichen",
+                "Erscheinen",
+                "Besuches"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Kirche",
+                "Heimgarten",
+                "Zusammenkünfte",
+                "gesellige"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "heimgarten",
+                "kommt",
+                "heimgärteln"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Gesellschaft"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Aufnahme",
+                "wann",
+                "verfo",
+                "bestimmte",
+                "Satzungen",
+                "Männerbünde",
+                "Zusammenschluß",
+                "Gleichgeschlechtiger",
+                "Bünde",
+                "Mitglieder",
+                "zusammen",
+                "Ziele",
+                "Ürten",
+                "Gebräuche",
+                "Frauenbünde",
+                "Austritt",
+                "Zechen",
+                "kommen"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Ürtenbuben",
+                "Bünde",
+                "Mitglieder",
+                "heißen"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Berufe",
+                "Zusammenschluß",
+                "Zünfte",
+                "Innungen",
+                "gleichartiger"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "bedeuten",
+                "bekannt",
+                "Ausdrücke",
+                "Zechamt"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "trinken",
+                "essen",
+                "zechweise",
+                "Zeche"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "gesellig",
+                "kommod"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "gesellig",
+                "kommod"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "ungut",
+                "ungesellig"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "ungut",
+                "Mensch",
+                "ungesellig"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Unterhaltungen",
+                "Macher",
+                "veranstalten",
+                "Capo",
+                "Geschick",
+                "versteht",
+                "Obermacher"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "macht",
+                "schaftelhuber",
+                "überall",
+                "unnötig",
+                "ungebeten",
+                "wichtig"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "trinken",
+                "Sinne",
+                "Freundschaft",
+                "Kameradschaft"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Kamerad",
+                "Freund",
+                "Frendt",
+                "Sinne",
+                "Freunderl",
+                "Ausruf",
+                "Spezi",
+                "Feind"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Freundin"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "freund",
+                "befreundet"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Jugendfreundschaft"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Hausgenosse"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Schlafgenosse",
+                "Schlaf"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Lebensgefährte"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Weggefährte"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Genossenschaft",
+                "Genosse"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "gut",
+                "jemandem",
+                "geneigt",
+                "leiden",
+                "mögen"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Zuneigung"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Nachsicht",
+                "Nachhängen",
+                "jemanden",
+                "Gehängen"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "jemandem",
+                "nachsichtig",
+                "geben",
+                "Gehängen"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Gehängen",
+                "Gunst",
+                "stehen",
+                "jemandes"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "anhänglich"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "treu",
+                "ergeben"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Freundschaftsbünde"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "leben",
+                "Feindschaft"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Feind"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Feindin"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "feindlich",
+                "feindla",
+                "abhaß",
+                "hässierlich",
+                "Satz",
+                "feindselig"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "verfeinden"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "spinnefeind",
+                "todfeind",
+                "Todfeindschaft",
+                "Todfeind"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Haß",
+                "Feind"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "jemanden",
+                "hassen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Pick",
+                "Groll"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "jemandem",
+                "grollen"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "gehässig",
+                "jemanden"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "aufsässig",
+                "jemandem"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Wort",
+                "wachsen",
+                "echt",
+                "Lieb",
+                "süß",
+                "Füß",
+                "Händ",
+                "vorkommt",
+                "Liebe"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Elternliebe",
+                "Liebe"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "lieb",
+                "lieber",
+                "Schneck",
+                "Lieber"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "karressieren",
+                "lieb",
+                "gern",
+                "lieben"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Kater",
+                "verliebte",
+                "scheid",
+                "Leut",
+                "verliebter",
+                "niemals",
+                "angebrannt",
+                "verliebt",
+                "verbrannt"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Geliebter",
+                "Liebelein",
+                "Geliebte",
+                "Liebster",
+                "Schatz",
+                "Meinige",
+                "Gesell"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Geliebter",
+                "Schamster",
+                "Geliebte",
+                "Glotsch",
+                "Klesche",
+                "Gschwuf",
+                "derbe",
+                "Mensch",
+                "Ausdrücke"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Liebende",
+                "Liebe",
+                "zwei"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "innig",
+                "herzlich",
+                "lieben",
+                "einander"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "voneinander"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Sehnsucht",
+                "jemandem",
+                "verzehren"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "sehnsüchtig"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "gemütskrank",
+                "Liebe"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "lieben",
+                "aufrichtig"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "treu"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "halten",
+                "Treue"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "heimlich",
+                "lieben"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Zusammenkunft",
+                "zweier",
+                "Liebender",
+                "Stelldichein"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "miteinander",
+                "schäkern",
+                "schatzeln",
+                "gaspern",
+                "spienzeln"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Fenster",
+                "Schönsten",
+                "Dorf",
+                "setzt",
+                "Dorfschönheit",
+                "vors",
+                "Baum"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "Hof"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "reißen",
+                "drängen",
+                "Hof",
+                "lassen",
+                "Geriß"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "untreu"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "gibt",
+                "Untreue",
+                "Wort"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "verlassen"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "sitzen"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "unterhalten",
+                "anknüpfen",
+                "Geliebten",
+                "Liebesverhältnis",
+                "Rücken"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "angesponnen",
+                "gehen",
+                "Umschreibungen",
+                "Gspusi",
+                "Liebesverhältnis",
+                "jemandem",
+                "Bandel"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Liebesverhältnis",
+                "anbandeln",
+                "anknüpfen"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "spielen",
+                "Narren",
+                "halten",
+                "Liebe"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "darankriegen",
+                "verführen"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "wegwerfen"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "mannstoll"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Mädchen",
+                "mannstolles"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "nachlaufen",
+                "Burschen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "überhaupt",
+                "nachlaufen",
+                "Männern"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Flitsche",
+                "Fetzen",
+                "Flitte",
+                "Mätze",
+                "Flucke",
+                "Mädchen",
+                "flatterhaftes",
+                "Schlampe",
+                "Flicke",
+                "Zauke",
+                "Hudel",
+                "leichtfertiges"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Prostituierte"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Weibernarr"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Schürze",
+                "herlaufen"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Don",
+                "Juan",
+                "Herzenbrecher"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "selbstgefällig"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "selbstgefälliger",
+                "selbstgefälliges",
+                "Mädchen",
+                "Bursche"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "verschmähen"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "spröde",
+                "kalt"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Mädchen",
+                "spröder",
+                "kalter",
+                "ebensolches",
+                "Bursche"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "spröde",
+                "Heimliche",
+                "junge",
+                "Leute",
+                "stellen",
+                "Heimlicher"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "ausgehen",
+                "gehen",
+                "Liebesabenteuer",
+                "Lepsche"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "nächtliche",
+                "Menschern",
+                "Liebesbesuche",
+                "gasseln",
+                "brenteln",
+                "fensterln",
+                "dafür",
+                "Ausdrücke",
+                "Frei"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Liebesbesuch",
+                "heißt"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Liebsten",
+                "anbrenteln",
+                "fensterln",
+                "Versuch"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "macht",
+                "mehrere",
+                "gehen",
+                "Brentler",
+                "besteht",
+                "Name",
+                "Burschen",
+                "miteinander",
+                "Liebesbesuche",
+                "Menscherbua",
+                "fensterln",
+                "besonderer"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Besuch",
+                "gesprochenen",
+                "gesungenen",
+                "Reime",
+                "Brentellieder",
+                "heißen",
+                "beim"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Fensterln",
+                "beim",
+                "Glück"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "abgewiesen",
+                "ankommen",
+                "übel",
+                "Liebsten"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "aufs",
+                "Fensterln",
+                "Ausdrücke",
+                "beziehen",
+                "sonstige"
+            ],
+            "id": "F8"
+        }
+    ]
+}

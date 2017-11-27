@@ -1,0 +1,5243 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Totenkopf"
+                ],
+                [
+                    "Hirn"
+                ],
+                [
+                    "Backenknochen"
+                ],
+                [
+                    "Farbe"
+                ],
+                [
+                    "schmales"
+                ],
+                [
+                    "Maul"
+                ],
+                [
+                    "kleiner"
+                ],
+                [
+                    "schmaler"
+                ],
+                [
+                    "schöner"
+                ]
+            ],
+            "3": [
+                [
+                    "Wange"
+                ],
+                [
+                    "breites"
+                ],
+                [
+                    "Krankheiten"
+                ]
+            ],
+            "6": [
+                [
+                    "Stirne"
+                ],
+                [
+                    "Stirn"
+                ]
+            ],
+            "13": [
+                [
+                    "Mensch"
+                ]
+            ],
+            "15": [
+                [
+                    "Wangen"
+                ]
+            ],
+            "21": [
+                [
+                    "Kinn"
+                ]
+            ],
+            "44": [
+                [
+                    "Mund"
+                ]
+            ],
+            "170": [
+                [
+                    "Gesicht"
+                ]
+            ],
+            "227": [
+                [
+                    "Kopf"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Mensch",
+                    "langes"
+                ],
+                [
+                    "Mensch",
+                    "Gesicht"
+                ],
+                [
+                    "halten",
+                    "Mund"
+                ]
+            ],
+            "3": [
+                [
+                    "Kopf",
+                    "Haupt"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Schädel",
+                    "Kopf",
+                    "sonstige"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Kopf",
+                "Haupt"
+            ],
+            "source": 0,
+            "target": 1,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kopf",
+                "Haupt"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf",
+                "Haupt"
+            ],
+            "source": 1,
+            "target": 2,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 1,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 2,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 3,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schöner"
+            ],
+            "source": 3,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 4,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 5,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 7,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kleiner"
+            ],
+            "source": 7,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 8,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 9,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 10,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 11,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 12,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 13,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmaler"
+            ],
+            "source": 13,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 14,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 15,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 15,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 15,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 15,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 16,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 16,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 16,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 17,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 17,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krankheiten"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krankheiten"
+            ],
+            "source": 18,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 19,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 19,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krankheiten"
+            ],
+            "source": 19,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 20,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kopf"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schädel",
+                "Kopf",
+                "sonstige"
+            ],
+            "source": 23,
+            "target": 24,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Totenkopf"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirn"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirn"
+            ],
+            "source": 30,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirn"
+            ],
+            "source": 30,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirn"
+            ],
+            "source": 30,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirne"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirne"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirne"
+            ],
+            "source": 35,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirne"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirne"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirn"
+            ],
+            "source": 36,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirn"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirne"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stirn"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wange"
+            ],
+            "source": 41,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wange"
+            ],
+            "source": 41,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 42,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 42,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 42,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 44,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 45,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 46,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wangen"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backenknochen"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 51,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 51,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 51,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 51,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 51,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wange"
+            ],
+            "source": 52,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 55,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 55,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 55,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 55,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 55,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 55,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 57,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 60,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 61,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 61,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 62,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "langes"
+            ],
+            "source": 62,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 62,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinn"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "breites"
+            ],
+            "source": 64,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "breites"
+            ],
+            "source": 64,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmales"
+            ],
+            "source": 65,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 69,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 71,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 71,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 72,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 73,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 74,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 74,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 75,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "breites"
+            ],
+            "source": 75,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 76,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 77,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 78,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 79,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 80,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 80,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 80,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 80,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 80,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 80,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 81,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 81,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 81,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 81,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 81,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 81,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 85,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 85,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 85,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 85,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 86,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 86,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 86,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 87,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 87,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 88,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 88,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesicht"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maul"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 97,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 99,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 100,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 100,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 100,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 100,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 100,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 100,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 101,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 101,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 101,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 101,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 101,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 101,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 103,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 103,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 103,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 103,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 104,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "halten",
+                "Mund"
+            ],
+            "source": 104,
+            "target": 107,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 104,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 104,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 106,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 106,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 107,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mund"
+            ],
+            "source": 109,
+            "target": 110,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Kopf",
+                "Haupt"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "möchte",
+                "zerspringen",
+                "Haupt",
+                "Kopf",
+                "stehn"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Haupt",
+                "Kopf",
+                "offener",
+                "feiner",
+                "verdrehen"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Kopf",
+                "Tituskopf",
+                "ebenmäßig",
+                "Christuskopf",
+                "schöner",
+                "gebauter"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "häßlicher",
+                "unebenmäßiger",
+                "Kopf"
+            ],
+            "id": "A4a"
+        },
+        {
+            "concepts": [
+                "großer",
+                "Kopf",
+                "großkopfig"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Wasserkopf"
+            ],
+            "id": "A5a"
+        },
+        {
+            "concepts": [
+                "kleiner",
+                "Kopf"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "zugespitzter",
+                "Kopf",
+                "oben"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Kopf",
+                "langer"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Kopf",
+                "kurzer",
+                "platter"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Kopf",
+                "runder"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "breiter",
+                "Kopf"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "schmaler",
+                "Kopf"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "schiefer",
+                "Kopf"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "krausem",
+                "Gesichtsfarbe",
+                "Kopf",
+                "Mohrenkopf",
+                "dunkler"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Fischkopf",
+                "mißgestalteter",
+                "Nase",
+                "Kindskopf",
+                "Oberlippe",
+                "Kopf",
+                "aufgezogener",
+                "Hasenscharte",
+                "Hasenkopf",
+                "Vogelkopf",
+                "fischartig"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Nißkopf",
+                "behaftet",
+                "Kopf",
+                "Ungeziefer"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Kopfes",
+                "Krankheiten",
+                "Kopfweh"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Grindkopf",
+                "Kopf",
+                "Krankheiten",
+                "entstellter"
+            ],
+            "id": "A17a"
+        },
+        {
+            "concepts": [
+                "Beule",
+                "Kopf",
+                "Auswuchs"
+            ],
+            "id": "A17b"
+        },
+        {
+            "concepts": [
+                "schlagen",
+                "Kopf",
+                "schädeln",
+                "Schlag"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "köpfen",
+                "enthaupten"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Schädel",
+                "Kopf",
+                "Weiberkopf",
+                "sonstige"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Schädel",
+                "Kopfstück",
+                "Kopf",
+                "sonstige"
+            ],
+            "id": "A20a"
+        },
+        {
+            "concepts": [
+                "Totenkopf"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Totenkopf",
+                "Waschen",
+                "Wiedereingraben",
+                "Färben",
+                "Einwickeln",
+                "Hinterlegen",
+                "beziehen"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Nachbildung",
+                "Totenkopfes"
+            ],
+            "id": "B2a"
+        },
+        {
+            "concepts": [
+                "Aberglaube"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Hirnschale",
+                "Platte",
+                "Schädeldecke"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Stirn",
+                "Hirn"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "hirnrissig",
+                "Hirn"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Hinterhaupt"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Schläfe"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Höhlen",
+                "Gruben",
+                "Schläfen"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Stirne"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Stirn",
+                "hochstirnig",
+                "Stirne",
+                "hoher",
+                "hohe"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "niedere",
+                "Stirne"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "gewölbte",
+                "Stirne"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Stirn",
+                "runzeln",
+                "Stirnfalten"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Stirn",
+                "Hörndl",
+                "Auswüchse",
+                "Schwellungen",
+                "wachsen"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Wange",
+                "Backe"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Wangen",
+                "Vergleiche",
+                "Farbe"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "schminken",
+                "Schminke"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "starkgeäderte",
+                "Wangen"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "pausbäckig",
+                "aufgedunsene",
+                "Pausback",
+                "Wangen"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "fettlappig",
+                "Gesicht",
+                "Wangen",
+                "herabhängende"
+            ],
+            "id": "E5a"
+        },
+        {
+            "concepts": [
+                "ebene",
+                "Wangen"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "eingefallene",
+                "hohlwangig",
+                "Wangen",
+                "Hungerlücke",
+                "hohle"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Wangengrübchen"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Backenknochen"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Backenknochen",
+                "starken"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Wange",
+                "streicheln",
+                "tätscheln",
+                "kneifen"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "leichte",
+                "Ohrfeige",
+                "schallende",
+                "starke",
+                "Backenstreich"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Wange",
+                "geschwollene"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Kinn"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Kinnlade"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Fettkinn",
+                "Mensch"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Unterkinn"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Doppelkinn",
+                "geteiltes"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "gespitztes",
+                "Kinn"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "vorgeschobenes",
+                "Kinn"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Kinn",
+                "langes"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Kinn",
+                "kurzes"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Kinn",
+                "breites"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Kinn",
+                "schmales"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Kinngrübchen"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "daran",
+                "Volksglaube",
+                "Form",
+                "Kinngrübchens",
+                "knüpfender"
+            ],
+            "id": "F12a"
+        },
+        {
+            "concepts": [
+                "kratzen",
+                "Goderl"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "Gesicht",
+                "Umschreibg"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Gesichtes",
+                "Farbe"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Gesicht",
+                "braunem",
+                "rotem"
+            ],
+            "id": "G2a"
+        },
+        {
+            "concepts": [
+                "volles",
+                "Gesicht"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "aufgedunsenes",
+                "Gesicht"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Gesicht",
+                "langes"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Gesicht",
+                "breites"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Gesicht",
+                "schmales"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "schönes",
+                "Gesicht"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "häßliches",
+                "Gesicht"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "schmutziges",
+                "Gesicht"
+            ],
+            "id": "G9a"
+        },
+        {
+            "concepts": [
+                "Gesicht",
+                "gescheites"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Gesicht",
+                "glattes"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "blatternarbig"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Falte"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "runzlig",
+                "Runzel",
+                "Furche"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Narbe",
+                "Schramme",
+                "Gesicht",
+                "zerkratztes"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Gesicht",
+                "fröhliches"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "böses",
+                "Gesicht",
+                "betrübtes",
+                "mürrisches"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Verbrechergesicht",
+                "bösartiges",
+                "Gesicht"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "schneiden",
+                "zucken",
+                "verzerrtes",
+                "Gesicht",
+                "Grimassen",
+                "Gesichter"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Faustschlag",
+                "Gesicht"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Leberflecke"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Feuermal"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Sommersprossen"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Pusteln"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Mitesser"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Rotlauf",
+                "Gesichtsrose",
+                "Erkrankungen"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Mund",
+                "Maul"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "bildliche",
+                "Maul",
+                "großes",
+                "breites",
+                "Mensch"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "kleiner",
+                "schmaler",
+                "Mund"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Kirschenmund",
+                "Mund",
+                "schöner"
+            ],
+            "id": "H3a"
+        },
+        {
+            "concepts": [
+                "voller",
+                "fetter",
+                "Mund"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Mundwinkel"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "öffnen",
+                "Mund"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "feilbieten",
+                "Mund",
+                "offen",
+                "Maulaffen",
+                "halten"
+            ],
+            "id": "H6a"
+        },
+        {
+            "concepts": [
+                "gähnen"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "weinerlicher",
+                "verzerrter",
+                "Mund"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "reinen",
+                "halten",
+                "Mund"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "mundfaul"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "Mund",
+                "übelriechender",
+                "Ausschlag",
+                "Mundfäule",
+                "Krankheiten"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "Mund"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "Mundvoll"
+            ],
+            "id": "H13"
+        }
+    ]
+}

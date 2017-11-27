@@ -1,0 +1,3208 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Wort"
+                ],
+                [
+                    "gelten"
+                ],
+                [
+                    "Tieren"
+                ],
+                [
+                    "eigene"
+                ],
+                [
+                    "verwendet"
+                ],
+                [
+                    "weißes"
+                ],
+                [
+                    "Angabe"
+                ],
+                [
+                    "Verwendung"
+                ]
+            ],
+            "2": [
+                [
+                    "übertragene"
+                ]
+            ],
+            "4": [
+                [
+                    "Blutkörperchen"
+                ]
+            ],
+            "6": [
+                [
+                    "Form"
+                ]
+            ],
+            "9": [
+                [
+                    "Mittel"
+                ]
+            ],
+            "51": [
+                [
+                    "Blut"
+                ]
+            ],
+            "205": [
+                [
+                    "Fleisch"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "blutstillend",
+                    "Watte"
+                ],
+                [
+                    "Blutkörperchen",
+                    "eigene"
+                ],
+                [
+                    "weißen",
+                    "Blutkörperchen"
+                ],
+                [
+                    "Menschenblut",
+                    "Blut"
+                ],
+                [
+                    "Namen",
+                    "Blut"
+                ],
+                [
+                    "Mittel",
+                    "Blut"
+                ],
+                [
+                    "Blut",
+                    "eigene"
+                ],
+                [
+                    "übertragener",
+                    "Fleisch"
+                ],
+                [
+                    "Ausdruck",
+                    "Fleisch"
+                ],
+                [
+                    "Fleisches",
+                    "Fleisch"
+                ],
+                [
+                    "Beziehungen",
+                    "Fleisch"
+                ],
+                [
+                    "übertragene",
+                    "Fleisch"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 0,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 1,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 2,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 2,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 2,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 3,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 3,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 3,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 3,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 3,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen",
+                "Blut"
+            ],
+            "source": 3,
+            "target": 19,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 3,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blutstillend",
+                "Watte"
+            ],
+            "source": 6,
+            "target": 7,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 6,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelten"
+            ],
+            "source": 6,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 7,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 8,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 8,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blutkörperchen"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blutkörperchen"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blutkörperchen"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blutkörperchen",
+                "eigene"
+            ],
+            "source": 10,
+            "target": 11,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blutkörperchen"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eigene"
+            ],
+            "source": 10,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weißen",
+                "Blutkörperchen"
+            ],
+            "source": 11,
+            "target": 12,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 11,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 11,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 11,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut",
+                "eigene"
+            ],
+            "source": 11,
+            "target": 26,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "weißes"
+            ],
+            "source": 11,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 12,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel"
+            ],
+            "source": 12,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Menschenblut",
+                "Blut"
+            ],
+            "source": 14,
+            "target": 18,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 14,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tieren"
+            ],
+            "source": 14,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 14,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "übertragene"
+            ],
+            "source": 16,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 16,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "übertragene"
+            ],
+            "source": 16,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mittel",
+                "Blut"
+            ],
+            "source": 17,
+            "target": 19,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 17,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 18,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 19,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 20,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 21,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Angabe"
+            ],
+            "source": 21,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "übertragener",
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 41,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 24,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 25,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 26,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck",
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 42,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fleisches",
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 43,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 27,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 28,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 29,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beziehungen",
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 44,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 30,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "übertragene",
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 44,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 31,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 32,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 34,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 35,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 36,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 37,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 38,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 38,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 38,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 38,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 39,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 39,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 39,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 39,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 40,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 40,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 40,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 41,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 41,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 41,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Blutsturz",
+                "spucken",
+                "Blutbrechen",
+                "Verbindungen",
+                "Blut",
+                "brechen",
+                "husten",
+                "scheißen",
+                "Krankheiten",
+                "Blutauszehrung",
+                "bedeutet",
+                "brunzen",
+                "bluten",
+                "seichen",
+                "Nasenbluten"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "verstellen",
+                "stillen",
+                "Blut"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Spinneweben",
+                "ansprechen",
+                "Blutöl",
+                "Feuerschwamm",
+                "Krötenpulver",
+                "Ursachen",
+                "Form",
+                "Rasen",
+                "Stück",
+                "treten",
+                "lassen",
+                "besondere",
+                "Blutverlustes",
+                "Arten",
+                "Mosen",
+                "Mittel",
+                "ang",
+                "Blutstillen"
+            ],
+            "id": "B15a"
+        },
+        {
+            "concepts": [
+                "erwünscht",
+                "Deutschböhmen",
+                "nimmer",
+                "Wie",
+                "Jesus",
+                "Sohnes",
+                "Geistes",
+                "gestorben",
+                "Form",
+                "heiligen",
+                "kimmt",
+                "Segensprüche",
+                "kimm",
+                "Gottes",
+                "Blutsegen",
+                "Blut",
+                "Christus",
+                "folgender",
+                "Anführungen",
+                "Ist",
+                "Vaters",
+                "steh",
+                "Im",
+                "Namen"
+            ],
+            "id": "B15b"
+        },
+        {
+            "concepts": [
+                "verschieden",
+                "geht",
+                "Blutstillens",
+                "Nasenblutung",
+                "Blutbestellung",
+                "behandelt",
+                "Handlung",
+                "volkstümlichen"
+            ],
+            "id": "B15c"
+        },
+        {
+            "concepts": [
+                "Person",
+                "Blutstillung",
+                "befaßt"
+            ],
+            "id": "B15d"
+        },
+        {
+            "concepts": [
+                "gelten",
+                "Mineralien",
+                "Watte",
+                "wissenschaftliche",
+                "schriftdeutsche",
+                "Form",
+                "vorhanden",
+                "Pflanzen",
+                "entsprechende",
+                "Blutkraut",
+                "blutstillend"
+            ],
+            "id": "B15e"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "verwendet",
+                "Watte",
+                "blutstillende",
+                "Mundart",
+                "blutstillend",
+                "Verbindung"
+            ],
+            "id": "B15f"
+        },
+        {
+            "concepts": [
+                "Mittel",
+                "Blutung"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "woher",
+                "Kügerl",
+                "Blutkörperchen",
+                "Blutkügerl",
+                "kommend"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "roten",
+                "eigene",
+                "Blutkörperchen"
+            ],
+            "id": "B17a"
+        },
+        {
+            "concepts": [
+                "Blutkörperchen",
+                "Blut",
+                "weißes",
+                "eigene",
+                "weißen"
+            ],
+            "id": "B17b"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Blutkörperchen",
+                "Fremdwort",
+                "benennt",
+                "Leukämie",
+                "dagegen",
+                "mundartlichem",
+                "Überwiegen",
+                "weißen",
+                "Mittel",
+                "Volk",
+                "entstehende"
+            ],
+            "id": "B17c"
+        },
+        {
+            "concepts": [
+                "Blutwasser",
+                "Serum"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "getrunken",
+                "wann",
+                "Tieren",
+                "beurteilt",
+                "Menschenblut",
+                "üblich",
+                "Blut",
+                "trinken",
+                "heute",
+                "Ausdrücke"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Blutmale",
+                "wurst",
+                "Herkunft",
+                "Volksschnurren"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "üblicher",
+                "übertragene",
+                "Blutstropfen",
+                "Verwendung",
+                "Volksglaube",
+                "Form",
+                "Bluttropfen"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "gelten",
+                "Blutreinigung",
+                "Blut",
+                "Blutreinigungstee",
+                "blutreinigend",
+                "Drachenkraut",
+                "Mittel",
+                "reinigen"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "wem",
+                "besonders",
+                "Menschenblut",
+                "gezaubert",
+                "Blut",
+                "Christi",
+                "Natternblut",
+                "Herrenblut",
+                "Verwendun",
+                "Seitenblut"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "mundartliche",
+                "Blutfleck",
+                "entfernt",
+                "blutscheu",
+                "Blut",
+                "Blutscheu",
+                "Brust",
+                "Mittel",
+                "Namen"
+            ],
+            "id": "B23a"
+        },
+        {
+            "concepts": [
+                "Blutapfel",
+                "Blutrose",
+                "blutsverwandt",
+                "Blutrichter",
+                "Blut",
+                "Bluthund",
+                "Blutsverwandtschaft",
+                "Blutsverwandter",
+                "Blutorange",
+                "Blutsfreund"
+            ],
+            "id": "B23b"
+        },
+        {
+            "concepts": [
+                "Blutsakrament",
+                "blutwenig",
+                "Blutskerl",
+                "Blutscheißdreck",
+                "Blutsdrache",
+                "blutnackt",
+                "blutjung",
+                "Betonung",
+                "Blut",
+                "Blutteufel",
+                "blutarm",
+                "Blutsau",
+                "verstärkender",
+                "blutdünn",
+                "Angabe"
+            ],
+            "id": "B23c"
+        },
+        {
+            "concepts": [
+                "vollblütig",
+                "kaltblütig"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Vollblütigkeit",
+                "Weiterbildungen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Kindern",
+                "Tieren",
+                "Floasch",
+                "Fleisch",
+                "übertragener",
+                "Fleischi",
+                "Waisch",
+                "Plural",
+                "kleinen",
+                "Verkehr",
+                "Obstarten",
+                "Kirschen",
+                "Lautungen"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Bedeutungen",
+                "Fleisch",
+                "Brat",
+                "ausgelöstes",
+                "gibt",
+                "Gebrät",
+                "Knochen"
+            ],
+            "id": "C1a"
+        },
+        {
+            "concepts": [
+                "Fisch",
+                "gehen",
+                "mager",
+                "schneiden",
+                "Fleisch",
+                "stehende",
+                "Blut",
+                "Wortverbindungen",
+                "eigene",
+                "beste",
+                "Bein",
+                "fallen",
+                "Scherzfragen"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "totes",
+                "Essen",
+                "verwendet",
+                "hält",
+                "Fleisch",
+                "Sinne",
+                "frisches",
+                "krankes",
+                "grünen",
+                "welc",
+                "Zustandes",
+                "Ausdruck",
+                "Fleisches",
+                "wildes",
+                "gesundes",
+                "weit",
+                "grünes"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Fleisch",
+                "letschiges",
+                "mildes",
+                "innerer",
+                "Zähne",
+                "äußerer",
+                "hartes",
+                "weiches",
+                "zäh",
+                "leichtes",
+                "anstarkes",
+                "schwammiges",
+                "daran",
+                "zähes",
+                "kerniges",
+                "festes",
+                "Leder",
+                "beißt",
+                "schweres",
+                "mürbes",
+                "wasserhaltige"
+            ],
+            "id": "C3a"
+        },
+        {
+            "concepts": [
+                "süßletes",
+                "muffelndes",
+                "Fleisch",
+                "süßliches",
+                "muffiges",
+                "richtiges",
+                "gestunkenes",
+                "Schimpfwörter",
+                "gutes",
+                "abwertende",
+                "Geruches",
+                "schlechtes",
+                "stinkendes",
+                "Geschmackes",
+                "wildelndes",
+                "fades"
+            ],
+            "id": "C3b"
+        },
+        {
+            "concepts": [
+                "gelbliches",
+                "schwarzes",
+                "Fleisch",
+                "Farbe",
+                "rotes",
+                "Angabe",
+                "Färbung",
+                "rötliches",
+                "weißes",
+                "Beziehungen",
+                "Güte",
+                "bläuliches"
+            ],
+            "id": "C3c"
+        },
+        {
+            "concepts": [
+                "Fleischgerichten",
+                "übertragene",
+                "verunreinigt",
+                "Fleischiges",
+                "Fleisch",
+                "rohen",
+                "fleischige",
+                "Stengel",
+                "riechend",
+                "geschlechtlichem",
+                "Blät",
+                "Fleischteilchen",
+                "fleischig",
+                "Sinn",
+                "Fürtuch",
+                "ferner",
+                "meist"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "fleischlich",
+                "Fleisch",
+                "fleischeren",
+                "fleische",
+                "fleischhaft"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "fleischen",
+                "etwaige",
+                "Verb"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "fleischln",
+                "Fleisch"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "mehrere",
+                "Mumienfleisch",
+                "Fleisch",
+                "Lebewesen",
+                "Menscherfleisch",
+                "Ersatzverbindungen",
+                "Tierfleisch",
+                "Bubenfleisch",
+                "Heilmittel",
+                "Ersatzwörtern",
+                "samt",
+                "Oc"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Fleisch",
+                "Körperstelle",
+                "Kopf",
+                "Gnackfleisch",
+                "Armfleisch",
+                "Kopffleisch",
+                "Wammerlfleisch",
+                "Haxen",
+                "Wammerl",
+                "Hals"
+            ],
+            "id": "C8a"
+        },
+        {
+            "concepts": [
+                "fürs",
+                "gekauft",
+                "Herrenfleisch",
+                "geweihtes",
+                "Fleisch",
+                "Militär",
+                "Weichfleisch",
+                "Pfarrerfleisch",
+                "Soldatenfleisch",
+                "Weihfleisch",
+                "Bestimmung"
+            ],
+            "id": "C8b"
+        },
+        {
+            "concepts": [
+                "Zustand",
+                "Wildfleisch",
+                "Fleisch"
+            ],
+            "id": "C8c"
+        },
+        {
+            "concepts": [
+                "Fleisch",
+                "Volksmedizin",
+                "Salamander",
+                "Verwendung",
+                "stehen",
+                "Beziehung",
+                "Aberglauben",
+                "Aalfleisch"
+            ],
+            "id": "C8d"
+        },
+        {
+            "concepts": [
+                "Fleisch",
+                "Fuchsschweiffleisch",
+                "Pfund",
+                "Flohfleisch",
+                "fünfzehn",
+                "Schnellsprechübungen",
+                "Bildungen"
+            ],
+            "id": "C8e"
+        },
+        {
+            "concepts": [
+                "Dobernickelfleisch",
+                "Schwammfleisch",
+                "Fleisch",
+                "übertragener",
+                "Rehgeißelfleisch",
+                "Schimpfwort",
+                "Rabenfleisch",
+                "Einzelsorten"
+            ],
+            "id": "C8f"
+        },
+        {
+            "concepts": [
+                "Fleisch",
+                "Sammelausdruck",
+                "Fleischwerk",
+                "Fleischgattung",
+                "Ausdruck",
+                "Gefleischeret",
+                "Unterschiede"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Bestandteilen",
+                "Beschaffenheiten",
+                "Fleisch",
+                "Fleischtrockne",
+                "Fleisches",
+                "Zuständen",
+                "Fleischwasser"
+            ],
+            "id": "C9a"
+        },
+        {
+            "concepts": [
+                "Fleischfutter",
+                "übertragene",
+                "Fleischverbot",
+                "Fleisch",
+                "Fleischkost",
+                "Fleischgenuß",
+                "Häufigkeit",
+                "Fleischzeit",
+                "Beziehungen"
+            ],
+            "id": "C9b"
+        },
+        {
+            "concepts": [
+                "Fleischeslust",
+                "Fleisch",
+                "Fleischfliege",
+                "fleischfarben",
+                "sonstige"
+            ],
+            "id": "C9c"
+        }
+    ]
+}

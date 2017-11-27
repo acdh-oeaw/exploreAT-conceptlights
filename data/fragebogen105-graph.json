@@ -1,0 +1,3712 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Eisenbahn"
+                ],
+                [
+                    "Schienen"
+                ],
+                [
+                    "Strecke"
+                ],
+                [
+                    "Gepäck"
+                ],
+                [
+                    "Koffer"
+                ],
+                [
+                    "Lokomotive"
+                ],
+                [
+                    "Waggon"
+                ],
+                [
+                    "frei"
+                ],
+                [
+                    "Lastwagen"
+                ],
+                [
+                    "Passagier"
+                ],
+                [
+                    "Kondukteur"
+                ],
+                [
+                    "Glockensignal"
+                ],
+                [
+                    "Elektrische"
+                ],
+                [
+                    "elektrischer"
+                ],
+                [
+                    "Flugzeug"
+                ],
+                [
+                    "markieren"
+                ],
+                [
+                    "aufgeben"
+                ],
+                [
+                    "zustellen"
+                ],
+                [
+                    "Telegramm"
+                ],
+                [
+                    "Gespräch"
+                ],
+                [
+                    "Lande"
+                ],
+                [
+                    "per"
+                ],
+                [
+                    "Radio"
+                ],
+                [
+                    "Apparat"
+                ],
+                [
+                    "Station"
+                ],
+                [
+                    "elektrische"
+                ]
+            ],
+            "2": [
+                [
+                    "Karte"
+                ]
+            ],
+            "3": [
+                [
+                    "fahren"
+                ],
+                [
+                    "Nachricht"
+                ],
+                [
+                    "Aussprache"
+                ],
+                [
+                    "Betonung"
+                ],
+                [
+                    "besetzt"
+                ]
+            ],
+            "4": [
+                [
+                    "geht"
+                ],
+                [
+                    "schicken"
+                ]
+            ],
+            "6": [
+                [
+                    "Brief"
+                ]
+            ],
+            "9": [
+                [
+                    "Post"
+                ]
+            ],
+            "15": [
+                [
+                    "Sonstiges"
+                ]
+            ],
+            "54": [
+                [
+                    "Zug"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Karte",
+                    "Fahrkarte"
+                ],
+                [
+                    "Last",
+                    "en"
+                ],
+                [
+                    "fährt",
+                    "Zug"
+                ],
+                [
+                    "geht",
+                    "wann"
+                ],
+                [
+                    "schicken",
+                    "Post"
+                ]
+            ],
+            "3": [
+                [
+                    "Aussprache",
+                    "Betonung"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "geht",
+                    "schicken",
+                    "ab"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Eisenbahn"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "elektrische"
+            ],
+            "source": 4,
+            "target": 334,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schienen"
+            ],
+            "source": 10,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strecke"
+            ],
+            "source": 13,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frei"
+            ],
+            "source": 13,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lastwagen"
+            ],
+            "source": 17,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Station"
+            ],
+            "source": 39,
+            "target": 327,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glockensignal"
+            ],
+            "source": 50,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karte"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karte",
+                "Fahrkarte"
+            ],
+            "source": 61,
+            "target": 64,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "markieren"
+            ],
+            "source": 61,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karte"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 70,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gepäck"
+            ],
+            "source": 71,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aufgeben"
+            ],
+            "source": 71,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zustellen"
+            ],
+            "source": 71,
+            "target": 254,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 79,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 79,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "schicken",
+                "ab"
+            ],
+            "source": 79,
+            "target": 207,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schicken"
+            ],
+            "source": 79,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schicken"
+            ],
+            "source": 79,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Koffer"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kondukteur"
+            ],
+            "source": 105,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fährt",
+                "Zug"
+            ],
+            "source": 112,
+            "target": 154,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 112,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 112,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "wann"
+            ],
+            "source": 112,
+            "target": 207,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 113,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 114,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 116,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Last",
+                "en"
+            ],
+            "source": 116,
+            "target": 126,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 116,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 116,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 116,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 116,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 116,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 116,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 117,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 117,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 117,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 117,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 117,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 117,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lokomotive"
+            ],
+            "source": 119,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waggon"
+            ],
+            "source": 123,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besetzt"
+            ],
+            "source": 123,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besetzt"
+            ],
+            "source": 123,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besetzt"
+            ],
+            "source": 134,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 150,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 150,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 150,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 150,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 150,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 151,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 151,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 151,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 151,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 152,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 152,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 152,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 153,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 153,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zug"
+            ],
+            "source": 154,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Passagier"
+            ],
+            "source": 156,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 167,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 167,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 167,
+            "target": 295,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 167,
+            "target": 314,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 167,
+            "target": 328,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Elektrische"
+            ],
+            "source": 169,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 180,
+            "target": 270,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 180,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 180,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "elektrischer"
+            ],
+            "source": 188,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 192,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 192,
+            "target": 295,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 192,
+            "target": 314,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 192,
+            "target": 328,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flugzeug"
+            ],
+            "source": 193,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 198,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Betonung"
+            ],
+            "source": 204,
+            "target": 270,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Betonung"
+            ],
+            "source": 204,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Betonung"
+            ],
+            "source": 204,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 206,
+            "target": 295,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 206,
+            "target": 314,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 206,
+            "target": 328,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 207,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schicken"
+            ],
+            "source": 207,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schicken",
+                "Post"
+            ],
+            "source": 207,
+            "target": 256,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 207,
+            "target": 262,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 207,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 208,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 208,
+            "target": 262,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 208,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brief"
+            ],
+            "source": 221,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brief"
+            ],
+            "source": 221,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brief"
+            ],
+            "source": 221,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brief"
+            ],
+            "source": 222,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brief"
+            ],
+            "source": 222,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brief"
+            ],
+            "source": 243,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schicken"
+            ],
+            "source": 251,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "per"
+            ],
+            "source": 251,
+            "target": 304,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nachricht"
+            ],
+            "source": 256,
+            "target": 260,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 256,
+            "target": 262,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 256,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nachricht"
+            ],
+            "source": 256,
+            "target": 272,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nachricht"
+            ],
+            "source": 260,
+            "target": 272,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Post"
+            ],
+            "source": 262,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache",
+                "Betonung"
+            ],
+            "source": 270,
+            "target": 276,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Aussprache",
+                "Betonung"
+            ],
+            "source": 270,
+            "target": 280,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Telegramm"
+            ],
+            "source": 276,
+            "target": 277,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache",
+                "Betonung"
+            ],
+            "source": 276,
+            "target": 280,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gespräch"
+            ],
+            "source": 288,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 295,
+            "target": 314,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 295,
+            "target": 328,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lande"
+            ],
+            "source": 301,
+            "target": 303,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 314,
+            "target": 328,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Radio"
+            ],
+            "source": 315,
+            "target": 323,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Apparat"
+            ],
+            "source": 325,
+            "target": 326,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Kinderspiel",
+                "Bahn",
+                "fahren",
+                "Verkehrsmittel",
+                "bauen",
+                "Eisenbahn"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Lokalbahn",
+                "Nebenlinie"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Hauptlinie"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Schmalspurbahn",
+                "Schnackerlbahn"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "elektrische",
+                "Eisenbahn"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Förderbahn",
+                "Materialbahn"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Holzbahn"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Zahnradbahn"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Drahtseilbahn",
+                "Schwebebahn"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Bahngrund",
+                "enteigneter"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "liegen",
+                "Schienen",
+                "Bahnkörper"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Oberbau"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Bahnarbeiter"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Strecke",
+                "Bahnstrecke",
+                "verlegt",
+                "frei"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Schnellzugsstrecke"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Tunnel"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Kehrtunnel"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Lastwagen",
+                "Profil",
+                "Abmessen",
+                "beladenen"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Schienenschwelle",
+                "Holz"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Schienenschuh"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Gleis",
+                "Geleise"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Schleppgeleise"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "zweigeleisig"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "entgleisen"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Entgleisung"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Zusammenstoß"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "legen",
+                "Schienen",
+                "Schiene"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Weiche",
+                "stellen",
+                "Wechsel"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Weichensteller"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Stellwerk"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Kreuzung"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Bahnkurve"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "geschlossen",
+                "Bahnschranken",
+                "offen",
+                "zumachen",
+                "Schranken"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Wächterhaus"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "Haltestelle"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Bahnwächter"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Streckenwächter"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Strecke",
+                "abgehen"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Bahnstation"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Grenzstation",
+                "Station"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "Bahnhof"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Ankunftseite"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "Stationsgebäude"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "Frachtenmagazin"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Heizhaus"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "Semaphor"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "Signalscheibe"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "Haltesignal"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "Vorsignal"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "Signal",
+                "steht",
+                "Halt"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "Glockensignal"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "Klingelsignal"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "Signalpfeife"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "Signaltrompete"
+            ],
+            "id": "A54"
+        },
+        {
+            "concepts": [
+                "Kommandostab"
+            ],
+            "id": "A55"
+        },
+        {
+            "concepts": [
+                "Prellbock"
+            ],
+            "id": "A56"
+        },
+        {
+            "concepts": [
+                "Warteraum"
+            ],
+            "id": "A57"
+        },
+        {
+            "concepts": [
+                "Gepäckaufbewahrung",
+                "Garderobe"
+            ],
+            "id": "A58"
+        },
+        {
+            "concepts": [
+                "Gepäckausgabe"
+            ],
+            "id": "A59"
+        },
+        {
+            "concepts": [
+                "Perron",
+                "Bahnsteig"
+            ],
+            "id": "A60"
+        },
+        {
+            "concepts": [
+                "Bahnhofbuffet"
+            ],
+            "id": "A61"
+        },
+        {
+            "concepts": [
+                "Karte",
+                "zwicken",
+                "Billet",
+                "nehmen",
+                "Fahrkarte",
+                "kupieren",
+                "lösen",
+                "markieren"
+            ],
+            "id": "A62"
+        },
+        {
+            "concepts": [
+                "Perronkarte"
+            ],
+            "id": "A63"
+        },
+        {
+            "concepts": [
+                "Karte",
+                "Streckenkarte"
+            ],
+            "id": "A64"
+        },
+        {
+            "concepts": [
+                "Karte",
+                "Preis",
+                "halben",
+                "halbe",
+                "Fahrkarte"
+            ],
+            "id": "A65"
+        },
+        {
+            "concepts": [
+                "Eisenbahnlegitimation"
+            ],
+            "id": "A66"
+        },
+        {
+            "concepts": [
+                "Fahrkartenschalter",
+                "Kassa"
+            ],
+            "id": "A67"
+        },
+        {
+            "concepts": [
+                "Kassier",
+                "Schalterbeamter"
+            ],
+            "id": "A68"
+        },
+        {
+            "concepts": [
+                "Schalterdienst"
+            ],
+            "id": "A69"
+        },
+        {
+            "concepts": [
+                "bereithalten",
+                "Fahrgeld"
+            ],
+            "id": "A70"
+        },
+        {
+            "concepts": [
+                "Klasse",
+                "fahren",
+                "dritte",
+                "erste",
+                "dritten",
+                "zweite",
+                "dritter"
+            ],
+            "id": "A71"
+        },
+        {
+            "concepts": [
+                "auslösen",
+                "Gepäck",
+                "aufgeben",
+                "abholen",
+                "zustellen"
+            ],
+            "id": "A72"
+        },
+        {
+            "concepts": [
+                "Gepäckschein"
+            ],
+            "id": "A73"
+        },
+        {
+            "concepts": [
+                "Gepäckwaage"
+            ],
+            "id": "A74"
+        },
+        {
+            "concepts": [
+                "Handgepäck"
+            ],
+            "id": "A75"
+        },
+        {
+            "concepts": [
+                "Fahrgästen",
+                "Rollwägelchen",
+                "Gepäck",
+                "zuführt",
+                "Träger"
+            ],
+            "id": "A76"
+        },
+        {
+            "concepts": [
+                "Reisegepäck",
+                "Passagiergut"
+            ],
+            "id": "A77"
+        },
+        {
+            "concepts": [
+                "Eilgut"
+            ],
+            "id": "A78"
+        },
+        {
+            "concepts": [
+                "Sperrgut"
+            ],
+            "id": "A79"
+        },
+        {
+            "concepts": [
+                "geht",
+                "ab",
+                "Frachgut",
+                "schicken",
+                "Fracht",
+                "rollt"
+            ],
+            "id": "A80"
+        },
+        {
+            "concepts": [
+                "Frachtbrief"
+            ],
+            "id": "A81"
+        },
+        {
+            "concepts": [
+                "Spediteur"
+            ],
+            "id": "A82"
+        },
+        {
+            "concepts": [
+                "Rollfuhrwerk"
+            ],
+            "id": "A83"
+        },
+        {
+            "concepts": [
+                "Transitgut"
+            ],
+            "id": "A84"
+        },
+        {
+            "concepts": [
+                "Lagerzins"
+            ],
+            "id": "A85"
+        },
+        {
+            "concepts": [
+                "Koffer",
+                "Sinne",
+                "einpacken",
+                "packen",
+                "übertragenem",
+                "Bündel",
+                "auspacken",
+                "schnüren"
+            ],
+            "id": "A86"
+        },
+        {
+            "concepts": [
+                "Koffer",
+                "Holzkoffer"
+            ],
+            "id": "A87"
+        },
+        {
+            "concepts": [
+                "Reisekorb"
+            ],
+            "id": "A88"
+        },
+        {
+            "concepts": [
+                "Kiste"
+            ],
+            "id": "A89"
+        },
+        {
+            "concepts": [
+                "Kofferschlüssel"
+            ],
+            "id": "A90"
+        },
+        {
+            "concepts": [
+                "Bahnbediensteter",
+                "Eisenbahner"
+            ],
+            "id": "A91"
+        },
+        {
+            "concepts": [
+                "Bahnpersonal"
+            ],
+            "id": "A92"
+        },
+        {
+            "concepts": [
+                "Bahnbeamter"
+            ],
+            "id": "A93"
+        },
+        {
+            "concepts": [
+                "Eisenbahndirektion"
+            ],
+            "id": "A94"
+        },
+        {
+            "concepts": [
+                "Stationsvorstand"
+            ],
+            "id": "A95"
+        },
+        {
+            "concepts": [
+                "Fahrdienstleiter",
+                "Verkehrsbeamter"
+            ],
+            "id": "A96"
+        },
+        {
+            "concepts": [
+                "Fahrdienst"
+            ],
+            "id": "A97"
+        },
+        {
+            "concepts": [
+                "Nachtdienst"
+            ],
+            "id": "A98"
+        },
+        {
+            "concepts": [
+                "Bahnsteigportier"
+            ],
+            "id": "A99"
+        },
+        {
+            "concepts": [
+                "Wagenmeister"
+            ],
+            "id": "A100"
+        },
+        {
+            "concepts": [
+                "Verschieber"
+            ],
+            "id": "A101"
+        },
+        {
+            "concepts": [
+                "Maschinführer",
+                "Lokomotivführer"
+            ],
+            "id": "A102"
+        },
+        {
+            "concepts": [
+                "Zugsführer"
+            ],
+            "id": "A103"
+        },
+        {
+            "concepts": [
+                "Heizer"
+            ],
+            "id": "A104"
+        },
+        {
+            "concepts": [
+                "Lokomotiven",
+                "Mitfahrer",
+                "elektrischen"
+            ],
+            "id": "A105"
+        },
+        {
+            "concepts": [
+                "Kondukteur",
+                "Schaffner"
+            ],
+            "id": "A106"
+        },
+        {
+            "concepts": [
+                "Revisor",
+                "Kontrollor"
+            ],
+            "id": "A107"
+        },
+        {
+            "concepts": [
+                "Gepäckträger"
+            ],
+            "id": "A108"
+        },
+        {
+            "concepts": [
+                "Magazineur"
+            ],
+            "id": "A109"
+        },
+        {
+            "concepts": [
+                "Verlader"
+            ],
+            "id": "A110"
+        },
+        {
+            "concepts": [
+                "roten",
+                "Verladen",
+                "Abfahrtszeichens",
+                "Tätigkeit",
+                "Fahne",
+                "Bahnbediensteten",
+                "verschiedenen",
+                "besondere",
+                "Geben",
+                "Verschieben",
+                "Namen",
+                "Winken"
+            ],
+            "id": "A111"
+        },
+        {
+            "concepts": [
+                "Lampisterie",
+                "Instandhaltungsraum",
+                "Signallampen"
+            ],
+            "id": "A112"
+        },
+        {
+            "concepts": [
+                "geht",
+                "wann",
+                "Zug",
+                "fährt",
+                "Train"
+            ],
+            "id": "A113"
+        },
+        {
+            "concepts": [
+                "Zug",
+                "einsteigen"
+            ],
+            "id": "A114"
+        },
+        {
+            "concepts": [
+                "Zug",
+                "aussteigen"
+            ],
+            "id": "A115"
+        },
+        {
+            "concepts": [
+                "umsteigen"
+            ],
+            "id": "A116"
+        },
+        {
+            "concepts": [
+                "Orientexpreß",
+                "en",
+                "Fernzug",
+                "Blitzzug",
+                "gemischter",
+                "Zug",
+                "Bummelzug",
+                "Last",
+                "Sonderz",
+                "beschleunigter",
+                "Personenzug",
+                "Zugarten",
+                "zug"
+            ],
+            "id": "A117"
+        },
+        {
+            "concepts": [
+                "Urlaubszeit",
+                "Sonntagabend",
+                "Zug",
+                "letzter"
+            ],
+            "id": "A118"
+        },
+        {
+            "concepts": [
+                "Nachtrain"
+            ],
+            "id": "A119"
+        },
+        {
+            "concepts": [
+                "Maschine",
+                "Lokomotive"
+            ],
+            "id": "A120"
+        },
+        {
+            "concepts": [
+                "Semmeringlokomotive",
+                "Lokomotive"
+            ],
+            "id": "A121"
+        },
+        {
+            "concepts": [
+                "Triebwagen",
+                "Pendelwagen"
+            ],
+            "id": "A122"
+        },
+        {
+            "concepts": [
+                "Kohlenwagen",
+                "Tender"
+            ],
+            "id": "A123"
+        },
+        {
+            "concepts": [
+                "abkuppeln",
+                "gesteckt",
+                "besetzt",
+                "voll",
+                "Wagen",
+                "Waggon",
+                "überfüllt"
+            ],
+            "id": "A124"
+        },
+        {
+            "concepts": [
+                "Vierachser"
+            ],
+            "id": "A125"
+        },
+        {
+            "concepts": [
+                "Achse",
+                "heißgelaufen"
+            ],
+            "id": "A126"
+        },
+        {
+            "concepts": [
+                "Petroleumtankwaggon",
+                "Last",
+                "en",
+                "Waggonarten"
+            ],
+            "id": "A127"
+        },
+        {
+            "concepts": [
+                "Waggon",
+                "direkter"
+            ],
+            "id": "A128"
+        },
+        {
+            "concepts": [
+                "Materialwaggon",
+                "kleiner",
+                "Bockerl"
+            ],
+            "id": "A129"
+        },
+        {
+            "concepts": [
+                "Lori"
+            ],
+            "id": "A130"
+        },
+        {
+            "concepts": [
+                "Schneepflug"
+            ],
+            "id": "A131"
+        },
+        {
+            "concepts": [
+                "Draisine"
+            ],
+            "id": "A132"
+        },
+        {
+            "concepts": [
+                "Coupé",
+                "Abteil"
+            ],
+            "id": "A133"
+        },
+        {
+            "concepts": [
+                "Damenabteil"
+            ],
+            "id": "A134"
+        },
+        {
+            "concepts": [
+                "frei",
+                "belegt",
+                "besetzt",
+                "Sitzplatz",
+                "Platz",
+                "Der"
+            ],
+            "id": "A135"
+        },
+        {
+            "concepts": [
+                "Gepäcknetz"
+            ],
+            "id": "A136"
+        },
+        {
+            "concepts": [
+                "Heizung",
+                "abstellen"
+            ],
+            "id": "A137"
+        },
+        {
+            "concepts": [
+                "Ventilation"
+            ],
+            "id": "A138"
+        },
+        {
+            "concepts": [
+                "herunterlassen",
+                "Fenster",
+                "hinaufschieben"
+            ],
+            "id": "A139"
+        },
+        {
+            "concepts": [
+                "Korridor",
+                "Seitengang"
+            ],
+            "id": "A140"
+        },
+        {
+            "concepts": [
+                "Plattform"
+            ],
+            "id": "A141"
+        },
+        {
+            "concepts": [
+                "Trittbrett"
+            ],
+            "id": "A142"
+        },
+        {
+            "concepts": [
+                "Notbremse"
+            ],
+            "id": "A143"
+        },
+        {
+            "concepts": [
+                "Vakuumbremse"
+            ],
+            "id": "A144"
+        },
+        {
+            "concepts": [
+                "Handbremse",
+                "Lastwagen"
+            ],
+            "id": "A145"
+        },
+        {
+            "concepts": [
+                "Hüttelwagen"
+            ],
+            "id": "A146"
+        },
+        {
+            "concepts": [
+                "Bremshüttel"
+            ],
+            "id": "A147"
+        },
+        {
+            "concepts": [
+                "Bremser"
+            ],
+            "id": "A148"
+        },
+        {
+            "concepts": [
+                "Puffer"
+            ],
+            "id": "A149"
+        },
+        {
+            "concepts": [
+                "Kuppelung"
+            ],
+            "id": "A150"
+        },
+        {
+            "concepts": [
+                "bleibt",
+                "stehen",
+                "Zug",
+                "hält"
+            ],
+            "id": "A151"
+        },
+        {
+            "concepts": [
+                "Minuten",
+                "Aufenthalt",
+                "Zug",
+                "fünf"
+            ],
+            "id": "A152"
+        },
+        {
+            "concepts": [
+                "Verspätung",
+                "Zug"
+            ],
+            "id": "A153"
+        },
+        {
+            "concepts": [
+                "Zug",
+                "Bewegung",
+                "fahren",
+                "setzt",
+                "fängt"
+            ],
+            "id": "A154"
+        },
+        {
+            "concepts": [
+                "fährt",
+                "Zug"
+            ],
+            "id": "A155"
+        },
+        {
+            "concepts": [
+                "Anschluß",
+                "Zug"
+            ],
+            "id": "A156"
+        },
+        {
+            "concepts": [
+                "Passagier",
+                "Fahrgast"
+            ],
+            "id": "A157"
+        },
+        {
+            "concepts": [
+                "blinder",
+                "Passagier",
+                "Schwarzfahrer"
+            ],
+            "id": "A158"
+        },
+        {
+            "concepts": [
+                "Reisefieber"
+            ],
+            "id": "A159"
+        },
+        {
+            "concepts": [
+                "Reisekleid"
+            ],
+            "id": "A160"
+        },
+        {
+            "concepts": [
+                "Verkehr",
+                "starker",
+                "schwacher"
+            ],
+            "id": "A161"
+        },
+        {
+            "concepts": [
+                "Sonntagsverkehr"
+            ],
+            "id": "A162"
+        },
+        {
+            "concepts": [
+                "Nahverkehr"
+            ],
+            "id": "A163"
+        },
+        {
+            "concepts": [
+                "Pendelverkehr"
+            ],
+            "id": "A164"
+        },
+        {
+            "concepts": [
+                "Fahrplan",
+                "Kurier",
+                "Kursbuch"
+            ],
+            "id": "A165"
+        },
+        {
+            "concepts": [
+                "Winterfahrplan"
+            ],
+            "id": "A166"
+        },
+        {
+            "concepts": [
+                "Wimmer",
+                "kleine",
+                "Kondukteur",
+                "Fahrplanausgaben",
+                "große"
+            ],
+            "id": "A167"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "A168"
+        },
+        {
+            "concepts": [
+                "Tramway",
+                "Pferdebahn"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Straßenbahn",
+                "Elektrische"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Stadtbahn"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Dampftramway"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Tramwaybediensteter",
+                "Tramwayer"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Tramwaykutscher"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Wagenlenker",
+                "Motorführer"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Glockensignal",
+                "geben",
+                "pempern"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Sand",
+                "streuen"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Motorwagen"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Anhängwagen",
+                "Beiwagen"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Rüstwagen"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Zweierwagen",
+                "Aussprache",
+                "genaue",
+                "Buchstaben"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Sonderwagen"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Schutzvorrichtung"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Blaue",
+                "Lumpensammler",
+                "letzte",
+                "Elektrische"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Zweierlinie"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "abspringen"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Leitungsmast"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Unterleitung"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Strom",
+                "elektrischer"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "elektrischer",
+                "Funke"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Störung"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Kurzschluß"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Flieger",
+                "Aeroplan",
+                "Flugzeug"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Zweidecker"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Tragfläche"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Luftschraube",
+                "Propeller"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Pilot"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "steigt",
+                "nieder",
+                "geht",
+                "landet",
+                "Flugzeug"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Sturzflug"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Fallschirm"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Fliegerunglück"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Flugplatz"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Wolkenschreiber"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Luftschiff",
+                "Betonung",
+                "Zeppelin"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Luftballon"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "geht",
+                "ab",
+                "wann",
+                "schicken",
+                "Etwas",
+                "Post"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Postarbeit",
+                "pneumatische",
+                "Flugpost",
+                "Post"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Postler",
+                "Postangestellter"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Telegrafendirektion"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Briefträger",
+                "Postbote"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Geldbriefträger"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "ausheben",
+                "Postkasten",
+                "Briefkastel"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Posttasche"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Bahnbeförderung",
+                "Postbeutel",
+                "Schimpfwort"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Postamt"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Postmeister"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Postbeamter"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Postschalter"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Parteienverkehr"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "schreiben",
+                "Brief",
+                "Kastel",
+                "werfen",
+                "frankieren",
+                "stecken",
+                "aufgeben",
+                "Vorteil",
+                "bekommen",
+                "abgeben",
+                "markieren"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Rockenbrief",
+                "Brief"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Postkarte",
+                "Korrespondenzkarte"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Ansichtskarte"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Adresse",
+                "Anschrift"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Absender",
+                "Aufgeber"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Empfänger",
+                "Adressat"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "postlagernd"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Postwertzeichen"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Briefmarke",
+                "aufpicken",
+                "aufkleben",
+                "ablösen",
+                "Marke"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Stempelmarke"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Poststempel"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "abgestempelt"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "Zeitungsmarke"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "Postanweisung"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Postbegleitadresse"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "Posterlagschein"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "Postscheck"
+            ],
+            "id": "D32"
+        },
+        {
+            "concepts": [
+                "Postporto"
+            ],
+            "id": "D33"
+        },
+        {
+            "concepts": [
+                "portofrei"
+            ],
+            "id": "D34"
+        },
+        {
+            "concepts": [
+                "frankiert",
+                "franko",
+                "freigemacht"
+            ],
+            "id": "D35"
+        },
+        {
+            "concepts": [
+                "unfrankiert"
+            ],
+            "id": "D36"
+        },
+        {
+            "concepts": [
+                "doppelter",
+                "Brief",
+                "20g"
+            ],
+            "id": "D37"
+        },
+        {
+            "concepts": [
+                "Strafporto"
+            ],
+            "id": "D38"
+        },
+        {
+            "concepts": [
+                "rekommandierter",
+                "eingeschriebener",
+                "Brief"
+            ],
+            "id": "D39"
+        },
+        {
+            "concepts": [
+                "Drucksache"
+            ],
+            "id": "D40"
+        },
+        {
+            "concepts": [
+                "Muster",
+                "Wert"
+            ],
+            "id": "D41"
+        },
+        {
+            "concepts": [
+                "Warenprobe"
+            ],
+            "id": "D42"
+        },
+        {
+            "concepts": [
+                "Posttarif",
+                "Postgebühren"
+            ],
+            "id": "D43"
+        },
+        {
+            "concepts": [
+                "Rezepisse",
+                "Empfangsschein"
+            ],
+            "id": "D44"
+        },
+        {
+            "concepts": [
+                "schicken",
+                "Nachnahme",
+                "per"
+            ],
+            "id": "D45"
+        },
+        {
+            "concepts": [
+                "Postkolli",
+                "Postpaket"
+            ],
+            "id": "D46"
+        },
+        {
+            "concepts": [
+                "Wertpaket"
+            ],
+            "id": "D47"
+        },
+        {
+            "concepts": [
+                "Paket",
+                "zustellen"
+            ],
+            "id": "D48"
+        },
+        {
+            "concepts": [
+                "Zustelldienst"
+            ],
+            "id": "D49"
+        },
+        {
+            "concepts": [
+                "tun",
+                "schicken",
+                "Nachricht",
+                "Post",
+                "Pöstlein",
+                "tragen"
+            ],
+            "id": "D50"
+        },
+        {
+            "concepts": [
+                "ausposten",
+                "auskundschaften"
+            ],
+            "id": "D51"
+        },
+        {
+            "concepts": [
+                "pösteln",
+                "Reden",
+                "hertragen"
+            ],
+            "id": "D52"
+        },
+        {
+            "concepts": [
+                "untereinander",
+                "abpösteln",
+                "abmachen"
+            ],
+            "id": "D53"
+        },
+        {
+            "concepts": [
+                "Pösteltrager",
+                "Nachricht",
+                "Zwischenträger"
+            ],
+            "id": "D54"
+        },
+        {
+            "concepts": [
+                "Fahrpost"
+            ],
+            "id": "D55"
+        },
+        {
+            "concepts": [
+                "postieren",
+                "reisen",
+                "Post"
+            ],
+            "id": "D56"
+        },
+        {
+            "concepts": [
+                "Postierer",
+                "reist",
+                "Post"
+            ],
+            "id": "D57"
+        },
+        {
+            "concepts": [
+                "Postwagen"
+            ],
+            "id": "D58"
+        },
+        {
+            "concepts": [
+                "Postautobus"
+            ],
+            "id": "D59"
+        },
+        {
+            "concepts": [
+                "Postpferde"
+            ],
+            "id": "D60"
+        },
+        {
+            "concepts": [
+                "Wechselpferde"
+            ],
+            "id": "D61"
+        },
+        {
+            "concepts": [
+                "Postillon"
+            ],
+            "id": "D62"
+        },
+        {
+            "concepts": [
+                "Posthorn"
+            ],
+            "id": "D63"
+        },
+        {
+            "concepts": [
+                "Telegraf",
+                "Aussprache",
+                "Betonung"
+            ],
+            "id": "D64"
+        },
+        {
+            "concepts": [
+                "telegrafieren"
+            ],
+            "id": "D65"
+        },
+        {
+            "concepts": [
+                "telegrafische",
+                "Nachricht"
+            ],
+            "id": "D66"
+        },
+        {
+            "concepts": [
+                "Telegrafenstange"
+            ],
+            "id": "D67"
+        },
+        {
+            "concepts": [
+                "Telegrafenleitung"
+            ],
+            "id": "D68"
+        },
+        {
+            "concepts": [
+                "Kabel"
+            ],
+            "id": "D69"
+        },
+        {
+            "concepts": [
+                "Telegramm",
+                "Depesche",
+                "Drahtnachricht",
+                "Aussprache",
+                "Betonung"
+            ],
+            "id": "D70"
+        },
+        {
+            "concepts": [
+                "Telegramm",
+                "dringendes"
+            ],
+            "id": "D71"
+        },
+        {
+            "concepts": [
+                "Blankett"
+            ],
+            "id": "D72"
+        },
+        {
+            "concepts": [
+                "Telegrafist"
+            ],
+            "id": "D73"
+        },
+        {
+            "concepts": [
+                "Telefon",
+                "Aussprache",
+                "läutet",
+                "Betonung",
+                "Fernsprecher"
+            ],
+            "id": "D74"
+        },
+        {
+            "concepts": [
+                "telefonieren",
+                "anrufen"
+            ],
+            "id": "D75"
+        },
+        {
+            "concepts": [
+                "antelefonieren"
+            ],
+            "id": "D76"
+        },
+        {
+            "concepts": [
+                "Anruf"
+            ],
+            "id": "D77"
+        },
+        {
+            "concepts": [
+                "anklingeln",
+                "aufläuten"
+            ],
+            "id": "D78"
+        },
+        {
+            "concepts": [
+                "telefonische",
+                "falsche",
+                "Verbindung"
+            ],
+            "id": "D79"
+        },
+        {
+            "concepts": [
+                "falsch",
+                "verbunden"
+            ],
+            "id": "D80"
+        },
+        {
+            "concepts": [
+                "besetzt"
+            ],
+            "id": "D81"
+        },
+        {
+            "concepts": [
+                "telefonisches",
+                "Gespräch"
+            ],
+            "id": "D82"
+        },
+        {
+            "concepts": [
+                "interurbanes",
+                "Ferngespräch",
+                "Gespräch"
+            ],
+            "id": "D83"
+        },
+        {
+            "concepts": [
+                "Telefonnummer"
+            ],
+            "id": "D84"
+        },
+        {
+            "concepts": [
+                "Telefonbuch"
+            ],
+            "id": "D85"
+        },
+        {
+            "concepts": [
+                "Telefonzelle"
+            ],
+            "id": "D86"
+        },
+        {
+            "concepts": [
+                "Telefonautomat"
+            ],
+            "id": "D87"
+        },
+        {
+            "concepts": [
+                "Telefonist"
+            ],
+            "id": "D88"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "D89"
+        },
+        {
+            "concepts": [
+                "vidieren",
+                "Reisepaß",
+                "revidieren",
+                "lassen",
+                "Paß"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Paßrevision"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Visum"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Einreisebewilligung"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Aufenthaltsbewilligung"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "verweisen",
+                "ausweisen",
+                "Lande"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "landesverwiesen"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "abschieben",
+                "Heimatgemeinde",
+                "Lande"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "per",
+                "Schub"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Schubstation"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "zahlen",
+                "Zoll"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "verzollen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Verzollung"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Zollbeamter"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Zolleinnehmer"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Zollstation"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Zollschranken"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Zollamt"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Radio",
+                "Rundfunk"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Radioapparat",
+                "Dreiröhrenapparat"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Lautsprecher"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Kopfhörer"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "erden",
+                "Antenne"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Sender"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Großsender"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Radiowelle"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Radio",
+                "hören"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Schwarzhörer"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "einstellen",
+                "Apparat",
+                "abstimmen"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "rückkoppeln",
+                "Apparat"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "suchen",
+                "Station"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Sprachrohr"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Hörrohr"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Nebelhorn"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Sirene"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "tutet",
+                "burrt"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Klingel",
+                "elektrische",
+                "Zimmertelegraf"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "läuten",
+                "klingeln"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Zugglocke"
+            ],
+            "id": "G8"
+        }
+    ]
+}

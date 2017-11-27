@@ -1,0 +1,4011 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Steigerungsformen"
+                ],
+                [
+                    "wundliegen"
+                ],
+                [
+                    "aufliegen"
+                ],
+                [
+                    "verletzen"
+                ],
+                [
+                    "erwischt"
+                ],
+                [
+                    "sinnverwandte"
+                ],
+                [
+                    "jemand"
+                ],
+                [
+                    "behaftet"
+                ],
+                [
+                    "voll"
+                ],
+                [
+                    "Kruste"
+                ],
+                [
+                    "hitzig"
+                ],
+                [
+                    "entzündet"
+                ],
+                [
+                    "erzeugen"
+                ],
+                [
+                    "riechen"
+                ],
+                [
+                    "schwielig"
+                ],
+                [
+                    "zusammen"
+                ],
+                [
+                    "Quetschung"
+                ],
+                [
+                    "quetschen"
+                ],
+                [
+                    "Beule"
+                ],
+                [
+                    "Art"
+                ],
+                [
+                    "Drüsenkrankheit"
+                ],
+                [
+                    "offene"
+                ],
+                [
+                    "Skropheln"
+                ],
+                [
+                    "Volke"
+                ]
+            ],
+            "2": [
+                [
+                    "Häufigkeit"
+                ],
+                [
+                    "verwunden"
+                ],
+                [
+                    "Narbe"
+                ],
+                [
+                    "Afel"
+                ],
+                [
+                    "kriegen"
+                ],
+                [
+                    "Hautstelle"
+                ],
+                [
+                    "bekommen"
+                ],
+                [
+                    "Namen"
+                ]
+            ],
+            "3": [
+                [
+                    "wundreiben"
+                ],
+                [
+                    "etwaige"
+                ],
+                [
+                    "Geschlecht"
+                ],
+                [
+                    "Wundbrand"
+                ],
+                [
+                    "Wort"
+                ],
+                [
+                    "ganze"
+                ],
+                [
+                    "Stelle"
+                ],
+                [
+                    "Wörter"
+                ]
+            ],
+            "5": [
+                [
+                    "entzündete"
+                ]
+            ],
+            "6": [
+                [
+                    "Blessur"
+                ],
+                [
+                    "Wunden"
+                ],
+                [
+                    "Striemen"
+                ],
+                [
+                    "Haut"
+                ],
+                [
+                    "Vb"
+                ],
+                [
+                    "Drüse"
+                ],
+                [
+                    "üblich"
+                ]
+            ],
+            "7": [
+                [
+                    "Brand"
+                ]
+            ],
+            "8": [
+                [
+                    "Wendungen"
+                ]
+            ],
+            "10": [
+                [
+                    "volkstümlich"
+                ]
+            ],
+            "12": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "20": [
+                [
+                    "kommt"
+                ]
+            ],
+            "127": [
+                [
+                    "Wunde"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Wunde",
+                    "Häufigkeit"
+                ],
+                [
+                    "verwunden",
+                    "verwundet"
+                ],
+                [
+                    "Namen",
+                    "Gegenmittel"
+                ],
+                [
+                    "Wunde",
+                    "große"
+                ],
+                [
+                    "Wunde",
+                    "Megge"
+                ],
+                [
+                    "Wunde",
+                    "Ersatzumschreibungen"
+                ],
+                [
+                    "Wunde",
+                    "lange"
+                ],
+                [
+                    "Wunde",
+                    "Wendungen"
+                ],
+                [
+                    "Narbe",
+                    "Mase"
+                ],
+                [
+                    "kommt",
+                    "Entzündung"
+                ],
+                [
+                    "Eiter",
+                    "Afel"
+                ],
+                [
+                    "entzündete",
+                    "Hautstelle"
+                ],
+                [
+                    "Wendungen",
+                    "Hand"
+                ]
+            ],
+            "3": [
+                [
+                    "Wunde",
+                    "Ausdrücke"
+                ],
+                [
+                    "Wundbrand",
+                    "Brand"
+                ],
+                [
+                    "Bünkel",
+                    "Striemen"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Narben",
+                    "masig",
+                    "maselet"
+                ],
+                [
+                    "kriegen",
+                    "ähnlichen",
+                    "Striemen"
+                ]
+            ],
+            "3": [
+                [
+                    "Stelle",
+                    "etwaige",
+                    "aufgeriebene"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "bekommen",
+                    "Schwielen",
+                    "böllen",
+                    "bellen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verletzen"
+            ],
+            "source": 1,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 1,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 1,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 1,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 2,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 2,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 2,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "Häufigkeit"
+            ],
+            "source": 3,
+            "target": 4,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunden"
+            ],
+            "source": 3,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "Wendungen"
+            ],
+            "source": 3,
+            "target": 40,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 3,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "voll"
+            ],
+            "source": 3,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunden"
+            ],
+            "source": 3,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunden"
+            ],
+            "source": 3,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 3,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 3,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Häufigkeit"
+            ],
+            "source": 4,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 4,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 5,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 5,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 5,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zusammen"
+            ],
+            "source": 5,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 5,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 6,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Art"
+            ],
+            "source": 6,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 36,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 39,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 7,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 7,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Steigerungsformen"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 8,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwunden",
+                "verwundet"
+            ],
+            "source": 11,
+            "target": 17,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "verwunden"
+            ],
+            "source": 11,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "üblich"
+            ],
+            "source": 11,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blessur"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blessur"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blessur"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 13,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blessur"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blessur"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blessur"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 15,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 15,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwunden"
+            ],
+            "source": 17,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschlecht"
+            ],
+            "source": 18,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschlecht"
+            ],
+            "source": 18,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 19,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 19,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 19,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 19,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 19,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 19,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wundreiben"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wundreiben"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wundliegen"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aufliegen"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen",
+                "Gegenmittel"
+            ],
+            "source": 21,
+            "target": 25,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 21,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wundreiben"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 22,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 22,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 25,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "etwaige",
+                "aufgeriebene"
+            ],
+            "source": 26,
+            "target": 27,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 26,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "etwaige",
+                "aufgeriebene"
+            ],
+            "source": 26,
+            "target": 33,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 26,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 26,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 26,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "offene"
+            ],
+            "source": 26,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 27,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "etwaige",
+                "aufgeriebene"
+            ],
+            "source": 27,
+            "target": 33,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "erwischt"
+            ],
+            "source": 27,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entzündete"
+            ],
+            "source": 27,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entzündete"
+            ],
+            "source": 27,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entzündete"
+            ],
+            "source": 27,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 27,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 28,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 28,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 28,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 28,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "große"
+            ],
+            "source": 30,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 30,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "erzeugen"
+            ],
+            "source": 31,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sinnverwandte"
+            ],
+            "source": 32,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunden"
+            ],
+            "source": 32,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunden"
+            ],
+            "source": 32,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschlecht"
+            ],
+            "source": 33,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 33,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "Megge"
+            ],
+            "source": 34,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "Ersatzumschreibungen"
+            ],
+            "source": 34,
+            "target": 37,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 34,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 34,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 34,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 34,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 34,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 35,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 39,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 36,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 36,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 36,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde",
+                "lange"
+            ],
+            "source": 37,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 37,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 37,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Narbe"
+            ],
+            "source": 37,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Narbe"
+            ],
+            "source": 37,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 37,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 37,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 37,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 38,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 38,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 38,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 39,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "behaftet"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 39,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 39,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 39,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 39,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 39,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 40,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 40,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 40,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 40,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Hand"
+            ],
+            "source": 40,
+            "target": 66,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "ganze"
+            ],
+            "source": 40,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ganze"
+            ],
+            "source": 40,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Narbe",
+                "Mase"
+            ],
+            "source": 41,
+            "target": 42,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 41,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 41,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 43,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 43,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 43,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 43,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Narben",
+                "masig",
+                "maselet"
+            ],
+            "source": 44,
+            "target": 45,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Kruste"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wunden"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 47,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 47,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 47,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 47,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "Entzündung"
+            ],
+            "source": 48,
+            "target": 53,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wunde"
+            ],
+            "source": 48,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 48,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 48,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 48,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hitzig"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entzündet"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Afel"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter",
+                "Afel"
+            ],
+            "source": 53,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "entzündete",
+                "Hautstelle"
+            ],
+            "source": 53,
+            "target": 57,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 53,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 53,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hautstelle"
+            ],
+            "source": 53,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entzündete"
+            ],
+            "source": 53,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 53,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Afel"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beule"
+            ],
+            "source": 55,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "riechen"
+            ],
+            "source": 56,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hautstelle"
+            ],
+            "source": 57,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entzündete"
+            ],
+            "source": 57,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wundbrand",
+                "Brand"
+            ],
+            "source": 58,
+            "target": 60,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wundbrand",
+                "Brand"
+            ],
+            "source": 58,
+            "target": 61,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 58,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wundbrand"
+            ],
+            "source": 58,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 58,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wundbrand",
+                "Brand"
+            ],
+            "source": 60,
+            "target": 61,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wundbrand"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 60,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kriegen"
+            ],
+            "source": 60,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kriegen"
+            ],
+            "source": 60,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb"
+            ],
+            "source": 60,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 60,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brand"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wundbrand"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwielig"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekommen",
+                "Schwielen",
+                "böllen",
+                "bellen"
+            ],
+            "source": 66,
+            "target": 67,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "bekommen"
+            ],
+            "source": 66,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekommen"
+            ],
+            "source": 67,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Striemen"
+            ],
+            "source": 70,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Striemen"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Striemen"
+            ],
+            "source": 70,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Striemen"
+            ],
+            "source": 70,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 70,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 71,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 72,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kriegen",
+                "ähnlichen",
+                "Striemen"
+            ],
+            "source": 73,
+            "target": 74,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Striemen"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Striemen"
+            ],
+            "source": 73,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ganze"
+            ],
+            "source": 73,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bünkel",
+                "Striemen"
+            ],
+            "source": 74,
+            "target": 75,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bünkel",
+                "Striemen"
+            ],
+            "source": 74,
+            "target": 76,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bünkel",
+                "Striemen"
+            ],
+            "source": 75,
+            "target": 76,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Quetschung"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quetschen"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drüse"
+            ],
+            "source": 81,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drüse"
+            ],
+            "source": 81,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drüse"
+            ],
+            "source": 81,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drüse"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drüse"
+            ],
+            "source": 83,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drüse"
+            ],
+            "source": 84,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 84,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volke"
+            ],
+            "source": 84,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drüsenkrankheit"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Skropheln"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Letz",
+                "körperliche",
+                "Beschädigung"
+            ],
+            "id": "Q1"
+        },
+        {
+            "concepts": [
+                "volkstümlich",
+                "beschädigen",
+                "verletzen"
+            ],
+            "id": "Q2"
+        },
+        {
+            "concepts": [
+                "volkstümlich",
+                "Verletzung"
+            ],
+            "id": "Q3"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Wendungen",
+                "Haupt",
+                "Wortes",
+                "gebenedeiten",
+                "Blut",
+                "fünf",
+                "Christi",
+                "Häufigkeit",
+                "Wunden",
+                "voll",
+                "heiligen"
+            ],
+            "id": "Q4"
+        },
+        {
+            "concepts": [
+                "trockene",
+                "Wunde",
+                "klebende",
+                "erworbene",
+                "Wundarten",
+                "ehrenvolle",
+                "schwärende",
+                "wilde",
+                "Häufigkeit",
+                "nasse",
+                "Krieg",
+                "gefährliche",
+                "klebrige",
+                "giftige"
+            ],
+            "id": "Q4a"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "bricht",
+                "Vb",
+                "wann",
+                "fault",
+                "wild",
+                "heilt",
+                "wer",
+                "häufiger",
+                "schaut",
+                "zusammen",
+                "sammen",
+                "saugt",
+                "bes",
+                "bläst",
+                "zieht",
+                "giftig",
+                "beißt",
+                "her",
+                "schleckt"
+            ],
+            "id": "Q4b"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Enzwunde",
+                "Größe",
+                "Messerwunde",
+                "Lage",
+                "Art",
+                "Entstehung",
+                "Bauchwunde"
+            ],
+            "id": "Q5"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "volkst",
+                "Wundkraut",
+                "üblich",
+                "Vorsilbe",
+                "Ausdrücke"
+            ],
+            "id": "Q5a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Steigerungsformen",
+                "wund",
+                "üblich"
+            ],
+            "id": "Q6"
+        },
+        {
+            "concepts": [
+                "Steigerungsformen",
+                "wundig"
+            ],
+            "id": "Q6a"
+        },
+        {
+            "concepts": [
+                "Wundigkeit"
+            ],
+            "id": "Q6b"
+        },
+        {
+            "concepts": [
+                "üblich",
+                "verwunden",
+                "verwundet"
+            ],
+            "id": "Q7"
+        },
+        {
+            "concepts": [
+                "Verwundung"
+            ],
+            "id": "Q8"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Blessur",
+                "Bed"
+            ],
+            "id": "Q9"
+        },
+        {
+            "concepts": [
+                "Blessur"
+            ],
+            "id": "Q9a"
+        },
+        {
+            "concepts": [
+                "Blessur",
+                "Vb"
+            ],
+            "id": "Q9b"
+        },
+        {
+            "concepts": [
+                "Blessur",
+                "Kopfblessur"
+            ],
+            "id": "Q10"
+        },
+        {
+            "concepts": [
+                "blessiern",
+                "blessiert",
+                "verwunden",
+                "unterschieden",
+                "verwundet"
+            ],
+            "id": "Q11"
+        },
+        {
+            "concepts": [
+                "Geschlecht",
+                "Sehr"
+            ],
+            "id": "Q12"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "versehren"
+            ],
+            "id": "Q13"
+        },
+        {
+            "concepts": [
+                "scheuern",
+                "wundreiben",
+                "aufreiben",
+                "Häufigkeit",
+                "frätten",
+                "fratten"
+            ],
+            "id": "Q14"
+        },
+        {
+            "concepts": [
+                "aufliegen",
+                "Kranken",
+                "wundliegen",
+                "Namen",
+                "Gegenmittel"
+            ],
+            "id": "Q14a"
+        },
+        {
+            "concepts": [
+                "bed",
+                "Wörter",
+                "flerren",
+                "wundreiben",
+                "wundliegen"
+            ],
+            "id": "Q14b"
+        },
+        {
+            "concepts": [
+                "wundreiben",
+                "aufliegen"
+            ],
+            "id": "Q15"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "frat",
+                "aufgerieben",
+                "frät",
+                "fratig",
+                "fretig"
+            ],
+            "id": "Q16"
+        },
+        {
+            "concepts": [
+                "mundartliche",
+                "Wundsein",
+                "Frattsein",
+                "Fratigkeit",
+                "Namen",
+                "Gegenmittel"
+            ],
+            "id": "Q17"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "etwaige",
+                "Plerre",
+                "Reibet",
+                "aufgeriebene",
+                "überall",
+                "offene",
+                "Plerge",
+                "Haut",
+                "Geschlechts",
+                "Pletz",
+                "Fräte",
+                "Angabe"
+            ],
+            "id": "Q18"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "etwaige",
+                "Wolf",
+                "After",
+                "aufgeriebene",
+                "Schutzmittel",
+                "Sauwolf",
+                "Wolfsbinde",
+                "Damm",
+                "Behandlung",
+                "erwischt",
+                "entzündete"
+            ],
+            "id": "Q19"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "häufig",
+                "schürfen",
+                "Haut",
+                "abschürfen"
+            ],
+            "id": "Q20"
+        },
+        {
+            "concepts": [
+                "Abschürfung"
+            ],
+            "id": "Q21"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Ersatzumschreibung",
+                "ausgedehnter",
+                "Krätze",
+                "Pleschen",
+                "große"
+            ],
+            "id": "Q22"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Umschreibungen",
+                "erzeugen",
+                "große"
+            ],
+            "id": "Q23"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "pleschet",
+                "sinnverwandte",
+                "großflächig",
+                "Wunden"
+            ],
+            "id": "Q24"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "etwaige",
+                "aufgeriebene",
+                "Weibsbild",
+                "Flarre",
+                "Geschlecht",
+                "Flerre",
+                "schlechtes"
+            ],
+            "id": "Q25"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Hautverletzung",
+                "kleine",
+                "Megge",
+                "Ersatzumschreibungen"
+            ],
+            "id": "Q26"
+        },
+        {
+            "concepts": [
+                "stupfen",
+                "verletzen",
+                "meggen",
+                "jemand",
+                "gerade",
+                "bißchen",
+                "ankommen",
+                "leicht",
+                "verwunden",
+                "erwischt"
+            ],
+            "id": "Q27"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "meggelet",
+                "versehen",
+                "Megge",
+                "sinnverwandte",
+                "Ausdrücke",
+                "megget"
+            ],
+            "id": "Q28"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "deren",
+                "breite",
+                "Schmarre",
+                "Schramme",
+                "Schremme",
+                "Ersatzumschreibungen",
+                "lange",
+                "Trumm",
+                "Narbe"
+            ],
+            "id": "Q29"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "jemand",
+                "zufügen",
+                "schrammen",
+                "lange"
+            ],
+            "id": "Q30"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "schrammig",
+                "schrammet",
+                "behaftet",
+                "langer",
+                "breiter",
+                "Ausdrücke"
+            ],
+            "id": "Q31"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Wendungen",
+                "ganze",
+                "abgeleitete",
+                "Loch",
+                "Verba",
+                "Hand",
+                "hineinlegen",
+                "tiefe",
+                "davon"
+            ],
+            "id": "Q32"
+        },
+        {
+            "concepts": [
+                "volkstümlich",
+                "Geschlecht",
+                "Mase",
+                "Narbe",
+                "Masel"
+            ],
+            "id": "Q33"
+        },
+        {
+            "concepts": [
+                "Narbe",
+                "Mase",
+                "Maselflecken",
+                "Wundsmasen"
+            ],
+            "id": "Q33a"
+        },
+        {
+            "concepts": [
+                "volkstümlich",
+                "Ausdrücke",
+                "vernarben",
+                "Wendungen"
+            ],
+            "id": "Q34"
+        },
+        {
+            "concepts": [
+                "Narben",
+                "masig",
+                "maselicht",
+                "behaftet",
+                "maselet"
+            ],
+            "id": "Q35"
+        },
+        {
+            "concepts": [
+                "Narben",
+                "masig",
+                "blattermasig",
+                "voll",
+                "maselet"
+            ],
+            "id": "Q35a"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "Kruste",
+                "bildet"
+            ],
+            "id": "Q36"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "überzogen",
+                "Kruste",
+                "Wunden",
+                "krustig"
+            ],
+            "id": "Q37"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "ab",
+                "kommt",
+                "Entzündung",
+                "läuft"
+            ],
+            "id": "R1"
+        },
+        {
+            "concepts": [
+                "Haar",
+                "balgentzündung"
+            ],
+            "id": "R1a"
+        },
+        {
+            "concepts": [
+                "hitzig",
+                "hitzen",
+                "Wunden",
+                "entzünden"
+            ],
+            "id": "R2"
+        },
+        {
+            "concepts": [
+                "hitzig",
+                "entzündet"
+            ],
+            "id": "R2a"
+        },
+        {
+            "concepts": [
+                "volkstümlich",
+                "entzündlich"
+            ],
+            "id": "R3"
+        },
+        {
+            "concepts": [
+                "verletzte",
+                "beginnende",
+                "Eiter",
+                "Luft",
+                "Entzündung",
+                "Krankheitsstoffen",
+                "dampfende",
+                "kommt",
+                "Afel",
+                "Eiterung",
+                "erfüllte",
+                "Ofl",
+                "entzündete",
+                "Hautstelle",
+                "Feuchtigkeit"
+            ],
+            "id": "R4"
+        },
+        {
+            "concepts": [
+                "Afelkerze",
+                "Zitterafel",
+                "Afelwasser",
+                "Afel"
+            ],
+            "id": "R4a"
+        },
+        {
+            "concepts": [
+                "Wunde",
+                "übellaunig",
+                "afrig",
+                "Sinne",
+                "reizbar",
+                "äflig",
+                "entzündet",
+                "Beule",
+                "übertragenem",
+                "eiterig"
+            ],
+            "id": "R5"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "Entzündungen",
+                "Eiter",
+                "eitern",
+                "hellem",
+                "Afel",
+                "erzeugen",
+                "afeln"
+            ],
+            "id": "R6"
+        },
+        {
+            "concepts": [
+                "entzündete",
+                "Hautstelle",
+                "weitere"
+            ],
+            "id": "R6a"
+        },
+        {
+            "concepts": [
+                "Zerstörungen",
+                "Brand",
+                "brandartige",
+                "Haut",
+                "Gewebe",
+                "Wundbrand"
+            ],
+            "id": "R7"
+        },
+        {
+            "concepts": [
+                "kalter",
+                "Brand",
+                "heißer",
+                "böser",
+                "Arten",
+                "Wundbrandes"
+            ],
+            "id": "R7a"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "riechen",
+                "kommt",
+                "Vb",
+                "übergehen",
+                "Brand",
+                "tritt",
+                "Wundbrand"
+            ],
+            "id": "R7b"
+        },
+        {
+            "concepts": [
+                "Wundbrand",
+                "Brandkrankheit",
+                "Brand"
+            ],
+            "id": "R8"
+        },
+        {
+            "concepts": [
+                "brandig",
+                "krank",
+                "Brand"
+            ],
+            "id": "R9"
+        },
+        {
+            "concepts": [
+                "Wundbrand",
+                "brändeln",
+                "brandeln",
+                "bezogen"
+            ],
+            "id": "R10"
+        },
+        {
+            "concepts": [
+                "Bell",
+                "Fuß",
+                "Verkleinerung",
+                "Schwiele",
+                "Geschwil",
+                "Bellfuß",
+                "schwieliger"
+            ],
+            "id": "R11"
+        },
+        {
+            "concepts": [
+                "schwielig"
+            ],
+            "id": "R12"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "böllt",
+                "Schwielen",
+                "schwielig",
+                "Hand",
+                "bekommen",
+                "böllen",
+                "bellen"
+            ],
+            "id": "R13"
+        },
+        {
+            "concepts": [
+                "Schwielen",
+                "derbellen",
+                "bekommen",
+                "böllen",
+                "bellen"
+            ],
+            "id": "R13a"
+        },
+        {
+            "concepts": [
+                "Runst",
+                "Blutrunst"
+            ],
+            "id": "R14"
+        },
+        {
+            "concepts": [
+                "übertragener",
+                "blutrünstig"
+            ],
+            "id": "R15"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Streifen",
+                "allgemeinere",
+                "Straimen",
+                "Striemen"
+            ],
+            "id": "R16"
+        },
+        {
+            "concepts": [
+                "dienen",
+                "Tiere",
+                "gestraim",
+                "el",
+                "Wörter",
+                "Bezeichnung",
+                "striemig",
+                "gestreifter",
+                "straimelicht",
+                "gestriemelt"
+            ],
+            "id": "R17"
+        },
+        {
+            "concepts": [
+                "straime",
+                "kommt",
+                "Verb",
+                "strieme"
+            ],
+            "id": "R18"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "ganze",
+                "schlagen",
+                "Blutwurst",
+                "Leibe",
+                "Striemen",
+                "Wurst",
+                "ähnlichen",
+                "Würste"
+            ],
+            "id": "R19"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "zusammen",
+                "Bünkel",
+                "Striemen",
+                "treibt",
+                "Pinggl",
+                "ähnlichen",
+                "fällt"
+            ],
+            "id": "R20"
+        },
+        {
+            "concepts": [
+                "Ohrbünkel",
+                "Bünkel",
+                "Striemen"
+            ],
+            "id": "R20a"
+        },
+        {
+            "concepts": [
+                "bünket",
+                "pingget",
+                "Bünkel",
+                "Striemen"
+            ],
+            "id": "R21"
+        },
+        {
+            "concepts": [
+                "Hautstelle",
+                "Quetschung",
+                "gequetschte"
+            ],
+            "id": "R22"
+        },
+        {
+            "concepts": [
+                "Quetschung",
+                "Verfärbung",
+                "Entstellung",
+                "Haut",
+                "Zerreißung",
+                "Schwellung",
+                "beziehen"
+            ],
+            "id": "R22a"
+        },
+        {
+            "concepts": [
+                "quetschen",
+                "Verwendungen"
+            ],
+            "id": "R23"
+        },
+        {
+            "concepts": [
+                "quetschen",
+                "ausquetschen"
+            ],
+            "id": "R23a"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Geschwür",
+                "Drüse",
+                "Beule",
+                "Druse"
+            ],
+            "id": "S1"
+        },
+        {
+            "concepts": [
+                "böse",
+                "geschwollenen",
+                "ausbrechende",
+                "entartete",
+                "falsche",
+                "entzündete",
+                "Drüsenarten",
+                "verschlagene"
+            ],
+            "id": "S1a"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "ganze",
+                "Drüse",
+                "Drüsen",
+                "bekommen",
+                "Knöpfe"
+            ],
+            "id": "S1b"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Ärger",
+                "Lympfdrüse",
+                "zweiter",
+                "Drüse",
+                "bekannt",
+                "Scherz",
+                "Arschdrüsen",
+                "Impfdrüse",
+                "verwendete",
+                "Schweißdrüse",
+                "Schamdrüse",
+                "Ausdrücke",
+                "Volke"
+            ],
+            "id": "S2"
+        },
+        {
+            "concepts": [
+                "Drüsenkrankheit",
+                "kommt",
+                "Drüse",
+                "Drüsenmutter",
+                "Ausdruck",
+                "Zusammenhang"
+            ],
+            "id": "S2a"
+        },
+        {
+            "concepts": [
+                "Feifel",
+                "Drüsenkrankheit",
+                "Art"
+            ],
+            "id": "S3"
+        },
+        {
+            "concepts": [
+                "Aussprache",
+                "Skropheln"
+            ],
+            "id": "S4"
+        },
+        {
+            "concepts": [
+                "Skropheln",
+                "offene",
+                "Körperstelle",
+                "gibt",
+                "besondere",
+                "Skrophelarten",
+                "Ausdrücke",
+                "Hals"
+            ],
+            "id": "S4a"
+        },
+        {
+            "concepts": [
+                "Unterleibsskropheln",
+                "Skrophel"
+            ],
+            "id": "S5"
+        },
+        {
+            "concepts": [
+                "skrophulös",
+                "üblich",
+                "Wörter",
+                "Skrophulose",
+                "Volke"
+            ],
+            "id": "S6"
+        },
+        {
+            "concepts": [
+                "Segen",
+                "Mitteln",
+                "Namen"
+            ],
+            "id": "S7"
+        }
+    ]
+}

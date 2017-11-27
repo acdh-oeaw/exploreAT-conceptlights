@@ -1,0 +1,3218 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "habend"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "reichen"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "Händen"
+                ],
+                [
+                    "dicke"
+                ],
+                [
+                    "Tatze"
+                ],
+                [
+                    "Pfote"
+                ]
+            ],
+            "2": [
+                [
+                    "Pratze"
+                ],
+                [
+                    "bedeutet"
+                ]
+            ],
+            "3": [
+                [
+                    "Hände"
+                ]
+            ],
+            "8": [
+                [
+                    "Mensch"
+                ]
+            ],
+            "10": [
+                [
+                    "Ellenbogen"
+                ]
+            ],
+            "15": [
+                [
+                    "Armen"
+                ]
+            ],
+            "34": [
+                [
+                    "Arme"
+                ]
+            ],
+            "36": [
+                [
+                    "Arm"
+                ]
+            ],
+            "126": [
+                [
+                    "Hand"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "lange",
+                    "Arme"
+                ],
+                [
+                    "kreuzen",
+                    "Arme"
+                ],
+                [
+                    "Hand",
+                    "offen"
+                ],
+                [
+                    "gibt",
+                    "Hand"
+                ],
+                [
+                    "Hand",
+                    "Finger"
+                ],
+                [
+                    "Kopf",
+                    "Hand"
+                ],
+                [
+                    "Pratze",
+                    "Hand"
+                ],
+                [
+                    "Verwendg",
+                    "Hand"
+                ],
+                [
+                    "Hand",
+                    "bedeutet"
+                ]
+            ],
+            "2": [
+                [
+                    "Hände",
+                    "Hand"
+                ]
+            ],
+            "3": [
+                [
+                    "Mensch",
+                    "Arme"
+                ],
+                [
+                    "Arme",
+                    "Armen"
+                ]
+            ],
+            "6": [
+                [
+                    "Mensch",
+                    "Armen"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Mensch",
+                    "Vergleiche",
+                    "Armen"
+                ],
+                [
+                    "Hände",
+                    "geben",
+                    "Hand"
+                ]
+            ],
+            "3": [
+                [
+                    "Arme",
+                    "Mensch",
+                    "Armen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Arme",
+                "Mensch",
+                "Armen"
+            ],
+            "source": 0,
+            "target": 1,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "lange",
+                "Arme"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arme",
+                "Mensch",
+                "Armen"
+            ],
+            "source": 0,
+            "target": 3,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Armen"
+            ],
+            "source": 0,
+            "target": 4,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Arme"
+            ],
+            "source": 0,
+            "target": 5,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "habend"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme",
+                "Armen"
+            ],
+            "source": 0,
+            "target": 16,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Armen"
+            ],
+            "source": 0,
+            "target": 22,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme",
+                "Mensch",
+                "Armen"
+            ],
+            "source": 1,
+            "target": 3,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Armen"
+            ],
+            "source": 1,
+            "target": 4,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Arme"
+            ],
+            "source": 1,
+            "target": 5,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme",
+                "Armen"
+            ],
+            "source": 1,
+            "target": 16,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 1,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 1,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 1,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 1,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Armen"
+            ],
+            "source": 1,
+            "target": 22,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 1,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 2,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Vergleiche",
+                "Armen"
+            ],
+            "source": 3,
+            "target": 4,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Arme"
+            ],
+            "source": 3,
+            "target": 5,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 3,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme",
+                "Armen"
+            ],
+            "source": 3,
+            "target": 16,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 3,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 3,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 3,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Armen"
+            ],
+            "source": 3,
+            "target": 22,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 3,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dicke"
+            ],
+            "source": 3,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 4,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 4,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 4,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch",
+                "Armen"
+            ],
+            "source": 4,
+            "target": 22,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 5,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 5,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 5,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 5,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 5,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 5,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 5,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 6,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 6,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 6,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 7,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 8,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 8,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 8,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 8,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 9,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 9,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 9,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 9,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 10,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 11,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 11,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 12,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 12,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 12,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 15,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kreuzen",
+                "Arme"
+            ],
+            "source": 16,
+            "target": 17,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 16,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 16,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 17,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armen"
+            ],
+            "source": 18,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arm"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 19,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 19,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "reichen"
+            ],
+            "source": 20,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arme"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ellenbogen"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 31,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 32,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Händen"
+            ],
+            "source": 33,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 33,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand",
+                "offen"
+            ],
+            "source": 34,
+            "target": 37,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 34,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt",
+                "Hand"
+            ],
+            "source": 35,
+            "target": 37,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 35,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hände",
+                "Hand"
+            ],
+            "source": 36,
+            "target": 37,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 36,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 36,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 36,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hände"
+            ],
+            "source": 36,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hände",
+                "geben",
+                "Hand"
+            ],
+            "source": 36,
+            "target": 55,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Kopf",
+                "Hand"
+            ],
+            "source": 36,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendg",
+                "Hand"
+            ],
+            "source": 36,
+            "target": 58,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 36,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 36,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand",
+                "Finger"
+            ],
+            "source": 37,
+            "target": 40,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hände"
+            ],
+            "source": 37,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hände",
+                "Hand"
+            ],
+            "source": 37,
+            "target": 55,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 37,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 38,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 40,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 46,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 46,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 46,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 46,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 47,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 47,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 47,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 47,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 47,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 50,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 50,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 50,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 50,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 50,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hände"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pratze",
+                "Hand"
+            ],
+            "source": 55,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Pratze"
+            ],
+            "source": 55,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand",
+                "bedeutet"
+            ],
+            "source": 55,
+            "target": 58,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 55,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 55,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 55,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pratze"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 56,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 56,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 56,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tatze"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 58,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 58,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfote"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hand"
+            ],
+            "source": 61,
+            "target": 64,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "habend",
+                "langarmig",
+                "lange",
+                "Armen",
+                "Mensch",
+                "langen",
+                "Arme"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "kurze",
+                "kurzarmig",
+                "kurzen",
+                "Armen",
+                "Mensch",
+                "Arme"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Arme",
+                "Grundlage",
+                "bezug",
+                "Armes",
+                "Maß",
+                "Klafter",
+                "Armlänge",
+                "bedeuten",
+                "lange",
+                "regelmäßige",
+                "klaftern",
+                "Kürze",
+                "Länge",
+                "gilt"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "dickarmig",
+                "Vergleiche",
+                "rundliche",
+                "dicken",
+                "Armen",
+                "dralle",
+                "Mensch",
+                "dicke",
+                "Arme"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Abbrechen",
+                "Vergleiche",
+                "reinsten",
+                "dünnarmig",
+                "spanlechte",
+                "schwache",
+                "dünnen",
+                "dünne",
+                "Zündhölzchen",
+                "Kinderärmlein",
+                "Armen",
+                "Ärmlein",
+                "Mensch",
+                "Spanlarme"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "zugehöriges",
+                "dichtbehaarte",
+                "Arme"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Haare",
+                "Benennung",
+                "Armen"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "woher",
+                "lahmer",
+                "gefühlloser",
+                "Arm",
+                "rührend"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Arm",
+                "unbrauchbarer"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Arm",
+                "habend",
+                "einarmig",
+                "Einhänder"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Stutz",
+                "Stumpel",
+                "Mensch",
+                "Stumpfarm"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Arm",
+                "künstlicher"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Arm",
+                "häufige",
+                "Eigenschaftswörter",
+                "sonstige"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Arfel",
+                "Armvoll"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Arm",
+                "Wasserarm"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "armlos",
+                "armdick",
+                "armlang",
+                "Armbug",
+                "Arm"
+            ],
+            "id": "B18a"
+        },
+        {
+            "concepts": [
+                "verschränken",
+                "dafür",
+                "verschränkten",
+                "üblich",
+                "übereinanderschlagen",
+                "Armhaltung",
+                "Armen",
+                "kreuzen",
+                "verschränkte",
+                "Arme"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Hintern",
+                "Rücken",
+                "Arsch",
+                "Händ",
+                "daher",
+                "kreuzen",
+                "Arme"
+            ],
+            "id": "B19a"
+        },
+        {
+            "concepts": [
+                "tragen",
+                "halten",
+                "Armen"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "recken",
+                "räkeln",
+                "ausgestreckter",
+                "Erwachen",
+                "ausstrecken",
+                "Arm",
+                "beim",
+                "Arme"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "einhäkeln",
+                "einhängen",
+                "lassen",
+                "reichen",
+                "Arm"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "aufstützen",
+                "einhinlümmeln",
+                "Arme"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "tut",
+                "baumeln",
+                "lassen",
+                "Ausdruck",
+                "Armen",
+                "Mensch",
+                "schlenkern"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "umarmen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "bewegen",
+                "umeinanderfuchteln",
+                "Arme"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Armbewegungen"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Engelbogen",
+                "Engelbein",
+                "Ellenbogen",
+                "Elle"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Gasse",
+                "bahnen",
+                "herausschwitzen",
+                "brauchen",
+                "Ellenbogen",
+                "beim"
+            ],
+            "id": "B28a"
+        },
+        {
+            "concepts": [
+                "Stoß",
+                "Stupf",
+                "Ellenbogen",
+                "stupfen"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "spitziger",
+                "Ellenbogen"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Ellenbogenspitze",
+                "gleichbedeutend",
+                "Mäusel",
+                "Ellenbogen"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "übertragene",
+                "Hantschl",
+                "Verwendung",
+                "Hanti",
+                "Hand",
+                "Koseform",
+                "Handschi",
+                "Gegenstandes"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Herren",
+                "Gottes",
+                "Formeln",
+                "Verbindungen",
+                "Hent",
+                "dabei",
+                "Hand",
+                "Lautung",
+                "lautet",
+                "feierlichen"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "mager",
+                "fett",
+                "gut",
+                "hart",
+                "fest",
+                "lang",
+                "schön",
+                "haarig",
+                "schwer",
+                "gute",
+                "Händen",
+                "groß",
+                "grob",
+                "klein",
+                "leicht",
+                "langer",
+                "guten",
+                "schreiben",
+                "schöne",
+                "Hand",
+                "kurz",
+                "sicher"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "klüftig",
+                "schwitzig",
+                "verdorrt",
+                "Klufthände",
+                "knol",
+                "schwielig",
+                "Heilmitteln",
+                "verfroren",
+                "offen",
+                "starr",
+                "Angabe",
+                "Klumphand",
+                "Hand",
+                "Entstellungen",
+                "Schweißhände",
+                "schweißig",
+                "gestärrecht",
+                "klumpig",
+                "aufgesprungen"
+            ],
+            "id": "C3a"
+        },
+        {
+            "concepts": [
+                "gibt",
+                "Hand",
+                "Erkrankung"
+            ],
+            "id": "C3b"
+        },
+        {
+            "concepts": [
+                "zusammenschlagen",
+                "ende",
+                "ballen",
+                "kishant",
+                "ksthant",
+                "wieweit",
+                "küssen",
+                "küss",
+                "Sache",
+                "Kopf",
+                "drücken",
+                "reichen",
+                "falten",
+                "Verwendg",
+                "hinhalten",
+                "geben",
+                "Na",
+                "bös",
+                "Hände",
+                "Hand",
+                "Formel"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "tun",
+                "ganze",
+                "anlegen",
+                "Tasche",
+                "legen",
+                "Finger",
+                "offen",
+                "Hände",
+                "stecken",
+                "Hand",
+                "voll",
+                "gibt",
+                "rechte",
+                "Schoß"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "verkaufen",
+                "nachher",
+                "abgeblaßte",
+                "ab",
+                "vorher",
+                "vorderhand",
+                "überhand",
+                "vo",
+                "abhanden",
+                "vorhanden",
+                "nehmen",
+                "Hand",
+                "handen",
+                "behanden",
+                "Handen",
+                "kommen"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "phent",
+                "behende",
+                "pfent"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Teile",
+                "Finger",
+                "Hand",
+                "Handrücken",
+                "Handfläche"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Handgelenk"
+            ],
+            "id": "C8a"
+        },
+        {
+            "concepts": [
+                "Handwurzel"
+            ],
+            "id": "C8b"
+        },
+        {
+            "concepts": [
+                "Handflechse"
+            ],
+            "id": "C8c"
+        },
+        {
+            "concepts": [
+                "Handknochen"
+            ],
+            "id": "C8d"
+        },
+        {
+            "concepts": [
+                "Handteller"
+            ],
+            "id": "C8e"
+        },
+        {
+            "concepts": [
+                "Hand",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "C8f"
+        },
+        {
+            "concepts": [
+                "Streit",
+                "Händel",
+                "Hand",
+                "Handel",
+                "NICHT",
+                "Handhabe"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Händling"
+            ],
+            "id": "C9a"
+        },
+        {
+            "concepts": [
+                "Zweihänder"
+            ],
+            "id": "C9b"
+        },
+        {
+            "concepts": [
+                "Hand"
+            ],
+            "id": "C9c"
+        },
+        {
+            "concepts": [
+                "handlich",
+                "unhandlich"
+            ],
+            "id": "C9d"
+        },
+        {
+            "concepts": [
+                "Handsamer",
+                "handsam",
+                "unhandsam"
+            ],
+            "id": "C9e"
+        },
+        {
+            "concepts": [
+                "kräftig",
+                "spielen",
+                "einhändeln",
+                "arbeiten",
+                "rühren",
+                "Hände",
+                "händeln",
+                "Händen"
+            ],
+            "id": "C9f"
+        },
+        {
+            "concepts": [
+                "behändigen",
+                "einhändigen"
+            ],
+            "id": "C9g"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "geben",
+                "Tiere",
+                "verächtlicher",
+                "Pratzl",
+                "Pratze",
+                "einzelner",
+                "Haken",
+                "unförmige",
+                "Hände",
+                "Hand",
+                "Bed",
+                "Nebensinn",
+                "dicke",
+                "Gliedmaßen",
+                "große",
+                "bedeutet"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Pratzenpfeife",
+                "Kopf",
+                "Pratze",
+                "gehalten",
+                "Art",
+                "Hand",
+                "Pratzhändlein",
+                "Hundspratze",
+                "Pratzenkopf",
+                "Tabakspfeife"
+            ],
+            "id": "C10a"
+        },
+        {
+            "concepts": [
+                "Pratze"
+            ],
+            "id": "C10b"
+        },
+        {
+            "concepts": [
+                "Handkrause",
+                "kriegen",
+                "Tatze",
+                "Schlag",
+                "Verwendg",
+                "Hand",
+                "Handlung",
+                "eins",
+                "bedeutet"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Tatzenbrettel",
+                "Tatze",
+                "Erteilen",
+                "Tatzelspiel",
+                "Bärentatze",
+                "Klapsen"
+            ],
+            "id": "C11a"
+        },
+        {
+            "concepts": [
+                "tatzeln",
+                "tatzen"
+            ],
+            "id": "C11b"
+        },
+        {
+            "concepts": [
+                "breite",
+                "Pflotsche",
+                "Pflote",
+                "Hand",
+                "Verwendungen",
+                "Pfote"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Pfote"
+            ],
+            "id": "C12a"
+        },
+        {
+            "concepts": [
+                "Tapper",
+                "Fuß",
+                "bedeutet"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Hand",
+                "samt"
+            ],
+            "id": "C14"
+        }
+    ]
+}

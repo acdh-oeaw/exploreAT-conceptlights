@@ -1,0 +1,3608 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Monde"
+                ],
+                [
+                    "Stern"
+                ],
+                [
+                    "Wolke"
+                ],
+                [
+                    "Wolken"
+                ],
+                [
+                    "Volk"
+                ],
+                [
+                    "werfen"
+                ],
+                [
+                    "Frau"
+                ],
+                [
+                    "heftig"
+                ],
+                [
+                    "Donnern"
+                ],
+                [
+                    "Tau"
+                ],
+                [
+                    "gefroren"
+                ],
+                [
+                    "gibt"
+                ],
+                [
+                    "Schlittschuh"
+                ],
+                [
+                    "Geschlecht"
+                ],
+                [
+                    "Bedeutung"
+                ],
+                [
+                    "Vorstellungen"
+                ],
+                [
+                    "Sonnenschein"
+                ]
+            ],
+            "2": [
+                [
+                    "Gewitter"
+                ],
+                [
+                    "Schauer"
+                ],
+                [
+                    "zieht"
+                ]
+            ],
+            "3": [
+                [
+                    "Himmel"
+                ],
+                [
+                    "Schatten"
+                ],
+                [
+                    "Mond"
+                ],
+                [
+                    "Aberglaube"
+                ],
+                [
+                    "Aussprache"
+                ],
+                [
+                    "Reif"
+                ],
+                [
+                    "Nebel"
+                ],
+                [
+                    "schwach"
+                ],
+                [
+                    "frieren"
+                ],
+                [
+                    "Sturm"
+                ]
+            ],
+            "6": [
+                [
+                    "Donner"
+                ],
+                [
+                    "Volksglaube"
+                ],
+                [
+                    "Eis"
+                ],
+                [
+                    "Luft"
+                ]
+            ],
+            "8": [
+                [
+                    "geht"
+                ]
+            ],
+            "9": [
+                [
+                    "Blitz"
+                ]
+            ],
+            "10": [
+                [
+                    "Sonne"
+                ],
+                [
+                    "regnen"
+                ],
+                [
+                    "schneien"
+                ],
+                [
+                    "Schnee"
+                ],
+                [
+                    "Regen"
+                ]
+            ],
+            "15": [
+                [
+                    "Wind"
+                ]
+            ],
+            "23": [
+                [
+                    "Wendungen"
+                ]
+            ],
+            "33": [
+                [
+                    "Wetter"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Wendungen",
+                    "zieht"
+                ],
+                [
+                    "Wendungen",
+                    "zusammen"
+                ],
+                [
+                    "Gewitter",
+                    "Wetter"
+                ],
+                [
+                    "Blitz",
+                    "zündet"
+                ],
+                [
+                    "Hagel",
+                    "Schauer"
+                ],
+                [
+                    "geht",
+                    "Wetter"
+                ],
+                [
+                    "Wendungen",
+                    "schaut"
+                ],
+                [
+                    "Wendungen",
+                    "hebt"
+                ],
+                [
+                    "Wind",
+                    "Windsbraut"
+                ],
+                [
+                    "Wind",
+                    "Wetter"
+                ]
+            ],
+            "3": [
+                [
+                    "Sturm",
+                    "Wind"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Wendungen",
+                    "geht",
+                    "Wind"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Süden",
+                    "Westen",
+                    "Osten",
+                    "Norden"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Himmel"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Himmel"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Himmel"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 4,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 4,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 5,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonnenschein"
+            ],
+            "source": 5,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 6,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 6,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 6,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 6,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 6,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 6,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 7,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 7,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 7,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 7,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 7,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonne"
+            ],
+            "source": 8,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "zieht"
+            ],
+            "source": 8,
+            "target": 51,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zieht"
+            ],
+            "source": 8,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "schaut"
+            ],
+            "source": 8,
+            "target": 147,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schatten"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schatten"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 11,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schatten"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mond"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mond"
+            ],
+            "source": 18,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Monde"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 19,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 19,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 19,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mond"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 20,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 20,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 20,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 22,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 22,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stern"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volk"
+            ],
+            "source": 31,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolke"
+            ],
+            "source": 39,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolken"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "zusammen"
+            ],
+            "source": 41,
+            "target": 51,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 41,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 41,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 41,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 41,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 41,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorstellungen"
+            ],
+            "source": 42,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 45,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 47,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 47,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 47,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 47,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 48,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 48,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 48,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 48,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 49,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 49,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 49,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewitter",
+                "Wetter"
+            ],
+            "source": 50,
+            "target": 51,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gewitter"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 50,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 50,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 50,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewitter"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 51,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "Wetter"
+            ],
+            "source": 51,
+            "target": 101,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 51,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 51,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zieht"
+            ],
+            "source": 51,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 51,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 51,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 51,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "geht",
+                "Wind"
+            ],
+            "source": 51,
+            "target": 151,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 51,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind",
+                "Wetter"
+            ],
+            "source": 51,
+            "target": 153,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 52,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 54,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 54,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 54,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 54,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 59,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 59,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 59,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 60,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 60,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Donner"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Donner"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Donner"
+            ],
+            "source": 62,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 62,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Donnern"
+            ],
+            "source": 63,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 63,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Donner"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Donner"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 64,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz"
+            ],
+            "source": 64,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Donner"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blitz",
+                "zündet"
+            ],
+            "source": 68,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 72,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 72,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 72,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 73,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 73,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 73,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 73,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 73,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 73,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 75,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 75,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 77,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 79,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 79,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heftig"
+            ],
+            "source": 80,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 80,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwach"
+            ],
+            "source": 81,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "regnen"
+            ],
+            "source": 81,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwach"
+            ],
+            "source": 81,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hagel",
+                "Schauer"
+            ],
+            "source": 83,
+            "target": 84,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schauer"
+            ],
+            "source": 83,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schauer"
+            ],
+            "source": 84,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eis"
+            ],
+            "source": 86,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eis"
+            ],
+            "source": 86,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eis"
+            ],
+            "source": 86,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 89,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 89,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 89,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 90,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 90,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 90,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Regen"
+            ],
+            "source": 90,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 93,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnee"
+            ],
+            "source": 94,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 94,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 94,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 94,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 94,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 95,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 95,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 95,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 96,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 96,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwach"
+            ],
+            "source": 96,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneien"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 101,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wetter"
+            ],
+            "source": 101,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nebel"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nebel"
+            ],
+            "source": 106,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 107,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nebel"
+            ],
+            "source": 107,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 107,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "hebt"
+            ],
+            "source": 107,
+            "target": 151,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Tau"
+            ],
+            "source": 113,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschlecht"
+            ],
+            "source": 113,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reif"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reif"
+            ],
+            "source": 114,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 114,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 114,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reif"
+            ],
+            "source": 115,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Luft"
+            ],
+            "source": 116,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Luft"
+            ],
+            "source": 116,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Luft"
+            ],
+            "source": 116,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frieren"
+            ],
+            "source": 121,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gefroren"
+            ],
+            "source": 121,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frieren"
+            ],
+            "source": 121,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frieren"
+            ],
+            "source": 122,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eis"
+            ],
+            "source": 125,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eis"
+            ],
+            "source": 125,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eis"
+            ],
+            "source": 126,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlittschuh"
+            ],
+            "source": 127,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Luft"
+            ],
+            "source": 139,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Luft"
+            ],
+            "source": 139,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Luft"
+            ],
+            "source": 140,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 144,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutung"
+            ],
+            "source": 144,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 144,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind",
+                "Windsbraut"
+            ],
+            "source": 144,
+            "target": 152,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 144,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 146,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 146,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wind"
+            ],
+            "source": 146,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 147,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sturm"
+            ],
+            "source": 148,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sturm"
+            ],
+            "source": 148,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sturm"
+            ],
+            "source": 148,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sturm",
+                "Wind"
+            ],
+            "source": 151,
+            "target": 152,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sturm",
+                "Wind"
+            ],
+            "source": 151,
+            "target": 153,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sturm",
+                "Wind"
+            ],
+            "source": 152,
+            "target": 153,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Süden",
+                "Westen",
+                "Osten",
+                "Norden"
+            ],
+            "source": 154,
+            "target": 155,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Himmel",
+                "Firmament"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Himmel",
+                "Himmelbauer",
+                "Gänshimmel",
+                "himmelhoch",
+                "himmelweit"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Himmel",
+                "heller",
+                "trüber",
+                "finsterer",
+                "reiner",
+                "lichter",
+                "heiterer",
+                "bewölkter",
+                "klarer"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "himmlisch"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Sonne",
+                "Frau"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "sonnseitig",
+                "Sonnenschein",
+                "Sonne",
+                "Morgensonne"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Wind",
+                "Abendrot",
+                "Kot",
+                "Morgenrot"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Sonnenuntergang",
+                "Gnaden",
+                "Sonne",
+                "schlecht"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "kommt",
+                "sticht",
+                "versteckt",
+                "brennt",
+                "schaut",
+                "mehr",
+                "Kraft",
+                "Sonne",
+                "fürher",
+                "ausher",
+                "zieht",
+                "scheint",
+                "Wasser"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "sunnecht",
+                "widersünnig",
+                "sonnig"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "sünnern",
+                "sonnen"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "schattnen",
+                "geh",
+                "Schatten",
+                "werfen"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Schattenseite",
+                "Schatten"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "schattlechtig",
+                "schattig"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "rascher",
+                "schattlaichet",
+                "Tagen",
+                "schattlaichen",
+                "Schatten",
+                "Sonne",
+                "windigen",
+                "Wechsel"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Tageslicht",
+                "Licht"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Finstere",
+                "Finsternis"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "hellicht",
+                "stockfinster",
+                "zinlicht",
+                "rabenfinster"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Mâned",
+                "Herr",
+                "Mond",
+                "Mânenel",
+                "Mânschein"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Monde",
+                "Märchen",
+                "Volksglaube",
+                "Mann"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Vollmond",
+                "Mondphasen",
+                "ab",
+                "geht",
+                "letztes",
+                "zugehn",
+                "Neumond",
+                "mânern",
+                "Mond",
+                "nimmt",
+                "erstes",
+                "Viertel"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Monde",
+                "Wettervoraussagen",
+                "zusammenhängen"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Sonnenfinsternis",
+                "Aberglaube",
+                "Entstehungsursache"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Hof",
+                "Mond"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Mondlicht"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "mondhell",
+                "mondscheinig"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "vollmondig",
+                "Geschichten",
+                "mondsüchtig",
+                "Mondsüchtigen"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Stern"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Gestirn"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Sterngucker",
+                "sternhagelvoll",
+                "sternklar",
+                "Stern"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "scheinen",
+                "flimmern",
+                "Sterne",
+                "glänzen",
+                "leuchten",
+                "funkeln"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "kennt",
+                "Planeten",
+                "einzelnen",
+                "Planet",
+                "Aberglaube",
+                "Volk"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Komet",
+                "Aberglaube"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Sternschnuppe",
+                "Volksmeinungen"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "Meteor"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "großer",
+                "Himmelhund",
+                "Himmelsstraße",
+                "Bär",
+                "Hundsgestirn",
+                "Milchstraße",
+                "Wagen",
+                "Sternbilder"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Namen",
+                "Fixsternen",
+                "Polarstern"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Abendstern"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Sternaberglaube",
+                "berichteter"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Wolke",
+                "Haufenwolke"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Mauer",
+                "Burzen",
+                "schwarzer",
+                "Wetterhaxen",
+                "Schäfchen",
+                "Ausdrücke",
+                "Wolkenformen"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "wandern",
+                "Wolken",
+                "zergehn",
+                "zusammen",
+                "zerfließen",
+                "reisen",
+                "Wolke",
+                "ziehn"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Vorstellungen",
+                "knüpfen",
+                "volkstümliche",
+                "Wolken"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "gehilwig",
+                "wolkig",
+                "gewülkig",
+                "umzogen"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Gewölk",
+                "Gewürk",
+                "Gehilwe",
+                "Gewülk"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Wetter",
+                "Witter",
+                "Witterung"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Ungewitter"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "warmes",
+                "windiges",
+                "kühles",
+                "grobes",
+                "schieches",
+                "laues",
+                "mildes",
+                "schönes",
+                "gutes",
+                "heißes",
+                "schlechtes",
+                "wildes",
+                "stürmisches",
+                "Wetter",
+                "Eigenschaftswörter",
+                "Verbindung"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Wettermantel",
+                "Regenwetter",
+                "Dreckwetter",
+                "Wetterprophet",
+                "Wetter"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "wetterwendisch",
+                "Wetter"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Gewitter",
+                "Wetter"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "steigt",
+                "verzieht",
+                "geht",
+                "nieder",
+                "zusammen",
+                "auseinander",
+                "verjagt",
+                "Wind",
+                "Gewitter",
+                "zerreißt",
+                "treibt",
+                "zieht",
+                "Wetter"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "gibt",
+                "wettert",
+                "Gewitter"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "losecht",
+                "gewittrig",
+                "wetterisch",
+                "dusmig",
+                "schwül",
+                "dunstig"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Wetter"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Wettermacher"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Thermometer",
+                "Wetterglas",
+                "Barometer"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Schutzmittel",
+                "Wettersegen",
+                "Gewitterschäden",
+                "Wetterandacht",
+                "Wetterläuten"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Blitzableiter",
+                "Wetterstange"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Blitz",
+                "Strahl",
+                "Feuer",
+                "Himmletzer"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Blitz",
+                "Blitzkerl",
+                "Verstärkungssilbe",
+                "blitzblau"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "himmletzt",
+                "blitzt"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Dunnerer",
+                "Kracher",
+                "Donner",
+                "Schlag",
+                "Tümmler",
+                "Aussprache",
+                "Donnerschlag",
+                "Pumperer",
+                "Rumpler"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "donnert",
+                "Aussprache",
+                "gedonnert",
+                "leises",
+                "fernes",
+                "Donnern",
+                "grollen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Blitz",
+                "Donner",
+                "denkt",
+                "Entstehung",
+                "Volk"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Dunnersbub",
+                "Donner",
+                "Donnerstein"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "dunnerschlächtig",
+                "Donner",
+                "dunnerisch"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "aufdonnern"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Blitz",
+                "schlägt",
+                "zündet"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Blitz",
+                "kalter",
+                "zündet"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "hitzhimmletzten",
+                "Wetterleuchten"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "Nordlicht",
+                "Himmelserscheinungen",
+                "etwa",
+                "feurige"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Schnürlregen",
+                "Regenguß",
+                "Himmelwasser",
+                "Regen"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "regne",
+                "regnen",
+                "Regen",
+                "Sprüche",
+                "tut",
+                "schau"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "Regendachl",
+                "Paraplui",
+                "Regenschirm"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "Güß",
+                "Regen",
+                "Wolkenbruch",
+                "Guß",
+                "heftiger"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Regenzauber"
+            ],
+            "id": "B38"
+        },
+        {
+            "concepts": [
+                "Trorbogen",
+                "Wettermal",
+                "Himmelblüh",
+                "Himmelringschüsselein",
+                "Volksglaube",
+                "Sonnenring",
+                "Regenbogen",
+                "versteht",
+                "Himmelring"
+            ],
+            "id": "B40"
+        },
+        {
+            "concepts": [
+                "regnet"
+            ],
+            "id": "B41"
+        },
+        {
+            "concepts": [
+                "regnen",
+                "verregnen"
+            ],
+            "id": "B42"
+        },
+        {
+            "concepts": [
+                "regnen",
+                "heftig",
+                "schütten",
+                "gießen"
+            ],
+            "id": "B43"
+        },
+        {
+            "concepts": [
+                "regnen",
+                "siefern",
+                "tröpfeln",
+                "nieseln",
+                "sedern",
+                "schwach",
+                "tropfetzen"
+            ],
+            "id": "B44"
+        },
+        {
+            "concepts": [
+                "regnerisch"
+            ],
+            "id": "B45"
+        },
+        {
+            "concepts": [
+                "Hagel",
+                "Schauer"
+            ],
+            "id": "B46"
+        },
+        {
+            "concepts": [
+                "Hagel",
+                "Schaueramt",
+                "Schauer"
+            ],
+            "id": "B47"
+        },
+        {
+            "concepts": [
+                "Hagelschlag",
+                "Abwehrmittel"
+            ],
+            "id": "B48"
+        },
+        {
+            "concepts": [
+                "Riesel",
+                "Schauerstein",
+                "Hexeneier",
+                "Hagelkörner",
+                "Graupen",
+                "Rüsel",
+                "Schloßen",
+                "Eis"
+            ],
+            "id": "B49"
+        },
+        {
+            "concepts": [
+                "graupelt",
+                "steinelt",
+                "hagelt",
+                "schauert",
+                "rieselt"
+            ],
+            "id": "B50"
+        },
+        {
+            "concepts": [
+                "geschlagen",
+                "schauerboßig",
+                "verhagelt",
+                "Schauer"
+            ],
+            "id": "B51"
+        },
+        {
+            "concepts": [
+                "Schneegestöber",
+                "schneeblind",
+                "Schnee"
+            ],
+            "id": "B52"
+        },
+        {
+            "concepts": [
+                "Neuschnee",
+                "Altschnee",
+                "Regen",
+                "Märzenschnee",
+                "Schnee",
+                "vermischter",
+                "Firnschnee"
+            ],
+            "id": "B53"
+        },
+        {
+            "concepts": [
+                "schneeballnen",
+                "Schneeball",
+                "Schneeballen",
+                "werfen"
+            ],
+            "id": "B54"
+        },
+        {
+            "concepts": [
+                "Schneeflocke"
+            ],
+            "id": "B55"
+        },
+        {
+            "concepts": [
+                "Percht",
+                "Volksglaube",
+                "Betten",
+                "Frau",
+                "betreffend",
+                "Schnee",
+                "Holle",
+                "Kinderlieder",
+                "besingen",
+                "schüttelt"
+            ],
+            "id": "B56"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "gehen",
+                "scherzhafte",
+                "reitern",
+                "Jungfern",
+                "alten",
+                "sieben",
+                "Schnee"
+            ],
+            "id": "B57"
+        },
+        {
+            "concepts": [
+                "geschneit",
+                "schneien",
+                "geschniben"
+            ],
+            "id": "B58"
+        },
+        {
+            "concepts": [
+                "schneien",
+                "schwach",
+                "schneiwelen"
+            ],
+            "id": "B59"
+        },
+        {
+            "concepts": [
+                "heftig",
+                "schneien"
+            ],
+            "id": "B60"
+        },
+        {
+            "concepts": [
+                "regnen",
+                "schneien",
+                "zugleich",
+                "gowadern"
+            ],
+            "id": "B61"
+        },
+        {
+            "concepts": [
+                "zuschneien",
+                "schneien"
+            ],
+            "id": "B62"
+        },
+        {
+            "concepts": [
+                "Schneeschmelze",
+                "Leune",
+                "Lähn",
+                "Tauwetter"
+            ],
+            "id": "B63"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "geht",
+                "lähnt",
+                "leunt",
+                "Schnee",
+                "zergeht",
+                "Wetter",
+                "taut"
+            ],
+            "id": "B64"
+        },
+        {
+            "concepts": [
+                "Abfahren",
+                "Donnern",
+                "Lawinen",
+                "Lawine"
+            ],
+            "id": "B65"
+        },
+        {
+            "concepts": [
+                "Schneefeld"
+            ],
+            "id": "B66"
+        },
+        {
+            "concepts": [
+                "apern",
+                "abapern",
+                "aper"
+            ],
+            "id": "B67"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "schneefreie",
+                "Apere"
+            ],
+            "id": "B68"
+        },
+        {
+            "concepts": [
+                "Aussprache",
+                "Nebel"
+            ],
+            "id": "B69"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "fällt",
+                "hebt",
+                "Nebel"
+            ],
+            "id": "B70"
+        },
+        {
+            "concepts": [
+                "neblig"
+            ],
+            "id": "B71"
+        },
+        {
+            "concepts": [
+                "umnebeln",
+                "benebeln",
+                "nebeln"
+            ],
+            "id": "B72"
+        },
+        {
+            "concepts": [
+                "nifeln",
+                "neifeln",
+                "nebelreißen"
+            ],
+            "id": "B73"
+        },
+        {
+            "concepts": [
+                "Hairuck",
+                "Gehai",
+                "Höhenrauch"
+            ],
+            "id": "B74"
+        },
+        {
+            "concepts": [
+                "gehaiwig",
+                "höhenrauchig"
+            ],
+            "id": "B75"
+        },
+        {
+            "concepts": [
+                "Miltau",
+                "Abendtau",
+                "Tror",
+                "Geschlecht",
+                "Tau",
+                "Tautropfen",
+                "Honigtau"
+            ],
+            "id": "B76"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "gebrannt",
+                "Anreim",
+                "Reif"
+            ],
+            "id": "B77"
+        },
+        {
+            "concepts": [
+                "Reif",
+                "feuern",
+                "angezündetes",
+                "heizen",
+                "brennen",
+                "Reisig",
+                "rauchen"
+            ],
+            "id": "B78"
+        },
+        {
+            "concepts": [
+                "Luft",
+                "schwebender",
+                "Reif",
+                "Pfreimling"
+            ],
+            "id": "B79"
+        },
+        {
+            "concepts": [
+                "unterschieden",
+                "Nebel",
+                "Tau",
+                "gefrorenem"
+            ],
+            "id": "B80"
+        },
+        {
+            "concepts": [
+                "bereift",
+                "bereimelt",
+                "reimig",
+                "angereimt"
+            ],
+            "id": "B81"
+        },
+        {
+            "concepts": [
+                "Rauhreif"
+            ],
+            "id": "B82"
+        },
+        {
+            "concepts": [
+                "Gefrier",
+                "Frost"
+            ],
+            "id": "B83"
+        },
+        {
+            "concepts": [
+                "friert",
+                "gefroren",
+                "froist",
+                "frieren",
+                "friest"
+            ],
+            "id": "B84"
+        },
+        {
+            "concepts": [
+                "zieht",
+                "frieren",
+                "Häutlein",
+                "gemacht"
+            ],
+            "id": "B85"
+        },
+        {
+            "concepts": [
+                "erfrieren",
+                "Finger",
+                "gefrören"
+            ],
+            "id": "B86"
+        },
+        {
+            "concepts": [
+                "gefroren",
+                "unverwundbar",
+                "bedeutet"
+            ],
+            "id": "B87"
+        },
+        {
+            "concepts": [
+                "Eis",
+                "Eiszapfen"
+            ],
+            "id": "B88"
+        },
+        {
+            "concepts": [
+                "hiezu",
+                "Werkzeuge",
+                "Eis",
+                "hacken"
+            ],
+            "id": "B89"
+        },
+        {
+            "concepts": [
+                "eislaufen",
+                "Schlittschuh",
+                "fahren",
+                "schleifen"
+            ],
+            "id": "B90"
+        },
+        {
+            "concepts": [
+                "Schleife",
+                "Eisbahn"
+            ],
+            "id": "B91"
+        },
+        {
+            "concepts": [
+                "Schleifschuh",
+                "Schlittschuh",
+                "Schlittschuhe",
+                "gibt",
+                "Eisschuh",
+                "Knochen"
+            ],
+            "id": "B92"
+        },
+        {
+            "concepts": [
+                "frieren",
+                "schwach",
+                "harscheln"
+            ],
+            "id": "B93"
+        },
+        {
+            "concepts": [
+                "harschig",
+                "verharscht",
+                "Harsch"
+            ],
+            "id": "B94"
+        },
+        {
+            "concepts": [
+                "schwimmende",
+                "treibende",
+                "Eisschollen"
+            ],
+            "id": "B95"
+        },
+        {
+            "concepts": [
+                "Gewässern",
+                "Zufrieren",
+                "zeigt",
+                "Rogeis",
+                "beim",
+                "Eis"
+            ],
+            "id": "B96"
+        },
+        {
+            "concepts": [
+                "Eisfeld",
+                "Ferner",
+                "Kes",
+                "Eismeer",
+                "Gletscher"
+            ],
+            "id": "B97"
+        },
+        {
+            "concepts": [
+                "Gletscherspalte"
+            ],
+            "id": "B98"
+        },
+        {
+            "concepts": [
+                "Gletschertor"
+            ],
+            "id": "B99"
+        },
+        {
+            "concepts": [
+                "Gletscherbruch"
+            ],
+            "id": "B100"
+        },
+        {
+            "concepts": [
+                "Moräne"
+            ],
+            "id": "B101"
+        },
+        {
+            "concepts": [
+                "Luft",
+                "setzen",
+                "zerreißen",
+                "Geschlecht",
+                "fliegen",
+                "gehn"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "luftdürr",
+                "Luft",
+                "Nachtluft",
+                "Waldluft"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "linde",
+                "Luft",
+                "scharfe",
+                "bewegte",
+                "leicht",
+                "laue",
+                "stille"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "lüften",
+                "auslüften"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "luftig"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Wind",
+                "Bedeutung",
+                "Windhund",
+                "Windsbraut",
+                "Windlicht",
+                "geschwind",
+                "reden"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Talwind"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Windnamen",
+                "Föhn",
+                "örtliche",
+                "Südwind",
+                "vordere",
+                "untere",
+                "hintere",
+                "obere",
+                "Bezeichnungen",
+                "Wind",
+                "böhmische",
+                "Jauk"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Bedeutung",
+                "schaut",
+                "windig"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Sturmglocke",
+                "Wirbelsturm",
+                "Sturm",
+                "Windsturm",
+                "Radelwind",
+                "Sturmwind"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "sturmt",
+                "stürmen",
+                "aussturmen",
+                "umsturmen",
+                "dahersturmen"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "stürmisch"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "macht",
+                "geht",
+                "Sturm",
+                "hebt",
+                "Wind",
+                "legt",
+                "läßt"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Sturm",
+                "Gejaid",
+                "Wind",
+                "Vorstellungen",
+                "Windsbraut",
+                "wilde",
+                "weinende",
+                "Jagd"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Regen",
+                "Sturm",
+                "stehende",
+                "Sonnenschein",
+                "Wind",
+                "Verbindugen",
+                "Wetter"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Süden",
+                "Södosten",
+                "Norden",
+                "Zwischenweltgegenden",
+                "Nordwesten",
+                "Westen",
+                "Osten"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Süden",
+                "Norden",
+                "Umschreibungen",
+                "Aufgang",
+                "Mittag",
+                "Untergang",
+                "Westen",
+                "Osten",
+                "Mitternacht"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "südlich",
+                "nördlich",
+                "westlich",
+                "östlich"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "warm",
+                "heiß",
+                "Temperatur",
+                "Bezeichnung",
+                "lau",
+                "kalt"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Hitze",
+                "Kälte"
+            ],
+            "id": "C21"
+        }
+    ]
+}

@@ -1,0 +1,692 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "teufeln"
+                ],
+                [
+                    "DeckN"
+                ],
+                [
+                    "böse"
+                ],
+                [
+                    "Alberer"
+                ],
+                [
+                    "Hexe"
+                ]
+            ],
+            "2": [
+                [
+                    "Geist"
+                ],
+                [
+                    "Geister"
+                ]
+            ],
+            "3": [
+                [
+                    "Teufels"
+                ]
+            ],
+            "6": [
+                [
+                    "Teufel"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Gegend",
+                    "Ihrer"
+                ],
+                [
+                    "hexen",
+                    "zaubern"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Gespenst",
+                    "Geist",
+                    "Geister"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Teufel"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufel"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "DeckN"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufel"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufel"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufels"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufels"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufel"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufel"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "teufeln"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teufels"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "böse"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alberer"
+            ],
+            "source": 6,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gespenst",
+                "Geist",
+                "Geister"
+            ],
+            "source": 9,
+            "target": 10,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Geist"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geister"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geist"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geister"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegend",
+                "Ihrer"
+            ],
+            "source": 20,
+            "target": 40,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "hexen",
+                "zaubern"
+            ],
+            "source": 41,
+            "target": 42,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hexe"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Tei",
+                "Teixl",
+                "Teufel",
+                "Verballhornungen",
+                "Teigl",
+                "DeckN",
+                "Fluch"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Teufel",
+                "Teufe",
+                "malen",
+                "holen",
+                "scheren",
+                "Wand",
+                "Teufels",
+                "reitet",
+                "kannst",
+                "schlecht",
+                "erzählen",
+                "Großmutter"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "teufelmäßig",
+                "Teufeleinsperren",
+                "Teufel",
+                "Fegteufel",
+                "Bißgurre",
+                "Teufelskerl"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "teuflisch",
+                "bloße"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "fluchen",
+                "teufeln",
+                "teufelt",
+                "geteixelt"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "teufeln",
+                "umteufeln"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Hörndlbauernbub",
+                "böse",
+                "Alberer",
+                "Tschangel",
+                "Gangger",
+                "Jankerl",
+                "Gschnalljuchzer",
+                "Rawuzel",
+                "DeckN",
+                "Graunzel",
+                "Schwarze",
+                "Teufels",
+                "Tschuggauf",
+                "Schuberl",
+                "Feind",
+                "Gugger",
+                "Betel",
+                "Gaungerlifaunz",
+                "Böse",
+                "Tschaderwartel"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Krallen",
+                "Pferdefuß",
+                "Hörner",
+                "Teufels"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Vorstellungen",
+                "Bräuche",
+                "Teufel",
+                "beziehen"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Gespenst",
+                "Wort",
+                "verwendet",
+                "beachte",
+                "Schelte",
+                "Gaist",
+                "Geist",
+                "Gespenster",
+                "heißen",
+                "Goast",
+                "Geister",
+                "meist"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Gespenst",
+                "Geist",
+                "dienstbarer",
+                "bannen",
+                "sehen",
+                "aussehen",
+                "Geister"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Höllengeist",
+                "Geist",
+                "Geisterstunde"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "böse",
+                "guten",
+                "Ausruf",
+                "gute",
+                "Alle",
+                "Geister"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "geisten",
+                "spuken"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "umgehen",
+                "umgeistern"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "angeistern",
+                "anfechten",
+                "anweigen"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Anweigung",
+                "Anfechtung",
+                "Spuk",
+                "Anweigel"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Vorahnung"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Anzeichen"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "anmelden"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "sprach",
+                "Ihrer",
+                "Von",
+                "spricht",
+                "Gegend",
+                "Spukgestalten",
+                "Volk"
+            ],
+            "id": "B"
+        },
+        {
+            "concepts": [
+                "weiße",
+                "Frau"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Hausgeister",
+                "Kobolde"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Bilwißschnitt",
+                "Roggenmume",
+                "Feldgeister"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Waldfrau",
+                "Schrättel",
+                "Waldgeister"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Bergmännlein",
+                "Berggeister",
+                "Bergstutzen",
+                "salige",
+                "Frauen",
+                "Alberer"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Nixe",
+                "Wasserneck",
+                "Wassergeister",
+                "Bogermann"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "feuriger",
+                "Elfen",
+                "Strohschaub",
+                "Luftgeister",
+                "Drache"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Ork",
+                "Nörggele"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Kopf",
+                "Mann"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Tödin"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Riesen"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Zwerge",
+                "Wichtel"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "feurige",
+                "Hund"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Alpdrücken",
+                "Alp"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Drud"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Feen"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Schlangenkönig",
+                "Natternkrönlein"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Sonstiges"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Gespenstererscheinungen",
+                "beschwört",
+                "zeigen",
+                "bannt"
+            ],
+            "id": "C"
+        },
+        {
+            "concepts": [
+                "Kreuzweg",
+                "Ihrer",
+                "Aberglauben",
+                "Bedeutung",
+                "Gegend"
+            ],
+            "id": "D"
+        },
+        {
+            "concepts": [
+                "hexen",
+                "zaubern",
+                "Ja"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "zaubern",
+                "bezaubern",
+                "gehext",
+                "hexen",
+                "verzauberter",
+                "Prinz",
+                "verhext"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Zauber",
+                "fauler"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Zauberer"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Schnelligkeit",
+                "Hexerei",
+                "Zauberei"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Hexe",
+                "alte"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Hexe",
+                "Hexenmeister",
+                "Spanhexe"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "hexisch"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Blenderei",
+                "Geplerr",
+                "Blendwerk"
+            ],
+            "id": "E9"
+        }
+    ]
+}

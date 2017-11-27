@@ -1,0 +1,3499 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "blatternkrank"
+                ],
+                [
+                    "Aussatz"
+                ],
+                [
+                    "gibt"
+                ],
+                [
+                    "geschwollen"
+                ],
+                [
+                    "schwellen"
+                ],
+                [
+                    "Schwellung"
+                ],
+                [
+                    "womit"
+                ],
+                [
+                    "Apostem"
+                ],
+                [
+                    "Abszeß"
+                ],
+                [
+                    "bricht"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "Eiterkern"
+                ],
+                [
+                    "Eiterung"
+                ],
+                [
+                    "werchen"
+                ]
+            ],
+            "2": [
+                [
+                    "kommt"
+                ],
+                [
+                    "besondere"
+                ],
+                [
+                    "schwären"
+                ],
+                [
+                    "Aiß"
+                ]
+            ],
+            "3": [
+                [
+                    "Beule"
+                ]
+            ],
+            "4": [
+                [
+                    "Blatter"
+                ]
+            ],
+            "5": [
+                [
+                    "Pocken"
+                ],
+                [
+                    "Materi"
+                ]
+            ],
+            "6": [
+                [
+                    "etwaige"
+                ],
+                [
+                    "eiterig"
+                ]
+            ],
+            "7": [
+                [
+                    "Namen"
+                ]
+            ],
+            "8": [
+                [
+                    "Geschwulst"
+                ]
+            ],
+            "9": [
+                [
+                    "Geschwür"
+                ],
+                [
+                    "Gegenmittel"
+                ],
+                [
+                    "Wort"
+                ]
+            ],
+            "10": [
+                [
+                    "Scharlach"
+                ],
+                [
+                    "impfen"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Gewächs"
+                ],
+                [
+                    "eitern"
+                ]
+            ],
+            "14": [
+                [
+                    "Verbindungen"
+                ]
+            ],
+            "23": [
+                [
+                    "Arten"
+                ]
+            ],
+            "27": [
+                [
+                    "Eiter"
+                ]
+            ],
+            "53": [
+                [
+                    "Wendungen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Arten",
+                    "schwarze"
+                ],
+                [
+                    "Pocken",
+                    "Blattern"
+                ],
+                [
+                    "Stelle",
+                    "Geschwulst"
+                ],
+                [
+                    "Wendungen",
+                    "Geschwulst"
+                ],
+                [
+                    "besondere",
+                    "Namen"
+                ],
+                [
+                    "ge",
+                    "schwären"
+                ],
+                [
+                    "Geschwür",
+                    "Namen"
+                ],
+                [
+                    "Wendungen",
+                    "Arten"
+                ],
+                [
+                    "zeitig",
+                    "Arten"
+                ],
+                [
+                    "Arten",
+                    "fressend"
+                ],
+                [
+                    "Materi",
+                    "Verbindungen"
+                ],
+                [
+                    "Eiter",
+                    "sonstige"
+                ]
+            ],
+            "5": [
+                [
+                    "Blatter",
+                    "Blase"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Blatter",
+                    "Blase",
+                    "Wort"
+                ],
+                [
+                    "Fachausdruck",
+                    "kommt",
+                    "streng"
+                ],
+                [
+                    "Segen",
+                    "Namen",
+                    "Gegenmittel"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "fleischartige",
+                    "Arten",
+                    "hitzige",
+                    "kalte"
+                ],
+                [
+                    "Aiß",
+                    "Karbunkel",
+                    "Furunkel",
+                    "Karfunkel"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 2,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 3,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scharlach"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 5,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 5,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 5,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 5,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blatter"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blatter",
+                "Blase",
+                "Wort"
+            ],
+            "source": 6,
+            "target": 8,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Blatter",
+                "Blase"
+            ],
+            "source": 6,
+            "target": 9,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blatter",
+                "Blase"
+            ],
+            "source": 6,
+            "target": 10,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 6,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 6,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 6,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blatter"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blatter"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blatter"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten",
+                "schwarze"
+            ],
+            "source": 7,
+            "target": 13,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 7,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 7,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 7,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 7,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Arten"
+            ],
+            "source": 7,
+            "target": 61,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 7,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 7,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blatter",
+                "Blase"
+            ],
+            "source": 8,
+            "target": 9,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Blatter",
+                "Blase"
+            ],
+            "source": 8,
+            "target": 10,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 8,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 8,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 8,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blatter",
+                "Blase"
+            ],
+            "source": 9,
+            "target": 10,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "blatternkrank"
+            ],
+            "source": 9,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 10,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 10,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 10,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 10,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 10,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 11,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 11,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 11,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Namen"
+            ],
+            "source": 11,
+            "target": 39,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 11,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pocken"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pocken"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pocken",
+                "Blattern"
+            ],
+            "source": 12,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Pocken"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pocken"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 13,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 13,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 13,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 13,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 13,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 13,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pocken"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 14,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 14,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 14,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 15,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 15,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 15,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 17,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 17,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 18,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 18,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "impfen"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fachausdruck",
+                "kommt",
+                "streng"
+            ],
+            "source": 23,
+            "target": 24,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Aussatz"
+            ],
+            "source": 23,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 23,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 23,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 23,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 23,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 24,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 25,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 26,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 26,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 26,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fleischartige",
+                "Arten",
+                "hitzige",
+                "kalte"
+            ],
+            "source": 28,
+            "target": 39,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 28,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 28,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 28,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 28,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Geschwulst"
+            ],
+            "source": 29,
+            "target": 30,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Geschwulst"
+            ],
+            "source": 29,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 29,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwulst"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 31,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Segen",
+                "Namen",
+                "Gegenmittel"
+            ],
+            "source": 31,
+            "target": 55,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 31,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 31,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschwollen"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwellen"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 35,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 35,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 35,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 35,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 35,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 35,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 35,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwellung"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 38,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 38,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 39,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 39,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür",
+                "Namen"
+            ],
+            "source": 39,
+            "target": 55,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 39,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 39,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 39,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 40,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 40,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 40,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bricht"
+            ],
+            "source": 40,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 40,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 40,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschwür"
+            ],
+            "source": 41,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 43,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 43,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 43,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 43,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 43,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 43,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ge",
+                "schwären"
+            ],
+            "source": 44,
+            "target": 45,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schwären"
+            ],
+            "source": 44,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwären"
+            ],
+            "source": 45,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aiß",
+                "Karbunkel",
+                "Furunkel",
+                "Karfunkel"
+            ],
+            "source": 46,
+            "target": 48,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Aiß"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 47,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 47,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zeitig",
+                "Arten"
+            ],
+            "source": 47,
+            "target": 67,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Aiß"
+            ],
+            "source": 48,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 50,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 50,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 50,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 50,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 50,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abszeß"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 51,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Apostem"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 54,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gegenmittel"
+            ],
+            "source": 55,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beule"
+            ],
+            "source": 56,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 56,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beule"
+            ],
+            "source": 56,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 56,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 56,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 56,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 57,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 57,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beule"
+            ],
+            "source": 58,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 60,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 61,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten",
+                "fressend"
+            ],
+            "source": 61,
+            "target": 67,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 61,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 61,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 63,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 63,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 63,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewächs"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 64,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 66,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 66,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 66,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 66,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 66,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 67,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 67,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 67,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 67,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 67,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 68,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 68,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 68,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 68,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 68,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 68,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 68,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiterkern"
+            ],
+            "source": 69,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiterung"
+            ],
+            "source": 69,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 72,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 72,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 72,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter",
+                "sonstige"
+            ],
+            "source": 72,
+            "target": 88,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "eiterig"
+            ],
+            "source": 73,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eiterig"
+            ],
+            "source": 73,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eiterig"
+            ],
+            "source": 73,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 74,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 74,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 74,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 75,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 75,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 75,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Materi"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Materi"
+            ],
+            "source": 77,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Materi"
+            ],
+            "source": 77,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 77,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 77,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 77,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Materi",
+                "Verbindungen"
+            ],
+            "source": 78,
+            "target": 79,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Materi"
+            ],
+            "source": 78,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Materi"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 81,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 81,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 82,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 82,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eiterig"
+            ],
+            "source": 83,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eiterig"
+            ],
+            "source": 83,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiter"
+            ],
+            "source": 84,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eiterig"
+            ],
+            "source": 85,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werchen"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eitern"
+            ],
+            "source": 86,
+            "target": 88,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Scharlach"
+            ],
+            "id": "O22"
+        },
+        {
+            "concepts": [
+                "Scharlachfieber",
+                "Scharlach"
+            ],
+            "id": "O23"
+        },
+        {
+            "concepts": [
+                "Begriffe",
+                "krank",
+                "Erkrankter",
+                "Ausdrücke",
+                "Scharlach"
+            ],
+            "id": "O24"
+        },
+        {
+            "concepts": [
+                "besonderen",
+                "Schuppen",
+                "Ende",
+                "Ausdruck",
+                "gibt"
+            ],
+            "id": "O25"
+        },
+        {
+            "concepts": [
+                "Nachkrankheiten",
+                "Scharlach"
+            ],
+            "id": "O26"
+        },
+        {
+            "concepts": [
+                "Gegenmittel",
+                "Scharlach"
+            ],
+            "id": "O27"
+        },
+        {
+            "concepts": [
+                "Blatter",
+                "Blase",
+                "Hautblatter",
+                "Wort"
+            ],
+            "id": "O28"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "schöne",
+                "Blatter",
+                "natürliche",
+                "wilde",
+                "Arten",
+                "gute",
+                "Blatterl",
+                "schwarze"
+            ],
+            "id": "O28a"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Blatter",
+                "häufiger",
+                "Impfblatter",
+                "Brandblatter",
+                "Blase",
+                "Brandblase"
+            ],
+            "id": "O29"
+        },
+        {
+            "concepts": [
+                "blatternkrank",
+                "Blatter",
+                "Blatterkrankheit",
+                "Blatternarben",
+                "Blase",
+                "blatternarbig"
+            ],
+            "id": "O29a"
+        },
+        {
+            "concepts": [
+                "platzt",
+                "Blatter",
+                "brennt",
+                "Verbindungen",
+                "wässert",
+                "näßt",
+                "Blase"
+            ],
+            "id": "O30"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Blatternarbige",
+                "Namen"
+            ],
+            "id": "O31"
+        },
+        {
+            "concepts": [
+                "Urslitten",
+                "Pocken",
+                "Durschlächten",
+                "Blattern",
+                "Urlitten",
+                "Urschlächten",
+                "mehr",
+                "unterschieden",
+                "Leuten",
+                "Pfochen",
+                "Urusen",
+                "älteren"
+            ],
+            "id": "O32"
+        },
+        {
+            "concepts": [
+                "weiße",
+                "schwarze",
+                "Arten",
+                "Pocken"
+            ],
+            "id": "O32a"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Pocken"
+            ],
+            "id": "O33"
+        },
+        {
+            "concepts": [
+                "blatternkrank",
+                "pockenkrank",
+                "Blatternkranke",
+                "Ausdrücke"
+            ],
+            "id": "O34"
+        },
+        {
+            "concepts": [
+                "Pocken",
+                "Blattern",
+                "äußere",
+                "Volksglaube",
+                "innere",
+                "Heilmittel"
+            ],
+            "id": "O35"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "nimpfen",
+                "impfen",
+                "veredeln",
+                "pfropfen"
+            ],
+            "id": "O36"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "impfen"
+            ],
+            "id": "O36a"
+        },
+        {
+            "concepts": [
+                "geimpft",
+                "Herrgott",
+                "impfen"
+            ],
+            "id": "O36b"
+        },
+        {
+            "concepts": [
+                "Impftag",
+                "Impfgesetz",
+                "Tupfer",
+                "impfen",
+                "einimpfen",
+                "Impfarzt"
+            ],
+            "id": "O37"
+        },
+        {
+            "concepts": [
+                "Impfung",
+                "Impferei",
+                "Impfling",
+                "impfen"
+            ],
+            "id": "O38"
+        },
+        {
+            "concepts": [
+                "Impfen",
+                "Knaben",
+                "schädlich",
+                "Teufelswerk",
+                "übertragen",
+                "Mädchen",
+                "Impfstoff",
+                "Volksmeinungen",
+                "Antichrist",
+                "verfallen",
+                "darf",
+                "Geimpfte",
+                "sei"
+            ],
+            "id": "O39"
+        },
+        {
+            "concepts": [
+                "Aussatz",
+                "Miselsucht",
+                "kommt",
+                "Maledei",
+                "Maletzei",
+                "dafür",
+                "Sinne",
+                "Fachausdruck",
+                "Lepra",
+                "streng",
+                "Gegenmittel"
+            ],
+            "id": "O40"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "kränklich",
+                "sondersiech",
+                "weitere",
+                "aussätzig",
+                "leprós",
+                "miselsüchtig",
+                "Fachausdruck",
+                "Sinn",
+                "verdrießlich",
+                "streng",
+                "malatz",
+                "lepros",
+                "ig"
+            ],
+            "id": "O41"
+        },
+        {
+            "concepts": [
+                "Aussätzel",
+                "Hornbruder",
+                "Ausdrücke",
+                "besondere",
+                "kommen",
+                "Aussätzige"
+            ],
+            "id": "O41a"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Aussatz",
+                "Ausdrücken",
+                "Häusern",
+                "Sondersiechhäusel",
+                "Malatzgasse",
+                "Gassen",
+                "leprakrank",
+                "Namen",
+                "Vierteln"
+            ],
+            "id": "O42"
+        },
+        {
+            "concepts": [
+                "Geschwulst"
+            ],
+            "id": "P1"
+        },
+        {
+            "concepts": [
+                "kalte",
+                "fleischartige",
+                "Geschwulst",
+                "hitzige",
+                "Arten"
+            ],
+            "id": "P1a"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Wendungen",
+                "zweiter",
+                "Geschwulst",
+                "Enzgeschwulst"
+            ],
+            "id": "P2"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Geschwulstkraut",
+                "Geschwulst",
+                "erster"
+            ],
+            "id": "P2a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "dünsten",
+                "Geschwulst",
+                "jemand",
+                "Segen",
+                "überlegen",
+                "womit",
+                "Namen",
+                "Gegenmittel"
+            ],
+            "id": "P3"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "schwülstig",
+                "geschwulstig",
+                "Brote"
+            ],
+            "id": "P4"
+        },
+        {
+            "concepts": [
+                "schwellen",
+                "schwölln",
+                "mittlerem",
+                "geschwallen",
+                "Form",
+                "gschwöllt",
+                "geschwollen",
+                "schwölle",
+                "gibt",
+                "geschwellen"
+            ],
+            "id": "P5"
+        },
+        {
+            "concepts": [
+                "Geschwollenen",
+                "aufgeblasen",
+                "spielen",
+                "geschwollen",
+                "weiterer",
+                "reden"
+            ],
+            "id": "P5a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Türe",
+                "verschwellen",
+                "aushinschwellen",
+                "verschwollene",
+                "schwellen"
+            ],
+            "id": "P6"
+        },
+        {
+            "concepts": [
+                "Schwellung"
+            ],
+            "id": "P7"
+        },
+        {
+            "concepts": [
+                "Verschwellung",
+                "Schwellung"
+            ],
+            "id": "P7a"
+        },
+        {
+            "concepts": [
+                "Geschwür",
+                "Schwären",
+                "Schwär",
+                "Ge",
+                "Maulwurfsgrille"
+            ],
+            "id": "P8"
+        },
+        {
+            "concepts": [
+                "Geschwür",
+                "Geschwüren",
+                "kalte",
+                "spitzzulaufende",
+                "fleischartige",
+                "hitzige",
+                "besondere",
+                "Arten",
+                "Namen"
+            ],
+            "id": "P8a"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "Geschwür",
+                "aufschneiden",
+                "Geschwu",
+                "heilt",
+                "zusammen",
+                "Verbindungen",
+                "ausdrücken",
+                "zieht",
+                "womit",
+                "verbindet"
+            ],
+            "id": "P9"
+        },
+        {
+            "concepts": [
+                "Geschwür",
+                "Zahngeschwür"
+            ],
+            "id": "P10"
+        },
+        {
+            "concepts": [
+                "Geschwärnus"
+            ],
+            "id": "P11"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "empfindlich",
+                "schwirendig",
+                "gschwirige",
+                "schwärendig",
+                "schwirig",
+                "leicht",
+                "schwärig",
+                "Geschichte",
+                "zornig",
+                "geschwirig"
+            ],
+            "id": "P12"
+        },
+        {
+            "concepts": [
+                "schwiren",
+                "ge",
+                "schwären",
+                "formen"
+            ],
+            "id": "P13"
+        },
+        {
+            "concepts": [
+                "eingeschwären",
+                "ge",
+                "schwären",
+                "verschwären"
+            ],
+            "id": "P13a"
+        },
+        {
+            "concepts": [
+                "Furunkel",
+                "Karfunkel",
+                "Blutschwäre",
+                "Karbunkel",
+                "Wörter",
+                "Aiß",
+                "Furunkulose",
+                "Aßt",
+                "Aß",
+                "Oaß"
+            ],
+            "id": "P14"
+        },
+        {
+            "concepts": [
+                "zeitig",
+                "böse",
+                "Arten",
+                "Karbunkeln"
+            ],
+            "id": "P14a"
+        },
+        {
+            "concepts": [
+                "Furunkel",
+                "Furunkelgeschwür",
+                "Karfunkel",
+                "Karbunkel",
+                "Aiß",
+                "Dreckaiß"
+            ],
+            "id": "P15"
+        },
+        {
+            "concepts": [
+                "aißig",
+                "furunkulös"
+            ],
+            "id": "P16"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "aißeln",
+                "schwären"
+            ],
+            "id": "P17"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Abszeß"
+            ],
+            "id": "P18"
+        },
+        {
+            "concepts": [
+                "Apostem",
+                "Aposté",
+                "sté"
+            ],
+            "id": "P19"
+        },
+        {
+            "concepts": [
+                "Apostem",
+                "Apostemkraut"
+            ],
+            "id": "P19a"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Geschwüre",
+                "Geschwülste",
+                "Ausdrücke",
+                "Hundsschüttler"
+            ],
+            "id": "P20"
+        },
+        {
+            "concepts": [
+                "Geschwür",
+                "Aiß",
+                "Segen",
+                "Besprechung",
+                "Namen",
+                "Gegenmittel",
+                "Abszeß"
+            ],
+            "id": "P21"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Beule",
+                "Lautg"
+            ],
+            "id": "P22"
+        },
+        {
+            "concepts": [
+                "Beulen",
+                "Arten"
+            ],
+            "id": "P22a"
+        },
+        {
+            "concepts": [
+                "Beule",
+                "Mordsbeule"
+            ],
+            "id": "P22b"
+        },
+        {
+            "concepts": [
+                "beulig",
+                "Gegenständen",
+                "Schuhwerk",
+                "beulet"
+            ],
+            "id": "P23"
+        },
+        {
+            "concepts": [
+                "Gewächs",
+                "Haut"
+            ],
+            "id": "P24"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "fest",
+                "Vergleiche",
+                "fressend",
+                "Arten",
+                "Gewächsen",
+                "weich"
+            ],
+            "id": "P24a"
+        },
+        {
+            "concepts": [
+                "Gewächs",
+                "Teufelsgewächs",
+                "Gewächssalbe",
+                "Mordsgewächs"
+            ],
+            "id": "P25"
+        },
+        {
+            "concepts": [
+                "hinein",
+                "heilen",
+                "frißt",
+                "Gewächs",
+                "Verbindungen",
+                "schmieren"
+            ],
+            "id": "P26"
+        },
+        {
+            "concepts": [
+                "behaftet",
+                "Mensch",
+                "Gewächs",
+                "Ausdrücke"
+            ],
+            "id": "P27"
+        },
+        {
+            "concepts": [
+                "Gewächs",
+                "Wagenschmiere",
+                "Beule",
+                "Brennglases",
+                "Gegenmittel"
+            ],
+            "id": "P28"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Eiter"
+            ],
+            "id": "P29"
+        },
+        {
+            "concepts": [
+                "zeitig",
+                "Eiter",
+                "dick",
+                "gesund",
+                "rötlich",
+                "stockig",
+                "fressend",
+                "wässerig",
+                "Arten",
+                "Beurteilungen"
+            ],
+            "id": "P29a"
+        },
+        {
+            "concepts": [
+                "Eiter",
+                "Verbindungen",
+                "spritzt",
+                "fürher",
+                "auskratzen",
+                "glänzt"
+            ],
+            "id": "P30"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "bricht",
+                "Auge",
+                "Ggogge",
+                "Eiterkern",
+                "Butzen",
+                "Gogge",
+                "Eiterung",
+                "Mensch"
+            ],
+            "id": "P31"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "gogget",
+                "goggig"
+            ],
+            "id": "P32"
+        },
+        {
+            "concepts": [
+                "Eiterkern",
+                "Saufbrüderl",
+                "Eiterweiß"
+            ],
+            "id": "P33"
+        },
+        {
+            "concepts": [
+                "PflN",
+                "Eiter",
+                "Bluteiter",
+                "Eiterstock",
+                "sonstige"
+            ],
+            "id": "P34"
+        },
+        {
+            "concepts": [
+                "eiterig"
+            ],
+            "id": "P35"
+        },
+        {
+            "concepts": [
+                "eitern"
+            ],
+            "id": "P36"
+        },
+        {
+            "concepts": [
+                "auseitern",
+                "eitern"
+            ],
+            "id": "P36a"
+        },
+        {
+            "concepts": [
+                "Eiterung"
+            ],
+            "id": "P37"
+        },
+        {
+            "concepts": [
+                "Eiter",
+                "Materi"
+            ],
+            "id": "P38"
+        },
+        {
+            "concepts": [
+                "Materi",
+                "Verbindungen"
+            ],
+            "id": "P38a"
+        },
+        {
+            "concepts": [
+                "Materi",
+                "Verbindungen"
+            ],
+            "id": "P38b"
+        },
+        {
+            "concepts": [
+                "Materi",
+                "Materibrühe"
+            ],
+            "id": "P39"
+        },
+        {
+            "concepts": [
+                "materisieren",
+                "eitern"
+            ],
+            "id": "P40"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Eiter",
+                "einfache",
+                "Batzen",
+                "gilt"
+            ],
+            "id": "P41"
+        },
+        {
+            "concepts": [
+                "batzet",
+                "eiterig"
+            ],
+            "id": "P42"
+        },
+        {
+            "concepts": [
+                "Warch",
+                "Werch",
+                "Eiter"
+            ],
+            "id": "P43"
+        },
+        {
+            "concepts": [
+                "werchig",
+                "eiterig"
+            ],
+            "id": "P44"
+        },
+        {
+            "concepts": [
+                "werchen",
+                "eitern"
+            ],
+            "id": "P45"
+        },
+        {
+            "concepts": [
+                "auswerchen",
+                "werchen"
+            ],
+            "id": "P45a"
+        },
+        {
+            "concepts": [
+                "Eiter",
+                "eiterig",
+                "eitern",
+                "sonstige"
+            ],
+            "id": "P46"
+        }
+    ]
+}

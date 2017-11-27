@@ -1,0 +1,5449 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "kastrieren"
+                ],
+                [
+                    "Sauschneider"
+                ],
+                [
+                    "tu"
+                ],
+                [
+                    "fackeln"
+                ],
+                [
+                    "werfen"
+                ],
+                [
+                    "Geld"
+                ],
+                [
+                    "Weide"
+                ],
+                [
+                    "ringeln"
+                ],
+                [
+                    "Blut"
+                ],
+                [
+                    "Absengen"
+                ],
+                [
+                    "besorgt"
+                ],
+                [
+                    "Verwendung"
+                ],
+                [
+                    "Schwarte"
+                ],
+                [
+                    "Grieben"
+                ],
+                [
+                    "Schweineschlachten"
+                ],
+                [
+                    "Bräuche"
+                ],
+                [
+                    "Schweinskopf"
+                ],
+                [
+                    "Schweinefleisch"
+                ],
+                [
+                    "Fleisch"
+                ],
+                [
+                    "einlegen"
+                ],
+                [
+                    "Salzlauge"
+                ],
+                [
+                    "verzehrt"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "Sur"
+                ],
+                [
+                    "selchen"
+                ],
+                [
+                    "Selchkammer"
+                ],
+                [
+                    "Selchen"
+                ],
+                [
+                    "wursteln"
+                ],
+                [
+                    "Därme"
+                ],
+                [
+                    "Wurstkessel"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Wurstspritze"
+                ],
+                [
+                    "Wurstenden"
+                ]
+            ],
+            "2": [
+                [
+                    "Schweinestall"
+                ],
+                [
+                    "treiben"
+                ],
+                [
+                    "Fleischteile"
+                ]
+            ],
+            "3": [
+                [
+                    "Muttersau"
+                ],
+                [
+                    "Schmer"
+                ]
+            ],
+            "6": [
+                [
+                    "Eber"
+                ],
+                [
+                    "Schimpfwort"
+                ]
+            ],
+            "9": [
+                [
+                    "Speck"
+                ]
+            ],
+            "10": [
+                [
+                    "Schweines"
+                ]
+            ],
+            "14": [
+                [
+                    "Sau"
+                ]
+            ],
+            "15": [
+                [
+                    "Schmalz"
+                ],
+                [
+                    "Darm"
+                ],
+                [
+                    "Wurst"
+                ]
+            ],
+            "28": [
+                [
+                    "Ferkel"
+                ]
+            ],
+            "44": [
+                [
+                    "Schweine"
+                ]
+            ],
+            "182": [
+                [
+                    "Schwein"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Schwein",
+                    "Fack"
+                ],
+                [
+                    "Schwein",
+                    "Sau"
+                ],
+                [
+                    "Schwein",
+                    "weibliches"
+                ],
+                [
+                    "Schwein",
+                    "halbwüchsiges"
+                ],
+                [
+                    "Nunne",
+                    "Schwein"
+                ],
+                [
+                    "Tranks",
+                    "Gefäß"
+                ],
+                [
+                    "Klapptür",
+                    "Schweinestall"
+                ],
+                [
+                    "Schweine",
+                    "treiben"
+                ],
+                [
+                    "Wühlen",
+                    "Nasenring"
+                ],
+                [
+                    "womit",
+                    "Borsten"
+                ],
+                [
+                    "Fetten",
+                    "Speck"
+                ],
+                [
+                    "Koteletten",
+                    "verzehrt"
+                ],
+                [
+                    "Hals",
+                    "Göderl"
+                ]
+            ],
+            "2": [
+                [
+                    "kastriertes",
+                    "Schwein"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "kastriertes",
+                    "Schwein",
+                    "Parg"
+                ],
+                [
+                    "vornehmlich",
+                    "Fleischteile",
+                    "verzehrt"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein",
+                "Fack"
+            ],
+            "source": 0,
+            "target": 12,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein",
+                "Sau"
+            ],
+            "source": 0,
+            "target": 19,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 0,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 0,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 0,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 0,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 0,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 0,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 1,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schimpfwort"
+            ],
+            "source": 5,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schimpfwort"
+            ],
+            "source": 5,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schimpfwort"
+            ],
+            "source": 5,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 6,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 8,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 10,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 10,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 10,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 10,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 10,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 10,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 11,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 11,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 11,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 11,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 11,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 11,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 12,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schimpfwort"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 13,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schimpfwort"
+            ],
+            "source": 13,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fackeln"
+            ],
+            "source": 15,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schimpfwort"
+            ],
+            "source": 16,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tu"
+            ],
+            "source": 17,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geld"
+            ],
+            "source": 17,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eber"
+            ],
+            "source": 18,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eber"
+            ],
+            "source": 18,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eber"
+            ],
+            "source": 18,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein",
+                "weibliches"
+            ],
+            "source": 19,
+            "target": 26,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 19,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 19,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 19,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 19,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 19,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einlegen"
+            ],
+            "source": 19,
+            "target": 169,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 20,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 20,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 20,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muttersau"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muttersau"
+            ],
+            "source": 24,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Muttersau"
+            ],
+            "source": 25,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein",
+                "halbwüchsiges"
+            ],
+            "source": 26,
+            "target": 27,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 26,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 27,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 28,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 28,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 29,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 29,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 29,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 29,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 29,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 30,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 30,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 30,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 31,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 31,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 31,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 32,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 32,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 32,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 33,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 33,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 33,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kastrieren"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 35,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sauschneider"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kastriertes",
+                "Schwein",
+                "Parg"
+            ],
+            "source": 39,
+            "target": 40,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "kastriertes",
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 41,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 39,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kastriertes",
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 41,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 40,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nunne",
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 42,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 41,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 42,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 42,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 42,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 42,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 42,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 42,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 42,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 43,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 43,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 43,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 43,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweinskopf"
+            ],
+            "source": 44,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hals",
+                "Göderl"
+            ],
+            "source": 49,
+            "target": 186,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "ringeln"
+            ],
+            "source": 50,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 53,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 53,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 53,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 54,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 54,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 54,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 54,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 54,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 56,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 56,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 57,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 57,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 57,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 57,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 57,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 61,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 62,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 62,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 62,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 62,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eber"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eber"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eber"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 66,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 66,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferkel"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tranks",
+                "Gefäß"
+            ],
+            "source": 74,
+            "target": 75,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 84,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 84,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 84,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 85,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 85,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwein"
+            ],
+            "source": 90,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine",
+                "treiben"
+            ],
+            "source": 93,
+            "target": 106,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 93,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 93,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 93,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 93,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 95,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 95,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweinestall"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweinestall"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Klapptür",
+                "Schweinestall"
+            ],
+            "source": 98,
+            "target": 99,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Weide"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 106,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 106,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 106,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 106,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 110,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 110,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 110,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wühlen",
+                "Nasenring"
+            ],
+            "source": 111,
+            "target": 112,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 111,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 111,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweine"
+            ],
+            "source": 115,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blut"
+            ],
+            "source": 116,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Absengen"
+            ],
+            "source": 122,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besorgt"
+            ],
+            "source": 122,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit",
+                "Borsten"
+            ],
+            "source": 125,
+            "target": 126,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schweines"
+            ],
+            "source": 127,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweineschlachten"
+            ],
+            "source": 128,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 128,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweinefleisch"
+            ],
+            "source": 129,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleisch"
+            ],
+            "source": 129,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 130,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 130,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 130,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 130,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 131,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 131,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 131,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 134,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speck"
+            ],
+            "source": 134,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmer"
+            ],
+            "source": 137,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmer"
+            ],
+            "source": 137,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmer"
+            ],
+            "source": 138,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fetten",
+                "Speck"
+            ],
+            "source": 139,
+            "target": 140,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 139,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 139,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 139,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 139,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 139,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 141,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 141,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 141,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 141,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 142,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 142,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 142,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 142,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 143,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 143,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmalz"
+            ],
+            "source": 150,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarte"
+            ],
+            "source": 156,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grieben"
+            ],
+            "source": 159,
+            "target": 161,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verzehrt"
+            ],
+            "source": 162,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Koteletten",
+                "verzehrt"
+            ],
+            "source": 162,
+            "target": 185,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 162,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Salzlauge"
+            ],
+            "source": 169,
+            "target": 170,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sur"
+            ],
+            "source": 170,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vornehmlich",
+                "Fleischteile",
+                "verzehrt"
+            ],
+            "source": 172,
+            "target": 185,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Fleischteile"
+            ],
+            "source": 172,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "selchen"
+            ],
+            "source": 175,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Selchkammer"
+            ],
+            "source": 182,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fleischteile"
+            ],
+            "source": 185,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Selchen"
+            ],
+            "source": 186,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 189,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 189,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 189,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 189,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 189,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 190,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 190,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 190,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 190,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 191,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 191,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 191,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wursteln"
+            ],
+            "source": 193,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 197,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 197,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 197,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 197,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 197,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Därme"
+            ],
+            "source": 197,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 198,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 198,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 198,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 198,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 200,
+            "target": 201,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 200,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 200,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 201,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 201,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Darm"
+            ],
+            "source": 202,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurstkessel"
+            ],
+            "source": 206,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurstspritze"
+            ],
+            "source": 208,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 212,
+            "target": 213,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 212,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurstenden"
+            ],
+            "source": 213,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurst"
+            ],
+            "source": 213,
+            "target": 215,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "miteinander",
+                "Hausschwein",
+                "Verwendung",
+                "Schweine",
+                "Fack",
+                "Schimpfwörter",
+                "Natsche",
+                "Schwein",
+                "Gröll",
+                "gehütet",
+                "Sau",
+                "Glück"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Mordsschwein",
+                "Schwein",
+                "Schweingeld"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "halb",
+                "schweinen",
+                "schweinenes",
+                "leinen",
+                "Bratl"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "schweinisch"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Schweinerei"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Schweinin",
+                "Schimpfwort"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Wachstum",
+                "verwébülligt",
+                "Bulgeling",
+                "verkrüppeltes",
+                "Gaunz",
+                "Wesen",
+                "verburzt",
+                "Schwein",
+                "Bülling",
+                "Rizling",
+                "sonstiges",
+                "zurückgebliebenes"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Schweinenamen"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Scheuchrufe",
+                "Schweine",
+                "tschuch",
+                "saugga",
+                "nutsch",
+                "lidl"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Englische",
+                "Bakonyer",
+                "Schweinerassen",
+                "Namen"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Schweine",
+                "gerade",
+                "Färbung",
+                "Gestalt",
+                "bezeichnend",
+                "Ausdrücke"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Schweine",
+                "Schutzpatron",
+                "Sautonerl"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Boar",
+                "Klecks",
+                "Beer",
+                "dummen",
+                "Fack",
+                "Streich",
+                "Schwein",
+                "männliches",
+                "Fackelen"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Zinsschweine",
+                "Boarfack",
+                "Schwein",
+                "Schimpfwort",
+                "Betfacken",
+                "Beerfud"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "fackisch",
+                "unsauber"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "herumwühlen",
+                "unrein",
+                "fackeln"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Fackeler",
+                "Schimpfwort"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "tu",
+                "Saubeer",
+                "Beerfack",
+                "Geld",
+                "Zuchteber",
+                "Urbeer",
+                "her",
+                "Böcker"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "halbwüchsiger",
+                "Eber"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Perlen",
+                "einlegen",
+                "weibliches",
+                "werfen",
+                "gib",
+                "Schwein",
+                "aufheben",
+                "Ranze",
+                "Sauen",
+                "Sau",
+                "lesen",
+                "Säue"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Saubayer",
+                "Sau",
+                "Ursau",
+                "November"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "säuisch"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Sauerei"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "versauen"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Ferkelsau",
+                "Nasche",
+                "Nusche",
+                "Zucht",
+                "Züchterin",
+                "Muttersau",
+                "Los"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Muttersau"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Züchtel",
+                "Säuggele",
+                "weibliches",
+                "Gelze",
+                "Schwein",
+                "halbwüchsiges",
+                "Parggel"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Schwein",
+                "halbwüchsiges"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "galte",
+                "Sau"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Ferkel",
+                "Sackeln",
+                "alleweil",
+                "leere",
+                "Farl",
+                "Fackeln",
+                "Kinder",
+                "Fackel"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Ferkel",
+                "Koseworte",
+                "Gröllelein",
+                "Natschelein",
+                "Gatschelein",
+                "Fatschelein"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Bratferkel",
+                "Ferkel"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Milchferkel",
+                "saugendes",
+                "Ferkel"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Ferkel",
+                "Fasel",
+                "entwöhntes",
+                "Saufrischling",
+                "Läufer",
+                "Rennferkel"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "kastrieren"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Schwein",
+                "kastrieren",
+                "nunnen"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Sauschneider",
+                "Nunnenmacher",
+                "professioneller",
+                "Galzler",
+                "Schweinenunner"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Gemisch",
+                "Sauschneiderbier",
+                "Bier",
+                "Met"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "denen",
+                "ankündigen",
+                "Sauschneider",
+                "Rufe",
+                "Nahen"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "kastriertes",
+                "Schwein",
+                "Parg"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "kastriertes",
+                "Parg",
+                "Schwein"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Nunne",
+                "kastriertes",
+                "Schwein"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Nunne",
+                "Schwein"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Schweines",
+                "Wildschwein",
+                "soweit",
+                "Rind",
+                "abweichend",
+                "Körperteile"
+            ],
+            "id": "C"
+        },
+        {
+            "concepts": [
+                "Schweinskopf",
+                "Sauschädel"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Schweinsäuglein"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Rüssel"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Rüssels",
+                "vorderste",
+                "unbehaarte",
+                "Teil"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Schweinsohr"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Fettansatz",
+                "Hals",
+                "Göderl"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Schweif",
+                "ringeln"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Hachsen",
+                "Hinterfüße",
+                "Stelzen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Schweinsklauen"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Schweines",
+                "Lebensäußerungen"
+            ],
+            "id": "D"
+        },
+        {
+            "concepts": [
+                "natschen",
+                "grunzen",
+                "Schwein",
+                "gröllen",
+                "gronen"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "röcheln",
+                "Lockrufe",
+                "Muttersau",
+                "rüheln"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "gelsen",
+                "Ferkel",
+                "Quieken"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Schwein",
+                "geräuschvoll",
+                "natschelen",
+                "fressen"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "schreien",
+                "lärmen",
+                "zwielen",
+                "Fütterung"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Ein",
+                "Kerl",
+                "Händ",
+                "Saudreck",
+                "Schweinekot",
+                "tu"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "solgen",
+                "wälzen",
+                "Morast"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Sau",
+                "wühlen"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "parggeln",
+                "Schwein",
+                "daherwackeln",
+                "facknen"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "begatten"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Eber",
+                "beeren",
+                "verlangen"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "verlangend",
+                "Eber",
+                "beerig"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Eber",
+                "Sau",
+                "treiben"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Ferkel",
+                "farln",
+                "fackeln",
+                "werfen"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Ferkel",
+                "säugen"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Ferkels",
+                "naschen",
+                "Saugen"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Saufutter"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Futter",
+                "Eckern",
+                "Eicheln",
+                "äß",
+                "Saug"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Sautrank"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "gesottene",
+                "Bestreuen",
+                "Kleie",
+                "Saugesütt",
+                "Futters"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Tranks",
+                "Kochen",
+                "Gefäß",
+                "Sauhafen"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Sammeln",
+                "Gefäß",
+                "Tranks",
+                "Tragen",
+                "Saubüttel"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "fettfüttern"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Rotlauf"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Saukrankheit",
+                "Milzbrand"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Sautodel",
+                "Bräune"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Saubuis",
+                "Schweinepest"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Schinkenweh",
+                "Knochenweiche"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Schweinsfinne"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "finnig"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "woran",
+                "gesund",
+                "rein",
+                "Es",
+                "Schwein",
+                "Zunge",
+                "erkennt"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Dämonen",
+                "Schwein",
+                "schädlich",
+                "Tiere"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Nehrschwein"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Schweinezüchter"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Mastschwein"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Schweinemast"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Schwein",
+                "Mästung",
+                "Laufsau"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Schweinehändler"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Geld",
+                "Schweinetreiber"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Schweine",
+                "Knabenspiel",
+                "treiben"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "besonders",
+                "Schweinetreibers",
+                "Frischingklöcker",
+                "Jungschweine",
+                "Peitsche"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Schweines",
+                "erhält",
+                "Hausfrau",
+                "Zugabe",
+                "Kaufpreis",
+                "Pflege",
+                "Nutschgeld"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Schweinemagd",
+                "Saudirne"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Saupfringer",
+                "Schweinestall"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Klapptür",
+                "Schweinestall",
+                "Schlegladen"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Klapptür",
+                "Riegel",
+                "Schweinestall"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Schweinetrog",
+                "Saunusch"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Sauanger",
+                "Schweineauslauf"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "teilweise",
+                "überdachter",
+                "Auslauf",
+                "Salasch"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Sauweide"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Trattenfrau"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Sauhirt"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Eichelmast",
+                "Schweine",
+                "einschlagen",
+                "Weide",
+                "treiben"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Weide",
+                "Beerschlag",
+                "Ebers",
+                "Mittreiben"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Schweinetümp",
+                "el"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Schweineherde"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Fackach",
+                "Anzahl",
+                "Schweine",
+                "SammelN"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Sauringel",
+                "hindern",
+                "Schweine",
+                "Wühlen",
+                "Nasenring"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "einziehen",
+                "Wühlen",
+                "ringeln",
+                "Schwein",
+                "verhindert",
+                "Nasenring",
+                "rüsseln"
+            ],
+            "id": "G27"
+        },
+        {
+            "concepts": [
+                "abschlagen",
+                "schweindeln",
+                "abstechen",
+                "stechen",
+                "schlächtigen"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Schweindler",
+                "Schweinemetzger"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Zange",
+                "Schweine",
+                "Fangen"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "auffangen",
+                "Blut"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "sprudeln",
+                "quirlen",
+                "Blut"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "öffnen",
+                "Bauch"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Gedärm",
+                "entfernen",
+                "Innereien"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "abbrühen"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "absengen"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "besorgt",
+                "Sauseng",
+                "Knecht",
+                "Abbrühen",
+                "Absengen"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "Wanne",
+                "Absengen",
+                "Sauwanne"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "Saurem",
+                "Schweine",
+                "Holzgestell",
+                "geschlachteten",
+                "Aufhängen"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "Borsten",
+                "abgeschabt",
+                "womit",
+                "abgebrühten"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Borsten",
+                "womit",
+                "Sausengschäuferl",
+                "abgesengt"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Zerlegen",
+                "Schweines"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "Handgriffe",
+                "beim",
+                "Schweineschlachten",
+                "sonstige"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "schweinernes",
+                "Schweinefleisch",
+                "Schweinene",
+                "Fleisch"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "grad",
+                "aufs",
+                "Kraut",
+                "fertig",
+                "hineinessen",
+                "leicht",
+                "Speck",
+                "Dreck",
+                "Schweinespeck"
+            ],
+            "id": "H18"
+        },
+        {
+            "concepts": [
+                "Speckkämmerlein",
+                "Speck",
+                "Bettler"
+            ],
+            "id": "H19"
+        },
+        {
+            "concepts": [
+                "speckig"
+            ],
+            "id": "H20"
+        },
+        {
+            "concepts": [
+                "spicken",
+                "gespickt",
+                "voll"
+            ],
+            "id": "H21"
+        },
+        {
+            "concepts": [
+                "besorgt",
+                "Sprüchlein",
+                "schneiden",
+                "Ich",
+                "schneid",
+                "Speck",
+                "wer"
+            ],
+            "id": "H22"
+        },
+        {
+            "concepts": [
+                "Rückenspeck"
+            ],
+            "id": "H23"
+        },
+        {
+            "concepts": [
+                "Bauchfilz"
+            ],
+            "id": "H24"
+        },
+        {
+            "concepts": [
+                "Schmer",
+                "Geschlecht",
+                "Katze",
+                "abkaufen"
+            ],
+            "id": "H25"
+        },
+        {
+            "concepts": [
+                "Spiel",
+                "Schmer",
+                "Schmerbaum",
+                "Wagenschmer"
+            ],
+            "id": "H26"
+        },
+        {
+            "concepts": [
+                "Fetten",
+                "zerlassen",
+                "Schmalz",
+                "Speck"
+            ],
+            "id": "H27"
+        },
+        {
+            "concepts": [
+                "Schweineschmalz",
+                "Fetten",
+                "zerlassener",
+                "Speck"
+            ],
+            "id": "H28"
+        },
+        {
+            "concepts": [
+                "Kessel",
+                "Schmalz",
+                "auslassen"
+            ],
+            "id": "H29"
+        },
+        {
+            "concepts": [
+                "gutmütig",
+                "Bräuche",
+                "Schmalz",
+                "Schmalzkochkirchtag",
+                "Schmalzbett",
+                "Schmalzbrot"
+            ],
+            "id": "H30"
+        },
+        {
+            "concepts": [
+                "altes",
+                "Schmalz",
+                "Pfännleinschmalz",
+                "Verwendung",
+                "Schmiermittel",
+                "Heilmittel"
+            ],
+            "id": "H31"
+        },
+        {
+            "concepts": [
+                "Schmalzdese",
+                "Schmalzgefäße"
+            ],
+            "id": "H32"
+        },
+        {
+            "concepts": [
+                "Schmalzer",
+                "Schmalzbatzler",
+                "Schmalzhändler"
+            ],
+            "id": "H33"
+        },
+        {
+            "concepts": [
+                "Samstag",
+                "schmalzig",
+                "schmalzige"
+            ],
+            "id": "H34"
+        },
+        {
+            "concepts": [
+                "dickes",
+                "Schmalzin",
+                "Weib"
+            ],
+            "id": "H35"
+        },
+        {
+            "concepts": [
+                "Liebling",
+                "Schmalzel"
+            ],
+            "id": "H36"
+        },
+        {
+            "concepts": [
+                "Schmalzling",
+                "Apfelsorte"
+            ],
+            "id": "H37"
+        },
+        {
+            "concepts": [
+                "vollbusig",
+                "abschöpfen",
+                "brav",
+                "Schmalz"
+            ],
+            "id": "H38"
+        },
+        {
+            "concepts": [
+                "schmalzen",
+                "gesalzen",
+                "geht",
+                "teuer",
+                "Form",
+                "gut",
+                "geschmalzen"
+            ],
+            "id": "H39"
+        },
+        {
+            "concepts": [
+                "unangenehmen",
+                "drücken",
+                "abschmalzen",
+                "Sache"
+            ],
+            "id": "H40"
+        },
+        {
+            "concepts": [
+                "einschmeicheln",
+                "einschmalzen"
+            ],
+            "id": "H41"
+        },
+        {
+            "concepts": [
+                "besudeln",
+                "beschmalzen"
+            ],
+            "id": "H42"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "schmalzeln",
+                "Schmalz",
+                "schmecken"
+            ],
+            "id": "H43"
+        },
+        {
+            "concepts": [
+                "Schwarte",
+                "hauen",
+                "kracht"
+            ],
+            "id": "H44"
+        },
+        {
+            "concepts": [
+                "Schwartenmagen",
+                "Schwarte",
+                "Speckschwarte"
+            ],
+            "id": "H45"
+        },
+        {
+            "concepts": [
+                "prügeln",
+                "schwarten"
+            ],
+            "id": "H46"
+        },
+        {
+            "concepts": [
+                "einzelne",
+                "Grammeln",
+                "Granggen",
+                "Specklein",
+                "Grieben",
+                "Grieggen",
+                "Fettgraupe"
+            ],
+            "id": "H47"
+        },
+        {
+            "concepts": [
+                "Griebe",
+                "Grammel",
+                "Griebenknödel"
+            ],
+            "id": "H48"
+        },
+        {
+            "concepts": [
+                "grieben",
+                "greuben",
+                "Grieben",
+                "gewinnen"
+            ],
+            "id": "H49"
+        },
+        {
+            "concepts": [
+                "gekocht",
+                "Schweins",
+                "Schweines",
+                "Jungschweinenes",
+                "Schweinsrücken",
+                "Koteletten",
+                "Schopfbraten",
+                "gebraten",
+                "verzehrt",
+                "Carré",
+                "Teile"
+            ],
+            "id": "H50"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Tanz",
+                "Mahl",
+                "Sautanz",
+                "Schweineschlachten"
+            ],
+            "id": "H51"
+        },
+        {
+            "concepts": [
+                "Saukopf",
+                "Schweineschlachtens",
+                "heißt",
+                "Zeit"
+            ],
+            "id": "H52"
+        },
+        {
+            "concepts": [
+                "Tag",
+                "Sauschädelkirchtag",
+                "Schweinskopf",
+                "Fasching",
+                "gegessen",
+                "gekochter"
+            ],
+            "id": "H53"
+        },
+        {
+            "concepts": [
+                "Wertschätzung",
+                "Schweinefleisches"
+            ],
+            "id": "H54"
+        },
+        {
+            "concepts": [
+                "knüpft",
+                "Genuß",
+                "Aberglaube",
+                "Schweinefleisch"
+            ],
+            "id": "H55"
+        },
+        {
+            "concepts": [
+                "einsalzen",
+                "Fleisch"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "suren",
+                "Salzlauge",
+                "einlegen"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Salzlauge",
+                "Sur"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Surfleisch"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "vornehmlich",
+                "Fleischteile",
+                "verzehrt",
+                "gepökelt"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Surbottich"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "Sur",
+                "sonstige"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Häring",
+                "selchen",
+                "räuchern",
+                "geselchter"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "stark",
+                "geselcht",
+                "schwach"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "schnell",
+                "Glanzruß",
+                "Holzessig",
+                "selchen"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "Charkutier",
+                "Selcher"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "Bedeutung",
+                "Selcherei"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "Selch",
+                "Raum",
+                "Kamin",
+                "Abteil",
+                "gesonderter"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "Selchküche"
+            ],
+            "id": "I14"
+        },
+        {
+            "concepts": [
+                "Selchkammer"
+            ],
+            "id": "I15"
+        },
+        {
+            "concepts": [
+                "Selchkammer",
+                "Selchstange"
+            ],
+            "id": "I16"
+        },
+        {
+            "concepts": [
+                "Rauchfleisch"
+            ],
+            "id": "I17"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Fleischteile",
+                "Speckseite",
+                "geräucherte",
+                "geräucherter",
+                "vornehmlich",
+                "Speckbachen",
+                "geräuchert",
+                "Schinken",
+                "Koteletten",
+                "Schmer",
+                "Kaiserfleisch",
+                "Bachen",
+                "schmieren",
+                "verzehrt",
+                "Überflüssiges"
+            ],
+            "id": "I18"
+        },
+        {
+            "concepts": [
+                "Zainzige",
+                "Fleischteile",
+                "Selchen",
+                "eignen",
+                "Kopf",
+                "Göderl",
+                "Hals"
+            ],
+            "id": "I19"
+        },
+        {
+            "concepts": [
+                "Selchen",
+                "Fleischstücke",
+                "heißen",
+                "Leinwandsäcke",
+                "eingenäht"
+            ],
+            "id": "I20"
+        },
+        {
+            "concepts": [
+                "geselchte",
+                "Suppe"
+            ],
+            "id": "I21"
+        },
+        {
+            "concepts": [
+                "Wurst",
+                "Zipfel"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "Wurst",
+                "Wurstgeiger"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "Wurst",
+                "Hans"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "Wurstel"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "wursteln"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "wursteln",
+                "umwursteln"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "wursten",
+                "Würste"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "wurst",
+                "umwursten",
+                "en"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "Darm",
+                "herausnehmen",
+                "Schimpfwort",
+                "Därme"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "Darmgicht",
+                "Darm",
+                "Wolfdarm",
+                "Branntwein"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "därmig",
+                "endärmig",
+                "schwächlich"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "verwickelter",
+                "großer",
+                "Darm",
+                "Dünndarm",
+                "geschlenker"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Bonetteldarm",
+                "krummer",
+                "Zwölffingerdarm",
+                "Darm"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "Dickdarm",
+                "Darm",
+                "feister",
+                "Arschdarm"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "kleiner",
+                "Darm",
+                "Blinddarm",
+                "Leerdarm"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "Wurstdärme",
+                "Handelsartikel"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "Därme",
+                "Vorbereiten"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "Wurstkessel",
+                "Abrahams"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "Wurstkessel",
+                "Bemerkenswertes"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "Wurstspritze"
+            ],
+            "id": "K20"
+        },
+        {
+            "concepts": [
+                "Wurstspritze",
+                "Teile"
+            ],
+            "id": "K21"
+        },
+        {
+            "concepts": [
+                "Brat",
+                "Fasch",
+                "Wurstfülle"
+            ],
+            "id": "K22"
+        },
+        {
+            "concepts": [
+                "wurstbrätig"
+            ],
+            "id": "K23"
+        },
+        {
+            "concepts": [
+                "Wurst",
+                "füllen"
+            ],
+            "id": "K24"
+        },
+        {
+            "concepts": [
+                "zwei",
+                "Ende",
+                "Wurst",
+                "Wurstenden",
+                "zubinden"
+            ],
+            "id": "K25"
+        },
+        {
+            "concepts": [
+                "Wurstenden",
+                "Wurstspeil",
+                "Holzspreile"
+            ],
+            "id": "K26"
+        },
+        {
+            "concepts": [
+                "Wurst",
+                "platzt"
+            ],
+            "id": "K27"
+        },
+        {
+            "concepts": [
+                "Wurster",
+                "Wurstmacher"
+            ],
+            "id": "K28"
+        },
+        {
+            "concepts": [
+                "Wursterei"
+            ],
+            "id": "K29"
+        },
+        {
+            "concepts": [
+                "Krenwürstel",
+                "Paar",
+                "Heiße",
+                "Plunze",
+                "Augsburger",
+                "Schwaißwurst",
+                "Paarl",
+                "Frankfurter",
+                "Zitzelwurst",
+                "Wurstsorten"
+            ],
+            "id": "K30"
+        },
+        {
+            "concepts": [
+                "Wurstsuppe",
+                "aufgeplatzten",
+                "Würsten",
+                "Goadlsuppe"
+            ],
+            "id": "K31"
+        }
+    ]
+}

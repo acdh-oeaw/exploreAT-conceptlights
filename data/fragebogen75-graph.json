@@ -1,0 +1,4722 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Gackern"
+                ],
+                [
+                    "Eierlegen"
+                ],
+                [
+                    "eiern"
+                ],
+                [
+                    "Eiern"
+                ],
+                [
+                    "gilt"
+                ],
+                [
+                    "Flügel"
+                ],
+                [
+                    "nehmen"
+                ],
+                [
+                    "Pips"
+                ],
+                [
+                    "Nipf"
+                ],
+                [
+                    "Pfau"
+                ],
+                [
+                    "Schimpfwort"
+                ],
+                [
+                    "Federn"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "mästen"
+                ],
+                [
+                    "Enten"
+                ],
+                [
+                    "Taube"
+                ],
+                [
+                    "Tauber"
+                ],
+                [
+                    "Benennung"
+                ],
+                [
+                    "jungen"
+                ],
+                [
+                    "tanzen"
+                ],
+                [
+                    "Bedeutung"
+                ],
+                [
+                    "Verwendung"
+                ]
+            ],
+            "2": [
+                [
+                    "Geschrei"
+                ]
+            ],
+            "3": [
+                [
+                    "krähen"
+                ],
+                [
+                    "Küchlein"
+                ],
+                [
+                    "Scheuchrufe"
+                ]
+            ],
+            "6": [
+                [
+                    "Huhn"
+                ]
+            ],
+            "15": [
+                [
+                    "Tauben"
+                ]
+            ],
+            "21": [
+                [
+                    "Gänse"
+                ]
+            ],
+            "43": [
+                [
+                    "Ei"
+                ],
+                [
+                    "Hahn"
+                ]
+            ],
+            "55": [
+                [
+                    "Hühner"
+                ]
+            ],
+            "88": [
+                [
+                    "Henne"
+                ]
+            ],
+            "90": [
+                [
+                    "Eier"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Geschrei",
+                    "Henne"
+                ],
+                [
+                    "Eier",
+                    "legen"
+                ],
+                [
+                    "Ei",
+                    "frisch"
+                ],
+                [
+                    "Henne",
+                    "Hahn"
+                ],
+                [
+                    "Ei",
+                    "Henne"
+                ],
+                [
+                    "Hahn",
+                    "Truthahn"
+                ],
+                [
+                    "geschlachtet",
+                    "Blut"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Huhn"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Huhn"
+            ],
+            "source": 1,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Huhn"
+            ],
+            "source": 1,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Huhn"
+            ],
+            "source": 2,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Huhn"
+            ],
+            "source": 2,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 3,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 4,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 5,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 6,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 7,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tanzen"
+            ],
+            "source": 7,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 9,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 9,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 9,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 9,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 9,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 9,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 9,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 10,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 11,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 12,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Federn"
+            ],
+            "source": 12,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 13,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 15,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 15,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gackern"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 17,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eierlegen"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschrei",
+                "Henne"
+            ],
+            "source": 18,
+            "target": 20,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 18,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 18,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 18,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 18,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 18,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschrei"
+            ],
+            "source": 18,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 20,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 20,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 20,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 20,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 20,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschrei"
+            ],
+            "source": 20,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "krähen"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "krähen"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 21,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 21,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 21,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 21,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 21,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gilt"
+            ],
+            "source": 21,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "krähen"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 23,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 23,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 23,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 23,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 23,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 23,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 25,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 25,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 25,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 25,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 25,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 25,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 26,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 26,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 26,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 26,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 26,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 26,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei",
+                "frisch"
+            ],
+            "source": 27,
+            "target": 39,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eiern"
+            ],
+            "source": 27,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 27,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier",
+                "legen"
+            ],
+            "source": 30,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eiern"
+            ],
+            "source": 30,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 30,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 31,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 33,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 34,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 35,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 35,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 35,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 35,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 35,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 35,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 36,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 36,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 36,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 36,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 36,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne",
+                "Hahn"
+            ],
+            "source": 36,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 36,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 36,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei",
+                "Henne"
+            ],
+            "source": 36,
+            "target": 67,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 36,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 36,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 36,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 36,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 38,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 39,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 39,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 39,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 39,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 39,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 42,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennung"
+            ],
+            "source": 42,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 45,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 45,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 45,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 45,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 46,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 46,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 47,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 47,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 47,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 48,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 48,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 48,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 51,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 51,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 51,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 52,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 52,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 54,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 54,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 55,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 58,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ei"
+            ],
+            "source": 61,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 62,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 62,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 62,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 62,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 62,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 62,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küchlein"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 63,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küchlein"
+            ],
+            "source": 63,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 63,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flügel"
+            ],
+            "source": 64,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen"
+            ],
+            "source": 64,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Küchlein"
+            ],
+            "source": 65,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 66,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 66,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 66,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Henne"
+            ],
+            "source": 67,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schimpfwort"
+            ],
+            "source": 68,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuchrufe"
+            ],
+            "source": 70,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuchrufe"
+            ],
+            "source": 70,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 76,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 76,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 76,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 76,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 78,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 78,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 78,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 78,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 80,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 80,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 80,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mästen"
+            ],
+            "source": 80,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 82,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschlachtet",
+                "Blut"
+            ],
+            "source": 82,
+            "target": 153,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hühner"
+            ],
+            "source": 83,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Huhn"
+            ],
+            "source": 83,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn",
+                "Truthahn"
+            ],
+            "source": 87,
+            "target": 102,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 87,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 96,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pips"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nipf"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutung"
+            ],
+            "source": 99,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hahn"
+            ],
+            "source": 102,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfau"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 112,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 114,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 114,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 114,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 114,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 114,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jungen"
+            ],
+            "source": 114,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 115,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 115,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 115,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 115,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 115,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 120,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 120,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 120,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 120,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 121,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 121,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 121,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 122,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 122,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuchrufe"
+            ],
+            "source": 123,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänse"
+            ],
+            "source": 125,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Enten"
+            ],
+            "source": 138,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taube"
+            ],
+            "source": 142,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 142,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 142,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 142,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 142,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 142,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauber"
+            ],
+            "source": 143,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 146,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 146,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 146,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 146,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 147,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 147,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 147,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 149,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 149,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tauben"
+            ],
+            "source": 150,
+            "target": 153,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Geflüg",
+                "Hausgeflügels"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Huhn",
+                "Hea",
+                "Hendl",
+                "Hia"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Huhn",
+                "schlafen",
+                "gehen",
+                "verrücktes",
+                "Hühnern",
+                "dummes"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Henne"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "erfrorene",
+                "manchmal",
+                "Henne",
+                "Körnlein",
+                "findet",
+                "blinde"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Henne",
+                "Leghenne",
+                "Kluckhenne",
+                "Legerin"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Kikeriki",
+                "Hahn",
+                "Gockel",
+                "Gickel"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Gifthähnlein",
+                "dahersteigen",
+                "rote",
+                "Hahn",
+                "Dach",
+                "tanzen",
+                "zornig",
+                "Mist",
+                "Korbe"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "kämpfende",
+                "Kampfhahn",
+                "Hähne"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Tropf",
+                "Zwiehahn",
+                "Hahnstein",
+                "Schnitthahn",
+                "Hahntidl",
+                "Hahn",
+                "Kapaunen",
+                "Angabe",
+                "Gebilde",
+                "Magen",
+                "Aberglaube",
+                "Zwitter"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Hühnervieher",
+                "Hühner",
+                "Hühnerach"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Farbe",
+                "Volksglauben",
+                "spielt",
+                "Hühner",
+                "Rolle"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Gefieder",
+                "sträubt",
+                "sitzt",
+                "Zeichen",
+                "herum",
+                "Henne",
+                "klungetzt",
+                "Federn",
+                "rutscht",
+                "gluckt",
+                "Brutdranges",
+                "Nest",
+                "verliert"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "brütig",
+                "Henne"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "brüten"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Henne",
+                "unterlegen",
+                "ansetzen",
+                "Eier",
+                "viele"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "unterdrücken",
+                "Brutdrang",
+                "vertreiben",
+                "Brut",
+                "womit"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "gewöhnliche",
+                "Hühner",
+                "Gackern"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Geschrei",
+                "Eierlegen",
+                "singen",
+                "Henne"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "lebhafte",
+                "gatzen",
+                "gacketzen",
+                "Eierlegen",
+                "Gackern"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "krächzende",
+                "Henne",
+                "garretzen",
+                "Geschrei",
+                "scharretzen"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "krähen",
+                "Verb",
+                "übles",
+                "Henne",
+                "Vorzeichen",
+                "krähende",
+                "gilt"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "anschreien",
+                "krähen",
+                "ankrähen"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "krähen",
+                "danach",
+                "zusammen",
+                "Hahn",
+                "singt",
+                "kräht",
+                "schlecht"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Hahnenschrei"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "baseln",
+                "scharren",
+                "Hühner",
+                "Sand"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Mulde",
+                "Sande",
+                "Hühner",
+                "Hühnerbett",
+                "baden"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Gaggerl",
+                "Ei",
+                "gleichen",
+                "Eiern",
+                "geschält",
+                "frisch"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Gucke",
+                "Eierschale"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Eies",
+                "spitzes",
+                "Arsch",
+                "Spitz",
+                "Ende",
+                "breites"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "dienen",
+                "eiern",
+                "legen",
+                "Eier"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "verlegen",
+                "Eier"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Bilgei"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "hinschürfen",
+                "Schale",
+                "legen",
+                "Eier"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Ei",
+                "Schürfei",
+                "schalenloses"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Ei",
+                "mißgestaltetes",
+                "Hexenei"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "lauteres",
+                "Kann",
+                "entwickeln",
+                "woran",
+                "Ei",
+                "Henne",
+                "unbefruchtetes",
+                "aufzuschlagen",
+                "Hahn",
+                "erkannt",
+                "erkennen"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Keimbläschen",
+                "Dotter",
+                "Hahnentritt"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "faule",
+                "stinkende",
+                "Eier"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "gelegtes",
+                "Ei",
+                "frisch"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Eidotter"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Geschlecht",
+                "Eiweiß"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Konservierung",
+                "Eier",
+                "Getreideier",
+                "Art",
+                "Benennung"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Kisteneier",
+                "Marktbezeichnungen",
+                "übliche"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "einlegen",
+                "Eier",
+                "konservieren"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Eier",
+                "Eierspeise",
+                "Schmalz"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "kochen",
+                "sieden",
+                "Eier"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "weiche",
+                "Eier"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Eier",
+                "harte"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Spiegelei"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Eierbier"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Ei",
+                "Suppe",
+                "einschlagen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "einrühren",
+                "Eier",
+                "paar"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Rührei"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Ei",
+                "rohes",
+                "austrinken"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "ausblasen",
+                "Eier"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "schlagen",
+                "Schnee"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Eierbrot",
+                "SpeiseN"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Ei",
+                "genannte",
+                "Eiergeld"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "eierne",
+                "eiern",
+                "Kipfel"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "spielen",
+                "Eiern",
+                "eieln"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "Ei",
+                "schmecken",
+                "riechen"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "buckt",
+                "Hahn",
+                "tritt",
+                "Henne"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "lockt",
+                "kluckt",
+                "Henne",
+                "Küchlein"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Flügel",
+                "nehmen",
+                "Jungen"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Pischkelen",
+                "Küchlein",
+                "Gspedl",
+                "Gigerln",
+                "Biberln",
+                "Buserln",
+                "Singerln"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Hahn",
+                "Kapaun",
+                "kastrierter",
+                "Polakl"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Ei",
+                "Henne",
+                "fertiges",
+                "erfahren",
+                "ausgreifen",
+                "trägt"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Hühnergreifer",
+                "Henner",
+                "Henneler",
+                "Schimpfwort"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Eier",
+                "abnehmen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Scheuchrufe",
+                "pulpul",
+                "bibi",
+                "kschu",
+                "busi"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Hühnerhof"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Hühnerstall"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Hühnerkorb"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Brotbrett",
+                "Hühnersteige",
+                "Teile"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Hahnbaum"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "bäumen",
+                "sitzen",
+                "begeben",
+                "Nachtruhe",
+                "Hühner",
+                "aufgesessen"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "fallen",
+                "kriechen",
+                "schliefen",
+                "Küchlein"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Hühnerdirn",
+                "füttern",
+                "Magd",
+                "Hennerin",
+                "Hühner"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Futter",
+                "pecken",
+                "picken"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Hühner",
+                "mästen"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "gewisse",
+                "Hühnerfutter",
+                "Speisen"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Blut",
+                "Hühner",
+                "geschlachtet",
+                "geschieht"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Backhuhn",
+                "Huhn",
+                "Zubereitung",
+                "gesottene",
+                "Henne",
+                "Hühner",
+                "eingemachtes"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "heilkräftig",
+                "Hühnersuppe",
+                "gilt"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Hahnenfeder"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Kamm"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Truthahn",
+                "Hautlappen",
+                "Kopf",
+                "Hahn",
+                "herabhängenden"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Sporen"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Krämpelein",
+                "Krallen",
+                "Klebel"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Schnabel"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Flügel"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Schweif"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "After"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Steiß",
+                "Bürzel",
+                "Bischof"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Auge",
+                "Nickhaut"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "aufgestellter",
+                "Mensch",
+                "Hühnerdreck",
+                "Schelte",
+                "aufgeblasener"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Zunge",
+                "Nipf",
+                "Pips",
+                "Erkrankung"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "nehmen",
+                "Pips",
+                "aufstechen"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "hängen",
+                "lassen",
+                "Nipf",
+                "Bedeutung"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Hühnerpest"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Geist",
+                "Hühner",
+                "beunruhigt",
+                "Hühnergeist"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Janisch",
+                "Schustervogel",
+                "Truthahn",
+                "Hahn",
+                "Bockerl",
+                "welscher",
+                "Piperhahn",
+                "Indian"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Truthenne"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Truthühner"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Perlhuhn"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "nackthalsig",
+                "augenfälligen",
+                "bekannter",
+                "Bezeichnungen",
+                "Merkmalen",
+                "Füßen",
+                "befiederten",
+                "Hühnerrassen",
+                "Namen",
+                "Schopf"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "dreht",
+                "Pfau"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Pfaufeder"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Rad",
+                "schlägt",
+                "Pfau"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Hühnermann",
+                "Hendelhutscher",
+                "Hühnerer",
+                "Geflügelhändler"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Huhn",
+                "Musikant",
+                "Hahn",
+                "weitere",
+                "Hühnelgeiger",
+                "Spiel",
+                "schlechter",
+                "Hahnenschlag",
+                "Hühnerloch",
+                "Wetterhahn"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "Verwendung",
+                "dumme",
+                "Schimpfwort",
+                "Gans"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Gänserich",
+                "Ganser",
+                "Ganauser",
+                "Gander",
+                "Ganesel"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Lili",
+                "Ganserln",
+                "jungen",
+                "Husselein",
+                "Gänse"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "rupfen",
+                "raufen",
+                "Gänse"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Gansfedern"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Flaumfedern"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "dabei",
+                "Federn",
+                "schleißen"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Flederwisch",
+                "Mensch",
+                "fahriger",
+                "Gänseflügel"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Geschrei",
+                "schnattern",
+                "Gänse",
+                "schreien"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Gänse",
+                "Fauchen"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "halten",
+                "Gänse",
+                "weiden"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Scheuchrufe"
+            ],
+            "id": "E11a"
+        },
+        {
+            "concepts": [
+                "Gänsehirt"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Gänse",
+                "treiben"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Gänsetreiber"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "mästen",
+                "stopfen",
+                "schütten",
+                "schoppen",
+                "Gänse"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Gänsestall"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Gänseteich"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Gansleber"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Gänsebrust",
+                "geräuchert"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Gansbiegel"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Gänseschmalz"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Pfaffenschnitz",
+                "Stück"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Ganseljud",
+                "Gänsehändler"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Ente"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Enterich",
+                "Antvogel"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "Schlickerln",
+                "junge",
+                "Ratscherln",
+                "Enten"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "Geschnatter",
+                "Enten"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "Schlamm",
+                "Wühlen"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "Scheuchrufe"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "gebratenen",
+                "Maul",
+                "Glaubst",
+                "sanft",
+                "Taube",
+                "leben",
+                "Tauben",
+                "fliegen",
+                "verliebt"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Tauber",
+                "Tauberer"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Täubin",
+                "Taube"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Tauber",
+                "stolzieren",
+                "taubern"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Krauserln",
+                "behoste",
+                "Taubenarten",
+                "Rodler",
+                "ortsübliche",
+                "Trommeltauben",
+                "Tauben"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "jungen",
+                "üblich",
+                "Tauben",
+                "Benennung"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Taubenhaus"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "gurren",
+                "burren",
+                "gurretzen",
+                "Tauben",
+                "girren"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Tauben",
+                "tanzen",
+                "Liebesäußerungen",
+                "schnäbeln"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Taubeneier",
+                "groß",
+                "Hagelkörner",
+                "Taubenei"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Bedeutung",
+                "beigelegt",
+                "Taubenmist"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Tauben",
+                "Blut",
+                "verwendet",
+                "geschlachtet"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Taubenhändler",
+                "Taubler"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Junge",
+                "Geflügel",
+                "Verwendung",
+                "Gänseklein",
+                "Küche"
+            ],
+            "id": "F14"
+        }
+    ]
+}

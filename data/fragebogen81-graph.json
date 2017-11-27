@@ -1,0 +1,3001 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Kärrner"
+                ],
+                [
+                    "Truhe"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Schubkarren"
+                ],
+                [
+                    "alter"
+                ],
+                [
+                    "Geißel"
+                ],
+                [
+                    "Kufe"
+                ],
+                [
+                    "Füße"
+                ],
+                [
+                    "Kasten"
+                ],
+                [
+                    "Schellen"
+                ],
+                [
+                    "denen"
+                ],
+                [
+                    "Stellung"
+                ],
+                [
+                    "besondere"
+                ],
+                [
+                    "Achse"
+                ],
+                [
+                    "kommt"
+                ]
+            ],
+            "2": [
+                [
+                    "Bedeutungen"
+                ],
+                [
+                    "Schlittenteil"
+                ]
+            ],
+            "3": [
+                [
+                    "führen"
+                ],
+                [
+                    "Kufen"
+                ],
+                [
+                    "Schleipfenbäume"
+                ],
+                [
+                    "Räder"
+                ]
+            ],
+            "6": [
+                [
+                    "Karren"
+                ],
+                [
+                    "Rad"
+                ]
+            ],
+            "9": [
+                [
+                    "Schlitten"
+                ]
+            ],
+            "11": [
+                [
+                    "fahren"
+                ]
+            ],
+            "168": [
+                [
+                    "Wagen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Karren",
+                    "Gratten"
+                ],
+                [
+                    "fahren",
+                    "Schlitten"
+                ],
+                [
+                    "hinterer",
+                    "Schlittenteil"
+                ],
+                [
+                    "befestigt",
+                    "Deichsel"
+                ],
+                [
+                    "bauen",
+                    "Wagen"
+                ],
+                [
+                    "Geleise",
+                    "Wagen"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Beege",
+                    "Bedeutungen",
+                    "Beige"
+                ],
+                [
+                    "leicht",
+                    "schwer",
+                    "Wagen"
+                ]
+            ],
+            "2": [
+                [
+                    "Karren",
+                    "fahren",
+                    "führen"
+                ],
+                [
+                    "abschüssigen",
+                    "Erde",
+                    "Feldern"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "abschüssigen",
+                    "Erde",
+                    "abgeschwemmten",
+                    "Feldern"
+                ]
+            ]
+        },
+        "5": {
+            "1": [
+                [
+                    "Karren",
+                    "fahren",
+                    "führen",
+                    "karren",
+                    "kärreln"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Karren",
+                "Gratten"
+            ],
+            "source": 0,
+            "target": 1,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Karren",
+                "fahren",
+                "führen"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Karren",
+                "fahren",
+                "führen"
+            ],
+            "source": 0,
+            "target": 3,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Karren"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alter"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karren"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karren"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karren"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karren",
+                "fahren",
+                "führen",
+                "karren",
+                "kärreln"
+            ],
+            "source": 2,
+            "target": 3,
+            "target_group": [
+                5,
+                1,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "Karren"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karren"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 3,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 3,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kärrner"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutungen"
+            ],
+            "source": 4,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutungen"
+            ],
+            "source": 4,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "denen"
+            ],
+            "source": 6,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "abschüssigen",
+                "Erde",
+                "Feldern"
+            ],
+            "source": 8,
+            "target": 9,
+            "target_group": [
+                3,
+                2,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "abschüssigen",
+                "Erde",
+                "Feldern"
+            ],
+            "source": 8,
+            "target": 10,
+            "target_group": [
+                3,
+                2,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "abschüssigen",
+                "Erde",
+                "abgeschwemmten",
+                "Feldern"
+            ],
+            "source": 9,
+            "target": 10,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Truhe"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rad"
+            ],
+            "source": 12,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rad"
+            ],
+            "source": 12,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rad"
+            ],
+            "source": 12,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schubkarren"
+            ],
+            "source": 13,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 14,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beege",
+                "Bedeutungen",
+                "Beige"
+            ],
+            "source": 15,
+            "target": 16,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 15,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 17,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 19,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 19,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 20,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 20,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren",
+                "Schlitten"
+            ],
+            "source": 21,
+            "target": 25,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 21,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geißel"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stellung"
+            ],
+            "source": 25,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlitten"
+            ],
+            "source": 25,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hinterer",
+                "Schlittenteil"
+            ],
+            "source": 29,
+            "target": 30,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schlittenteil"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schlittenteil"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schleipfenbäume"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schleipfenbäume"
+            ],
+            "source": 31,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kufe"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kufen"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kufen"
+            ],
+            "source": 35,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kasten"
+            ],
+            "source": 36,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kufen"
+            ],
+            "source": 36,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schleipfenbäume"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "befestigt",
+                "Deichsel"
+            ],
+            "source": 41,
+            "target": 42,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 43,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schellen"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rad"
+            ],
+            "source": 54,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rad"
+            ],
+            "source": 54,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bauen",
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 72,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 54,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Räder"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Räder"
+            ],
+            "source": 56,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Räder"
+            ],
+            "source": 57,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 59,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 60,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 61,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht",
+                "schwer",
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 63,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 62,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 63,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 64,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 65,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 66,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 67,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rad"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Achse"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 71,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 72,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 72,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 72,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 72,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 72,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 72,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geleise",
+                "Wagen"
+            ],
+            "source": 73,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 73,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 73,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 73,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 73,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 74,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 74,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 74,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 74,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 75,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 75,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 76,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 77,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 78,
+            "target": 82,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "gehen",
+                "Garren",
+                "alter",
+                "Trümmer",
+                "verfahrener",
+                "mühselige",
+                "Karren",
+                "Grieg",
+                "fahren",
+                "Arbeiten",
+                "führen",
+                "Gratten",
+                "Grattel",
+                "Garlwagen",
+                "verrichten",
+                "ziehen",
+                "Garling",
+                "Dreck"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Karrenbüchse",
+                "Karren",
+                "karrenweise",
+                "Gratten",
+                "voll",
+                "Schinderkarren",
+                "Kanone"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "kärrneln",
+                "Karren",
+                "fahren",
+                "führen",
+                "karren",
+                "kärreln"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Karren",
+                "fahren",
+                "führen",
+                "karren",
+                "wegkärreln",
+                "abmühen",
+                "abkärreln",
+                "kärreln"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Grattler",
+                "Bedeutungen",
+                "Garler",
+                "Karrer",
+                "Kärrner",
+                "Karrenschlankel",
+                "Grattenzieher"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Karrnerwagele",
+                "Salzkarrer",
+                "Kärrner",
+                "Landkärrner",
+                "Ochsenkärrler"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Karrens",
+                "denen",
+                "Schuber",
+                "Karrenbaum",
+                "abweichen",
+                "Wagenteile",
+                "Bestandteile",
+                "Namen"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Mistkarren",
+                "Zogger"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Erde",
+                "Feldern",
+                "Karren",
+                "abschüssigen",
+                "hinaufzuführen",
+                "abgeschwemmte",
+                "Kotkarren"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Erde",
+                "heißt",
+                "Feldern",
+                "abgeschwemmten",
+                "führen",
+                "abschüssigen",
+                "Kot",
+                "Zurückführen"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Erde",
+                "verwendet",
+                "Seil",
+                "Feldern",
+                "abgeschwemmten",
+                "abschüssigen",
+                "Zurückbringen",
+                "Kotseil"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Truhe",
+                "einrädriger",
+                "Radeltruhe",
+                "Handkarren"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Zapfenlager",
+                "Rad",
+                "Truhe",
+                "Handhaben",
+                "Achszapfen",
+                "Pfanne",
+                "Scheibtruhe",
+                "Teile"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Trakatsch",
+                "Radeltrage",
+                "Grattelbeege",
+                "Schubkarren",
+                "Radebere"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Schwingen",
+                "Aufsatz",
+                "Schubkarrens",
+                "Sprüssel",
+                "Füße",
+                "Garigl",
+                "Teile"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Beige",
+                "Bedeutungen",
+                "Beege"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Roßbeege",
+                "Beige",
+                "Bedeutungen",
+                "Beege"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Schubkarren",
+                "fahren",
+                "schubkärreln"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Schubkärrner",
+                "Karrenscheiber"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "alter",
+                "Schlitten",
+                "kommen",
+                "Schimpfwort"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "schlechte",
+                "Bergschlitten",
+                "Schlittenzeug",
+                "gute",
+                "Schlitten"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "schlittnen",
+                "fahren",
+                "Schlitten"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Schlittenfuhrmann",
+                "Schlittner"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Schlittenfahrt",
+                "Schlittage"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Geißel",
+                "Rodel",
+                "Geißschlitten"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Geißel",
+                "rodeln",
+                "verschiedene",
+                "abfahren",
+                "fahren",
+                "Stellung",
+                "Bockschlitten",
+                "reiten",
+                "liegender",
+                "schlitteln",
+                "Schlitten",
+                "Ausdrücke",
+                "sitzender"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "Bennelschlitten"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "Schlittenkorb"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "Schubschlitten"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "vorderer",
+                "hinterer",
+                "Schlittenteil"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "hinterer",
+                "zwei",
+                "Schlittenteil",
+                "Armen",
+                "Schlittenschleipfe"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "hinteren",
+                "Schlittenteil",
+                "beiden",
+                "Arme",
+                "Schleipfenbäume"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Schlittenkufe"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Kufe"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "Sohle",
+                "unten",
+                "Kufe",
+                "Eisenschiene"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "Schlittenhals",
+                "vorderster",
+                "Kufen",
+                "Teil"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "Tocken",
+                "Kufen",
+                "Kasten",
+                "Verbindungshölzer",
+                "Füße"
+            ],
+            "id": "H18"
+        },
+        {
+            "concepts": [
+                "Schlittengestell"
+            ],
+            "id": "H19"
+        },
+        {
+            "concepts": [
+                "Schlittenkasten"
+            ],
+            "id": "H20"
+        },
+        {
+            "concepts": [
+                "Tragholz",
+                "Kasten",
+                "Füßen",
+                "horizontales",
+                "Schlittenebel"
+            ],
+            "id": "H21"
+        },
+        {
+            "concepts": [
+                "drehbares",
+                "Ebel",
+                "Durchstechen",
+                "Reibebel",
+                "Löchern",
+                "Schleipfenbäume"
+            ],
+            "id": "H22"
+        },
+        {
+            "concepts": [
+                "Kufen",
+                "befestigt",
+                "Deichsel"
+            ],
+            "id": "H23"
+        },
+        {
+            "concepts": [
+                "kurze",
+                "befestigt",
+                "Deichsel",
+                "Hintergestell",
+                "statt",
+                "Schleipfenbäume"
+            ],
+            "id": "H24"
+        },
+        {
+            "concepts": [
+                "gegenüber",
+                "Merkmale",
+                "besondere",
+                "Obergestells",
+                "Wagens"
+            ],
+            "id": "H25"
+        },
+        {
+            "concepts": [
+                "Schlittensitz"
+            ],
+            "id": "H26"
+        },
+        {
+            "concepts": [
+                "Schlittenbremse",
+                "Kräuel",
+                "Grebe"
+            ],
+            "id": "H27"
+        },
+        {
+            "concepts": [
+                "Klinsel",
+                "Glöcklein",
+                "Schlittenschelle"
+            ],
+            "id": "H28"
+        },
+        {
+            "concepts": [
+                "Schellenkranz"
+            ],
+            "id": "H29"
+        },
+        {
+            "concepts": [
+                "Glocken",
+                "Schellen",
+                "Geschirrs",
+                "Stellen",
+                "angebrachte"
+            ],
+            "id": "H30"
+        },
+        {
+            "concepts": [
+                "Schellen",
+                "klinseln",
+                "Klingeln"
+            ],
+            "id": "H31"
+        },
+        {
+            "concepts": [
+                "Schlittengeläute"
+            ],
+            "id": "H32"
+        },
+        {
+            "concepts": [
+                "Rader",
+                "Schlittenbauer",
+                "Wagner"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Scheibenholz",
+                "Material",
+                "Leiterholz",
+                "Kipfholz",
+                "Wagenholz"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Werkzeuge",
+                "Loninger",
+                "Faßbinders",
+                "Radnabenbohrer",
+                "Radhobel",
+                "Felgenhacke",
+                "Tischlers",
+                "unterscheiden",
+                "Lonbohrer",
+                "Zimmermanns"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Kinderspiel",
+                "herstellen",
+                "Rad",
+                "bauen",
+                "Tätigkeit",
+                "ausbohren",
+                "Wagen",
+                "Wagners"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Sturz",
+                "Fachausdrücke",
+                "Stellung",
+                "Achsenzapfens",
+                "besondere",
+                "Speichen",
+                "Unterlauf",
+                "Neigung"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "knarren",
+                "Räder"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "quietschen",
+                "Räder"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "schreien",
+                "kreischen",
+                "Räder"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "rumpelt",
+                "Wagen"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "rasselt",
+                "Wagen"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "ächzt",
+                "Wagen"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "geht",
+                "leicht",
+                "schwer",
+                "Wagen"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "wenden",
+                "leicht",
+                "schwer",
+                "Wagen"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "saust",
+                "dahin",
+                "Schlitten",
+                "Wagen"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "holpert",
+                "Wagen"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "bleibt",
+                "stecken",
+                "Wagen"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "schwankt",
+                "Wagen"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Rad",
+                "Achse",
+                "herunter",
+                "gleitet"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "Rad",
+                "anstecken"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "Achse"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "schnappt",
+                "kippt",
+                "Wagen"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "wirft",
+                "Wagen",
+                "bauen",
+                "Kapelle",
+                "schmeißt"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "gleist",
+                "läuft",
+                "Geleise",
+                "Wagen"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Geleise",
+                "Wagen"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "setzen",
+                "lassen",
+                "aufsitzen",
+                "Wagen",
+                "absitzen"
+            ],
+            "id": "K20"
+        },
+        {
+            "concepts": [
+                "heben",
+                "Wagen"
+            ],
+            "id": "K21"
+        },
+        {
+            "concepts": [
+                "hineinhelfen",
+                "Wagen"
+            ],
+            "id": "K22"
+        },
+        {
+            "concepts": [
+                "putzen",
+                "waschen",
+                "Wagen"
+            ],
+            "id": "K23"
+        },
+        {
+            "concepts": [
+                "Wasserer",
+                "Wagenputzer",
+                "städtischer"
+            ],
+            "id": "K24"
+        },
+        {
+            "concepts": [
+                "Hochzeiten",
+                "öffnet",
+                "schließt",
+                "Festlichkeiten",
+                "Wagentür",
+                "Mann"
+            ],
+            "id": "K25"
+        },
+        {
+            "concepts": [
+                "Wagenbürste",
+                "Rehhäutel",
+                "verwendete",
+                "Putzen",
+                "beim",
+                "Gebrauchsgegenstände"
+            ],
+            "id": "K26"
+        },
+        {
+            "concepts": [
+                "schmieren",
+                "fährt",
+                "Wagen",
+                "wer",
+                "schmiert"
+            ],
+            "id": "K27"
+        }
+    ]
+}

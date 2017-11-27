@@ -1,0 +1,4012 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Stadel"
+                ],
+                [
+                    "Stock"
+                ],
+                [
+                    "Heuboden"
+                ],
+                [
+                    "Holzschupfen"
+                ],
+                [
+                    "Ese"
+                ],
+                [
+                    "Brücke"
+                ],
+                [
+                    "Trog"
+                ],
+                [
+                    "Barn"
+                ],
+                [
+                    "Hof"
+                ],
+                [
+                    "Brunnens"
+                ],
+                [
+                    "Zuleitungsrohr"
+                ],
+                [
+                    "Eimer"
+                ],
+                [
+                    "Zisterne"
+                ],
+                [
+                    "bricht"
+                ],
+                [
+                    "Glas"
+                ],
+                [
+                    "Fenstern"
+                ],
+                [
+                    "volkstümliche"
+                ],
+                [
+                    "Dachstuhl"
+                ],
+                [
+                    "Giebel"
+                ],
+                [
+                    "Mauerbank"
+                ],
+                [
+                    "obere"
+                ],
+                [
+                    "Rafen"
+                ],
+                [
+                    "Latte"
+                ],
+                [
+                    "legen"
+                ],
+                [
+                    "Dachbretter"
+                ],
+                [
+                    "zimmern"
+                ],
+                [
+                    "Hackstock"
+                ],
+                [
+                    "hacken"
+                ],
+                [
+                    "Hacke"
+                ],
+                [
+                    "Hobel"
+                ],
+                [
+                    "Hammer"
+                ],
+                [
+                    "Zange"
+                ],
+                [
+                    "aufs"
+                ],
+                [
+                    "Nagel"
+                ],
+                [
+                    "nageln"
+                ],
+                [
+                    "Tischler"
+                ],
+                [
+                    "Stiegel"
+                ],
+                [
+                    "steigen"
+                ],
+                [
+                    "Riegel"
+                ],
+                [
+                    "führen"
+                ],
+                [
+                    "Spelte"
+                ],
+                [
+                    "Kreuz"
+                ],
+                [
+                    "Weg"
+                ],
+                [
+                    "Sprüche"
+                ]
+            ],
+            "2": [
+                [
+                    "unterster"
+                ],
+                [
+                    "Schindel"
+                ],
+                [
+                    "geht"
+                ]
+            ],
+            "3": [
+                [
+                    "Scheuer"
+                ],
+                [
+                    "Fenster"
+                ],
+                [
+                    "First"
+                ],
+                [
+                    "Zimmermann"
+                ],
+                [
+                    "Haus"
+                ],
+                [
+                    "Säge"
+                ],
+                [
+                    "Zauntor"
+                ],
+                [
+                    "Knecht"
+                ],
+                [
+                    "zwei"
+                ],
+                [
+                    "frei"
+                ]
+            ],
+            "5": [
+                [
+                    "Tenne"
+                ]
+            ],
+            "6": [
+                [
+                    "Pumpe"
+                ],
+                [
+                    "Brunnen"
+                ],
+                [
+                    "Haussprüche"
+                ],
+                [
+                    "Sparren"
+                ],
+                [
+                    "Arten"
+                ],
+                [
+                    "Geräte"
+                ]
+            ],
+            "9": [
+                [
+                    "Zaun"
+                ]
+            ],
+            "10": [
+                [
+                    "Stall"
+                ]
+            ],
+            "15": [
+                [
+                    "Teile"
+                ]
+            ],
+            "27": [
+                [
+                    "Dach"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Tenne",
+                    "Banse"
+                ],
+                [
+                    "Vorstellungen",
+                    "abergläubische"
+                ],
+                [
+                    "Dach",
+                    "Schindel"
+                ],
+                [
+                    "Axt",
+                    "Stiel"
+                ],
+                [
+                    "geht",
+                    "Zaun"
+                ],
+                [
+                    "Rante",
+                    "Zaunstange"
+                ]
+            ],
+            "2": [
+                [
+                    "Querbalken",
+                    "Bretten"
+                ]
+            ],
+            "3": [
+                [
+                    "Gattern",
+                    "Zauntor"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "tragender",
+                    "Querbalken",
+                    "Bretten",
+                    "unterster"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Stadel"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuer"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuer"
+            ],
+            "source": 0,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 7,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuer"
+            ],
+            "source": 7,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brücke"
+            ],
+            "source": 7,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tenne",
+                "Banse"
+            ],
+            "source": 11,
+            "target": 12,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ese"
+            ],
+            "source": 11,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "legen"
+            ],
+            "source": 13,
+            "target": 171,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heuboden"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 19,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 19,
+            "target": 257,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holzschupfen"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 22,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hackstock"
+            ],
+            "source": 22,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 22,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 22,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stall"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frei"
+            ],
+            "source": 31,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frei"
+            ],
+            "source": 31,
+            "target": 261,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 33,
+            "target": 257,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 38,
+            "target": 258,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 38,
+            "target": 259,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trog"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Barn"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 43,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hof"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunnen"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunnen"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunnen"
+            ],
+            "source": 51,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bricht"
+            ],
+            "source": 51,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 51,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 51,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunnen"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunnen"
+            ],
+            "source": 52,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpe"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpe"
+            ],
+            "source": 53,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpe"
+            ],
+            "source": 53,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunnen"
+            ],
+            "source": 53,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 53,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 53,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpe"
+            ],
+            "source": 55,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpe"
+            ],
+            "source": 55,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brunnens"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpe"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zuleitungsrohr"
+            ],
+            "source": 64,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eimer"
+            ],
+            "source": 71,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zisterne"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 77,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 77,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fenster"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fenster"
+            ],
+            "source": 83,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fenster"
+            ],
+            "source": 84,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riegel"
+            ],
+            "source": 91,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fenstern"
+            ],
+            "source": 95,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glas"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 115,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 115,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 115,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haussprüche"
+            ],
+            "source": 116,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haussprüche"
+            ],
+            "source": 116,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haussprüche"
+            ],
+            "source": 116,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haussprüche"
+            ],
+            "source": 117,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haussprüche"
+            ],
+            "source": 117,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haussprüche"
+            ],
+            "source": 118,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümliche"
+            ],
+            "source": 121,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorstellungen",
+                "abergläubische"
+            ],
+            "source": 123,
+            "target": 130,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Haus"
+            ],
+            "source": 123,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 123,
+            "target": 261,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 125,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 125,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 125,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 125,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 125,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 125,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 125,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aufs"
+            ],
+            "source": 125,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steigen"
+            ],
+            "source": 125,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "frei"
+            ],
+            "source": 125,
+            "target": 261,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 126,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 126,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 126,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 126,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 126,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 126,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 127,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 127,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 127,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 127,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 127,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dachstuhl"
+            ],
+            "source": 128,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "First"
+            ],
+            "source": 130,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "First"
+            ],
+            "source": 130,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "First"
+            ],
+            "source": 134,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Giebel"
+            ],
+            "source": 137,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kreuz"
+            ],
+            "source": 140,
+            "target": 260,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unterster"
+            ],
+            "source": 142,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unterster"
+            ],
+            "source": 142,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mauerbank"
+            ],
+            "source": 142,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sparren"
+            ],
+            "source": 143,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sparren"
+            ],
+            "source": 143,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sparren"
+            ],
+            "source": 143,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sparren"
+            ],
+            "source": 144,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sparren"
+            ],
+            "source": 144,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sparren"
+            ],
+            "source": 145,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tragender",
+                "Querbalken",
+                "Bretten",
+                "unterster"
+            ],
+            "source": 146,
+            "target": 147,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Querbalken",
+                "Bretten"
+            ],
+            "source": 146,
+            "target": 148,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Querbalken",
+                "Bretten"
+            ],
+            "source": 147,
+            "target": 148,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "obere"
+            ],
+            "source": 148,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rafen"
+            ],
+            "source": 154,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Latte"
+            ],
+            "source": 156,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 159,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 159,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 159,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 159,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 165,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 165,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 165,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 166,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach"
+            ],
+            "source": 166,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schindel"
+            ],
+            "source": 172,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dach",
+                "Schindel"
+            ],
+            "source": 172,
+            "target": 177,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schindel"
+            ],
+            "source": 173,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dachbretter"
+            ],
+            "source": 174,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zimmermann"
+            ],
+            "source": 185,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zimmermann"
+            ],
+            "source": 185,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zimmermann"
+            ],
+            "source": 186,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zimmern"
+            ],
+            "source": 188,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Axt",
+                "Stiel"
+            ],
+            "source": 190,
+            "target": 191,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hacke"
+            ],
+            "source": 190,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 191,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 191,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 191,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 191,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 191,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 192,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 192,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hacken"
+            ],
+            "source": 193,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hobel"
+            ],
+            "source": 197,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 199,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 199,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 199,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 199,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 200,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Säge"
+            ],
+            "source": 203,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Säge"
+            ],
+            "source": 203,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Säge"
+            ],
+            "source": 204,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 205,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 205,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 205,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hammer"
+            ],
+            "source": 210,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 212,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 212,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zange"
+            ],
+            "source": 214,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 215,
+            "target": 218,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte"
+            ],
+            "source": 221,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nagel"
+            ],
+            "source": 225,
+            "target": 226,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nageln"
+            ],
+            "source": 227,
+            "target": 228,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tischler"
+            ],
+            "source": 230,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 235,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "Zaun"
+            ],
+            "source": 235,
+            "target": 238,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 235,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 235,
+            "target": 255,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 236,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 236,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 236,
+            "target": 255,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gattern",
+                "Zauntor"
+            ],
+            "source": 238,
+            "target": 239,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zauntor",
+                "Gattern"
+            ],
+            "source": 238,
+            "target": 241,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zauntor"
+            ],
+            "source": 238,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 238,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 238,
+            "target": 255,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gattern",
+                "Zauntor"
+            ],
+            "source": 239,
+            "target": 241,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zauntor"
+            ],
+            "source": 239,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zauntor"
+            ],
+            "source": 241,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stiegel"
+            ],
+            "source": 243,
+            "target": 244,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zaun"
+            ],
+            "source": 245,
+            "target": 255,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rante",
+                "Zaunstange"
+            ],
+            "source": 248,
+            "target": 249,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Spelte"
+            ],
+            "source": 250,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 258,
+            "target": 259,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 258,
+            "target": 260,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Stadel",
+                "Scheuer",
+                "Futterhaus"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Stadel",
+                "Erdstadel",
+                "Stadelhof"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Scheuerarten",
+                "Heustadel"
+            ],
+            "id": "G3a"
+        },
+        {
+            "concepts": [
+                "Alm",
+                "Heuschupfen"
+            ],
+            "id": "G3b"
+        },
+        {
+            "concepts": [
+                "Kornstadel"
+            ],
+            "id": "G3c"
+        },
+        {
+            "concepts": [
+                "Zwerchstadel"
+            ],
+            "id": "G3d"
+        },
+        {
+            "concepts": [
+                "Bretter",
+                "Scheuerwand",
+                "Lohwand"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Scheuer",
+                "Räumdille",
+                "Brücke",
+                "Rehm",
+                "Oberteil",
+                "Schaubbühne",
+                "Vorstadel",
+                "Stock",
+                "Grede",
+                "Hiller"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Tenne"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Tennenarten",
+                "Ästenne"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Tenne",
+                "Tennblahe"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "links",
+                "rechts",
+                "Tenne",
+                "Halbbarn",
+                "Banse",
+                "Ese"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Tenne",
+                "Zwischenwand",
+                "Barnladen",
+                "Banse"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "barnen",
+                "Bansen",
+                "legen",
+                "Garben"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Tennenauffahrt"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Heuboden",
+                "Plane",
+                "Heulege"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Lauch",
+                "Heuloch"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Heustock"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Widerhaken",
+                "Heurupfer",
+                "zupfen",
+                "Stock",
+                "Heu"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Stadler",
+                "hält",
+                "Ordnung",
+                "Knecht",
+                "Heuboden"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Schüttboden",
+                "Gaden",
+                "Feldkasten",
+                "Aufbewahrung",
+                "Getreides",
+                "Nebengebäude",
+                "Getreidekasten"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Holzschupfen"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Holztrage",
+                "Geräte",
+                "Holzschupfen",
+                "Hackstock"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Streuschupfen"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Geräteschupfen"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Wagenschupfen",
+                "Remise"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Salettel",
+                "Laube",
+                "Sommerhaus"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "Stall"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Stallhase",
+                "Stall"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "Stall",
+                "stallelen"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Stall",
+                "Scheuer",
+                "Marstadel",
+                "Gebäude",
+                "Lage",
+                "Stalles"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Stall",
+                "Umundumstall",
+                "Hühnerstall",
+                "gewölbter",
+                "Otterstall",
+                "Vieh",
+                "Stallarten",
+                "umherläuft",
+                "frei"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Auslauf",
+                "Schweine",
+                "Fohlen",
+                "Kalbelgarten",
+                "Kälber",
+                "Saugassen"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "Knecht",
+                "besorgt",
+                "Stallier",
+                "Roßstall"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Barmsgehag",
+                "Futterraum",
+                "Ese"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "Gesottkammer"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "Standplatz",
+                "Stand"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "Standsäule"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "Ständen",
+                "Abteilungswand",
+                "Ladwand",
+                "zwei"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "Streubaum"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "Standes",
+                "Brücke",
+                "Boden"
+            ],
+            "id": "I14"
+        },
+        {
+            "concepts": [
+                "Polsterhölzer",
+                "Bodenladen"
+            ],
+            "id": "I15"
+        },
+        {
+            "concepts": [
+                "Barn",
+                "Futtertrog",
+                "sitzen",
+                "Trog",
+                "vollen",
+                "beim"
+            ],
+            "id": "I16"
+        },
+        {
+            "concepts": [
+                "Trog",
+                "barndln",
+                "führen"
+            ],
+            "id": "I17"
+        },
+        {
+            "concepts": [
+                "Barn",
+                "Anhängekette"
+            ],
+            "id": "I18"
+        },
+        {
+            "concepts": [
+                "Heuraufe"
+            ],
+            "id": "I19"
+        },
+        {
+            "concepts": [
+                "Futterkasten"
+            ],
+            "id": "I20"
+        },
+        {
+            "concepts": [
+                "Atelrinne"
+            ],
+            "id": "I21"
+        },
+        {
+            "concepts": [
+                "Wurfloch"
+            ],
+            "id": "I22"
+        },
+        {
+            "concepts": [
+                "Hof"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "Hofmahd",
+                "Hof"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "geht",
+                "Brunnen",
+                "Krug",
+                "solang"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "Schelte",
+                "Brunnenvergifter",
+                "Brunnen"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "Gumpe",
+                "Pumpe",
+                "Brunnen",
+                "brunnen",
+                "laufender",
+                "Haus",
+                "freistehender"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "Brunnengeläute",
+                "Pumpwerk"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "Pumpe",
+                "Widder",
+                "hydraulische"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "gumpen",
+                "pumpen"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "Brunnenhäuschen",
+                "Troglaube"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "Brunnens",
+                "ausgemauerte",
+                "Raum",
+                "gegrabenen",
+                "Brunnstube"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "Brunnenstock"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "Brunngeschrot",
+                "Brunnens",
+                "Holzumfassung"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Brunnentrog"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "Pumpe",
+                "Brunnenausflußröhre"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "Ablauf",
+                "Brunntrog"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "Zuleitungsrohr"
+            ],
+            "id": "K16"
+        },
+        {
+            "concepts": [
+                "Zugstange",
+                "Pumpe"
+            ],
+            "id": "K17"
+        },
+        {
+            "concepts": [
+                "Kolben",
+                "Klaffel",
+                "Gumper"
+            ],
+            "id": "K18"
+        },
+        {
+            "concepts": [
+                "Gumpbüchse",
+                "Kolbenventil"
+            ],
+            "id": "K19"
+        },
+        {
+            "concepts": [
+                "Wasserleitung"
+            ],
+            "id": "K20"
+        },
+        {
+            "concepts": [
+                "Ausflußrohr",
+                "Hahn"
+            ],
+            "id": "K21"
+        },
+        {
+            "concepts": [
+                "Zuleitungsrohr",
+                "Absperren",
+                "Wechsel"
+            ],
+            "id": "K22"
+        },
+        {
+            "concepts": [
+                "Eimer",
+                "Ziggel",
+                "Ziehbrunnens"
+            ],
+            "id": "K23"
+        },
+        {
+            "concepts": [
+                "Eimer",
+                "Tragjoch"
+            ],
+            "id": "K24"
+        },
+        {
+            "concepts": [
+                "Scharbrunnen",
+                "Zisterne"
+            ],
+            "id": "K25"
+        },
+        {
+            "concepts": [
+                "Brunnenschapfe",
+                "Zisterne",
+                "Schöpfer"
+            ],
+            "id": "K26"
+        },
+        {
+            "concepts": [
+                "Behälter",
+                "Dachbrunnen",
+                "angesammelte",
+                "Regenwasser"
+            ],
+            "id": "K27"
+        },
+        {
+            "concepts": [
+                "Brunnenmacher",
+                "Brunner"
+            ],
+            "id": "K28"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Brunnenmantel",
+                "Brunnenmachers"
+            ],
+            "id": "K29"
+        },
+        {
+            "concepts": [
+                "Brunnenmeister"
+            ],
+            "id": "K30"
+        },
+        {
+            "concepts": [
+                "Quellensucher",
+                "Rutengänger"
+            ],
+            "id": "K31"
+        },
+        {
+            "concepts": [
+                "Wünschelrute"
+            ],
+            "id": "K32"
+        },
+        {
+            "concepts": [
+                "Brunnenheiliger"
+            ],
+            "id": "K33"
+        },
+        {
+            "concepts": [
+                "Blumen",
+                "Tagen",
+                "geschmückt",
+                "Jahres",
+                "Brunnen"
+            ],
+            "id": "K34"
+        },
+        {
+            "concepts": [
+                "blaue",
+                "Fenster",
+                "davontragen",
+                "Schläge",
+                "bekommen",
+                "Balken"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "Schubfenster",
+                "Fenster",
+                "Schuber",
+                "Lichtschacht",
+                "Fensterarten",
+                "Kapfer",
+                "vorspringendes"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "Fensterflügel"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "Fensterhaken"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "Fensterangeln"
+            ],
+            "id": "L5"
+        },
+        {
+            "concepts": [
+                "Fensterrahmen"
+            ],
+            "id": "L6"
+        },
+        {
+            "concepts": [
+                "Fensterstock"
+            ],
+            "id": "L6a"
+        },
+        {
+            "concepts": [
+                "Fensterbeschläge"
+            ],
+            "id": "L7"
+        },
+        {
+            "concepts": [
+                "Fensterschließvorrichtung",
+                "Riegel",
+                "Reiber"
+            ],
+            "id": "L8"
+        },
+        {
+            "concepts": [
+                "Fensterverschlußbalken",
+                "Törl"
+            ],
+            "id": "L9"
+        },
+        {
+            "concepts": [
+                "Angeln",
+                "Fensterladen",
+                "Einsetzen"
+            ],
+            "id": "L10"
+        },
+        {
+            "concepts": [
+                "Fensterbrett"
+            ],
+            "id": "L11"
+        },
+        {
+            "concepts": [
+                "Fenstern",
+                "Blumenkästen"
+            ],
+            "id": "L12"
+        },
+        {
+            "concepts": [
+                "Fensterblumen"
+            ],
+            "id": "L13"
+        },
+        {
+            "concepts": [
+                "Fenstergitter",
+                "Eisen"
+            ],
+            "id": "L14"
+        },
+        {
+            "concepts": [
+                "Organtin",
+                "Fliegengitter"
+            ],
+            "id": "L15"
+        },
+        {
+            "concepts": [
+                "vergittern"
+            ],
+            "id": "L16"
+        },
+        {
+            "concepts": [
+                "gegittert",
+                "gegattert",
+                "gitterförmig",
+                "gatterig"
+            ],
+            "id": "L17"
+        },
+        {
+            "concepts": [
+                "Vorhang"
+            ],
+            "id": "L18"
+        },
+        {
+            "concepts": [
+                "Rollvorhang"
+            ],
+            "id": "L19"
+        },
+        {
+            "concepts": [
+                "Rouleau",
+                "Spalettladen"
+            ],
+            "id": "L20"
+        },
+        {
+            "concepts": [
+                "Fensterscheibe"
+            ],
+            "id": "L21"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "Glück",
+                "leicht",
+                "Glas"
+            ],
+            "id": "L22"
+        },
+        {
+            "concepts": [
+                "glasmunter",
+                "Fensterglas",
+                "Glas",
+                "Glasfenster"
+            ],
+            "id": "L23"
+        },
+        {
+            "concepts": [
+                "gläsern"
+            ],
+            "id": "L24"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "gläserig",
+                "glasig"
+            ],
+            "id": "L25"
+        },
+        {
+            "concepts": [
+                "Glasur"
+            ],
+            "id": "L26"
+        },
+        {
+            "concepts": [
+                "glasauern",
+                "glasen",
+                "glasieren"
+            ],
+            "id": "L27"
+        },
+        {
+            "concepts": [
+                "verglasen",
+                "Fenster",
+                "einglasen"
+            ],
+            "id": "L28"
+        },
+        {
+            "concepts": [
+                "Glaser",
+                "Glaserer",
+                "Glasflicker"
+            ],
+            "id": "L29"
+        },
+        {
+            "concepts": [
+                "einkitten"
+            ],
+            "id": "L30"
+        },
+        {
+            "concepts": [
+                "Kitt"
+            ],
+            "id": "L31"
+        },
+        {
+            "concepts": [
+                "Milchglas",
+                "Fensterglases",
+                "Arten",
+                "Butzenscheiben"
+            ],
+            "id": "L32"
+        },
+        {
+            "concepts": [
+                "Haussprüche",
+                "Haustür"
+            ],
+            "id": "M1a"
+        },
+        {
+            "concepts": [
+                "Fenstern",
+                "Haussprüche"
+            ],
+            "id": "M1b"
+        },
+        {
+            "concepts": [
+                "Haussprüche",
+                "Stalltür"
+            ],
+            "id": "M1c"
+        },
+        {
+            "concepts": [
+                "verschiedenen",
+                "Haussprüche",
+                "Räumen"
+            ],
+            "id": "M1d"
+        },
+        {
+            "concepts": [
+                "Haussegen"
+            ],
+            "id": "M2"
+        },
+        {
+            "concepts": [
+                "Blitz",
+                "Feuer",
+                "Schutzmittel",
+                "Hausschäden",
+                "volkstümliche"
+            ],
+            "id": "M3"
+        },
+        {
+            "concepts": [
+                "Hausheilige"
+            ],
+            "id": "M4"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Sprüche",
+                "beziehen",
+                "Vorstellungen",
+                "Haus",
+                "abergläubische",
+                "volkstümliche",
+                "sonstige"
+            ],
+            "id": "M5"
+        },
+        {
+            "concepts": [
+                "Mahl",
+                "Besitzer",
+                "Hauses",
+                "Übernahme",
+                "Hausnudel",
+                "feierlichen"
+            ],
+            "id": "M6"
+        },
+        {
+            "concepts": [
+                "behandeln",
+                "steigen",
+                "Höhe",
+                "aufs",
+                "Spatzen",
+                "springen",
+                "aufspringen",
+                "verächtlich",
+                "schmitzen",
+                "Dach",
+                "pfeifen",
+                "übers",
+                "schon",
+                "ausblasen",
+                "bringen",
+                "frei"
+            ],
+            "id": "N1"
+        },
+        {
+            "concepts": [
+                "Dach",
+                "Dacherei",
+                "Dachschiefer"
+            ],
+            "id": "N2"
+        },
+        {
+            "concepts": [
+                "Grabendach",
+                "flaches",
+                "Rohrdach",
+                "Dach",
+                "Dacharten"
+            ],
+            "id": "N2a"
+        },
+        {
+            "concepts": [
+                "Dachstuhl"
+            ],
+            "id": "N3"
+        },
+        {
+            "concepts": [
+                "dachen",
+                "aufsetzen",
+                "abbringen",
+                "Dachstuhl",
+                "abtragen"
+            ],
+            "id": "N4"
+        },
+        {
+            "concepts": [
+                "First",
+                "knüpfen",
+                "Vorstellungen",
+                "abergläubische",
+                "Dachfirst"
+            ],
+            "id": "N5"
+        },
+        {
+            "concepts": [
+                "Firstbalken"
+            ],
+            "id": "N6"
+        },
+        {
+            "concepts": [
+                "Anbringung",
+                "Firstbalkens",
+                "Hebmal",
+                "Firsttrunk",
+                "Feierlichkeiten"
+            ],
+            "id": "N7"
+        },
+        {
+            "concepts": [
+                "Träger",
+                "Firstsäule",
+                "Firstbaumes"
+            ],
+            "id": "N8"
+        },
+        {
+            "concepts": [
+                "Firstleiter",
+                "First"
+            ],
+            "id": "N9"
+        },
+        {
+            "concepts": [
+                "Dachreiter",
+                "kleine",
+                "First",
+                "Türmchen"
+            ],
+            "id": "N10"
+        },
+        {
+            "concepts": [
+                "Freßglocke",
+                "Glocke",
+                "Firsttürmchen",
+                "Klepper",
+                "Klöckeltruhe"
+            ],
+            "id": "N11"
+        },
+        {
+            "concepts": [
+                "Giebel",
+                "Dachgiebel"
+            ],
+            "id": "N12"
+        },
+        {
+            "concepts": [
+                "Giebel",
+                "Giebelmauer"
+            ],
+            "id": "N13"
+        },
+        {
+            "concepts": [
+                "Giebelarten"
+            ],
+            "id": "N14"
+        },
+        {
+            "concepts": [
+                "Knopf",
+                "Knauf",
+                "Kreuz",
+                "Giebelverzierungen",
+                "Roßgoschen"
+            ],
+            "id": "N15"
+        },
+        {
+            "concepts": [
+                "offenes",
+                "Giebelfeld",
+                "Gewandgang"
+            ],
+            "id": "N16"
+        },
+        {
+            "concepts": [
+                "Mauer",
+                "Mauerbank",
+                "unterster",
+                "aufliegender",
+                "Dachstuhlbalken"
+            ],
+            "id": "N17"
+        },
+        {
+            "concepts": [
+                "Sparren",
+                "Dachsparren"
+            ],
+            "id": "N18"
+        },
+        {
+            "concepts": [
+                "Sparren",
+                "Sparrenholz"
+            ],
+            "id": "N19"
+        },
+        {
+            "concepts": [
+                "zweier",
+                "Sparren",
+                "Gesperre",
+                "Verbindung"
+            ],
+            "id": "N20"
+        },
+        {
+            "concepts": [
+                "tragender",
+                "Querbalken",
+                "Bretten",
+                "unterster"
+            ],
+            "id": "N21"
+        },
+        {
+            "concepts": [
+                "Brettensteiger",
+                "Dachstuhls",
+                "Querbalken",
+                "Bretten",
+                "unterster",
+                "tragender",
+                "Schlafwandler"
+            ],
+            "id": "N22"
+        },
+        {
+            "concepts": [
+                "Hahnbalken",
+                "Querbalken",
+                "Bretten",
+                "obere"
+            ],
+            "id": "N23"
+        },
+        {
+            "concepts": [
+                "Längsbalken",
+                "Mauerbank",
+                "Stuhlbaum",
+                "obere"
+            ],
+            "id": "N24"
+        },
+        {
+            "concepts": [
+                "Stuhlsäule",
+                "Stützbaum"
+            ],
+            "id": "N25"
+        },
+        {
+            "concepts": [
+                "Gradträme",
+                "Spreizhölzer",
+                "Streben"
+            ],
+            "id": "N26"
+        },
+        {
+            "concepts": [
+                "Pfetten"
+            ],
+            "id": "N27"
+        },
+        {
+            "concepts": [
+                "Pfettenkopf"
+            ],
+            "id": "N28"
+        },
+        {
+            "concepts": [
+                "Rafen"
+            ],
+            "id": "N29"
+        },
+        {
+            "concepts": [
+                "Rafenholz",
+                "Rafen"
+            ],
+            "id": "N30"
+        },
+        {
+            "concepts": [
+                "Dachlatte",
+                "zahlen",
+                "Latte",
+                "Zeche"
+            ],
+            "id": "N31"
+        },
+        {
+            "concepts": [
+                "Lattelboden",
+                "Lattenhauer",
+                "Latte",
+                "Schmarotzer"
+            ],
+            "id": "N32"
+        },
+        {
+            "concepts": [
+                "latteln",
+                "versehen",
+                "Latten"
+            ],
+            "id": "N33"
+        },
+        {
+            "concepts": [
+                "Dach",
+                "Hohlkehle",
+                "Rafe"
+            ],
+            "id": "N34"
+        },
+        {
+            "concepts": [
+                "Rafel",
+                "Walm",
+                "Schopf",
+                "Vordach"
+            ],
+            "id": "N35"
+        },
+        {
+            "concepts": [
+                "Vorbaues",
+                "Überschuß",
+                "Überdachung",
+                "Gred"
+            ],
+            "id": "N36"
+        },
+        {
+            "concepts": [
+                "Sparrenverlängerung",
+                "Vorbau",
+                "Abzweigung",
+                "Schifter"
+            ],
+            "id": "N37"
+        },
+        {
+            "concepts": [
+                "Sparren",
+                "aneinander",
+                "anschiften",
+                "schiften",
+                "befestigen",
+                "Länge"
+            ],
+            "id": "N38"
+        },
+        {
+            "concepts": [
+                "Hirnbrett",
+                "Windhefte"
+            ],
+            "id": "N39"
+        },
+        {
+            "concepts": [
+                "Dach",
+                "decken",
+                "eindecken"
+            ],
+            "id": "N40"
+        },
+        {
+            "concepts": [
+                "Wind",
+                "Dach",
+                "abgedeckt"
+            ],
+            "id": "N41"
+        },
+        {
+            "concepts": [
+                "Dachdecker"
+            ],
+            "id": "N42"
+        },
+        {
+            "concepts": [
+                "Deckstroh"
+            ],
+            "id": "N43"
+        },
+        {
+            "concepts": [
+                "denen",
+                "aufliegt",
+                "Dachstangen",
+                "Stroh",
+                "Stangen"
+            ],
+            "id": "N44"
+        },
+        {
+            "concepts": [
+                "Ruten",
+                "Strohes",
+                "Befestigung",
+                "Dachwiden"
+            ],
+            "id": "N45"
+        },
+        {
+            "concepts": [
+                "firsten",
+                "oberste",
+                "Strohlage",
+                "legen"
+            ],
+            "id": "N46"
+        },
+        {
+            "concepts": [
+                "Dach",
+                "Dachschindel",
+                "Schindel"
+            ],
+            "id": "N47"
+        },
+        {
+            "concepts": [
+                "schindelleer",
+                "Schindelbaum",
+                "Schindel"
+            ],
+            "id": "N48"
+        },
+        {
+            "concepts": [
+                "Dachbretter",
+                "Rottschindel",
+                "Schindelarten"
+            ],
+            "id": "N49"
+        },
+        {
+            "concepts": [
+                "Dachbretter",
+                "Bayrische",
+                "Schindelnägel",
+                "Steine",
+                "Beschwerung"
+            ],
+            "id": "N50"
+        },
+        {
+            "concepts": [
+                "Schindler",
+                "Schindelmacher"
+            ],
+            "id": "N51"
+        },
+        {
+            "concepts": [
+                "Dach",
+                "Schindel"
+            ],
+            "id": "N52"
+        },
+        {
+            "concepts": [
+                "Dachkehle"
+            ],
+            "id": "N53"
+        },
+        {
+            "concepts": [
+                "Kehlbrett",
+                "Reschenladen"
+            ],
+            "id": "N54"
+        },
+        {
+            "concepts": [
+                "Dachrinne"
+            ],
+            "id": "N55"
+        },
+        {
+            "concepts": [
+                "Dachnusch",
+                "Hängerinne"
+            ],
+            "id": "N56"
+        },
+        {
+            "concepts": [
+                "Ablaufrinne"
+            ],
+            "id": "N57"
+        },
+        {
+            "concepts": [
+                "Dachtraufe"
+            ],
+            "id": "N58"
+        },
+        {
+            "concepts": [
+                "Dachinger",
+                "Schindelmesser",
+                "Werkzeug",
+                "Dachdeckerschemel",
+                "Dachdeckers",
+                "Dachbohrer"
+            ],
+            "id": "N59"
+        },
+        {
+            "concepts": [
+                "gelassen",
+                "zeigen",
+                "Loch",
+                "Zimmermann"
+            ],
+            "id": "O1"
+        },
+        {
+            "concepts": [
+                "Zimmermannsspruch",
+                "Zimmermann"
+            ],
+            "id": "O2"
+        },
+        {
+            "concepts": [
+                "unzünftiger",
+                "Zaunhase",
+                "Zimmermann"
+            ],
+            "id": "O3"
+        },
+        {
+            "concepts": [
+                "zimmern",
+                "Zimmermannshandwerk",
+                "treiben"
+            ],
+            "id": "O4"
+        },
+        {
+            "concepts": [
+                "Zimmerhütte",
+                "zimmern"
+            ],
+            "id": "O5"
+        },
+        {
+            "concepts": [
+                "Axt",
+                "finden",
+                "Stiel",
+                "lebt",
+                "alten",
+                "Hacke",
+                "Beil"
+            ],
+            "id": "O6"
+        },
+        {
+            "concepts": [
+                "Axt",
+                "Stiel",
+                "Helb",
+                "Schneide",
+                "Haus",
+                "Teile"
+            ],
+            "id": "O7"
+        },
+        {
+            "concepts": [
+                "Arten",
+                "Zimmermannshacke"
+            ],
+            "id": "O8"
+        },
+        {
+            "concepts": [
+                "hacken"
+            ],
+            "id": "O9"
+        },
+        {
+            "concepts": [
+                "verhacken",
+                "behacken",
+                "Hackstock",
+                "hacken"
+            ],
+            "id": "O10"
+        },
+        {
+            "concepts": [
+                "Hacke",
+                "Hieb",
+                "Hacker"
+            ],
+            "id": "O11"
+        },
+        {
+            "concepts": [
+                "zuhacken",
+                "zubeilen",
+                "fein",
+                "beilen"
+            ],
+            "id": "O12"
+        },
+        {
+            "concepts": [
+                "fühlen",
+                "Hobel",
+                "Blas"
+            ],
+            "id": "O13"
+        },
+        {
+            "concepts": [
+                "Hobel",
+                "Hobelbank"
+            ],
+            "id": "O14"
+        },
+        {
+            "concepts": [
+                "Hobeleisen",
+                "Hobels",
+                "Teile"
+            ],
+            "id": "O15"
+        },
+        {
+            "concepts": [
+                "Zimmermannhobels",
+                "Arten"
+            ],
+            "id": "O16"
+        },
+        {
+            "concepts": [
+                "hobeln"
+            ],
+            "id": "O17"
+        },
+        {
+            "concepts": [
+                "ungehobelt"
+            ],
+            "id": "O18"
+        },
+        {
+            "concepts": [
+                "Säge",
+                "ansetzen",
+                "zwickt"
+            ],
+            "id": "O19"
+        },
+        {
+            "concepts": [
+                "Sägebaum",
+                "Säge"
+            ],
+            "id": "O20"
+        },
+        {
+            "concepts": [
+                "Sägeblatt",
+                "Säge",
+                "Teile"
+            ],
+            "id": "O21"
+        },
+        {
+            "concepts": [
+                "Sägen",
+                "Arten"
+            ],
+            "id": "O22"
+        },
+        {
+            "concepts": [
+                "Sägezähne",
+                "Stellung",
+                "Schrank"
+            ],
+            "id": "O23"
+        },
+        {
+            "concepts": [
+                "Feile"
+            ],
+            "id": "O24"
+        },
+        {
+            "concepts": [
+                "Sägefeile"
+            ],
+            "id": "O25"
+        },
+        {
+            "concepts": [
+                "kommen",
+                "Hammer"
+            ],
+            "id": "O26"
+        },
+        {
+            "concepts": [
+                "Hammerwerk",
+                "Hammer",
+                "Kupferhammer"
+            ],
+            "id": "O27"
+        },
+        {
+            "concepts": [
+                "Hammers",
+                "Hammereisen",
+                "Teile"
+            ],
+            "id": "O28"
+        },
+        {
+            "concepts": [
+                "Hammerarten"
+            ],
+            "id": "O29"
+        },
+        {
+            "concepts": [
+                "nehmen",
+                "Zange",
+                "fassen",
+                "abzwicken"
+            ],
+            "id": "O30"
+        },
+        {
+            "concepts": [
+                "Backen",
+                "Maul",
+                "Zange",
+                "Arme",
+                "Teile"
+            ],
+            "id": "O31"
+        },
+        {
+            "concepts": [
+                "Lochzange",
+                "Zangenarten"
+            ],
+            "id": "O32"
+        },
+        {
+            "concepts": [
+                "Nabiger",
+                "Bohrer",
+                "Neiger"
+            ],
+            "id": "O33"
+        },
+        {
+            "concepts": [
+                "Bohrers",
+                "Teile"
+            ],
+            "id": "O34"
+        },
+        {
+            "concepts": [
+                "Bohrerarten"
+            ],
+            "id": "O35"
+        },
+        {
+            "concepts": [
+                "Schraubenzieher"
+            ],
+            "id": "O36"
+        },
+        {
+            "concepts": [
+                "Beileisen",
+                "Zimmermannswerkzeuge",
+                "Geräte",
+                "Spanklemme",
+                "Zimmerschnur"
+            ],
+            "id": "O37"
+        },
+        {
+            "concepts": [
+                "raspeln",
+                "feilen"
+            ],
+            "id": "O38"
+        },
+        {
+            "concepts": [
+                "hämmern"
+            ],
+            "id": "O39"
+        },
+        {
+            "concepts": [
+                "bohren"
+            ],
+            "id": "O40"
+        },
+        {
+            "concepts": [
+                "aufs",
+                "genau",
+                "Nagerl",
+                "Kopf",
+                "herausschießen",
+                "hängen",
+                "treffen",
+                "Nagel"
+            ],
+            "id": "O41"
+        },
+        {
+            "concepts": [
+                "Notnagel",
+                "Nagel",
+                "nagelneu",
+                "Nageleisen"
+            ],
+            "id": "O42"
+        },
+        {
+            "concepts": [
+                "nageln",
+                "arbeiten",
+                "fleißig"
+            ],
+            "id": "O44"
+        },
+        {
+            "concepts": [
+                "annageln",
+                "angenagelt",
+                "nageln",
+                "dumm",
+                "vernagelt",
+                "vernageln"
+            ],
+            "id": "O45"
+        },
+        {
+            "concepts": [
+                "Stangenarten",
+                "Balkengrößen",
+                "Bezeichnugen"
+            ],
+            "id": "O46"
+        },
+        {
+            "concepts": [
+                "Schreiner",
+                "Tischler",
+                "Kistler"
+            ],
+            "id": "O47"
+        },
+        {
+            "concepts": [
+                "Tischlerarbeit",
+                "Tischler",
+                "Möbeltischler"
+            ],
+            "id": "O48"
+        },
+        {
+            "concepts": [
+                "Tischlerei"
+            ],
+            "id": "O49"
+        },
+        {
+            "concepts": [
+                "bekannt",
+                "Geräte",
+                "mundartlichen",
+                "Tischlerwerkzeuge",
+                "Ausdrücke"
+            ],
+            "id": "O50"
+        },
+        {
+            "concepts": [
+                "tischlern"
+            ],
+            "id": "O51"
+        },
+        {
+            "concepts": [
+                "Geld",
+                "geht",
+                "Zaun"
+            ],
+            "id": "P1"
+        },
+        {
+            "concepts": [
+                "Zaunbaum",
+                "Zaun",
+                "zaundürrr"
+            ],
+            "id": "P2"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "Ehfaden",
+                "Zaunarten",
+                "Fried",
+                "Scheiter",
+                "Heg",
+                "Hag",
+                "Gehag",
+                "Bestimmung"
+            ],
+            "id": "P3"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Gattern",
+                "Zaun",
+                "Zauntor"
+            ],
+            "id": "P4"
+        },
+        {
+            "concepts": [
+                "Zauntor",
+                "Gattergeld",
+                "Gattern"
+            ],
+            "id": "P5"
+        },
+        {
+            "concepts": [
+                "Schußgatter",
+                "Gatterarten",
+                "Schlag"
+            ],
+            "id": "P6"
+        },
+        {
+            "concepts": [
+                "Gattern",
+                "Verschlußvorrichtungen",
+                "Zauntor"
+            ],
+            "id": "P7"
+        },
+        {
+            "concepts": [
+                "vergattern",
+                "gattern",
+                "Zauntor"
+            ],
+            "id": "P8"
+        },
+        {
+            "concepts": [
+                "nieder",
+                "drüber",
+                "schlupfen",
+                "Hunde",
+                "Steckel",
+                "Überstieg",
+                "Stiegel"
+            ],
+            "id": "P9"
+        },
+        {
+            "concepts": [
+                "Stiegelhupfer",
+                "Zaunüberstieg",
+                "Stiegel"
+            ],
+            "id": "P10"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "stiegeln",
+                "Zaun"
+            ],
+            "id": "P11"
+        },
+        {
+            "concepts": [
+                "Zaunsäule",
+                "Zaunart",
+                "Bagstall",
+                "Riegelsäule"
+            ],
+            "id": "P12"
+        },
+        {
+            "concepts": [
+                "Zaunpflock",
+                "Zaunstüpfel",
+                "zählen"
+            ],
+            "id": "P13"
+        },
+        {
+            "concepts": [
+                "regnet",
+                "Rante",
+                "Zaunstange",
+                "Zaunstecken",
+                "Randel",
+                "spät",
+                "Riedel",
+                "weht",
+                "kannst",
+                "komme",
+                "Riegel",
+                "Graßachprügel"
+            ],
+            "id": "P14"
+        },
+        {
+            "concepts": [
+                "Rantenbaum",
+                "Zwerchrante",
+                "Rante",
+                "Zaunstange"
+            ],
+            "id": "P15"
+        },
+        {
+            "concepts": [
+                "Spaltholz",
+                "Spelte",
+                "Spelten",
+                "führen",
+                "verfängliche",
+                "auflehnen",
+                "Reden",
+                "Zaunmachen"
+            ],
+            "id": "P16"
+        },
+        {
+            "concepts": [
+                "Spelte",
+                "speltendürr"
+            ],
+            "id": "P17"
+        },
+        {
+            "concepts": [
+                "Zaunbretter"
+            ],
+            "id": "P18"
+        },
+        {
+            "concepts": [
+                "Zaunlatten"
+            ],
+            "id": "P19"
+        },
+        {
+            "concepts": [
+                "Gerten",
+                "bähen",
+                "Widen",
+                "Zaunhölzer",
+                "Gaschten",
+                "Verbinden",
+                "geschmeidig"
+            ],
+            "id": "P20"
+        },
+        {
+            "concepts": [
+                "zäunen",
+                "Zaun"
+            ],
+            "id": "P21"
+        },
+        {
+            "concepts": [
+                "einzäunen"
+            ],
+            "id": "P22"
+        },
+        {
+            "concepts": [
+                "Knecht",
+                "Zauner",
+                "Zaunes",
+                "Erhaltung",
+                "sorgen"
+            ],
+            "id": "P23"
+        },
+        {
+            "concepts": [
+                "Zäune",
+                "zwei",
+                "Weg",
+                "Bizent",
+                "Zäunen"
+            ],
+            "id": "P24"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Narrenzaun",
+                "Vorrichtung",
+                "gehen",
+                "Stange",
+                "Pflöcken",
+                "zwei",
+                "Schranken",
+                "anzuzeigen",
+                "darf",
+                "darübergelegten"
+            ],
+            "id": "P25"
+        },
+        {
+            "concepts": [
+                "verbotenen",
+                "anzeigt",
+                "Kreuz",
+                "Pfändkreuz",
+                "Weg"
+            ],
+            "id": "P26"
+        },
+        {
+            "concepts": [
+                "Michaeli",
+                "Sprüche",
+                "Wegfreiheit",
+                "vorbei",
+                "Felder",
+                "Wiesen",
+                "betreffend",
+                "frei"
+            ],
+            "id": "P27"
+        }
+    ]
+}

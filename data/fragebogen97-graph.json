@@ -1,0 +1,4395 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "gegessen"
+                ],
+                [
+                    "äßig"
+                ],
+                [
+                    "fressen"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "Brocken"
+                ],
+                [
+                    "nehmen"
+                ],
+                [
+                    "schon"
+                ],
+                [
+                    "übel"
+                ],
+                [
+                    "Gusto"
+                ],
+                [
+                    "geschmächig"
+                ],
+                [
+                    "kosten"
+                ],
+                [
+                    "Kost"
+                ],
+                [
+                    "süßen"
+                ],
+                [
+                    "süßlich"
+                ],
+                [
+                    "hantig"
+                ],
+                [
+                    "sagen"
+                ],
+                [
+                    "Trinken"
+                ],
+                [
+                    "Menge"
+                ],
+                [
+                    "Trunk"
+                ],
+                [
+                    "saufen"
+                ],
+                [
+                    "tun"
+                ],
+                [
+                    "Maß"
+                ],
+                [
+                    "schlürfen"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Bezeichnung"
+                ],
+                [
+                    "Suppe"
+                ],
+                [
+                    "Frühstück"
+                ],
+                [
+                    "Untern"
+                ],
+                [
+                    "vespern"
+                ],
+                [
+                    "Wein"
+                ],
+                [
+                    "Ausschank"
+                ],
+                [
+                    "guter"
+                ],
+                [
+                    "Kellner"
+                ],
+                [
+                    "Verkäufer"
+                ],
+                [
+                    "Tisch"
+                ],
+                [
+                    "hast"
+                ],
+                [
+                    "zahlen"
+                ],
+                [
+                    "müssen"
+                ],
+                [
+                    "Zeche"
+                ],
+                [
+                    "zechen"
+                ]
+            ],
+            "2": [
+                [
+                    "wenig"
+                ],
+                [
+                    "schlucken"
+                ],
+                [
+                    "Schluck"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "jausnen"
+                ],
+                [
+                    "einnehmen"
+                ]
+            ],
+            "3": [
+                [
+                    "Appetit"
+                ],
+                [
+                    "Getränk"
+                ],
+                [
+                    "Wort"
+                ],
+                [
+                    "Rausch"
+                ],
+                [
+                    "Gast"
+                ],
+                [
+                    "Schank"
+                ],
+                [
+                    "schön"
+                ],
+                [
+                    "gesalzen"
+                ]
+            ],
+            "4": [
+                [
+                    "bitter"
+                ]
+            ],
+            "5": [
+                [
+                    "bedeutet"
+                ],
+                [
+                    "Suff"
+                ]
+            ],
+            "6": [
+                [
+                    "süß"
+                ],
+                [
+                    "Formen"
+                ],
+                [
+                    "Mahl"
+                ],
+                [
+                    "Wirt"
+                ]
+            ],
+            "9": [
+                [
+                    "lassen"
+                ]
+            ],
+            "10": [
+                [
+                    "Essen"
+                ]
+            ],
+            "12": [
+                [
+                    "schmecken"
+                ]
+            ],
+            "14": [
+                [
+                    "sauer"
+                ]
+            ],
+            "21": [
+                [
+                    "trinken"
+                ]
+            ],
+            "35": [
+                [
+                    "Speise"
+                ]
+            ],
+            "45": [
+                [
+                    "essen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Brei",
+                    "dicker"
+                ],
+                [
+                    "schmeckt",
+                    "schmecken"
+                ],
+                [
+                    "riechen",
+                    "schmecken"
+                ],
+                [
+                    "schmecken",
+                    "reden"
+                ],
+                [
+                    "gesalzen",
+                    "bedeutet"
+                ],
+                [
+                    "gesalzen",
+                    "wenig"
+                ],
+                [
+                    "gesalzen",
+                    "Wort"
+                ],
+                [
+                    "sauern",
+                    "sauer"
+                ],
+                [
+                    "Wort",
+                    "überhaupt"
+                ],
+                [
+                    "Wort",
+                    "verwendet"
+                ],
+                [
+                    "Bedeutung",
+                    "bitter"
+                ],
+                [
+                    "bitter",
+                    "wär"
+                ],
+                [
+                    "schlicken",
+                    "schlucken"
+                ],
+                [
+                    "Suff",
+                    "Schluck"
+                ],
+                [
+                    "gut",
+                    "schlecht"
+                ],
+                [
+                    "Untern",
+                    "Gabelfrühstück"
+                ],
+                [
+                    "Untern",
+                    "Jause"
+                ],
+                [
+                    "lassen",
+                    "Speise"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "jausnen",
+                    "einnehmen",
+                    "untern"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 0,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trinken"
+            ],
+            "source": 0,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 0,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 1,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 1,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mahl"
+            ],
+            "source": 1,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mahl"
+            ],
+            "source": 1,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mahl"
+            ],
+            "source": 1,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen"
+            ],
+            "source": 3,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 3,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hast"
+            ],
+            "source": 3,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 4,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 5,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gegessen"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "äßig"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 8,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 8,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 8,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 8,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 8,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 8,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 8,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Appetit"
+            ],
+            "source": 9,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Appetit"
+            ],
+            "source": 9,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fressen"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 10,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schon"
+            ],
+            "source": 10,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 10,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 14,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 14,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 14,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 14,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 15,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 15,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 15,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 15,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 15,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 15,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 18,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 18,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 18,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 18,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 18,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 20,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 20,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 20,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Essen"
+            ],
+            "source": 20,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 20,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 20,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 21,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 22,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 22,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 22,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 22,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 22,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 24,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 24,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 24,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 24,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 25,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sagen"
+            ],
+            "source": 25,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 25,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 25,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 25,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brei",
+                "dicker"
+            ],
+            "source": 26,
+            "target": 27,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wenig"
+            ],
+            "source": 31,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wenig"
+            ],
+            "source": 31,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Menge"
+            ],
+            "source": 31,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brocken"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlucken"
+            ],
+            "source": 32,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlucken"
+            ],
+            "source": 32,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "müssen"
+            ],
+            "source": 32,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 35,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 35,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 36,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 36,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 37,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 37,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen",
+                "Speise"
+            ],
+            "source": 37,
+            "target": 183,
+            "target_group": [
+                2,
+                1,
+                17
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 37,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tisch"
+            ],
+            "source": 39,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmeckt",
+                "schmecken"
+            ],
+            "source": 40,
+            "target": 41,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 40,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 40,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 40,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "riechen",
+                "schmecken"
+            ],
+            "source": 41,
+            "target": 43,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schmecken",
+                "reden"
+            ],
+            "source": 41,
+            "target": 65,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schön"
+            ],
+            "source": 41,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 41,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 41,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut",
+                "schlecht"
+            ],
+            "source": 41,
+            "target": 114,
+            "target_group": [
+                2,
+                1,
+                14
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schön"
+            ],
+            "source": 41,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 42,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 42,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "übel"
+            ],
+            "source": 43,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 43,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 43,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gusto"
+            ],
+            "source": 45,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschmächig"
+            ],
+            "source": 46,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Appetit"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 51,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 51,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 51,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kosten"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speise"
+            ],
+            "source": 53,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kost"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süß"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süß"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süß"
+            ],
+            "source": 58,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süß"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süß"
+            ],
+            "source": 59,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gesalzen",
+                "bedeutet"
+            ],
+            "source": 59,
+            "target": 67,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gesalzen",
+                "wenig"
+            ],
+            "source": 59,
+            "target": 68,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 59,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 59,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gesalzen"
+            ],
+            "source": 59,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süß"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süßen"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "süßlich"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmecken"
+            ],
+            "source": 65,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 66,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 66,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gesalzen",
+                "Wort"
+            ],
+            "source": 67,
+            "target": 68,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 67,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 67,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 67,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort",
+                "überhaupt"
+            ],
+            "source": 67,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 67,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 67,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 67,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gesalzen"
+            ],
+            "source": 67,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort",
+                "verwendet"
+            ],
+            "source": 68,
+            "target": 74,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 68,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gesalzen"
+            ],
+            "source": 68,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 69,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 69,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauern",
+                "sauer"
+            ],
+            "source": 70,
+            "target": 71,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 70,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sauer"
+            ],
+            "source": 71,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutung",
+                "bitter"
+            ],
+            "source": 74,
+            "target": 75,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bitter",
+                "wär"
+            ],
+            "source": 74,
+            "target": 79,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bitter"
+            ],
+            "source": 74,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 74,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bitter"
+            ],
+            "source": 75,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bitter"
+            ],
+            "source": 75,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schön"
+            ],
+            "source": 75,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hantig"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bedeutet"
+            ],
+            "source": 79,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bitter"
+            ],
+            "source": 79,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 84,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 84,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 84,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 84,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 84,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 84,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 84,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 84,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 85,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 85,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 85,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 85,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 85,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Getränk"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Getränk"
+            ],
+            "source": 86,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Getränk"
+            ],
+            "source": 87,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 88,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trunk"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tun"
+            ],
+            "source": 89,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "saufen"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 95,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 95,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 95,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 95,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 96,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 96,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 96,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Suff"
+            ],
+            "source": 98,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Suff"
+            ],
+            "source": 98,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Suff"
+            ],
+            "source": 98,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlicken",
+                "schlucken"
+            ],
+            "source": 101,
+            "target": 102,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Suff"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Suff",
+                "Schluck"
+            ],
+            "source": 103,
+            "target": 105,
+            "target_group": [
+                2,
+                1,
+                13
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schluck"
+            ],
+            "source": 103,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Suff"
+            ],
+            "source": 104,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schluck"
+            ],
+            "source": 105,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 106,
+            "target": 161,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlürfen"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bezeichnung"
+            ],
+            "source": 110,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 111,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 111,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trinken"
+            ],
+            "source": 112,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rausch"
+            ],
+            "source": 118,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rausch"
+            ],
+            "source": 118,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rausch"
+            ],
+            "source": 119,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wein"
+            ],
+            "source": 123,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mahl"
+            ],
+            "source": 124,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mahl"
+            ],
+            "source": 124,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mahl"
+            ],
+            "source": 125,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Suppe"
+            ],
+            "source": 126,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frühstück"
+            ],
+            "source": 126,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 127,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 127,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Untern",
+                "Gabelfrühstück"
+            ],
+            "source": 128,
+            "target": 129,
+            "target_group": [
+                2,
+                1,
+                15
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Untern",
+                "Jause"
+            ],
+            "source": 128,
+            "target": 132,
+            "target_group": [
+                2,
+                1,
+                16
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "essen"
+            ],
+            "source": 129,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Untern"
+            ],
+            "source": 129,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jausnen",
+                "einnehmen",
+                "untern"
+            ],
+            "source": 129,
+            "target": 133,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "jausnen"
+            ],
+            "source": 129,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einnehmen"
+            ],
+            "source": 129,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vespern"
+            ],
+            "source": 132,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jausnen"
+            ],
+            "source": 133,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einnehmen"
+            ],
+            "source": 133,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausschank"
+            ],
+            "source": 140,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schank"
+            ],
+            "source": 149,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schank"
+            ],
+            "source": 149,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schank"
+            ],
+            "source": 150,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gast"
+            ],
+            "source": 155,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gast"
+            ],
+            "source": 155,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gast"
+            ],
+            "source": 156,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wirt"
+            ],
+            "source": 161,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wirt"
+            ],
+            "source": 161,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wirt"
+            ],
+            "source": 161,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wirt"
+            ],
+            "source": 163,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wirt"
+            ],
+            "source": 163,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wirt"
+            ],
+            "source": 165,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kellner"
+            ],
+            "source": 168,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verkäufer"
+            ],
+            "source": 176,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 183,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zahlen"
+            ],
+            "source": 184,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zeche"
+            ],
+            "source": 188,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zechen"
+            ],
+            "source": 191,
+            "target": 192,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Essen",
+                "hält",
+                "Formen",
+                "zusammen",
+                "essen",
+                "Leib",
+                "Trinken",
+                "Seele"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Essen",
+                "lautes",
+                "Mahl",
+                "fürnehmes"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "essend",
+                "eßbar"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "hast",
+                "Essen",
+                "Geesse",
+                "nehmen",
+                "Art",
+                "Eßach",
+                "Esserei"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "mitessen",
+                "essen"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "essende",
+                "Speise",
+                "Ware",
+                "Eßwaren"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "gaß",
+                "gegessen"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "gegessen",
+                "ungegessen",
+                "ungaß"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "äßig",
+                "essen",
+                "leicht"
+            ],
+            "id": "A9a"
+        },
+        {
+            "concepts": [
+                "äßig",
+                "gutem",
+                "Appetit"
+            ],
+            "id": "A9b"
+        },
+        {
+            "concepts": [
+                "frißt",
+                "Formen",
+                "fressen",
+                "Meinige",
+                "schon",
+                "gefressen"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Das",
+                "Fressen"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "einhingefressen",
+                "Ausgefressener",
+                "fressen",
+                "Haare",
+                "einhinfressen"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "gefräßig"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "übrig",
+                "aufputzen"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "mag",
+                "Getreide",
+                "derbauen",
+                "Aß",
+                "Speise",
+                "nötige",
+                "Lebensunterhalt"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Fürspeise"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Zuspeise",
+                "Beilage"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Speise",
+                "Fleischspeise"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "gespeist",
+                "speisen",
+                "gespiesen"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "schlechte",
+                "Essen",
+                "schlechtes",
+                "Fraß",
+                "Speise"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "kauen",
+                "Formen"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "unappetitlich",
+                "essen",
+                "sötern"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "patschen",
+                "schmacketzen",
+                "gatschen",
+                "schmatzen"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "mampfen",
+                "Munde",
+                "bampfen",
+                "stopfen",
+                "vollem",
+                "essen"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "rühren",
+                "mehr",
+                "essen",
+                "papp",
+                "anbampfen",
+                "voll",
+                "sagen"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Brei",
+                "Bampf",
+                "dicker"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Brei",
+                "dicker",
+                "bampfig"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Bampferei"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "schlingen",
+                "hinunterwürgen"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "würgen",
+                "sättiger",
+                "unausstehlicher",
+                "harter",
+                "Bissen",
+                "rennen",
+                "Hals",
+                "Schrecken",
+                "stecken",
+                "Kinder",
+                "geblieben",
+                "Mensch",
+                "Herumwandern",
+                "Ra"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Fitzel",
+                "bitzel",
+                "wenig",
+                "bissel",
+                "Lützel",
+                "Bröckel",
+                "kleine",
+                "Menge",
+                "Trebelein",
+                "bißchen",
+                "Gräusel",
+                "Ausdrücke"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Trümmer",
+                "müssen",
+                "Brocken",
+                "gehn",
+                "schlucken",
+                "harte"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Brocken",
+                "großer",
+                "Mensch",
+                "Unbrocken"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "herumbrocken",
+                "brocken"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "nehmen",
+                "herausnehmen",
+                "Speise"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Speise",
+                "austeilen"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "Speise",
+                "stehen"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "servieren",
+                "Essen",
+                "auftragen"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Tisch",
+                "abräumen"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "schmecken",
+                "schmeckt",
+                "schmeckst",
+                "Zunge",
+                "läßt"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "kaum",
+                "schmecken",
+                "hochdeutsch",
+                "schmeckt",
+                "schön",
+                "schmeck",
+                "gut",
+                "Schmeckst",
+                "merkst",
+                "Stadt",
+                "schon",
+                "schiech",
+                "schlecht",
+                "geschmeckt",
+                "leidig",
+                "reden"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "schmecken",
+                "derschmecken"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "schmeckelen",
+                "übel",
+                "schmecken"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "Geschmackssinn",
+                "Schmecke"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Gusto",
+                "Geschmack",
+                "Geschmachen",
+                "Geruch"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "geschmach",
+                "geschmächig",
+                "schmackhaft",
+                "schmacklich"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "abgeschmach",
+                "abgeschmackt"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "Geschmachel",
+                "Beigeschmack"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "übel",
+                "riechend",
+                "schmackós"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "darauf",
+                "Gusto",
+                "Appetit"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "essen",
+                "geschmächig",
+                "Appetit"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "appetitlich",
+                "gustiós"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "Speise",
+                "kosten"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "verkosten",
+                "kosten"
+            ],
+            "id": "A54"
+        },
+        {
+            "concepts": [
+                "gegeben",
+                "Kost",
+                "ausgedrückt"
+            ],
+            "id": "A55"
+        },
+        {
+            "concepts": [
+                "Kost",
+                "Kostkind"
+            ],
+            "id": "A56"
+        },
+        {
+            "concepts": [
+                "Zieler",
+                "Ostern",
+                "Dienstboten",
+                "Weihnachten",
+                "Speiseanteil",
+                "Koster"
+            ],
+            "id": "A57"
+        },
+        {
+            "concepts": [
+                "süß",
+                "süßesten",
+                "süßer"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "süß",
+                "gesalzen",
+                "wenig",
+                "bedeutet"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "süß",
+                "judensüß"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Süßigkeit",
+                "Süße"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "süßen"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "trocknen",
+                "süßen",
+                "aussüßen",
+                "Sonne",
+                "Milchgeschirre"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "süßelnd",
+                "süßlich"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "süßeln",
+                "süßlich",
+                "reden",
+                "schmecken"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "geht",
+                "heute",
+                "süß",
+                "Milch",
+                "Arbeit",
+                "saurer",
+                "saures",
+                "Gesicht",
+                "sauersten",
+                "sauer"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "gesalzen",
+                "Wort",
+                "stark",
+                "überhaupt",
+                "salzig",
+                "Kommt",
+                "sauer",
+                "bedeutet"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "gesalzen",
+                "Wort",
+                "wenig",
+                "verwendet",
+                "anstatt",
+                "lind"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "sauer",
+                "blitzsauer"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "sauern",
+                "sauer"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "dersauern",
+                "sauern",
+                "sauer",
+                "umeinandersauern"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "säuern",
+                "sauer"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Säure",
+                "Sauerkeit"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "verwendet",
+                "bitter",
+                "überhaupt",
+                "bittersten",
+                "hochdeutschen",
+                "Bedeutung",
+                "wär",
+                "bitterer"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "regnet",
+                "bitter",
+                "schön",
+                "Bedeutung",
+                "laßt",
+                "grüßen",
+                "gar"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "bittersüß"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Bittere",
+                "Bitterkeit"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "verbittert",
+                "Leben"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "handi",
+                "böse",
+                "Unterschied",
+                "besteht",
+                "hantig",
+                "bitter",
+                "hamdi",
+                "unwillig",
+                "wär",
+                "Sinn",
+                "grantig",
+                "bedeutet"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "hantig",
+                "gallhantig"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Hant",
+                "Hante",
+                "bedeutet"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "bitterlich",
+                "hantelet"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "bitter",
+                "schmecken",
+                "hantelen"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Tabak",
+                "Formen",
+                "schröpfen",
+                "eins",
+                "lassen",
+                "sagen",
+                "Pfeiferl",
+                "trinken"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "trinken",
+                "Trinkstube",
+                "vertrinken",
+                "verseideln"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Getränk",
+                "Trinkach"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "bestimmte",
+                "Menge",
+                "Getränkes",
+                "Getränk",
+                "Trinken"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Trinkel",
+                "Maß"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Trunk",
+                "tun"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Trunk",
+                "Tröstertrunk",
+                "Trunkpitsche"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "vollsaufen",
+                "gesuffen",
+                "Bürstenbinder",
+                "gesoffen",
+                "saufen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "saufen",
+                "dersaufen",
+                "zutrinken",
+                "ansaufen"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Zusauf",
+                "Zusuff"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Gesüff",
+                "gsiif"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "trinken",
+                "gut",
+                "süffig"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "immerfort",
+                "trinken",
+                "süffeln",
+                "sechteln"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Sechtlerei",
+                "Zecherei",
+                "lange",
+                "Sechtelwerk",
+                "dauernde"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Süffling",
+                "Suff",
+                "Besuff",
+                "Sechterling",
+                "Trinker",
+                "Säufer",
+                "Saftler"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Saufbruder",
+                "Saufaus",
+                "Trunkenbold",
+                "Gewohnheitssäufer"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Säuferwahnsinn"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "schlicken",
+                "schlucken",
+                "schluck"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "schlicken",
+                "schlucken",
+                "verschlucken"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Suff",
+                "tun",
+                "Schluck",
+                "Schlick"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Suff",
+                "muß",
+                "Sauferei",
+                "Tage",
+                "kommen"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Suff",
+                "Hundssuff",
+                "Schluck",
+                "Kuhschluck"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "armer",
+                "guter",
+                "Schlucker"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Tag",
+                "Kaffee",
+                "schlappern",
+                "Maß",
+                "drückt",
+                "leppern",
+                "leppert",
+                "süpfeln",
+                "schlürfen",
+                "ganzen",
+                "lappeln",
+                "schlürft",
+                "supfen",
+                "Behagen",
+                "Wie"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "vergeuden",
+                "verleppern",
+                "schlürfen",
+                "abhinschlürfen"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Lêper",
+                "abgestandenes",
+                "Getränk",
+                "Lêpe",
+                "fades"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "dient",
+                "Schluck",
+                "einmaliger",
+                "gieriger",
+                "Schlepperer",
+                "Bezeichnung",
+                "Landbevölkerung",
+                "Städters"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "glucksend",
+                "trinken"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "schnell",
+                "Zügen",
+                "Schlucken",
+                "kleinen",
+                "langsam",
+                "trinken",
+                "langen",
+                "Ausdrücke"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "trinken",
+                "pipperln",
+                "gern",
+                "häufig"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "gut",
+                "schlecht",
+                "einschenken"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "nachschenken"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "mischen",
+                "Getränke"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Gemisch",
+                "Mischkulanz"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Rausch",
+                "schläft"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Rausch",
+                "Eselsrausch"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Kamerad",
+                "Habemus",
+                "Sturm",
+                "Mugel",
+                "Much",
+                "Stibus",
+                "Tusel",
+                "angeben",
+                "Tschaggele",
+                "Fahn",
+                "Säbel",
+                "Brand",
+                "Stobax",
+                "Haarbeutel",
+                "Strich",
+                "Dampus",
+                "Schwindel",
+                "Taumel",
+                "Rausch",
+                "Vetter",
+                "Hieb",
+                "Dampf",
+                "Sportele",
+                "Affe",
+                "genaue",
+                "Spitz",
+                "Fet",
+                "Schwips",
+                "Schuß"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "angesäuselt",
+                "richtig",
+                "berauscht",
+                "stotzenvoll",
+                "zugeluckt",
+                "angeschosen",
+                "zugedeckt",
+                "betrunken",
+                "benebelt",
+                "angezunden",
+                "rauschig",
+                "schwer",
+                "angebrannt",
+                "beschwipst",
+                "geladen",
+                "besoffen"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Rauschiger",
+                "Berauschter"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Glas",
+                "Berauschtheit",
+                "tief",
+                "geschaut",
+                "gehaut",
+                "Teil",
+                "Kopfe",
+                "geguckt",
+                "Schnur",
+                "Bezeichnung",
+                "aufgelegt",
+                "Wein",
+                "gestiegen"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Mahlzeit",
+                "Mahlzeiten",
+                "Mahl",
+                "Mahlen"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Gastung",
+                "Gastmahl",
+                "Mahl"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Frühstück",
+                "Suppe",
+                "Imbiß",
+                "Vormeß"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Suppe",
+                "essen",
+                "Mahl",
+                "frühstücken"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Gabelfrühstück",
+                "Frühstück",
+                "Zwischen",
+                "Jause",
+                "Vormarende",
+                "Untern",
+                "zweites",
+                "Untermahl",
+                "Üntermischel"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Gabelfrühstück",
+                "einnehmen",
+                "untern",
+                "Zwischenessen",
+                "jausnen",
+                "gen",
+                "essen",
+                "Untern"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Mittagmahl"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Mittag",
+                "essen"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Vespermahlzeit",
+                "Marendlein",
+                "Marende",
+                "Jause",
+                "verschiedenen",
+                "vespern",
+                "Stellen",
+                "Untern",
+                "umherwandeln"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "einnehmen",
+                "untern",
+                "marenden",
+                "jausnen",
+                "Nachmittagsmahlzeit",
+                "vespern"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "zugrunde",
+                "jausnen",
+                "aufmarenden",
+                "richten",
+                "aufessen"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Abendmahl",
+                "einnehmen",
+                "nachtmahlen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Restauration",
+                "gehen",
+                "Wirtshaus",
+                "Wirte"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Tschecherl",
+                "Beisel",
+                "Gasthaus",
+                "Tschoch",
+                "minderes",
+                "kleines"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Taferne",
+                "Schenke"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Buschenschenke"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Wein",
+                "heurigen",
+                "Ausschank"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "ausgesteckt"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Weinlaub",
+                "Kronen",
+                "darstellend",
+                "Hopfen",
+                "etwa",
+                "Holz",
+                "gibt",
+                "Wirthauszeichen"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Stehweinhalle",
+                "Weinstube"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Hotel",
+                "Gasthof"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "kleinere",
+                "Herberge"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Kaffeehaus",
+                "Café"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Kaffeesieder"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "spielen",
+                "Billard"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Geschlecht",
+                "Schank"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Schank",
+                "Ausschank",
+                "Weinschank",
+                "Schnapsschank",
+                "Schankzimmer"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Wirtsstube"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Extrazimmer"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Stammlokal"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Gastgarten"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "seltener",
+                "Gast"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "Gastrecht",
+                "Stammgast",
+                "Gast",
+                "gastfrei",
+                "Mühlgast"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "weiblicher",
+                "Gästin",
+                "Gast"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "gastlich"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Gaste",
+                "gästigen"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Nachtquartier"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "Wirt",
+                "guter",
+                "schlauer"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Wirtin"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Wirt",
+                "Wirtsleute",
+                "Heckenwirt"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Schenkwirt",
+                "Leitgeb"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "offnen",
+                "Wirt",
+                "Krugelwirt",
+                "Bierzapfler",
+                "Schank"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "wirtlich",
+                "unwirtlich"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "feine",
+                "schöne",
+                "Wirtschaft",
+                "Sauwirtschaft",
+                "Gastwirtschaft"
+            ],
+            "id": "F32"
+        },
+        {
+            "concepts": [
+                "Kellerer",
+                "Kellner"
+            ],
+            "id": "F33"
+        },
+        {
+            "concepts": [
+                "Kellnerin"
+            ],
+            "id": "F34"
+        },
+        {
+            "concepts": [
+                "Bierjunge",
+                "Piccolo"
+            ],
+            "id": "F35"
+        },
+        {
+            "concepts": [
+                "Kellnerei",
+                "Holzverschlag",
+                "Weinkrüge",
+                "Gläser"
+            ],
+            "id": "F36"
+        },
+        {
+            "concepts": [
+                "Zahlkellner",
+                "Speisenkellner",
+                "Kellner"
+            ],
+            "id": "F37"
+        },
+        {
+            "concepts": [
+                "Büfettdame",
+                "Kaffeehauskassierin"
+            ],
+            "id": "F38"
+        },
+        {
+            "concepts": [
+                "Brotjunge"
+            ],
+            "id": "F39"
+        },
+        {
+            "concepts": [
+                "Salamiverkäufer"
+            ],
+            "id": "F40"
+        },
+        {
+            "concepts": [
+                "Bäckereien",
+                "Verkäufer",
+                "Brezeln"
+            ],
+            "id": "F41"
+        },
+        {
+            "concepts": [
+                "Fruchteisverkäufer"
+            ],
+            "id": "F42"
+        },
+        {
+            "concepts": [
+                "Zeitungsverkäufer"
+            ],
+            "id": "F43"
+        },
+        {
+            "concepts": [
+                "Losverkäufer",
+                "Gottscheewerer"
+            ],
+            "id": "F44"
+        },
+        {
+            "concepts": [
+                "landesübliche",
+                "Verkäufer",
+                "sonstige"
+            ],
+            "id": "F45"
+        },
+        {
+            "concepts": [
+                "bestellen"
+            ],
+            "id": "F46"
+        },
+        {
+            "concepts": [
+                "Speisenkarte"
+            ],
+            "id": "F47"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "reservieren",
+                "Speise",
+                "Tisch"
+            ],
+            "id": "F48"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "zahlende",
+                "zahlen",
+                "Viertel",
+                "Bier",
+                "Zeit"
+            ],
+            "id": "F49"
+        },
+        {
+            "concepts": [
+                "hast",
+                "we",
+                "halt",
+                "überzahlt",
+                "schön",
+                "dasmal",
+                "ausgezahlt",
+                "zahlen",
+                "derzahlen",
+                "zahlt",
+                "aufzahlen"
+            ],
+            "id": "F50"
+        },
+        {
+            "concepts": [
+                "schönes",
+                "Trinkgeld",
+                "geben"
+            ],
+            "id": "F51"
+        },
+        {
+            "concepts": [
+                "gesalzen",
+                "Rechnung",
+                "Wirt",
+                "gemacht",
+                "gepfeffert",
+                "stellen"
+            ],
+            "id": "F52"
+        },
+        {
+            "concepts": [
+                "macht",
+                "ankreiden",
+                "schuldig",
+                "müssen",
+                "bezahlen",
+                "Zeche",
+                "lassen",
+                "durchgehen",
+                "prellen",
+                "beliben",
+                "aufschreiben"
+            ],
+            "id": "F53"
+        },
+        {
+            "concepts": [
+                "Zechenschulden",
+                "Tafel",
+                "vermerkt"
+            ],
+            "id": "F54"
+        },
+        {
+            "concepts": [
+                "Zechpreller",
+                "Zeche"
+            ],
+            "id": "F55"
+        },
+        {
+            "concepts": [
+                "zechen"
+            ],
+            "id": "F56"
+        },
+        {
+            "concepts": [
+                "bezecht",
+                "verzechen",
+                "zechen"
+            ],
+            "id": "F57"
+        },
+        {
+            "concepts": [
+                "Zecher"
+            ],
+            "id": "F58"
+        }
+    ]
+}

@@ -1,0 +1,4343 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Kaufmann"
+                ],
+                [
+                    "Gilde"
+                ],
+                [
+                    "Innung"
+                ],
+                [
+                    "Zunft"
+                ],
+                [
+                    "aufmachen"
+                ],
+                [
+                    "Geschäftigkeit"
+                ],
+                [
+                    "wichtig"
+                ],
+                [
+                    "Firma"
+                ],
+                [
+                    "Kauf"
+                ],
+                [
+                    "handeln"
+                ],
+                [
+                    "weiterverkaufen"
+                ],
+                [
+                    "Preis"
+                ],
+                [
+                    "Kramerei"
+                ],
+                [
+                    "kramen"
+                ],
+                [
+                    "Tandlerei"
+                ],
+                [
+                    "Pfaidler"
+                ],
+                [
+                    "Hemd"
+                ],
+                [
+                    "Greißler"
+                ],
+                [
+                    "Greißlerei"
+                ],
+                [
+                    "Hausierer"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "Knopfmacherhandwerk"
+                ],
+                [
+                    "bringen"
+                ],
+                [
+                    "Gerberei"
+                ],
+                [
+                    "Ausdrücken"
+                ],
+                [
+                    "Gerberhandwerk"
+                ],
+                [
+                    "ledern"
+                ],
+                [
+                    "irchen"
+                ],
+                [
+                    "genaue"
+                ],
+                [
+                    "Kürschnerei"
+                ],
+                [
+                    "Kürschnerhandwerk"
+                ],
+                [
+                    "Sattlerei"
+                ],
+                [
+                    "Sattlerhandwerk"
+                ],
+                [
+                    "Gürtlerei"
+                ],
+                [
+                    "Gürtlerhandwerk"
+                ],
+                [
+                    "Riemers"
+                ],
+                [
+                    "Riemerhandwerk"
+                ],
+                [
+                    "Haut"
+                ],
+                [
+                    "Riemen"
+                ],
+                [
+                    "Taschnerei"
+                ],
+                [
+                    "Taschnerhandwerk"
+                ]
+            ],
+            "2": [
+                [
+                    "Händler"
+                ],
+                [
+                    "gerben"
+                ]
+            ],
+            "3": [
+                [
+                    "Kram"
+                ],
+                [
+                    "Gewerbe"
+                ],
+                [
+                    "treiben"
+                ],
+                [
+                    "Tuchmachers"
+                ],
+                [
+                    "Knopfmachers"
+                ],
+                [
+                    "Modistin"
+                ],
+                [
+                    "ziehen"
+                ],
+                [
+                    "Leder"
+                ],
+                [
+                    "Sattlers"
+                ]
+            ],
+            "6": [
+                [
+                    "Geschäft"
+                ],
+                [
+                    "Ware"
+                ],
+                [
+                    "Markt"
+                ],
+                [
+                    "Hut"
+                ],
+                [
+                    "Kürschners"
+                ],
+                [
+                    "Gürtlers"
+                ],
+                [
+                    "Werkzeuge"
+                ],
+                [
+                    "Erzeugnisse"
+                ],
+                [
+                    "Taschners"
+                ]
+            ],
+            "8": [
+                [
+                    "Bräuche"
+                ]
+            ],
+            "21": [
+                [
+                    "Rohmaterial"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Berufsvereinigung",
+                    "Zeche"
+                ],
+                [
+                    "kaufen",
+                    "gut"
+                ],
+                [
+                    "Handeltreibender",
+                    "Händler"
+                ],
+                [
+                    "Tandler",
+                    "Trödler"
+                ],
+                [
+                    "Fragner",
+                    "Fratschler"
+                ],
+                [
+                    "weicher",
+                    "steifer"
+                ],
+                [
+                    "gerben",
+                    "ledern"
+                ],
+                [
+                    "lidern",
+                    "ledern"
+                ]
+            ],
+            "3": [
+                [
+                    "Hutmachers",
+                    "Modistin"
+                ]
+            ],
+            "15": [
+                [
+                    "Geräte",
+                    "Werkzeuge"
+                ]
+            ]
+        },
+        "3": {
+            "28": [
+                [
+                    "Zunfttag",
+                    "Bräuche",
+                    "Zunftheiliger"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Gewerbe"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewerbe"
+            ],
+            "source": 0,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewerbe"
+            ],
+            "source": 1,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kaufmann"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gilde"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Innung"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunft"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berufsvereinigung",
+                "Zeche"
+            ],
+            "source": 15,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "aufmachen"
+            ],
+            "source": 25,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäft"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäft"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäft"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäft"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäft"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäft"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäftigkeit"
+            ],
+            "source": 32,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bringen"
+            ],
+            "source": 32,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wichtig"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Firma"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kaufen",
+                "gut"
+            ],
+            "source": 54,
+            "target": 55,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "weiterverkaufen"
+            ],
+            "source": 55,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kauf"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Handeltreibender",
+                "Händler"
+            ],
+            "source": 63,
+            "target": 64,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Händler"
+            ],
+            "source": 63,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Händler"
+            ],
+            "source": 64,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücken"
+            ],
+            "source": 64,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "handeln"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 71,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 71,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ware"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ware"
+            ],
+            "source": 75,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ware"
+            ],
+            "source": 75,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ware"
+            ],
+            "source": 76,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ware"
+            ],
+            "source": 76,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Preis"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treiben"
+            ],
+            "source": 77,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ware"
+            ],
+            "source": 92,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kramerei"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kram"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kram"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kram"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kramen"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tandler",
+                "Trödler"
+            ],
+            "source": 102,
+            "target": 103,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Tandlerei"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fragner",
+                "Fratschler"
+            ],
+            "source": 111,
+            "target": 112,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Pfaidler"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hemd"
+            ],
+            "source": 131,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weicher",
+                "steifer"
+            ],
+            "source": 135,
+            "target": 214,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Greißler"
+            ],
+            "source": 149,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Greißlerei"
+            ],
+            "source": 151,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hausierer"
+            ],
+            "source": 171,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 174,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Markt"
+            ],
+            "source": 179,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Markt"
+            ],
+            "source": 179,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Markt"
+            ],
+            "source": 179,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Haut"
+            ],
+            "source": 179,
+            "target": 259,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Markt"
+            ],
+            "source": 180,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Markt"
+            ],
+            "source": 180,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Markt"
+            ],
+            "source": 181,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 181,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 181,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuchmachers"
+            ],
+            "source": 190,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuchmachers"
+            ],
+            "source": 190,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 190,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 190,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 190,
+            "target": 232,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 190,
+            "target": 241,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 190,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 190,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuchmachers"
+            ],
+            "source": 191,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werkzeuge"
+            ],
+            "source": 191,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 191,
+            "target": 233,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 191,
+            "target": 242,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 191,
+            "target": 249,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 191,
+            "target": 256,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 191,
+            "target": 265,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 193,
+            "target": 199,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 193,
+            "target": 206,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 193,
+            "target": 224,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 193,
+            "target": 235,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 193,
+            "target": 244,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 193,
+            "target": 251,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 193,
+            "target": 258,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 193,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopfmacherhandwerk"
+            ],
+            "source": 195,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopfmachers"
+            ],
+            "source": 197,
+            "target": 198,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopfmachers"
+            ],
+            "source": 197,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 197,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 197,
+            "target": 232,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 197,
+            "target": 241,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 197,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 197,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knopfmachers"
+            ],
+            "source": 198,
+            "target": 200,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 199,
+            "target": 206,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 199,
+            "target": 224,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 199,
+            "target": 235,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 199,
+            "target": 244,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 199,
+            "target": 251,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 199,
+            "target": 258,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 199,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 200,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 200,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 200,
+            "target": 268,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Modistin"
+            ],
+            "source": 202,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Modistin"
+            ],
+            "source": 202,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Modistin"
+            ],
+            "source": 202,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hutmachers",
+                "Modistin"
+            ],
+            "source": 203,
+            "target": 204,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hutmachers",
+                "Modistin"
+            ],
+            "source": 203,
+            "target": 205,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 203,
+            "target": 232,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 203,
+            "target": 241,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 203,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 203,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hutmachers",
+                "Modistin"
+            ],
+            "source": 204,
+            "target": 205,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Werkzeuge"
+            ],
+            "source": 204,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werkzeuge"
+            ],
+            "source": 204,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werkzeuge"
+            ],
+            "source": 204,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werkzeuge"
+            ],
+            "source": 204,
+            "target": 256,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werkzeuge"
+            ],
+            "source": 204,
+            "target": 265,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 206,
+            "target": 224,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 206,
+            "target": 235,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 206,
+            "target": 244,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 206,
+            "target": 251,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 206,
+            "target": 258,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 206,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hut"
+            ],
+            "source": 207,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hut"
+            ],
+            "source": 207,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hut"
+            ],
+            "source": 207,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 207,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hut"
+            ],
+            "source": 208,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hut"
+            ],
+            "source": 208,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hut"
+            ],
+            "source": 209,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "genaue"
+            ],
+            "source": 216,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerberei"
+            ],
+            "source": 218,
+            "target": 219,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gerberhandwerk"
+            ],
+            "source": 218,
+            "target": 224,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerben",
+                "ledern"
+            ],
+            "source": 221,
+            "target": 222,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gerben"
+            ],
+            "source": 221,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lidern",
+                "ledern"
+            ],
+            "source": 221,
+            "target": 227,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "irchen"
+            ],
+            "source": 221,
+            "target": 228,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerben"
+            ],
+            "source": 222,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ledern"
+            ],
+            "source": 222,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 224,
+            "target": 235,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 224,
+            "target": 244,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 224,
+            "target": 251,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 224,
+            "target": 258,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 224,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leder"
+            ],
+            "source": 225,
+            "target": 226,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leder"
+            ],
+            "source": 225,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leder"
+            ],
+            "source": 226,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kürschnerei"
+            ],
+            "source": 230,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kürschnerhandwerk"
+            ],
+            "source": 230,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kürschners"
+            ],
+            "source": 232,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kürschners"
+            ],
+            "source": 232,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kürschners"
+            ],
+            "source": 232,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 232,
+            "target": 241,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 232,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 232,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kürschners"
+            ],
+            "source": 233,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kürschners"
+            ],
+            "source": 233,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 233,
+            "target": 242,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 233,
+            "target": 249,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 233,
+            "target": 256,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 233,
+            "target": 265,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kürschners"
+            ],
+            "source": 234,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 235,
+            "target": 244,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 235,
+            "target": 251,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 235,
+            "target": 258,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 235,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 236,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 236,
+            "target": 268,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sattlerei"
+            ],
+            "source": 239,
+            "target": 240,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sattlerhandwerk"
+            ],
+            "source": 239,
+            "target": 244,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sattlers"
+            ],
+            "source": 241,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sattlers"
+            ],
+            "source": 241,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 241,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 241,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sattlers"
+            ],
+            "source": 242,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 242,
+            "target": 249,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 242,
+            "target": 256,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 242,
+            "target": 265,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 244,
+            "target": 251,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 244,
+            "target": 258,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 244,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gürtlerei"
+            ],
+            "source": 246,
+            "target": 247,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gürtlerhandwerk"
+            ],
+            "source": 246,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gürtlers"
+            ],
+            "source": 248,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gürtlers"
+            ],
+            "source": 248,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gürtlers"
+            ],
+            "source": 248,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rohmaterial"
+            ],
+            "source": 248,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gürtlers"
+            ],
+            "source": 249,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gürtlers"
+            ],
+            "source": 249,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 249,
+            "target": 256,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 249,
+            "target": 265,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gürtlers"
+            ],
+            "source": 250,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "source": 251,
+            "target": 258,
+            "target_group": [
+                3,
+                28,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 251,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erzeugnisse"
+            ],
+            "source": 252,
+            "target": 268,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riemerhandwerk"
+            ],
+            "source": 255,
+            "target": 258,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riemers"
+            ],
+            "source": 256,
+            "target": 257,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "source": 256,
+            "target": 265,
+            "target_group": [
+                2,
+                15,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 258,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riemen"
+            ],
+            "source": 259,
+            "target": 260,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschnerei"
+            ],
+            "source": 262,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschnerhandwerk"
+            ],
+            "source": 262,
+            "target": 267,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschners"
+            ],
+            "source": 264,
+            "target": 265,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschners"
+            ],
+            "source": 264,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschners"
+            ],
+            "source": 264,
+            "target": 268,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschners"
+            ],
+            "source": 265,
+            "target": 266,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschners"
+            ],
+            "source": 265,
+            "target": 268,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taschners"
+            ],
+            "source": 266,
+            "target": 268,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "anmelden",
+                "konzessioniertes",
+                "zurücksagen",
+                "Gewerbe",
+                "freies",
+                "radiziertes",
+                "zurücklegen"
+            ],
+            "id": "1"
+        },
+        {
+            "concepts": [
+                "Gewerbsmann",
+                "Gewerbeschein",
+                "Gewerbe",
+                "Gewerbetreibender",
+                "Schankgewerbe"
+            ],
+            "id": "2"
+        },
+        {
+            "concepts": [
+                "Konzession",
+                "verleihen",
+                "bewerben"
+            ],
+            "id": "3"
+        },
+        {
+            "concepts": [
+                "Lizenz"
+            ],
+            "id": "4"
+        },
+        {
+            "concepts": [
+                "reeller",
+                "Kaufmann"
+            ],
+            "id": "5"
+        },
+        {
+            "concepts": [
+                "Großkaufmann",
+                "Kaufmannsfrau",
+                "Kaufmann"
+            ],
+            "id": "6"
+        },
+        {
+            "concepts": [
+                "kaufmännisch"
+            ],
+            "id": "6a"
+        },
+        {
+            "concepts": [
+                "Kaufmannschaft"
+            ],
+            "id": "7"
+        },
+        {
+            "concepts": [
+                "Gilde"
+            ],
+            "id": "8"
+        },
+        {
+            "concepts": [
+                "Gildemeister",
+                "Gilde"
+            ],
+            "id": "9"
+        },
+        {
+            "concepts": [
+                "Innung"
+            ],
+            "id": "10"
+        },
+        {
+            "concepts": [
+                "Innungsbrief",
+                "Innung"
+            ],
+            "id": "11"
+        },
+        {
+            "concepts": [
+                "Zunft"
+            ],
+            "id": "12"
+        },
+        {
+            "concepts": [
+                "Zunft",
+                "Zunftlade"
+            ],
+            "id": "13"
+        },
+        {
+            "concepts": [
+                "zünftig"
+            ],
+            "id": "14"
+        },
+        {
+            "concepts": [
+                "Berufsvereinigung",
+                "Zeche"
+            ],
+            "id": "15"
+        },
+        {
+            "concepts": [
+                "Berufsvereinigung",
+                "Zeche"
+            ],
+            "id": "16"
+        },
+        {
+            "concepts": [
+                "Genossenschaft"
+            ],
+            "id": "17"
+        },
+        {
+            "concepts": [
+                "Gesellschaft",
+                "Haftung",
+                "beschränkter"
+            ],
+            "id": "18"
+        },
+        {
+            "concepts": [
+                "Aktiengesellschaft"
+            ],
+            "id": "19"
+        },
+        {
+            "concepts": [
+                "Kommanditgesellschaft"
+            ],
+            "id": "20"
+        },
+        {
+            "concepts": [
+                "Kompagnon",
+                "Gesellschafter"
+            ],
+            "id": "21"
+        },
+        {
+            "concepts": [
+                "stiller",
+                "Teilhaber"
+            ],
+            "id": "22"
+        },
+        {
+            "concepts": [
+                "Unternehmer"
+            ],
+            "id": "23"
+        },
+        {
+            "concepts": [
+                "Unternehmung"
+            ],
+            "id": "24"
+        },
+        {
+            "concepts": [
+                "Kaufladen",
+                "aufmachen",
+                "Laden"
+            ],
+            "id": "25"
+        },
+        {
+            "concepts": [
+                "Verkaufstisch",
+                "Pudel"
+            ],
+            "id": "26"
+        },
+        {
+            "concepts": [
+                "Auslage",
+                "herrichten"
+            ],
+            "id": "27"
+        },
+        {
+            "concepts": [
+                "Auslagfenster"
+            ],
+            "id": "28"
+        },
+        {
+            "concepts": [
+                "herunterlassen",
+                "hinaufschieben",
+                "Rollbalken"
+            ],
+            "id": "29"
+        },
+        {
+            "concepts": [
+                "schließen",
+                "Raum",
+                "eröffnen",
+                "führen",
+                "Geschäft",
+                "aufmachen",
+                "Gewölbe"
+            ],
+            "id": "30"
+        },
+        {
+            "concepts": [
+                "Geschäft",
+                "Detailgeschäft",
+                "Verkaufsraum",
+                "Geschäftsführer"
+            ],
+            "id": "31"
+        },
+        {
+            "concepts": [
+                "Geschäftigkeit",
+                "Geschäft",
+                "abschließen",
+                "Gang",
+                "Gschaft",
+                "unsaubere",
+                "schlechtes",
+                "Geschäfte",
+                "bringen"
+            ],
+            "id": "32"
+        },
+        {
+            "concepts": [
+                "Geschäft",
+                "Platzgeschäft",
+                "Geschäftsfreund",
+                "Betätigung"
+            ],
+            "id": "33"
+        },
+        {
+            "concepts": [
+                "geschäftig"
+            ],
+            "id": "34"
+        },
+        {
+            "concepts": [
+                "Geschäftigkeit"
+            ],
+            "id": "35"
+        },
+        {
+            "concepts": [
+                "geschäftlich"
+            ],
+            "id": "36"
+        },
+        {
+            "concepts": [
+                "Gschaftlhuber",
+                "Wichtigmacher",
+                "Gschaftler"
+            ],
+            "id": "37"
+        },
+        {
+            "concepts": [
+                "gschafteln",
+                "wichtig"
+            ],
+            "id": "38"
+        },
+        {
+            "concepts": [
+                "tuend",
+                "wichtig",
+                "gschafterisch"
+            ],
+            "id": "39"
+        },
+        {
+            "concepts": [
+                "Wichtigtuerei",
+                "Gschaftlerei",
+                "Gschaftelwerk"
+            ],
+            "id": "40"
+        },
+        {
+            "concepts": [
+                "Gschafterer",
+                "Geck"
+            ],
+            "id": "41"
+        },
+        {
+            "concepts": [
+                "Geschäftsinhaber",
+                "Chef",
+                "Herr"
+            ],
+            "id": "42"
+        },
+        {
+            "concepts": [
+                "Verkäufer",
+                "Pudelhupfer",
+                "Handlungsgehilfe",
+                "Kommis"
+            ],
+            "id": "43"
+        },
+        {
+            "concepts": [
+                "Verkäuferin",
+                "Ladenmädchen"
+            ],
+            "id": "44"
+        },
+        {
+            "concepts": [
+                "Laufbursche",
+                "Austräger"
+            ],
+            "id": "45"
+        },
+        {
+            "concepts": [
+                "Vertreter",
+                "Agent"
+            ],
+            "id": "46"
+        },
+        {
+            "concepts": [
+                "Platzvertreter"
+            ],
+            "id": "47"
+        },
+        {
+            "concepts": [
+                "Reisender"
+            ],
+            "id": "48"
+        },
+        {
+            "concepts": [
+                "Handlungsreisender"
+            ],
+            "id": "49"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Firma"
+            ],
+            "id": "50"
+        },
+        {
+            "concepts": [
+                "Firmenschild",
+                "Firma"
+            ],
+            "id": "51"
+        },
+        {
+            "concepts": [
+                "Niederlage"
+            ],
+            "id": "52"
+        },
+        {
+            "concepts": [
+                "Zweiggeschäft",
+                "Filiale"
+            ],
+            "id": "53"
+        },
+        {
+            "concepts": [
+                "kaufen",
+                "hast",
+                "kauft",
+                "besser",
+                "teuer",
+                "Not",
+                "billig",
+                "betteln",
+                "gut",
+                "beizeiten",
+                "Rausch",
+                "kaufe"
+            ],
+            "id": "54"
+        },
+        {
+            "concepts": [
+                "kaufen",
+                "verkaufen",
+                "könne",
+                "wegkaufen",
+                "überkaufen",
+                "Nase",
+                "ankaufen",
+                "loskaufen",
+                "ausverkaufen",
+                "weiterverkaufen",
+                "lassen",
+                "gut",
+                "ausdrücken"
+            ],
+            "id": "55"
+        },
+        {
+            "concepts": [
+                "Kauf",
+                "nehmen",
+                "guter",
+                "schlechter"
+            ],
+            "id": "56"
+        },
+        {
+            "concepts": [
+                "Ausverkauf",
+                "Kauf",
+                "Restenverkauf",
+                "Einkauf",
+                "Verkauf",
+                "Kaufpreis",
+                "Gelegenheitskauf",
+                "Angstkauf",
+                "Betriebskapital",
+                "Urkauf"
+            ],
+            "id": "57"
+        },
+        {
+            "concepts": [
+                "zuwiderer",
+                "alte",
+                "Kundschaft",
+                "Kunde",
+                "extremer",
+                "Käufer"
+            ],
+            "id": "58"
+        },
+        {
+            "concepts": [
+                "Kundin",
+                "Käuferin"
+            ],
+            "id": "59"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "käuflich",
+                "käuflicher"
+            ],
+            "id": "60"
+        },
+        {
+            "concepts": [
+                "feil",
+                "verkäuflich"
+            ],
+            "id": "61"
+        },
+        {
+            "concepts": [
+                "unverkäuflich"
+            ],
+            "id": "62"
+        },
+        {
+            "concepts": [
+                "Händler",
+                "Handeltreibender",
+                "Käufler",
+                "Käufel"
+            ],
+            "id": "63"
+        },
+        {
+            "concepts": [
+                "Ausdrücken",
+                "Handeltreibender",
+                "händlermäßig",
+                "Roßhändler",
+                "Händler"
+            ],
+            "id": "64"
+        },
+        {
+            "concepts": [
+                "Handel",
+                "Käuflerei",
+                "Handelsgewerbe"
+            ],
+            "id": "65"
+        },
+        {
+            "concepts": [
+                "Fürkäufel",
+                "Getreidehändler"
+            ],
+            "id": "66"
+        },
+        {
+            "concepts": [
+                "Fürkäufelei",
+                "Fürkäuflergewerbe"
+            ],
+            "id": "67"
+        },
+        {
+            "concepts": [
+                "handeln",
+                "käufeln"
+            ],
+            "id": "68"
+        },
+        {
+            "concepts": [
+                "handeln",
+                "markteln",
+                "failschen"
+            ],
+            "id": "69"
+        },
+        {
+            "concepts": [
+                "Zwischenhändler",
+                "Unterkäufel",
+                "Makler"
+            ],
+            "id": "70"
+        },
+        {
+            "concepts": [
+                "unterkaufen",
+                "Zwischenhandel",
+                "treiben"
+            ],
+            "id": "71"
+        },
+        {
+            "concepts": [
+                "schieben",
+                "Gewinn",
+                "unberechtigtem",
+                "weiterverkaufen"
+            ],
+            "id": "72"
+        },
+        {
+            "concepts": [
+                "Schieber"
+            ],
+            "id": "73"
+        },
+        {
+            "concepts": [
+                "Kriegsgewinner"
+            ],
+            "id": "74"
+        },
+        {
+            "concepts": [
+                "Ware",
+                "umsetzen",
+                "kleine",
+                "dumme",
+                "absetzen",
+                "Waren",
+                "Kinder"
+            ],
+            "id": "75"
+        },
+        {
+            "concepts": [
+                "Warenhaus",
+                "Ware",
+                "Konsumware"
+            ],
+            "id": "76"
+        },
+        {
+            "concepts": [
+                "steigen",
+                "feste",
+                "Preis",
+                "senken",
+                "herabgesetzte",
+                "jemand",
+                "niedere",
+                "Preise",
+                "hohe",
+                "treiben"
+            ],
+            "id": "77"
+        },
+        {
+            "concepts": [
+                "Preis",
+                "Preistreiber",
+                "Höchstpreis",
+                "preiswert",
+                "ei"
+            ],
+            "id": "78"
+        },
+        {
+            "concepts": [
+                "Absatz",
+                "stockt"
+            ],
+            "id": "79"
+        },
+        {
+            "concepts": [
+                "großen",
+                "Umsatz"
+            ],
+            "id": "80"
+        },
+        {
+            "concepts": [
+                "überhalten"
+            ],
+            "id": "81"
+        },
+        {
+            "concepts": [
+                "übervorteilen"
+            ],
+            "id": "82"
+        },
+        {
+            "concepts": [
+                "nachlassen"
+            ],
+            "id": "83"
+        },
+        {
+            "concepts": [
+                "unterbieten"
+            ],
+            "id": "84"
+        },
+        {
+            "concepts": [
+                "anfeilen",
+                "anpreisen"
+            ],
+            "id": "85"
+        },
+        {
+            "concepts": [
+                "offerieren",
+                "anbieten"
+            ],
+            "id": "86"
+        },
+        {
+            "concepts": [
+                "Warenmuster"
+            ],
+            "id": "87"
+        },
+        {
+            "concepts": [
+                "Papiermuster",
+                "Muster",
+                "Mustersendung"
+            ],
+            "id": "88"
+        },
+        {
+            "concepts": [
+                "ausmustern"
+            ],
+            "id": "89"
+        },
+        {
+            "concepts": [
+                "Tuchende",
+                "Ansicht",
+                "vorderes",
+                "Ausbund",
+                "ausgelegtes"
+            ],
+            "id": "90"
+        },
+        {
+            "concepts": [
+                "Warenballen"
+            ],
+            "id": "91"
+        },
+        {
+            "concepts": [
+                "Ausstattung",
+                "Atrappe",
+                "äußere",
+                "Ware"
+            ],
+            "id": "92"
+        },
+        {
+            "concepts": [
+                "Stoffrest",
+                "Restel"
+            ],
+            "id": "93"
+        },
+        {
+            "concepts": [
+                "Jeder",
+                "lobt",
+                "Ware",
+                "Krämer"
+            ],
+            "id": "94"
+        },
+        {
+            "concepts": [
+                "Krämerin"
+            ],
+            "id": "95"
+        },
+        {
+            "concepts": [
+                "Gewürzkramer",
+                "Kramerei",
+                "Kramerstand",
+                "Kramer"
+            ],
+            "id": "96"
+        },
+        {
+            "concepts": [
+                "Kramerei",
+                "Kramerladen",
+                "Kramladen",
+                "Kram"
+            ],
+            "id": "97"
+        },
+        {
+            "concepts": [
+                "Kram",
+                "paßt"
+            ],
+            "id": "98"
+        },
+        {
+            "concepts": [
+                "Bodenkram",
+                "Kramkammer",
+                "Kram"
+            ],
+            "id": "99"
+        },
+        {
+            "concepts": [
+                "kramen"
+            ],
+            "id": "100"
+        },
+        {
+            "concepts": [
+                "kramen",
+                "Kramelwerk",
+                "verkramen"
+            ],
+            "id": "101"
+        },
+        {
+            "concepts": [
+                "Schätzmeister",
+                "Tandler",
+                "öffentlicher",
+                "Trödler"
+            ],
+            "id": "102"
+        },
+        {
+            "concepts": [
+                "Tandlerware",
+                "Kleidertandler",
+                "Tandler",
+                "Trödler"
+            ],
+            "id": "103"
+        },
+        {
+            "concepts": [
+                "Tandlerin",
+                "Trödlerin"
+            ],
+            "id": "104"
+        },
+        {
+            "concepts": [
+                "Trödlerhandel",
+                "Tandlerei"
+            ],
+            "id": "105"
+        },
+        {
+            "concepts": [
+                "Tandlerei",
+                "Trödlerladen"
+            ],
+            "id": "106"
+        },
+        {
+            "concepts": [
+                "Fetzenmarkt"
+            ],
+            "id": "107"
+        },
+        {
+            "concepts": [
+                "trödeln",
+                "tandeln"
+            ],
+            "id": "108"
+        },
+        {
+            "concepts": [
+                "herumtrödeln"
+            ],
+            "id": "109"
+        },
+        {
+            "concepts": [
+                "Zeit",
+                "Geld",
+                "Kleider",
+                "vertrödeln",
+                "vertandeln"
+            ],
+            "id": "110"
+        },
+        {
+            "concepts": [
+                "Fragner",
+                "Fratschelweib",
+                "Fratschler"
+            ],
+            "id": "111"
+        },
+        {
+            "concepts": [
+                "Fragner",
+                "Fratschler"
+            ],
+            "id": "112"
+        },
+        {
+            "concepts": [
+                "Fratschlerei",
+                "Fragnergewerbe"
+            ],
+            "id": "113"
+        },
+        {
+            "concepts": [
+                "Pfaidler"
+            ],
+            "id": "114"
+        },
+        {
+            "concepts": [
+                "Pfaidler"
+            ],
+            "id": "115"
+        },
+        {
+            "concepts": [
+                "Pfaidlerei",
+                "Pfaidlergewerbe"
+            ],
+            "id": "116"
+        },
+        {
+            "concepts": [
+                "Nahterin",
+                "Näherin",
+                "Hausnäherin"
+            ],
+            "id": "117"
+        },
+        {
+            "concepts": [
+                "Stricker"
+            ],
+            "id": "118"
+        },
+        {
+            "concepts": [
+                "Strickerei"
+            ],
+            "id": "119"
+        },
+        {
+            "concepts": [
+                "Häkler"
+            ],
+            "id": "120"
+        },
+        {
+            "concepts": [
+                "Häklerei"
+            ],
+            "id": "121"
+        },
+        {
+            "concepts": [
+                "Klöppler"
+            ],
+            "id": "122"
+        },
+        {
+            "concepts": [
+                "Knüpfer"
+            ],
+            "id": "123"
+        },
+        {
+            "concepts": [
+                "Spinner"
+            ],
+            "id": "124"
+        },
+        {
+            "concepts": [
+                "Spinnerei"
+            ],
+            "id": "125"
+        },
+        {
+            "concepts": [
+                "Sticker"
+            ],
+            "id": "126"
+        },
+        {
+            "concepts": [
+                "Stickerei"
+            ],
+            "id": "127"
+        },
+        {
+            "concepts": [
+                "Wäschehandlung"
+            ],
+            "id": "128"
+        },
+        {
+            "concepts": [
+                "Leibwäsche"
+            ],
+            "id": "129"
+        },
+        {
+            "concepts": [
+                "wäsche"
+            ],
+            "id": "130"
+        },
+        {
+            "concepts": [
+                "Unterschied",
+                "Hemd",
+                "Männerhemd",
+                "heißt",
+                "aufs",
+                "näher",
+                "hats",
+                "Wörtern",
+                "Rock",
+                "verbrennt",
+                "Pfait",
+                "beiden",
+                "ausziehen",
+                "Student",
+                "Frauenhemd"
+            ],
+            "id": "131"
+        },
+        {
+            "concepts": [
+                "Hemd",
+                "Spitzenhemd",
+                "Hemdärmel",
+                "Hemdstock",
+                "Brust",
+                "weiche",
+                "steife"
+            ],
+            "id": "132"
+        },
+        {
+            "concepts": [
+                "Plastron",
+                "Vorhemd"
+            ],
+            "id": "133"
+        },
+        {
+            "concepts": [
+                "Hemdkragen",
+                "Anknöpfen"
+            ],
+            "id": "134"
+        },
+        {
+            "concepts": [
+                "weicher",
+                "Stehumlegkragen",
+                "steifer",
+                "Kragensorten"
+            ],
+            "id": "135"
+        },
+        {
+            "concepts": [
+                "Krawatte",
+                "Halsbinde"
+            ],
+            "id": "136"
+        },
+        {
+            "concepts": [
+                "Selbstbinder"
+            ],
+            "id": "137"
+        },
+        {
+            "concepts": [
+                "Masche"
+            ],
+            "id": "138"
+        },
+        {
+            "concepts": [
+                "Unterleibchen"
+            ],
+            "id": "139"
+        },
+        {
+            "concepts": [
+                "Netzleibchen"
+            ],
+            "id": "140"
+        },
+        {
+            "concepts": [
+                "Gatjen",
+                "Männerunterhose"
+            ],
+            "id": "141"
+        },
+        {
+            "concepts": [
+                "Frauenhose",
+                "Trikothose"
+            ],
+            "id": "142"
+        },
+        {
+            "concepts": [
+                "Unterrock",
+                "Seidenunterrock"
+            ],
+            "id": "143"
+        },
+        {
+            "concepts": [
+                "Kohlenhändler"
+            ],
+            "id": "144"
+        },
+        {
+            "concepts": [
+                "Kohlenausträger",
+                "Kohlenmann"
+            ],
+            "id": "145"
+        },
+        {
+            "concepts": [
+                "Milchhandlung"
+            ],
+            "id": "146"
+        },
+        {
+            "concepts": [
+                "Milchhändler",
+                "Milchmeier"
+            ],
+            "id": "147"
+        },
+        {
+            "concepts": [
+                "Milchausträger"
+            ],
+            "id": "148"
+        },
+        {
+            "concepts": [
+                "händler",
+                "Mehl",
+                "Greißler",
+                "Händler",
+                "Hirse",
+                "Erbsen",
+                "Bohnen"
+            ],
+            "id": "149"
+        },
+        {
+            "concepts": [
+                "Greißler",
+                "Greißlerbart",
+                "Dorfgreißler"
+            ],
+            "id": "150"
+        },
+        {
+            "concepts": [
+                "Gewerbe",
+                "Greißlers",
+                "Greißlerei"
+            ],
+            "id": "151"
+        },
+        {
+            "concepts": [
+                "Gemischtwarenhandlung",
+                "Greißlerladen",
+                "Greißlerei"
+            ],
+            "id": "152"
+        },
+        {
+            "concepts": [
+                "Feinkosthändler"
+            ],
+            "id": "153"
+        },
+        {
+            "concepts": [
+                "Delikatessenhandlung"
+            ],
+            "id": "154"
+        },
+        {
+            "concepts": [
+                "Konsumverein",
+                "Konsum",
+                "Konsumvereinshandlung"
+            ],
+            "id": "155"
+        },
+        {
+            "concepts": [
+                "Melbler",
+                "Mehlhändler"
+            ],
+            "id": "156"
+        },
+        {
+            "concepts": [
+                "Weinhändler"
+            ],
+            "id": "157"
+        },
+        {
+            "concepts": [
+                "Weinhandlung"
+            ],
+            "id": "158"
+        },
+        {
+            "concepts": [
+                "Kellermeister"
+            ],
+            "id": "159"
+        },
+        {
+            "concepts": [
+                "Kräuterhändler",
+                "Dürrkräutler"
+            ],
+            "id": "160"
+        },
+        {
+            "concepts": [
+                "Kräuterhandlung"
+            ],
+            "id": "161"
+        },
+        {
+            "concepts": [
+                "Drogist"
+            ],
+            "id": "162"
+        },
+        {
+            "concepts": [
+                "Drogerie"
+            ],
+            "id": "163"
+        },
+        {
+            "concepts": [
+                "Grünzeughändler"
+            ],
+            "id": "164"
+        },
+        {
+            "concepts": [
+                "Obsthändler"
+            ],
+            "id": "165"
+        },
+        {
+            "concepts": [
+                "Blumenhändler"
+            ],
+            "id": "166"
+        },
+        {
+            "concepts": [
+                "Blumenhandlung"
+            ],
+            "id": "167"
+        },
+        {
+            "concepts": [
+                "Blumenverkäuferin"
+            ],
+            "id": "168"
+        },
+        {
+            "concepts": [
+                "Obstverkäuferin"
+            ],
+            "id": "169"
+        },
+        {
+            "concepts": [
+                "marktschreierisch",
+                "Straßenverkäufer",
+                "Gebrauchsgegenstand",
+                "anpreist"
+            ],
+            "id": "170"
+        },
+        {
+            "concepts": [
+                "Hausierer"
+            ],
+            "id": "171"
+        },
+        {
+            "concepts": [
+                "Hausierern",
+                "Arten",
+                "Messerhändler"
+            ],
+            "id": "172"
+        },
+        {
+            "concepts": [
+                "Rufe",
+                "Hausierer"
+            ],
+            "id": "173"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "hausieren"
+            ],
+            "id": "174"
+        },
+        {
+            "concepts": [
+                "Marktfierant"
+            ],
+            "id": "175"
+        },
+        {
+            "concepts": [
+                "Hadernweib",
+                "Lumpensammler",
+                "Haderlump"
+            ],
+            "id": "176"
+        },
+        {
+            "concepts": [
+                "Ruf",
+                "Fetzen",
+                "Baner",
+                "Lumpensammlers"
+            ],
+            "id": "177"
+        },
+        {
+            "concepts": [
+                "Zeitungsverkäufer"
+            ],
+            "id": "178"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "verloffen",
+                "fahren",
+                "Haut",
+                "Markte",
+                "Aufsehen",
+                "Ende",
+                "tragen",
+                "Markt"
+            ],
+            "id": "179"
+        },
+        {
+            "concepts": [
+                "Obstmarkt",
+                "Markt",
+                "Marktflecken"
+            ],
+            "id": "180"
+        },
+        {
+            "concepts": [
+                "ziehen",
+                "markten",
+                "Markt",
+                "treiben"
+            ],
+            "id": "181"
+        },
+        {
+            "concepts": [
+                "Marktler",
+                "Marktfahrer"
+            ],
+            "id": "182"
+        },
+        {
+            "concepts": [
+                "gekauftes",
+                "Markt",
+                "Geschenk"
+            ],
+            "id": "183"
+        },
+        {
+            "concepts": [
+                "Blumenstandel",
+                "Marktstand"
+            ],
+            "id": "184"
+        },
+        {
+            "concepts": [
+                "Standelweib",
+                "Marktverkäuferin"
+            ],
+            "id": "185"
+        },
+        {
+            "concepts": [
+                "Messe",
+                "ebso",
+                "Gottesdienst",
+                "Warenschau"
+            ],
+            "id": "186"
+        },
+        {
+            "concepts": [
+                "Tuchmacher"
+            ],
+            "id": "187"
+        },
+        {
+            "concepts": [
+                "Tuchmachergewerbe"
+            ],
+            "id": "188"
+        },
+        {
+            "concepts": [
+                "Tuchmacherwerkstatt"
+            ],
+            "id": "189"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Tuchmachers"
+            ],
+            "id": "190"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Tuchmachers",
+                "Werkzeuge"
+            ],
+            "id": "191"
+        },
+        {
+            "concepts": [
+                "Tuchmachers"
+            ],
+            "id": "192"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Tuchmacherhandwerk",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "id": "193"
+        },
+        {
+            "concepts": [
+                "Knopfmacher"
+            ],
+            "id": "194"
+        },
+        {
+            "concepts": [
+                "Knopfmacherhandwerk"
+            ],
+            "id": "195"
+        },
+        {
+            "concepts": [
+                "Knopfmacherwerkstatt"
+            ],
+            "id": "196"
+        },
+        {
+            "concepts": [
+                "Knopfmachers",
+                "Rohmaterial"
+            ],
+            "id": "197"
+        },
+        {
+            "concepts": [
+                "Knopfmachers"
+            ],
+            "id": "198"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Knopfmacherhandwerk",
+                "Zunftheiliger"
+            ],
+            "id": "199"
+        },
+        {
+            "concepts": [
+                "Knopfmachers",
+                "Erzeugnisse"
+            ],
+            "id": "200"
+        },
+        {
+            "concepts": [
+                "Huterer",
+                "Hutmacher"
+            ],
+            "id": "201"
+        },
+        {
+            "concepts": [
+                "Putzmacherin",
+                "Modistin"
+            ],
+            "id": "202"
+        },
+        {
+            "concepts": [
+                "Hutfilz",
+                "Hutmachers",
+                "Rohmaterial",
+                "Modistin"
+            ],
+            "id": "203"
+        },
+        {
+            "concepts": [
+                "Hutform",
+                "Hutmachers",
+                "Werkzeuge",
+                "Modistin"
+            ],
+            "id": "204"
+        },
+        {
+            "concepts": [
+                "Hutmachers",
+                "Modistin"
+            ],
+            "id": "205"
+        },
+        {
+            "concepts": [
+                "Hutmachergewerbe",
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "id": "206"
+        },
+        {
+            "concepts": [
+                "eindrücken",
+                "kommt",
+                "ganze",
+                "betrügen",
+                "weiß",
+                "zwei",
+                "spielen",
+                "aufsetzen",
+                "bordierten",
+                "hereinzubringen",
+                "Hand",
+                "ziehen",
+                "Land",
+                "Hütel",
+                "schon",
+                "Hut",
+                "bringen",
+                "abnehmen"
+            ],
+            "id": "207"
+        },
+        {
+            "concepts": [
+                "Volksbräuche",
+                "Hut",
+                "Hütelheben",
+                "Hutsingen"
+            ],
+            "id": "208"
+        },
+        {
+            "concepts": [
+                "Hutladen",
+                "Schermhut",
+                "Hut",
+                "Regenschirm"
+            ],
+            "id": "209"
+        },
+        {
+            "concepts": [
+                "Hutkrempe"
+            ],
+            "id": "210"
+        },
+        {
+            "concepts": [
+                "Hutband"
+            ],
+            "id": "211"
+        },
+        {
+            "concepts": [
+                "Schmuckfedern",
+                "Kunstblumen",
+                "Hutaufputz"
+            ],
+            "id": "212"
+        },
+        {
+            "concepts": [
+                "Gesteck",
+                "Adlerflaum",
+                "Spielhahnfeder",
+                "Gamsbart"
+            ],
+            "id": "213"
+        },
+        {
+            "concepts": [
+                "Strohhut",
+                "claque",
+                "Männer",
+                "Briefträgerkappel",
+                "Chapeau",
+                "Mütze",
+                "Haube",
+                "Kappe",
+                "Turban",
+                "antreiben",
+                "steifer",
+                "Zylinder",
+                "weicher",
+                "Kopfbedeckung",
+                "Angströhre",
+                "Hut",
+                "Kracherl"
+            ],
+            "id": "214"
+        },
+        {
+            "concepts": [
+                "Frauen",
+                "Kopfbedeckungen",
+                "Drahtelhaube"
+            ],
+            "id": "215"
+        },
+        {
+            "concepts": [
+                "Lederer",
+                "genaue",
+                "Gerber"
+            ],
+            "id": "216"
+        },
+        {
+            "concepts": [
+                "speien",
+                "Gerberhund"
+            ],
+            "id": "217"
+        },
+        {
+            "concepts": [
+                "Gerberei",
+                "Gerberhandwerk"
+            ],
+            "id": "218"
+        },
+        {
+            "concepts": [
+                "Gerberei",
+                "Gerberwerkstatt",
+                "Ledergaden"
+            ],
+            "id": "219"
+        },
+        {
+            "concepts": [
+                "Ircher",
+                "Weißgerber"
+            ],
+            "id": "220"
+        },
+        {
+            "concepts": [
+                "gerben",
+                "lidern",
+                "irchen",
+                "ledern"
+            ],
+            "id": "221"
+        },
+        {
+            "concepts": [
+                "derledern",
+                "gerben",
+                "Ausdrücken",
+                "ledern"
+            ],
+            "id": "222"
+        },
+        {
+            "concepts": [
+                "Gerbers",
+                "sonstige"
+            ],
+            "id": "223"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Zunftheiliger",
+                "Irche",
+                "Gerberhandwerk"
+            ],
+            "id": "224"
+        },
+        {
+            "concepts": [
+                "gerben",
+                "geben",
+                "Leder",
+                "ziehen",
+                "stinken"
+            ],
+            "id": "225"
+        },
+        {
+            "concepts": [
+                "Irch",
+                "Lederhändler",
+                "Leder",
+                "Bocksleder",
+                "Hinterleder"
+            ],
+            "id": "226"
+        },
+        {
+            "concepts": [
+                "Leder",
+                "lidern",
+                "ledern"
+            ],
+            "id": "227"
+        },
+        {
+            "concepts": [
+                "irchen",
+                "weißledern"
+            ],
+            "id": "228"
+        },
+        {
+            "concepts": [
+                "Kürschner",
+                "genaue"
+            ],
+            "id": "229"
+        },
+        {
+            "concepts": [
+                "Kürschnerhandwerk",
+                "Kürschnerei"
+            ],
+            "id": "230"
+        },
+        {
+            "concepts": [
+                "Kürschnerwerkstatt",
+                "Kürschnerladen",
+                "Kürschnerei"
+            ],
+            "id": "231"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Kürschners"
+            ],
+            "id": "232"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Kürschners",
+                "Werkzeuge"
+            ],
+            "id": "233"
+        },
+        {
+            "concepts": [
+                "Kürschners"
+            ],
+            "id": "234"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Kürschnerhandwerk",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "id": "235"
+        },
+        {
+            "concepts": [
+                "Pelzrock",
+                "Erzeugnisse",
+                "Kürschners"
+            ],
+            "id": "236"
+        },
+        {
+            "concepts": [
+                "mach",
+                "Wasch",
+                "Pelz",
+                "naß"
+            ],
+            "id": "237"
+        },
+        {
+            "concepts": [
+                "Sattler"
+            ],
+            "id": "238"
+        },
+        {
+            "concepts": [
+                "Sattlerei",
+                "Sattlerhandwerk"
+            ],
+            "id": "239"
+        },
+        {
+            "concepts": [
+                "Sattlerei",
+                "Sattlerwerkstatt"
+            ],
+            "id": "240"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Sattlers"
+            ],
+            "id": "241"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Sattlers"
+            ],
+            "id": "242"
+        },
+        {
+            "concepts": [
+                "Sattlers"
+            ],
+            "id": "243"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Sattlerhandwerk",
+                "Zunftheiliger"
+            ],
+            "id": "244"
+        },
+        {
+            "concepts": [
+                "Gürtler"
+            ],
+            "id": "245"
+        },
+        {
+            "concepts": [
+                "Gürtlerhandwerk",
+                "Gürtlerei"
+            ],
+            "id": "246"
+        },
+        {
+            "concepts": [
+                "Gürtlerwerkstatt",
+                "Gürtlerei"
+            ],
+            "id": "247"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Gürtlers"
+            ],
+            "id": "248"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Gürtlers"
+            ],
+            "id": "249"
+        },
+        {
+            "concepts": [
+                "Gürtlers"
+            ],
+            "id": "250"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Bräuche",
+                "Gürtlerhandwerk",
+                "Zunftheiliger"
+            ],
+            "id": "251"
+        },
+        {
+            "concepts": [
+                "Erzeugnisse",
+                "Gürtlers"
+            ],
+            "id": "252"
+        },
+        {
+            "concepts": [
+                "Riemenschneider",
+                "Riemer"
+            ],
+            "id": "253"
+        },
+        {
+            "concepts": [
+                "Riemerwerkstatt"
+            ],
+            "id": "254"
+        },
+        {
+            "concepts": [
+                "Riemerhandwerk"
+            ],
+            "id": "255"
+        },
+        {
+            "concepts": [
+                "Riemers",
+                "Geräte",
+                "Werkzeuge"
+            ],
+            "id": "256"
+        },
+        {
+            "concepts": [
+                "Riemers"
+            ],
+            "id": "257"
+        },
+        {
+            "concepts": [
+                "Zunfttag",
+                "Riemerhandwerk",
+                "Bräuche",
+                "Zunftheiliger"
+            ],
+            "id": "258"
+        },
+        {
+            "concepts": [
+                "Riemen",
+                "schneiden",
+                "Haut",
+                "Menschen"
+            ],
+            "id": "259"
+        },
+        {
+            "concepts": [
+                "Riemen",
+                "Kartenspiel",
+                "Riemenstechen",
+                "Tragriemen"
+            ],
+            "id": "260"
+        },
+        {
+            "concepts": [
+                "Beutler",
+                "Taschner"
+            ],
+            "id": "261"
+        },
+        {
+            "concepts": [
+                "Taschnerei",
+                "Taschnerhandwerk"
+            ],
+            "id": "262"
+        },
+        {
+            "concepts": [
+                "Taschnerei",
+                "Taschnerwerkstatt"
+            ],
+            "id": "263"
+        },
+        {
+            "concepts": [
+                "Rohmaterial",
+                "Taschners"
+            ],
+            "id": "264"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Werkzeuge",
+                "Taschners"
+            ],
+            "id": "265"
+        },
+        {
+            "concepts": [
+                "Taschners"
+            ],
+            "id": "266"
+        },
+        {
+            "concepts": [
+                "Taschnerhandwerk",
+                "Bräuche"
+            ],
+            "id": "267"
+        },
+        {
+            "concepts": [
+                "Erzeugnisse",
+                "Taschners"
+            ],
+            "id": "268"
+        }
+    ]
+}

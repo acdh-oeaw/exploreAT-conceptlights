@@ -1,0 +1,3947 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "überhaupt"
+                ],
+                [
+                    "wann"
+                ],
+                [
+                    "Störarbeit"
+                ],
+                [
+                    "unbefugt"
+                ],
+                [
+                    "Gehilfen"
+                ],
+                [
+                    "Entlohnung"
+                ],
+                [
+                    "Gehilfe"
+                ],
+                [
+                    "Meister"
+                ],
+                [
+                    "Beginn"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "dafür"
+                ],
+                [
+                    "Alter"
+                ],
+                [
+                    "Schneidern"
+                ],
+                [
+                    "Schneiderhandwerk"
+                ],
+                [
+                    "spottende"
+                ],
+                [
+                    "scheltende"
+                ],
+                [
+                    "Aussehen"
+                ],
+                [
+                    "Schneiderwerkstatt"
+                ]
+            ],
+            "2": [
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "besondere"
+                ],
+                [
+                    "Stören"
+                ]
+            ],
+            "3": [
+                [
+                    "Geselle"
+                ],
+                [
+                    "GesamtN"
+                ]
+            ],
+            "4": [
+                [
+                    "Wort"
+                ]
+            ],
+            "5": [
+                [
+                    "Schneiderei"
+                ],
+                [
+                    "Schneiders"
+                ]
+            ],
+            "9": [
+                [
+                    "Stör"
+                ],
+                [
+                    "vorhanden"
+                ]
+            ],
+            "289": [
+                [
+                    "Schneider"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Wort",
+                    "Schneider"
+                ],
+                [
+                    "Schneider",
+                    "Volksschichten"
+                ],
+                [
+                    "Schneider",
+                    "Sprüche"
+                ],
+                [
+                    "richtiger",
+                    "Schneider"
+                ],
+                [
+                    "Stör",
+                    "Stören"
+                ],
+                [
+                    "Meister",
+                    "Schneider"
+                ],
+                [
+                    "Meister",
+                    "Wort"
+                ],
+                [
+                    "gibt",
+                    "Ausdrücke"
+                ],
+                [
+                    "besondere",
+                    "Beginn"
+                ],
+                [
+                    "Bräuche",
+                    "dabei"
+                ],
+                [
+                    "Schneider",
+                    "Schneiderei"
+                ],
+                [
+                    "Kleidermacher",
+                    "Schneider"
+                ],
+                [
+                    "Schneider",
+                    "vorhanden"
+                ]
+            ],
+            "3": [
+                [
+                    "Schneider",
+                    "Ausdrücke"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Schneiders",
+                    "Dauer",
+                    "Beginn"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort",
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 3,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "überhaupt"
+            ],
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Meister",
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 22,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geselle"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Meister",
+                "Wort"
+            ],
+            "source": 0,
+            "target": 27,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geselle"
+            ],
+            "source": 0,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 0,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider",
+                "Volksschichten"
+            ],
+            "source": 2,
+            "target": 3,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alter"
+            ],
+            "source": 2,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kleidermacher",
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 47,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 2,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 3,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 3,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "richtiger",
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 9,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 5,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spottende"
+            ],
+            "source": 6,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 6,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider",
+                "Sprüche"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 7,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 8,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 9,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider",
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 12,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider",
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 22,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gibt",
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 30,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 10,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 11,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 11,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 11,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 11,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider",
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 22,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gehilfen"
+            ],
+            "source": 12,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider",
+                "vorhanden"
+            ],
+            "source": 12,
+            "target": 48,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 12,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 12,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 12,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 12,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unbefugt"
+            ],
+            "source": 14,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 14,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör",
+                "Stören"
+            ],
+            "source": 15,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 15,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stören"
+            ],
+            "source": 15,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 16,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 16,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stören"
+            ],
+            "source": 16,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Störarbeit"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Entlohnung"
+            ],
+            "source": 17,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 18,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beginn"
+            ],
+            "source": 18,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Beginn"
+            ],
+            "source": 18,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 18,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stör"
+            ],
+            "source": 19,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 21,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Meister"
+            ],
+            "source": 22,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 22,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 22,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gehilfe"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geselle"
+            ],
+            "source": 24,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 26,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dafür"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders",
+                "Dauer",
+                "Beginn"
+            ],
+            "source": 30,
+            "target": 36,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Schneiderhandwerk"
+            ],
+            "source": 30,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 30,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneidern"
+            ],
+            "source": 31,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider",
+                "Schneiderei"
+            ],
+            "source": 31,
+            "target": 42,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 31,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 31,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheltende"
+            ],
+            "source": 33,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 33,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 34,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche",
+                "dabei"
+            ],
+            "source": 36,
+            "target": 37,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 36,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 37,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 37,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 37,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 37,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 37,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 37,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 38,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 38,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 38,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 38,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 40,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 40,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 40,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 40,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 40,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 42,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 42,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 42,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 44,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 44,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderwerkstatt"
+            ],
+            "source": 45,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 48,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 48,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 48,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "GesamtN"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "GesamtN"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "GesamtN"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 54,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 54,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorhanden"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Wort",
+                "Käfer",
+                "Meister",
+                "überhaupt",
+                "Sammelausdruck",
+                "Schneider",
+                "Geselle",
+                "Arbeiter"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Schneiderlein",
+                "Fischart",
+                "Mehlspeise"
+            ],
+            "id": "A1a"
+        },
+        {
+            "concepts": [
+                "Talierer",
+                "Begriff",
+                "Schröter",
+                "Kleidermacher",
+                "falls",
+                "Alter",
+                "Schneider",
+                "Tuchschneider",
+                "Schroter",
+                "Volksschichten"
+            ],
+            "id": "A1b"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "bestimmten",
+                "Volksschichten",
+                "Knopflochsäumer",
+                "Kleinarbeiters",
+                "Schneider",
+                "Hosenbauer",
+                "Kleiderverfertiger"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "laß",
+                "Sohn",
+                "richtiger",
+                "Schneider",
+                "rechter",
+                "Jagd",
+                "läßt"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Leinhösler",
+                "festgewordene",
+                "Schuster",
+                "Verbindungen",
+                "Schneider",
+                "Gevatter"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "hüpfenden",
+                "meckern",
+                "mager",
+                "hungrig",
+                "farzen",
+                "bmäh",
+                "stinken",
+                "hupfender",
+                "Schneider",
+                "essen",
+                "Gang",
+                "dürr",
+                "trinken",
+                "meck",
+                "gerne",
+                "Zurufe",
+                "spottende"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Zuschneidwitze",
+                "Schneidercourage",
+                "Angst",
+                "Sprüche",
+                "diebisch",
+                "Reime",
+                "stehlen",
+                "Schneider",
+                "sinnlich",
+                "Schneiderhölle"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Webern",
+                "Sprüche",
+                "Müllern",
+                "verglichen",
+                "Dirnen",
+                "Schneider",
+                "Gewerbsleuten"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "fescher",
+                "solider",
+                "akkurater",
+                "geht",
+                "verläßlicher",
+                "sauberer",
+                "besserer",
+                "richtiger",
+                "billiger",
+                "schicker",
+                "Mode",
+                "Schneider",
+                "gehört",
+                "guter",
+                "reeller"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "unzuverlässiger",
+                "geschmalzener",
+                "schlechter",
+                "bezahlt",
+                "Pimperlschneider",
+                "Schneider",
+                "Lieferanten",
+                "Bauernschneider",
+                "gibt",
+                "unregelmäßig",
+                "schlecht",
+                "Ausdrücke",
+                "Gesellen"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Schneiders",
+                "gewöhnlicher",
+                "Herrschaftsschneider",
+                "Kundenkreis",
+                "herrischer",
+                "gewöhnliche",
+                "Eisenbahnerschneider",
+                "Schneider",
+                "Leute",
+                "Besseres"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Einzelteile",
+                "gelten",
+                "Gewandteile",
+                "Sackelschneider",
+                "anfertigt",
+                "vorhanden",
+                "Gewänder",
+                "verfertigt",
+                "Schneider",
+                "Einzelbenennungen",
+                "Gehilfen",
+                "Ausdrücke"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Flickschneider",
+                "Fleckelflicker"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Störschneider",
+                "Störer",
+                "Betreibender",
+                "Handwerk",
+                "genannt",
+                "unbefugt",
+                "Hausfreund"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "überhaupt",
+                "arbeitgebende",
+                "viele",
+                "Arbeit",
+                "Stör",
+                "Stören"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "Stör",
+                "de",
+                "herumlaufen",
+                "annehmen",
+                "suchen",
+                "fahren",
+                "arbeiten",
+                "lassen",
+                "gehn",
+                "Stören",
+                "kommen"
+            ],
+            "id": "A14a"
+        },
+        {
+            "concepts": [
+                "wann",
+                "worin",
+                "bestehend",
+                "Störarbeit",
+                "Entlohnung",
+                "verteilt",
+                "Störlaib"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Feierabend",
+                "Beginn",
+                "wann",
+                "besondere",
+                "gemacht",
+                "Stör"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "beurteilt",
+                "Wochenstör",
+                "Störarbeit",
+                "heute",
+                "Stör",
+                "weit",
+                "Störarbeiter"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "stören"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "ratenmäßige",
+                "Verhältnisse",
+                "liefert",
+                "Schneider",
+                "bezogen",
+                "Maßschneider"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Schneidermeister",
+                "Meister",
+                "Kontext",
+                "selbständiger",
+                "Schneidereibesitzer",
+                "Großbetrieb",
+                "je",
+                "Schneider",
+                "Handwerker",
+                "Fabrikanten",
+                "Ausdrücke"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "schneidert",
+                "Person",
+                "unbefugt"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Gehilfe",
+                "Bed",
+                "Geselle",
+                "Lohnschneider"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Stückschneider",
+                "Wochenschneider",
+                "Kost",
+                "Lohn",
+                "Gehilfen",
+                "Entlohnung"
+            ],
+            "id": "A22a"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Gehilfe",
+                "heimarbeitender"
+            ],
+            "id": "A22b"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Meister",
+                "Schneidergehilfe",
+                "wohnender",
+                "beim",
+                "Hausarzt",
+                "Hausarbeiter"
+            ],
+            "id": "A22c"
+        },
+        {
+            "concepts": [
+                "Schneidergeselle",
+                "sonstige"
+            ],
+            "id": "A22d"
+        },
+        {
+            "concepts": [
+                "Junge",
+                "Lehrbub",
+                "Lerner",
+                "Lehrling"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Schneiders",
+                "aufs",
+                "Beginn",
+                "Schneiderhandwerk",
+                "Ende",
+                "Gebräuche",
+                "eigene",
+                "gibt",
+                "dafür",
+                "Lehrzeit",
+                "Ausdrücke",
+                "Gesellenzeit",
+                "Dauer"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "lernen",
+                "Schneiderei",
+                "Schneidern",
+                "lassen",
+                "Schneider"
+            ],
+            "id": "A24a"
+        },
+        {
+            "concepts": [
+                "Gesellenlohn"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Schneiderfamilie",
+                "Schneider",
+                "leute",
+                "Ersatzausdrücke",
+                "scheltende",
+                "dafür",
+                "Schneiderischen",
+                "Schneiderbagage"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Fleckelflickerin",
+                "Frau",
+                "Schneider",
+                "Schneiderin",
+                "Meisterin",
+                "Schneidermeisterin",
+                "Alte"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Alter",
+                "Schneiderinnung",
+                "Bestehen",
+                "Verbände"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Schneiders",
+                "Bräuche",
+                "Beginn",
+                "Arbeitszeit",
+                "Schluß",
+                "besondere",
+                "dabei",
+                "Dauer"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Festtage",
+                "Schneiderjahrtag",
+                "Schneider",
+                "dabei"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Patron",
+                "Schneider"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Schneiderschild",
+                "Handwerkszeichen",
+                "Aufschriften"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Aussehen",
+                "Wappen",
+                "Schneider"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Schneiderwitz",
+                "erhalten",
+                "örtl",
+                "Überlieferungen",
+                "Schwänken",
+                "Sagen",
+                "Schneidern",
+                "Namen"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "gewerbe",
+                "Schneidereihandwerk",
+                "häufiger",
+                "geschäft",
+                "Schneiderei",
+                "Schneiderhandwerk",
+                "Ausdruck",
+                "Schneider",
+                "ei"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Joppenschneiderei",
+                "schneiderei",
+                "Schneiderei",
+                "Pemperlschneiderei",
+                "scheltende",
+                "spottende"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "hocken",
+                "sitzen",
+                "schneiderisch",
+                "Schneider",
+                "droben",
+                "Schneidergestell"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Aussehen",
+                "Schneiderwerkstatt",
+                "beziehen"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Schlafraum",
+                "Fenster",
+                "heißt",
+                "sitzt",
+                "Schneiderei",
+                "Tuchlager",
+                "Räume",
+                "Geselle",
+                "Probierraum",
+                "Platz"
+            ],
+            "id": "A38a"
+        },
+        {
+            "concepts": [
+                "Stinkschneider",
+                "Kleidermacher",
+                "Schneider"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Schneiderherberge",
+                "Sammelorte",
+                "vorhanden",
+                "Schneider",
+                "Schneiderart"
+            ],
+            "id": "A39a"
+        },
+        {
+            "concepts": [
+                "GesamtN",
+                "Einrichtungsstücke",
+                "Schneiderwerkstatt"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Schneiderartikel",
+                "Artikel",
+                "überall",
+                "Zugehör",
+                "Schneiderware",
+                "Schneidereiartikel",
+                "GesamtN",
+                "Schneider",
+                "braucht",
+                "Materialien"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Schneiders",
+                "GesamtN",
+                "Werkzeuge"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "brücke",
+                "Werkstatt",
+                "Arbeitstisch",
+                "Bock"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Bügeltisch"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "vorhanden",
+                "Schneidtisch"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "genäht",
+                "Tisch"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Sessel",
+                "Schemel",
+                "Hocker"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Kleideraufhänger"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Gretel",
+                "Puppe"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Austragen",
+                "Kleider",
+                "Wachsleinwand",
+                "Hülle",
+                "Tuch"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "gegangen",
+                "Stör",
+                "Ranzen"
+            ],
+            "id": "B11a"
+        },
+        {
+            "concepts": [
+                "Nähmaschine",
+                "Schubkarren",
+                "Stören"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Korb",
+                "Abfallreste"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Büchel",
+                "Eintragen",
+                "Maße",
+                "Kundschaften"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "vorhanden",
+                "Schnittmuster"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "vorhanden",
+                "Schneiderzeitung"
+            ],
+            "id": "B16"
+        }
+    ]
+}

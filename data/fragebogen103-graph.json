@@ -1,0 +1,3027 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Augen"
+                ],
+                [
+                    "Bedeutet"
+                ],
+                [
+                    "Sicht"
+                ],
+                [
+                    "sichtlich"
+                ],
+                [
+                    "Anblick"
+                ],
+                [
+                    "Auge"
+                ],
+                [
+                    "spielen"
+                ],
+                [
+                    "ausher"
+                ],
+                [
+                    "einhin"
+                ],
+                [
+                    "seht"
+                ],
+                [
+                    "lugen"
+                ],
+                [
+                    "Lug"
+                ],
+                [
+                    "spähen"
+                ],
+                [
+                    "hör"
+                ],
+                [
+                    "halb"
+                ],
+                [
+                    "Verstärkung"
+                ],
+                [
+                    "wann"
+                ],
+                [
+                    "taub"
+                ],
+                [
+                    "verloren"
+                ],
+                [
+                    "neugierig"
+                ],
+                [
+                    "lauschen"
+                ],
+                [
+                    "fühlen"
+                ],
+                [
+                    "weh"
+                ]
+            ],
+            "2": [
+                [
+                    "Schau"
+                ],
+                [
+                    "ja"
+                ]
+            ],
+            "3": [
+                [
+                    "Aussehen"
+                ],
+                [
+                    "blind"
+                ],
+                [
+                    "gucken"
+                ],
+                [
+                    "Aussicht"
+                ],
+                [
+                    "wer"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "hören"
+                ],
+                [
+                    "getan"
+                ],
+                [
+                    "losen"
+                ]
+            ],
+            "5": [
+                [
+                    "Geschau"
+                ],
+                [
+                    "sehen"
+                ]
+            ],
+            "6": [
+                [
+                    "Blick"
+                ]
+            ],
+            "7": [
+                [
+                    "sieh"
+                ]
+            ],
+            "9": [
+                [
+                    "schau"
+                ]
+            ],
+            "11": [
+                [
+                    "schaut"
+                ]
+            ],
+            "13": [
+                [
+                    "muß"
+                ]
+            ],
+            "19": [
+                [
+                    "sieht"
+                ]
+            ],
+            "25": [
+                [
+                    "schauen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "sehe",
+                    "sieht"
+                ],
+                [
+                    "gut",
+                    "sieht"
+                ],
+                [
+                    "Schau",
+                    "Geschau"
+                ],
+                [
+                    "gib",
+                    "acht"
+                ],
+                [
+                    "gut",
+                    "schlecht"
+                ],
+                [
+                    "muß",
+                    "nic"
+                ]
+            ],
+            "2": [
+                [
+                    "starr",
+                    "schauen"
+                ],
+                [
+                    "gehört",
+                    "hören"
+                ]
+            ],
+            "3": [
+                [
+                    "schaut",
+                    "sieht"
+                ]
+            ],
+            "4": [
+                [
+                    "schau",
+                    "sieh"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "muß",
+                    "sieht",
+                    "sieh"
+                ],
+                [
+                    "Höhe",
+                    "sieh",
+                    "sieht"
+                ],
+                [
+                    "schau",
+                    "sieht",
+                    "sieh"
+                ],
+                [
+                    "schaut",
+                    "sieh",
+                    "schau"
+                ],
+                [
+                    "starr",
+                    "glotzen",
+                    "schauen"
+                ],
+                [
+                    "gehört",
+                    "gut",
+                    "hören"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "sieht",
+                    "sehen",
+                    "ja",
+                    "siehst"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "sieht",
+                "sehen",
+                "ja",
+                "siehst"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "sehen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sehe",
+                "sieht"
+            ],
+            "source": 0,
+            "target": 6,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut",
+                "sieht"
+            ],
+            "source": 0,
+            "target": 9,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Augen"
+            ],
+            "source": 0,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sehen"
+            ],
+            "source": 0,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "seht"
+            ],
+            "source": 0,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut",
+                "schlecht"
+            ],
+            "source": 0,
+            "target": 80,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "ja"
+            ],
+            "source": 0,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 0,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 1,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 1,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 1,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 1,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 1,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 1,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 1,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 1,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 1,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sehen"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß",
+                "sieht",
+                "sieh"
+            ],
+            "source": 2,
+            "target": 4,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Höhe",
+                "sieh",
+                "sieht"
+            ],
+            "source": 2,
+            "target": 7,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 2,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieh"
+            ],
+            "source": 2,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieh"
+            ],
+            "source": 2,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieh"
+            ],
+            "source": 2,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 2,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 2,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 2,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 2,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sehen"
+            ],
+            "source": 2,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 2,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 2,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 2,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 2,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 2,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 2,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ja"
+            ],
+            "source": 2,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sehen"
+            ],
+            "source": 3,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau",
+                "sieht",
+                "sieh"
+            ],
+            "source": 4,
+            "target": 7,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 4,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 4,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 4,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau",
+                "sieh"
+            ],
+            "source": 4,
+            "target": 13,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 4,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau",
+                "sieh"
+            ],
+            "source": 4,
+            "target": 23,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieh"
+            ],
+            "source": 4,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 4,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 4,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 4,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß",
+                "nic"
+            ],
+            "source": 4,
+            "target": 80,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 6,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 6,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut",
+                "sieht"
+            ],
+            "source": 7,
+            "target": 9,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schaut",
+                "sieht"
+            ],
+            "source": 7,
+            "target": 11,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 7,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut",
+                "sieh",
+                "schau"
+            ],
+            "source": 7,
+            "target": 13,
+            "target_group": [
+                3,
+                1,
+                3
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 7,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 7,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 7,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau",
+                "sieh"
+            ],
+            "source": 7,
+            "target": 23,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieh"
+            ],
+            "source": 7,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gib",
+                "acht"
+            ],
+            "source": 7,
+            "target": 67,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schaut",
+                "sieht"
+            ],
+            "source": 9,
+            "target": 11,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 9,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 9,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 9,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 9,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 9,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 10,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 10,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieht"
+            ],
+            "source": 11,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 11,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ausher"
+            ],
+            "source": 11,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau"
+            ],
+            "source": 12,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 12,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 12,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 13,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 13,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schau",
+                "sieh"
+            ],
+            "source": 13,
+            "target": 23,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieh"
+            ],
+            "source": 13,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 13,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schaut"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einhin"
+            ],
+            "source": 19,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutet"
+            ],
+            "source": 21,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieh"
+            ],
+            "source": 23,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 26,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 28,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 28,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 28,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "starr",
+                "schauen"
+            ],
+            "source": 28,
+            "target": 78,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "starr",
+                "schauen"
+            ],
+            "source": 28,
+            "target": 79,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 29,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 29,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 30,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 30,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 32,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 32,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 32,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 32,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schau"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schau"
+            ],
+            "source": 33,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 33,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anblick"
+            ],
+            "source": 33,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schau",
+                "Geschau"
+            ],
+            "source": 34,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geschau"
+            ],
+            "source": 34,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschau"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschau"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschau"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschau"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sicht"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussicht"
+            ],
+            "source": 44,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussicht"
+            ],
+            "source": 44,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sichtlich"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "getan"
+            ],
+            "source": 50,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "getan"
+            ],
+            "source": 50,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blind"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blind"
+            ],
+            "source": 52,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Auge"
+            ],
+            "source": 52,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spielen"
+            ],
+            "source": 52,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blind"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verstärkung"
+            ],
+            "source": 53,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blick"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blick"
+            ],
+            "source": 60,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blick"
+            ],
+            "source": 60,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blick"
+            ],
+            "source": 61,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blick"
+            ],
+            "source": 61,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "muß"
+            ],
+            "source": 61,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gucken"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gucken"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 62,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 62,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "neugierig"
+            ],
+            "source": 62,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 63,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schauen"
+            ],
+            "source": 63,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "halb"
+            ],
+            "source": 63,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gucken"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lugen"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blick"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussicht"
+            ],
+            "source": 68,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lug"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spähen"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "starr",
+                "glotzen",
+                "schauen"
+            ],
+            "source": 78,
+            "target": 79,
+            "target_group": [
+                3,
+                1,
+                4
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "hören"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hör"
+            ],
+            "source": 80,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehört",
+                "hören"
+            ],
+            "source": 80,
+            "target": 91,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehört",
+                "gut",
+                "hören"
+            ],
+            "source": 80,
+            "target": 93,
+            "target_group": [
+                3,
+                1,
+                5
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "fühlen"
+            ],
+            "source": 80,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hören"
+            ],
+            "source": 81,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hören"
+            ],
+            "source": 81,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehört",
+                "hören"
+            ],
+            "source": 91,
+            "target": 93,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "verloren"
+            ],
+            "source": 92,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "getan"
+            ],
+            "source": 93,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weh"
+            ],
+            "source": 93,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "taub"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "losen"
+            ],
+            "source": 106,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "losen"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lauschen"
+            ],
+            "source": 106,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "losen"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Nase",
+                "gut",
+                "ziemlich",
+                "sehe",
+                "Augen",
+                "Familie",
+                "ja",
+                "reicht",
+                "klar",
+                "schlecht",
+                "Katze",
+                "besser",
+                "sieht",
+                "vier",
+                "seht",
+                "ganze",
+                "zwei",
+                "deutlich",
+                "siehst",
+                "scharf",
+                "sehen"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "schaugn",
+                "schau",
+                "schaua",
+                "schauen"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "muß",
+                "Höhe",
+                "Luft",
+                "Fenster",
+                "schauen",
+                "rückwärts",
+                "Wolken",
+                "links",
+                "sieht",
+                "vorwärts",
+                "geradeaus",
+                "ja",
+                "Er",
+                "rechts",
+                "siehst",
+                "Wiedergabe",
+                "mundartgetreue",
+                "sieh",
+                "sehen",
+                "folgenden"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "sehen",
+                "Sehweite"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Pfennig",
+                "weckt",
+                "muß",
+                "Ah",
+                "laß",
+                "ansehen",
+                "sieht",
+                "Das",
+                "Groschen",
+                "schau",
+                "sieh",
+                "nic",
+                "Verlangen",
+                "Man"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "gibt",
+                "Ansehen"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "ab",
+                "Muster",
+                "sieht",
+                "absehen",
+                "abschauen",
+                "nehmen",
+                "darauf",
+                "sehe",
+                "davon"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Höhe",
+                "Aufgeschaut",
+                "acht",
+                "schaut",
+                "sieht",
+                "Achtung",
+                "gib",
+                "schau",
+                "aufsehen",
+                "sieh",
+                "Kleine"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "großes",
+                "Aufsehen",
+                "gemacht"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "ironisch",
+                "ausersehen",
+                "gespiebenes",
+                "schaut",
+                "sieht",
+                "ausgeschaut",
+                "gut",
+                "na",
+                "Äpfelkoch",
+                "aussehen"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Aussehen",
+                "schlechtes"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "aushersehen",
+                "aushersiehst",
+                "schaut",
+                "sieht",
+                "ausher"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "aushinsehen",
+                "wer",
+                "schau",
+                "aushin"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "regnen",
+                "Die",
+                "wann",
+                "Teufel",
+                "hersehen",
+                "wollt",
+                "schaut",
+                "schau",
+                "sieh",
+                "her",
+                "Großmutter"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Hersehen",
+                "grausliches"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "hingesehen",
+                "hinsehen"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "einsehen",
+                "sieht"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Dreinsehen",
+                "Einsehen"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Leiden",
+                "angespannt",
+                "Geisbock",
+                "geistesabwesend",
+                "abgestochener",
+                "bittere",
+                "verängstigt",
+                "verblüfft",
+                "freudig",
+                "geheimnisvoll",
+                "erstaunt",
+                "verwundert",
+                "feurig",
+                "entsetzt",
+                "müde",
+                "finster",
+                "höhnisch",
+                "dreinschauen",
+                "sauer",
+                "groß"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "einhersehen",
+                "einhin",
+                "schaut",
+                "eingenommen"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "verachtet",
+                "schaut",
+                "abhersehen",
+                "abher"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "bezaubern",
+                "bemerkt",
+                "übersehen",
+                "Bedeutet"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "untersehen",
+                "gesehen",
+                "einander"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Ich",
+                "ausgemacht",
+                "schau",
+                "braucht",
+                "sieh",
+                "umschauen",
+                "umsehen",
+                "Zweifel"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "sollen",
+                "untätig",
+                "länger",
+                "zusehen"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "vorgesehn",
+                "sieh",
+                "fürsehen"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "wer",
+                "voraussehen"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "geschaut",
+                "Kopfe",
+                "Schwangeren",
+                "dersehen",
+                "derschaut",
+                "zerschaut"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "vergessen",
+                "irre",
+                "schauen",
+                "anordnen",
+                "versehen",
+                "verschaut",
+                "starr",
+                "geworden",
+                "Bedeutet",
+                "genügend"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "muß",
+                "wegsehen",
+                "weggesehn"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "besehen",
+                "muß",
+                "Vieh",
+                "füttern",
+                "warten"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Beseherin",
+                "Beseher",
+                "Viehwärter"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "geschauen",
+                "besichtigen",
+                "schauen"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Gestalt",
+                "Schau",
+                "Aussehen",
+                "Anblick"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "Schau",
+                "Geschau",
+                "Besichtigung"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Feuerbeschau",
+                "Beschauleute",
+                "Beschau"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Schau",
+                "Geschau",
+                "angegafft"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "liebes",
+                "Geschau",
+                "Herschau",
+                "wildes",
+                "Miene",
+                "scharfes"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Geschau",
+                "arbeiten",
+                "Schein",
+                "Bestellung",
+                "äußern"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Sehe",
+                "Feldern",
+                "schlimme",
+                "Aussehen",
+                "Seh"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "hochgesehen",
+                "stolz"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "versehentlich"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "unversehens"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "Sicht"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "vordere",
+                "Umsi",
+                "wirklich",
+                "schöne",
+                "Aussichten",
+                "Absicht",
+                "Ansicht",
+                "Aussicht",
+                "übernimmst",
+                "Sicht",
+                "gute",
+                "Übersicht",
+                "fehlt",
+                "Einsicht",
+                "Aufsicht"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "Sorgfalt",
+                "Vorsicht",
+                "Besicht",
+                "Besichtigkeit"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "Unbesichtigkeit",
+                "Unachtsamkeit",
+                "Sorglosigkeit",
+                "Unbesehenheit",
+                "Unbesicht"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "aussichtslos"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "einsichtsvoll"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "Kind",
+                "sichtlich",
+                "gedeiht"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "sichtlich",
+                "absichtlich",
+                "zuversichtlich",
+                "übersichtlich",
+                "getan",
+                "sei",
+                "zusammengestellt"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "vorsichtig",
+                "könntest",
+                "nachlässig",
+                "umsichtig",
+                "sorgfältig",
+                "sichtig",
+                "ansichtig",
+                "sorglos",
+                "zugleich",
+                "besichtig",
+                "einsichtiger",
+                "wurde",
+                "verbarg",
+                "übersichtig"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "Maus",
+                "Kuh",
+                "Auge",
+                "Blinden",
+                "entwenden",
+                "spielen",
+                "herumgehen",
+                "schlagen",
+                "austreten",
+                "heimlich",
+                "blind",
+                "führen",
+                "blindes",
+                "zustecken",
+                "betören",
+                "Blinder",
+                "blinde"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "blindvoll",
+                "Verstärkung",
+                "blind"
+            ],
+            "id": "A54"
+        },
+        {
+            "concepts": [
+                "erblinden",
+                "blind"
+            ],
+            "id": "A55"
+        },
+        {
+            "concepts": [
+                "geschlagen",
+                "Blindheit"
+            ],
+            "id": "A56"
+        },
+        {
+            "concepts": [
+                "nachtblind"
+            ],
+            "id": "A57"
+        },
+        {
+            "concepts": [
+                "schneeblind"
+            ],
+            "id": "A58"
+        },
+        {
+            "concepts": [
+                "sehend"
+            ],
+            "id": "A59"
+        },
+        {
+            "concepts": [
+                "doppelt",
+                "sehen"
+            ],
+            "id": "A60"
+        },
+        {
+            "concepts": [
+                "daran",
+                "durchbohrt",
+                "Blick",
+                "Blicken",
+                "Stube",
+                "tu",
+                "gewagt"
+            ],
+            "id": "A61"
+        },
+        {
+            "concepts": [
+                "Viehzucht",
+                "muß",
+                "nötigen",
+                "Ausblick",
+                "Einblick",
+                "Überblick",
+                "Blick",
+                "Anblick",
+                "verschaffen",
+                "erst",
+                "freier",
+                "hiesige",
+                "schöner",
+                "gewonnen"
+            ],
+            "id": "A62"
+        },
+        {
+            "concepts": [
+                "freundlich",
+                "gucken",
+                "schauen",
+                "neugierig"
+            ],
+            "id": "A63"
+        },
+        {
+            "concepts": [
+                "zugekniffenen",
+                "halb",
+                "Auge",
+                "schauen",
+                "Spalte",
+                "kleine",
+                "gückeln"
+            ],
+            "id": "A64"
+        },
+        {
+            "concepts": [
+                "alter",
+                "Frauenhut",
+                "Guckaußer",
+                "spielen",
+                "Guckkasten",
+                "Form",
+                "Guckuhut",
+                "guckebergen",
+                "gucken",
+                "verstecken"
+            ],
+            "id": "A65"
+        },
+        {
+            "concepts": [
+                "abgeguckt",
+                "Seiten",
+                "beguckst",
+                "warum",
+                "guckt",
+                "einhin",
+                "ausher",
+                "gucken"
+            ],
+            "id": "A66"
+        },
+        {
+            "concepts": [
+                "lauerndes",
+                "Gucke",
+                "Gesicht",
+                "Lauer"
+            ],
+            "id": "A67"
+        },
+        {
+            "concepts": [
+                "seht",
+                "acht",
+                "gib",
+                "lug",
+                "ts",
+                "lugen",
+                "ei",
+                "lu"
+            ],
+            "id": "A68"
+        },
+        {
+            "concepts": [
+                "auslugen",
+                "neidischen",
+                "überlugen",
+                "einhinlugen",
+                "Blick",
+                "verlugen",
+                "Aussicht",
+                "behexen",
+                "Eckhaus",
+                "weite",
+                "Wartturm",
+                "Lugloch",
+                "lugen"
+            ],
+            "id": "A69"
+        },
+        {
+            "concepts": [
+                "Weinhüterhütte",
+                "Bett",
+                "außer",
+                "Luge"
+            ],
+            "id": "A70"
+        },
+        {
+            "concepts": [
+                "Lug",
+                "Blick"
+            ],
+            "id": "A71"
+        },
+        {
+            "concepts": [
+                "Lug",
+                "Stelle",
+                "Aussicht"
+            ],
+            "id": "A72"
+        },
+        {
+            "concepts": [
+                "Luage",
+                "sagt",
+                "Lugerin",
+                "Lauerer",
+                "Gaffer",
+                "Luger"
+            ],
+            "id": "A73"
+        },
+        {
+            "concepts": [
+                "Aufseher",
+                "Aufluger"
+            ],
+            "id": "A74"
+        },
+        {
+            "concepts": [
+                "Aussprache",
+                "spähen"
+            ],
+            "id": "A75"
+        },
+        {
+            "concepts": [
+                "umherspähen",
+                "spähen"
+            ],
+            "id": "A76"
+        },
+        {
+            "concepts": [
+                "Späher"
+            ],
+            "id": "A77"
+        },
+        {
+            "concepts": [
+                "stehen",
+                "Spähe"
+            ],
+            "id": "A78"
+        },
+        {
+            "concepts": [
+                "stieren",
+                "glarren",
+                "glurren",
+                "schauen",
+                "starr",
+                "glotzen"
+            ],
+            "id": "A79"
+        },
+        {
+            "concepts": [
+                "anglotzen",
+                "schauen",
+                "starr",
+                "glotzen",
+                "verglotzen"
+            ],
+            "id": "A80"
+        },
+        {
+            "concepts": [
+                "hast",
+                "hart",
+                "muß",
+                "Sehen",
+                "hör",
+                "grob",
+                "gern",
+                "vergangen",
+                "fein",
+                "schlecht",
+                "Hören",
+                "gut",
+                "fühlen",
+                "schwer",
+                "hören",
+                "Hörensagen",
+                "gehört",
+                "wer",
+                "nic",
+                "rufen"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Hörweite",
+                "hören",
+                "Hörrohr"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Anhören",
+                "Hör"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Kranken",
+                "abhören"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "ausgehört",
+                "ausgefragt"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "schreien",
+                "hör",
+                "hörst",
+                "Du",
+                "ja"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "mußt",
+                "zuhören"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "überhört"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "verhört",
+                "worden"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "erhört"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "hingehört",
+                "halb"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Wird",
+                "verwendet",
+                "gehören",
+                "statt",
+                "hören",
+                "gehört"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "redet",
+                "Wunsch",
+                "Gehör",
+                "verloren"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "gehörig",
+                "weh",
+                "getan",
+                "hörend",
+                "gut",
+                "Verstärkung",
+                "hören",
+                "gehört"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "ungehörig"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "unaufhörlich"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Gericht",
+                "Verhör"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Erhör",
+                "Erhörung"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "gehorsam",
+                "ungehorsam"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Gehorsam"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "unerhört"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "schwerhörig"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Schwerhörigkeit"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "törische",
+                "toret",
+                "Wort",
+                "matt",
+                "törisch",
+                "überhörend",
+                "wann",
+                "taub",
+                "Fasten",
+                "wäre",
+                "tör",
+                "Bedeutung",
+                "dumm",
+                "Woche",
+                "getan",
+                "Kommt",
+                "zornig",
+                "losohret",
+                "unhörend"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "taub",
+                "stocktaub"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Taubheit",
+                "Törischheit"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "horchen",
+                "genug",
+                "losen",
+                "lauschen",
+                "lusen",
+                "flüstern",
+                "Ohr",
+                "ganz",
+                "Wetter",
+                "Mühltür",
+                "lost",
+                "regnerisch",
+                "Narr",
+                "Sau"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "losen",
+                "loszwieflet",
+                "bösartig"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "losen",
+                "derlosen",
+                "Gedanken",
+                "dahinträumen",
+                "Klatschende",
+                "verloren",
+                "dahinlosen",
+                "verlosen",
+                "erlauschen",
+                "gedankenlos",
+                "gleichgültig",
+                "los"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Schand",
+                "Wand",
+                "hört",
+                "eigene",
+                "Horcher",
+                "Loser"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Losung",
+                "Lose",
+                "Parole"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Ohren",
+                "spitzen",
+                "aufhorchen",
+                "neugierig"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "laustern",
+                "lauernd",
+                "lauschen"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "fühle",
+                "weh",
+                "Fuß",
+                "spüren",
+                "fühlt",
+                "Schmerz",
+                "Hitze",
+                "Kälte",
+                "tut",
+                "fühlst",
+                "fühlen",
+                "Tier",
+                "eingeschlafen",
+                "Puls",
+                "ge",
+                "spü",
+                "unglücklich",
+                "Zahn"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "dafür",
+                "Gefühl"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Mangel",
+                "fühlbarer"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "fühllos",
+                "empfindungslos"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "feinfühlig"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "zartfühlend"
+            ],
+            "id": "C6"
+        }
+    ]
+}

@@ -1,0 +1,1839 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "stürzen"
+                ],
+                [
+                    "Sturz"
+                ],
+                [
+                    "naigen"
+                ],
+                [
+                    "senken"
+                ],
+                [
+                    "trächtig"
+                ],
+                [
+                    "schicken"
+                ],
+                [
+                    "weit"
+                ],
+                [
+                    "Gewehr"
+                ],
+                [
+                    "tupfen"
+                ],
+                [
+                    "berühren"
+                ],
+                [
+                    "raffen"
+                ],
+                [
+                    "Fang"
+                ],
+                [
+                    "Sonstiges"
+                ],
+                [
+                    "Holz"
+                ]
+            ],
+            "2": [
+                [
+                    "sonstige"
+                ],
+                [
+                    "fangen"
+                ]
+            ],
+            "3": [
+                [
+                    "tragen"
+                ],
+                [
+                    "bringen"
+                ],
+                [
+                    "klauben"
+                ],
+                [
+                    "rühren"
+                ],
+                [
+                    "schnappen"
+                ],
+                [
+                    "fassen"
+                ]
+            ],
+            "4": [
+                [
+                    "sinken"
+                ]
+            ],
+            "6": [
+                [
+                    "greifen"
+                ],
+                [
+                    "kommt"
+                ]
+            ],
+            "15": [
+                [
+                    "fallen"
+                ]
+            ],
+            "18": [
+                [
+                    "Verwendungen"
+                ],
+                [
+                    "Formen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "hol",
+                    "holen"
+                ],
+                [
+                    "Ausdrücke",
+                    "sonstige"
+                ],
+                [
+                    "fahen",
+                    "fangen"
+                ]
+            ],
+            "3": [
+                [
+                    "Formen",
+                    "Verwendungen"
+                ]
+            ],
+            "5": [
+                [
+                    "fallen",
+                    "sinken"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "sinken",
+                    "reren",
+                    "fallen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 0,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 1,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 1,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 1,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 1,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 4,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 4,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 4,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen"
+            ],
+            "source": 4,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stürzen"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 5,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 5,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 5,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 5,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 5,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 5,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 5,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 5,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 5,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sturz"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sinken"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sinken"
+            ],
+            "source": 11,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sinken"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sinken"
+            ],
+            "source": 11,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "senken"
+            ],
+            "source": 12,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fallen",
+                "sinken"
+            ],
+            "source": 14,
+            "target": 17,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fallen",
+                "sinken"
+            ],
+            "source": 14,
+            "target": 18,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fallen",
+                "sinken"
+            ],
+            "source": 14,
+            "target": 23,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 16,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sinken",
+                "reren",
+                "fallen"
+            ],
+            "source": 17,
+            "target": 18,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "sinken",
+                "fallen"
+            ],
+            "source": 17,
+            "target": 23,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sinken",
+                "fallen"
+            ],
+            "source": 18,
+            "target": 23,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "naigen"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 19,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 19,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 19,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 19,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 19,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 23,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 23,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 24,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 24,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tragen"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tragen"
+            ],
+            "source": 25,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trächtig"
+            ],
+            "source": 25,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 25,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weit"
+            ],
+            "source": 25,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 25,
+            "target": 39,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 25,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 25,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 25,
+            "target": 50,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tragen"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 27,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bringen"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bringen"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holz"
+            ],
+            "source": 30,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bringen"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 32,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hol",
+                "holen"
+            ],
+            "source": 33,
+            "target": 34,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schicken"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klauben"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klauben"
+            ],
+            "source": 39,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 39,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 39,
+            "target": 50,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 39,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klauben"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rühren"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rühren"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rühren"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "berühren"
+            ],
+            "source": 43,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tupfen"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "greifen"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "greifen"
+            ],
+            "source": 50,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "greifen"
+            ],
+            "source": 50,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 50,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "greifen"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "greifen"
+            ],
+            "source": 51,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "greifen"
+            ],
+            "source": 53,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "raffen"
+            ],
+            "source": 55,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahen",
+                "fangen"
+            ],
+            "source": 60,
+            "target": 61,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fangen"
+            ],
+            "source": 60,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fangen"
+            ],
+            "source": 61,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fang"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schnappen"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schnappen"
+            ],
+            "source": 67,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schnappen"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fassen"
+            ],
+            "source": 71,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fassen"
+            ],
+            "source": 71,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fassen"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "fallen",
+                "Formen",
+                "Verbindungen",
+                "Fallende"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "fallen",
+                "Falltor",
+                "Hinfallende"
+            ],
+            "id": "G11a"
+        },
+        {
+            "concepts": [
+                "Baufall",
+                "Fall",
+                "kommen"
+            ],
+            "id": "G11b"
+        },
+        {
+            "concepts": [
+                "Falle",
+                "Falltüre",
+                "Fellekasten",
+                "Art",
+                "Pult",
+                "Felle"
+            ],
+            "id": "G11c"
+        },
+        {
+            "concepts": [
+                "fällig",
+                "Fälligkeit",
+                "fällern",
+                "fällen",
+                "fallen"
+            ],
+            "id": "G11d"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "gestürzt",
+                "Verwendungen",
+                "stürzen",
+                "gesturzen"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "stürzen"
+            ],
+            "id": "G12a"
+        },
+        {
+            "concepts": [
+                "Sturz",
+                "Form",
+                "Deckgefäß",
+                "bestimmter"
+            ],
+            "id": "G12b"
+        },
+        {
+            "concepts": [
+                "Sturz"
+            ],
+            "id": "G12c"
+        },
+        {
+            "concepts": [
+                "Plumpser",
+                "Plumps",
+                "plumpsen",
+                "plumps"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "lumpf",
+                "lumpfen"
+            ],
+            "id": "G13a"
+        },
+        {
+            "concepts": [
+                "sinken",
+                "Formen"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "senken"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Senkung"
+            ],
+            "id": "G15a"
+        },
+        {
+            "concepts": [
+                "fallen",
+                "reisen",
+                "Nebelreißen",
+                "sinken"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Ris",
+                "Sonnenuntergang"
+            ],
+            "id": "G16a"
+        },
+        {
+            "concepts": [
+                "Sonstiges",
+                "risen",
+                "Reise",
+                "Risbaum",
+                "Rise",
+                "zurisen",
+                "Eisrise"
+            ],
+            "id": "G16b"
+        },
+        {
+            "concepts": [
+                "sinken",
+                "lassen",
+                "fallen",
+                "rinnen",
+                "reren"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Rerach",
+                "zähe",
+                "Gerér",
+                "Tenngerér",
+                "sinken",
+                "Gererach",
+                "gererig",
+                "fallen",
+                "Mehlspeisen",
+                "reren"
+            ],
+            "id": "G17a"
+        },
+        {
+            "concepts": [
+                "naigen",
+                "Verwendungen"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Salznaigel",
+                "Naige"
+            ],
+            "id": "G18a"
+        },
+        {
+            "concepts": [
+                "naigen",
+                "ausnaigeln"
+            ],
+            "id": "G18b"
+        },
+        {
+            "concepts": [
+                "duckeln",
+                "ducken",
+                "Duckente"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "parzeln",
+                "Saig",
+                "saigern",
+                "senken",
+                "Saiger",
+                "sacken",
+                "seigen",
+                "Purzelbaum",
+                "sinken",
+                "purzelbäumen",
+                "Purzigagel",
+                "Salzsiederei",
+                "fallen",
+                "Ausdrücke",
+                "purzeln",
+                "sonstige"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "nollen",
+                "wippen",
+                "nüllen",
+                "knappen"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "trächtig",
+                "Formen",
+                "ertragen",
+                "Verwendungen",
+                "trägt",
+                "weit",
+                "tragen"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Abtragszahlung",
+                "Vortrag",
+                "Tragseil",
+                "sowie",
+                "tragen"
+            ],
+            "id": "H1a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "tragendig",
+                "tragbar",
+                "Austrägler",
+                "Trage",
+                "Verträglichkeit",
+                "verträglich",
+                "tragig",
+                "Träger",
+                "tragen",
+                "sonstige"
+            ],
+            "id": "H1b"
+        },
+        {
+            "concepts": [
+                "trächtig",
+                "Kindtracht",
+                "Kirchgeträchte",
+                "niederträchtig",
+                "Tracht",
+                "Geträchte"
+            ],
+            "id": "H1c"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Samtrügeltag",
+                "vorhanden",
+                "Samtregel",
+                "Samtrügel"
+            ],
+            "id": "H1d"
+        },
+        {
+            "concepts": [
+                "Kind",
+                "Formen",
+                "Holz",
+                "Nutzen",
+                "bringen"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "zubringen",
+                "bringen"
+            ],
+            "id": "H2a"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Zubringer",
+                "bringen",
+                "ungebracht",
+                "bringlich"
+            ],
+            "id": "H2b"
+        },
+        {
+            "concepts": [
+                "Höhe",
+                "Teufel",
+                "holen",
+                "Teufelholen",
+                "hol"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "nachholen",
+                "hol",
+                "holen"
+            ],
+            "id": "H3a"
+        },
+        {
+            "concepts": [
+                "schicken",
+                "Verwendungen"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "verschicken",
+                "schicken",
+                "beschicken"
+            ],
+            "id": "H4a"
+        },
+        {
+            "concepts": [
+                "weit",
+                "versenden",
+                "Sendbote",
+                "senden"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "beisammen",
+                "sammen",
+                "zusammen",
+                "sammeln",
+                "versammeln",
+                "mitsamt",
+                "Sammlung",
+                "samt",
+                "Sammelgeld"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Verwendungen",
+                "Formen",
+                "klauben"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "Klaubauf",
+                "klauben",
+                "Klaubholz"
+            ],
+            "id": "H7a"
+        },
+        {
+            "concepts": [
+                "klaubeln",
+                "kläuberisch",
+                "kläubeln",
+                "Ausklaubet",
+                "Klauber",
+                "klauben",
+                "Klaubach"
+            ],
+            "id": "H7b"
+        },
+        {
+            "concepts": [
+                "rühren",
+                "rührt"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "rühren",
+                "Rührtiegel",
+                "berühren"
+            ],
+            "id": "H8a"
+        },
+        {
+            "concepts": [
+                "rührig",
+                "Aufrührer",
+                "Rühret",
+                "rühren",
+                "Rührel",
+                "Aufruhr",
+                "ge"
+            ],
+            "id": "H8b"
+        },
+        {
+            "concepts": [
+                "Taps",
+                "Tapper",
+                "Tapp",
+                "tappen",
+                "tapsen",
+                "Dideltapp",
+                "täppeln",
+                "täppisch"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "tupfen",
+                "Verwendungen"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "Tupf",
+                "aufs",
+                "Tüpfel",
+                "Tupfen"
+            ],
+            "id": "H10a"
+        },
+        {
+            "concepts": [
+                "Tupfer",
+                "Gewehr",
+                "Schützenscheibe",
+                "getüpfelt",
+                "tüpfeln",
+                "tupfen",
+                "getupft",
+                "Tüpfler",
+                "zusammentüpfeln"
+            ],
+            "id": "H10b"
+        },
+        {
+            "concepts": [
+                "zicken",
+                "sonstige",
+                "kitzlig",
+                "kitzeln",
+                "Kitzel",
+                "Ausdrücke",
+                "berühren"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "greifen",
+                "Formen",
+                "Verwendungen"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "greifen"
+            ],
+            "id": "H12a"
+        },
+        {
+            "concepts": [
+                "Gripf",
+                "Griff",
+                "Handgriff"
+            ],
+            "id": "H12b"
+        },
+        {
+            "concepts": [
+                "greifig",
+                "Greifer",
+                "greifen",
+                "Gripfling",
+                "griffig"
+            ],
+            "id": "H12c"
+        },
+        {
+            "concepts": [
+                "Salzauflader",
+                "Gropper",
+                "Kröppsalz",
+                "groppen"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "raffen",
+                "raffeln"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Raffel",
+                "Raffelwerk"
+            ],
+            "id": "H14a"
+        },
+        {
+            "concepts": [
+                "greifen",
+                "packen",
+                "fest"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "raffen",
+                "raspeln",
+                "Raspel",
+                "Geizkragen"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "grapsen",
+                "gripfen",
+                "Sinnes",
+                "rappen",
+                "rapsen"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "gefangen",
+                "Formen",
+                "Atem",
+                "Gefangener",
+                "fahen",
+                "fange",
+                "fangen"
+            ],
+            "id": "H18"
+        },
+        {
+            "concepts": [
+                "infahen",
+                "empfangen",
+                "fahen",
+                "einfädeln",
+                "fangen"
+            ],
+            "id": "H18a"
+        },
+        {
+            "concepts": [
+                "fengen",
+                "kommt"
+            ],
+            "id": "H18b"
+        },
+        {
+            "concepts": [
+                "Fang"
+            ],
+            "id": "H18c"
+        },
+        {
+            "concepts": [
+                "Empfang",
+                "Fang",
+                "Bifangwald",
+                "Fanggeld",
+                "Verfang",
+                "Bifang",
+                "Wildfang"
+            ],
+            "id": "H18d"
+        },
+        {
+            "concepts": [
+                "Empfänger",
+                "Fängnis",
+                "einfähig",
+                "fähig",
+                "Anfänger",
+                "Fänger",
+                "fängig",
+                "fangen"
+            ],
+            "id": "H18e"
+        },
+        {
+            "concepts": [
+                "haschen"
+            ],
+            "id": "H19"
+        },
+        {
+            "concepts": [
+                "Uhrfeder",
+                "Beinen",
+                "schnappt",
+                "Fingern",
+                "schnappen"
+            ],
+            "id": "H20"
+        },
+        {
+            "concepts": [
+                "zuschnappen",
+                "schnappen"
+            ],
+            "id": "H20a"
+        },
+        {
+            "concepts": [
+                "schnippschnapp",
+                "Schnappe",
+                "Schnappsack",
+                "Schnapp"
+            ],
+            "id": "H20b"
+        },
+        {
+            "concepts": [
+                "Sonstiges",
+                "Schnapperlmacher",
+                "Schnäpperer",
+                "Schnapperbüchse",
+                "Schnapper",
+                "schneppern",
+                "schnepeln",
+                "schnappen"
+            ],
+            "id": "H20c"
+        },
+        {
+            "concepts": [
+                "Altar",
+                "hellem",
+                "Brot",
+                "Bild",
+                "gibt",
+                "erfassen",
+                "Holz",
+                "Wagen",
+                "verdumpftem",
+                "gefaßt",
+                "fassen"
+            ],
+            "id": "H21"
+        },
+        {
+            "concepts": [
+                "eingefaßt",
+                "fassen"
+            ],
+            "id": "H21a"
+        },
+        {
+            "concepts": [
+                "faßlich",
+                "fassen",
+                "Fasser"
+            ],
+            "id": "H21b"
+        }
+    ]
+}

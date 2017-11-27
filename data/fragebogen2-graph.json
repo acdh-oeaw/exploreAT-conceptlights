@@ -1,0 +1,1648 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Person"
+                ],
+                [
+                    "Woche"
+                ],
+                [
+                    "Gebetbücher"
+                ],
+                [
+                    "Beichttag"
+                ],
+                [
+                    "Karmittwoch"
+                ],
+                [
+                    "Ostereier"
+                ],
+                [
+                    "Eier"
+                ],
+                [
+                    "Eheleute"
+                ],
+                [
+                    "Freitag"
+                ],
+                [
+                    "liest"
+                ],
+                [
+                    "Messe"
+                ],
+                [
+                    "besondere"
+                ],
+                [
+                    "Saathahn"
+                ],
+                [
+                    "Speisen"
+                ]
+            ],
+            "2": [
+                [
+                    "heißt"
+                ],
+                [
+                    "womit"
+                ]
+            ],
+            "3": [
+                [
+                    "Palmeselfahrt"
+                ],
+                [
+                    "Karwoche"
+                ],
+                [
+                    "Gründonnerstag"
+                ],
+                [
+                    "Geistlichen"
+                ],
+                [
+                    "wer"
+                ]
+            ],
+            "4": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "7": [
+                [
+                    "wozu"
+                ]
+            ],
+            "9": [
+                [
+                    "Palmbuschen"
+                ]
+            ],
+            "10": [
+                [
+                    "Palmsonntag"
+                ]
+            ],
+            "15": [
+                [
+                    "wann"
+                ]
+            ],
+            "18": [
+                [
+                    "Karfreitag"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Palmbuschen",
+                    "wozu"
+                ],
+                [
+                    "Namen",
+                    "heißt"
+                ],
+                [
+                    "Pumpermette",
+                    "Ostermette"
+                ],
+                [
+                    "dienen",
+                    "wozu"
+                ],
+                [
+                    "wozu",
+                    "womit"
+                ],
+                [
+                    "dabei",
+                    "Ausdrücke"
+                ],
+                [
+                    "Ausdrücke",
+                    "Teile"
+                ]
+            ],
+            "3": [
+                [
+                    "wer",
+                    "Karfreitag"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen",
+                "wozu"
+            ],
+            "source": 4,
+            "target": 6,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dienen",
+                "wozu"
+            ],
+            "source": 4,
+            "target": 25,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 4,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmbuschen"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 6,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 6,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei",
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Teile"
+            ],
+            "source": 6,
+            "target": 43,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 8,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wozu",
+                "womit"
+            ],
+            "source": 8,
+            "target": 26,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 8,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 9,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beichttag"
+            ],
+            "source": 9,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 11,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 11,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karwoche"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karwoche"
+            ],
+            "source": 11,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebetbücher"
+            ],
+            "source": 11,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmeselfahrt"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmeselfahrt"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 13,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 13,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 13,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 13,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmeselfahrt"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen",
+                "heißt"
+            ],
+            "source": 14,
+            "target": 17,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 14,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Palmsonntag"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Woche"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 17,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Freitag"
+            ],
+            "source": 17,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karwoche"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pumpermette",
+                "Ostermette"
+            ],
+            "source": 20,
+            "target": 21,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Karmittwoch"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 20,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 20,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 20,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geistlichen"
+            ],
+            "source": 21,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geistlichen"
+            ],
+            "source": 21,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liest"
+            ],
+            "source": 21,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eheleute"
+            ],
+            "source": 23,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gründonnerstag"
+            ],
+            "source": 24,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gründonnerstag"
+            ],
+            "source": 24,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostereier"
+            ],
+            "source": 25,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 26,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 27,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saathahn"
+            ],
+            "source": 27,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 27,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 27,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gründonnerstag"
+            ],
+            "source": 28,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 28,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speisen"
+            ],
+            "source": 28,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 36,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geistlichen"
+            ],
+            "source": 37,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 38,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 39,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 39,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 39,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 39,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 39,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 39,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messe"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer",
+                "Karfreitag"
+            ],
+            "source": 42,
+            "target": 48,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wer",
+                "Karfreitag"
+            ],
+            "source": 42,
+            "target": 49,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 42,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 42,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 46,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer",
+                "Karfreitag"
+            ],
+            "source": 48,
+            "target": 49,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 48,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 48,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Karfreitag"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Blumentag",
+                "grüner",
+                "Palmtag",
+                "Blumensonntag",
+                "Palmsonntag",
+                "Sonntag",
+                "Blühensonntag"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Palmweihe"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Palmbuschen",
+                "Breitling"
+            ],
+            "id": "A2a"
+        },
+        {
+            "concepts": [
+                "Palmbuschen",
+                "Größe",
+                "hiefür"
+            ],
+            "id": "A2b"
+        },
+        {
+            "concepts": [
+                "Äpfel",
+                "dienen",
+                "heißen",
+                "Kranewit",
+                "besteht",
+                "Wachholder",
+                "Palmbuschen",
+                "Schratlaub",
+                "Stechpalme",
+                "wozu",
+                "woraus",
+                "Segenbaum",
+                "Gromelsträußlein",
+                "Waxlaub"
+            ],
+            "id": "A2c"
+        },
+        {
+            "concepts": [
+                "wogegen",
+                "verschluckt",
+                "Palmkätzlein",
+                "Palmbuschen",
+                "Anzahl",
+                "Schutzmittel"
+            ],
+            "id": "A2d"
+        },
+        {
+            "concepts": [
+                "wann",
+                "Palmbuschen",
+                "verbrannt",
+                "davon",
+                "wozu",
+                "dabei",
+                "geschieht",
+                "Stubenkruzifixen",
+                "Ställen",
+                "Ausdrücke",
+                "Dache",
+                "Teile"
+            ],
+            "id": "A2e"
+        },
+        {
+            "concepts": [
+                "getrieben",
+                "Palmbuschenträger",
+                "Unfug",
+                "Palmträgern"
+            ],
+            "id": "A2f"
+        },
+        {
+            "concepts": [
+                "Meerrettich",
+                "Salzstücke",
+                "verwendet",
+                "Bänder",
+                "Wetterbuschen",
+                "Hexenbesen",
+                "wozu",
+                "schmückt",
+                "Haselnußstecken",
+                "geweihte",
+                "Kräfte",
+                "womit"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Palmsonntag",
+                "Beichttag",
+                "Weiber",
+                "ledigen",
+                "Leute",
+                "gilt"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "lange",
+                "Evangelium",
+                "Passion"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "benützt",
+                "Karwoche",
+                "Gebetbücher",
+                "enthaltene",
+                "Darin",
+                "Palmsonntag",
+                "Betrachtgen",
+                "Andachten"
+            ],
+            "id": "A5a"
+        },
+        {
+            "concepts": [
+                "SpottN",
+                "aufgeputzt",
+                "Palmesel"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "wem",
+                "wann",
+                "Palmeselfahrt",
+                "veranstaltet"
+            ],
+            "id": "A6a"
+        },
+        {
+            "concepts": [
+                "mitgeführt",
+                "heißt",
+                "Christbild",
+                "Palmeselfahrt",
+                "Christus",
+                "Person",
+                "Holzplastik",
+                "Namen",
+                "dargestellt"
+            ],
+            "id": "A6b"
+        },
+        {
+            "concepts": [
+                "gesungen",
+                "Palmeselfahrt",
+                "Lieder"
+            ],
+            "id": "A6c"
+        },
+        {
+            "concepts": [
+                "Kindern",
+                "Grintbüßerin",
+                "wäscht",
+                "Köpfe",
+                "Palmsonntag",
+                "Person",
+                "schneidet",
+                "Haare"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Freitag",
+                "heißt",
+                "Tage",
+                "Palmsonntag",
+                "Woche",
+                "Palmfreitag",
+                "Namen"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Marterwoche",
+                "Antlaßwoche",
+                "Karwoche",
+                "Grunenwoche"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Platzmittwoch",
+                "Karwoche",
+                "krummer",
+                "grunen",
+                "Mittwoch",
+                "krummen",
+                "Woche",
+                "gruner",
+                "Fastenmittwoch"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "wann",
+                "Karmittwoch",
+                "darnach",
+                "Rumpelmette",
+                "genannt",
+                "Pumpermittwoch",
+                "gehalten",
+                "Pumpermette",
+                "Ostermette"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Vespern",
+                "deutet",
+                "Gläubige",
+                "Gebetbücher",
+                "disputieren",
+                "Geistlichen",
+                "Christen",
+                "liest",
+                "Pumpermette",
+                "betet",
+                "Ostermette",
+                "Volk",
+                "Juden"
+            ],
+            "id": "B3a"
+        },
+        {
+            "concepts": [
+                "ausmettnen",
+                "auszanken",
+                "jemanden",
+                "Mette",
+                "Metten",
+                "besoffene"
+            ],
+            "id": "B3b"
+        },
+        {
+            "concepts": [
+                "Beichttag",
+                "Eheleute",
+                "Karmittwoch"
+            ],
+            "id": "B3c"
+        },
+        {
+            "concepts": [
+                "Gründonnerstag",
+                "Mendeltag",
+                "Weihenpfinztag",
+                "Speispfinztag",
+                "heiliger",
+                "Märtelwoche",
+                "Antlaßpfinztag",
+                "Frauenantlaß",
+                "tag",
+                "Pfinztag"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "dienen",
+                "Stalltor",
+                "gestreut",
+                "Ostereier",
+                "zerbrochen",
+                "Antlaßeier",
+                "wozu",
+                "Felder",
+                "eingegraben"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "eingegeben",
+                "Eierfarbe",
+                "Farben",
+                "Eierfärben",
+                "Zwiebelschalen",
+                "gesprenkelte",
+                "Beschreiben",
+                "Eier",
+                "Vieh",
+                "wozu",
+                "Speck",
+                "Sprenkeln",
+                "Abreiben",
+                "bevorzugte",
+                "womit",
+                "3E",
+                "Färbemittel"
+            ],
+            "id": "C2a"
+        },
+        {
+            "concepts": [
+                "Osterhase",
+                "Waschen",
+                "Saathahn",
+                "Eier",
+                "Ostereier",
+                "legt",
+                "Krallen",
+                "behandelt",
+                "wer"
+            ],
+            "id": "C2b"
+        },
+        {
+            "concepts": [
+                "Kräutelsuppe",
+                "Gründonnerstag",
+                "Ei",
+                "Speisen",
+                "besondere",
+                "Kräutern",
+                "Nisselsalat",
+                "wievielerlei",
+                "Spinat"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Brotweihe"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Geldweihe"
+            ],
+            "id": "C4a"
+        },
+        {
+            "concepts": [
+                "Scheitelweihe"
+            ],
+            "id": "C4b"
+        },
+        {
+            "concepts": [
+                "wandern",
+                "eingestellt",
+                "Glocken",
+                "wann",
+                "gestorben",
+                "Geläute",
+                "kehren",
+                "Rom",
+                "fliegen",
+                "reisen",
+                "zurück"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "wann",
+                "Ratsche",
+                "Karfreitagsratschen",
+                "Osterratsche",
+                "Namenstag",
+                "Arten",
+                "Turmratschen",
+                "zungenfertiges",
+                "Weib"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Sprüchlein",
+                "wann",
+                "heißt",
+                "Ratscherbuben",
+                "vollzogen",
+                "Führer",
+                "Belohnung",
+                "gesungene",
+                "ausgerufene",
+                "womit"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "zusammenratschen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Zeremonie",
+                "12",
+                "Auslöschens",
+                "dabei",
+                "Kerzen",
+                "Ausdrücke"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Kommunion",
+                "Geistlichen",
+                "Eheleute",
+                "Gründonnerstag"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Verhalten",
+                "Bräuche",
+                "Zweck",
+                "Hausgenossen",
+                "Holzscheiteln",
+                "Knien",
+                "Garten",
+                "Gang",
+                "dafür",
+                "Gründonnerstagabend",
+                "Ausdrücke"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Freitag",
+                "höchster",
+                "Karfreitag",
+                "Geistlichen",
+                "Ausschlaftag",
+                "Martertag"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "abgestellt",
+                "Herd",
+                "Feuer"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Messe",
+                "verstörte",
+                "Zwingmesse"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Messe",
+                "Karfreitag",
+                "Mesnerwitze",
+                "liest",
+                "wer",
+                "Volksscherze"
+            ],
+            "id": "D3a"
+        },
+        {
+            "concepts": [
+                "Grab",
+                "heilige",
+                "besondere",
+                "Handlungen",
+                "Heiliggrabnächte",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Kruzifixe",
+                "nähert",
+                "Küsse",
+                "ausgestellten",
+                "Küssen",
+                "Art",
+                "Kruzifix",
+                "hinrutschen"
+            ],
+            "id": "D4a"
+        },
+        {
+            "concepts": [
+                "Besuchen",
+                "Grabes",
+                "heiligen",
+                "oft"
+            ],
+            "id": "D4b"
+        },
+        {
+            "concepts": [
+                "Aberglaube",
+                "Karfreitag",
+                "gezaubert"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Saathahn",
+                "geschlachtet"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "wer",
+                "Karfreitag",
+                "beteiligt",
+                "Fastenbräuche"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "geschickt",
+                "Kirche",
+                "Ansichten",
+                "darüber",
+                "Karfreitag",
+                "Arbeit",
+                "wer",
+                "Gesinde"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Spendung",
+                "Wegzehrung",
+                "Karfreitag"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Karsamstag",
+                "beziehen",
+                "Speisen",
+                "Karfreitag",
+                "Volkswitze",
+                "darauf",
+                "Häringseele"
+            ],
+            "id": "D10"
+        }
+    ]
+}

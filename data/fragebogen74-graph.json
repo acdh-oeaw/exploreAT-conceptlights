@@ -1,0 +1,1457 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Rüde"
+                ],
+                [
+                    "Kartenspiel"
+                ],
+                [
+                    "Hündin"
+                ],
+                [
+                    "Hunde"
+                ],
+                [
+                    "locken"
+                ],
+                [
+                    "tun"
+                ],
+                [
+                    "Katzenaugen"
+                ],
+                [
+                    "begatten"
+                ],
+                [
+                    "werfen"
+                ],
+                [
+                    "schmeicheln"
+                ],
+                [
+                    "zeigen"
+                ],
+                [
+                    "einziehen"
+                ],
+                [
+                    "fangen"
+                ],
+                [
+                    "Mäuse"
+                ]
+            ],
+            "2": [
+                [
+                    "Katze"
+                ]
+            ],
+            "3": [
+                [
+                    "Kater"
+                ]
+            ],
+            "6": [
+                [
+                    "Schweif"
+                ],
+                [
+                    "Katzen"
+                ]
+            ],
+            "9": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "36": [
+                [
+                    "Hund"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Katze",
+                    "leben"
+                ],
+                [
+                    "besondere",
+                    "Ausdrücke"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 0,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 1,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 1,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 1,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 1,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 1,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hunde"
+            ],
+            "source": 2,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 3,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 3,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 3,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kartenspiel"
+            ],
+            "source": 3,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 3,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 3,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 3,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 10,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 10,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 10,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 10,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke"
+            ],
+            "source": 10,
+            "target": 70,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schweif"
+            ],
+            "source": 11,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweif"
+            ],
+            "source": 11,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweif"
+            ],
+            "source": 11,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 14,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 14,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rüde"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 15,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 15,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hündin"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fangen"
+            ],
+            "source": 17,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 19,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 19,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zeigen"
+            ],
+            "source": 28,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tun"
+            ],
+            "source": 35,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "begatten"
+            ],
+            "source": 35,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweif"
+            ],
+            "source": 38,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweif"
+            ],
+            "source": 38,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einziehen"
+            ],
+            "source": 38,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweif"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 48,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "locken"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 57,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katze",
+                "leben"
+            ],
+            "source": 58,
+            "target": 59,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Katze"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mäuse"
+            ],
+            "source": 58,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katze"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 61,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katzen"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katzen"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katzen"
+            ],
+            "source": 62,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katzen"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 63,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katzen"
+            ],
+            "source": 63,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katzen"
+            ],
+            "source": 64,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kater"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kater"
+            ],
+            "source": 66,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kater"
+            ],
+            "source": 67,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Katzenaugen"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schmeicheln"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "treu",
+                "begraben",
+                "liegt",
+                "kommen",
+                "Hund"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Felsblock",
+                "Hundsschiß",
+                "baumeln",
+                "Hundausläuten",
+                "Schoßhund",
+                "Hundsbub",
+                "hundsjung",
+                "Füßen",
+                "Augenblick",
+                "Hund"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "mehrere",
+                "Hunde",
+                "Gehünde",
+                "Hundach",
+                "SammelN"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "hundel",
+                "riechen",
+                "hündel",
+                "Kartenspiel",
+                "Hund"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "huntlasen",
+                "Verwüsten",
+                "Speisen"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "hündisch"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Hundling"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "hunzen"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "verhunzen"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "hundig",
+                "hunzig",
+                "erbärmlich",
+                "dürftig"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "gewärig",
+                "großen",
+                "wachsamen",
+                "bissigen",
+                "besondere",
+                "kleinen",
+                "anhänglichen",
+                "gutmütigen",
+                "herrenlosen",
+                "starken",
+                "verkrüppelten",
+                "schnellen",
+                "Ausdrücke",
+                "faulen",
+                "Hund"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "stichelhaarig",
+                "Schweif",
+                "Gestalt",
+                "kurzer",
+                "bezeichnend",
+                "Schmeakelein",
+                "Ausdrücke",
+                "Hundes"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Haushundrassen",
+                "deren",
+                "Pummerl",
+                "Mopperl",
+                "Namen"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Hundenamen"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "gusch",
+                "Zurufe",
+                "Hund"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Rüde",
+                "Hund"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Stockrüde",
+                "Rüde"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Keife",
+                "Hündin",
+                "Mätzel",
+                "Kartenspiel",
+                "Gäntsche",
+                "Mätz",
+                "fangen",
+                "Zauk"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Hündin"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Hunde",
+                "junge",
+                "patschecht",
+                "junger",
+                "Hund"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "kallen",
+                "kelzen",
+                "bellen"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "anbellen",
+                "Mond"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "belfern",
+                "kaungetzen",
+                "ganzen"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "winseln"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Gewinsel"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Schloßhund",
+                "heulen"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Geheul"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "knurren",
+                "brummen"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "zeigen",
+                "fletschen",
+                "blenketzen",
+                "Zähne",
+                "blecken"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "losfahren"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "stellen",
+                "Menschen"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "schnobetzen",
+                "schnuppern"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "lechzen"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Hundekot"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "zimmerrein"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "tun",
+                "begatten",
+                "hundeln"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "läufig"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "wedeln"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Schweif",
+                "lassen",
+                "einziehen",
+                "hängen"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "spitzen",
+                "Ohren"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Hundswinn",
+                "Tollwut"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "wütend",
+                "winnig"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Nasenwürmer"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Eingeweidewürmer"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Staupe"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Hundsfutter"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Hundshütte"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Hundskette",
+                "Kette",
+                "legen"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "laufen",
+                "kluppen",
+                "Schweif",
+                "Klemmholz",
+                "weit",
+                "klemmen",
+                "Hund"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "heißt",
+                "Stummel",
+                "stutzen",
+                "Stutzel",
+                "Schweif"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "täcken",
+                "locken"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "nachhintäckeln",
+                "Ausdrücken",
+                "locken"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Kelper",
+                "Halsband"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Kelpernägel"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Tschelperle",
+                "Hundsmarke"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Teile",
+                "verwendet",
+                "wem",
+                "Hundsgespann"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Maulkorb"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Apportel",
+                "werfen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "kaufen",
+                "Hund",
+                "Sack",
+                "Kirchtag",
+                "Mäuse",
+                "Katz",
+                "Haus",
+                "Katze",
+                "feiern",
+                "leben"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Katzbalgerei",
+                "katzenbreit",
+                "Katzenbuckel",
+                "leben",
+                "Zwietracht",
+                "Strangkatzen",
+                "Ofenkatze",
+                "ziehen",
+                "el",
+                "Speise",
+                "Katze",
+                "Kautz"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "tun",
+                "katzern",
+                "Katzenart"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Miz",
+                "Mis",
+                "elein",
+                "Katze",
+                "Minz",
+                "Muz",
+                "Mau",
+                "Minni",
+                "Muine",
+                "Ausdrücke"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Katzen",
+                "Scheuchrufe",
+                "katzaus"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Katzen",
+                "Ausdrücke"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "grauen",
+                "Sprüchlein",
+                "schwarzen",
+                "Volksglaube",
+                "Katzen",
+                "dreifarbigen"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Katzennamen"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "alter",
+                "Kater",
+                "Du",
+                "Katerbär",
+                "Petzl"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Brummkater",
+                "Kater"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Kätzin",
+                "Mutterkatze"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Katzenaugen"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "phosphoreszierende",
+                "besondere",
+                "Katzenaugen",
+                "gibt",
+                "Leuchten",
+                "Ausdrücke"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Schnurrhaare"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Katzenfell"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Katzenschweif"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Pfoten",
+                "Bratzelein",
+                "Pfotschen",
+                "Katzenpfötchen",
+                "daherkommen"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Krämpelein",
+                "Krebel",
+                "Kralle"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "spulnen",
+                "pfnurren",
+                "schnurren"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "fauchen"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Katzen",
+                "Liebesgesang"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Katzenkot"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "begatten",
+                "raunzen"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "verlangen",
+                "Kater"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Junge",
+                "schmeicheln",
+                "hertragen",
+                "werfen",
+                "kätzeln",
+                "Jungen",
+                "Unordnung",
+                "verlegen",
+                "verkätzeln",
+                "bringen"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "schmeicheln"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "anschmiegen"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "Krallen",
+                "zeigen",
+                "einziehen"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "krällen",
+                "kratzen"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "mausen",
+                "Mäuse",
+                "fangen"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "lauern"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Katzenfutter"
+            ],
+            "id": "H14"
+        }
+    ]
+}

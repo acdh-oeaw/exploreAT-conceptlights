@@ -1,0 +1,2489 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Dreikönigstag"
+                ],
+                [
+                    "bezügliche"
+                ],
+                [
+                    "Namensformen"
+                ],
+                [
+                    "Unterschied"
+                ],
+                [
+                    "Weihnachten"
+                ],
+                [
+                    "Jänner"
+                ],
+                [
+                    "Februar"
+                ],
+                [
+                    "Tag"
+                ],
+                [
+                    "weitere"
+                ],
+                [
+                    "Narren"
+                ],
+                [
+                    "Narr"
+                ],
+                [
+                    "närrisch"
+                ],
+                [
+                    "Faschingnarr"
+                ],
+                [
+                    "Person"
+                ],
+                [
+                    "Aschermittwoch"
+                ],
+                [
+                    "Faste"
+                ],
+                [
+                    "Fastenzeit"
+                ],
+                [
+                    "Volksbräuche"
+                ],
+                [
+                    "Fasten"
+                ],
+                [
+                    "Zeit"
+                ],
+                [
+                    "März"
+                ],
+                [
+                    "Koseformen"
+                ],
+                [
+                    "April"
+                ],
+                [
+                    "Mai"
+                ],
+                [
+                    "Heiligen"
+                ],
+                [
+                    "verbrennen"
+                ],
+                [
+                    "heißen"
+                ],
+                [
+                    "volkstümliche"
+                ]
+            ],
+            "2": [
+                [
+                    "Lichtmeß"
+                ],
+                [
+                    "Fasnacht"
+                ],
+                [
+                    "Mariä"
+                ],
+                [
+                    "Volksglaube"
+                ]
+            ],
+            "3": [
+                [
+                    "Dreikönig"
+                ],
+                [
+                    "Speisen"
+                ],
+                [
+                    "Wendungen"
+                ],
+                [
+                    "Kalender"
+                ],
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "5": [
+                [
+                    "Sprüche"
+                ],
+                [
+                    "Wie"
+                ]
+            ],
+            "10": [
+                [
+                    "Neujahr"
+                ],
+                [
+                    "Namen"
+                ],
+                [
+                    "sonstige"
+                ]
+            ],
+            "20": [
+                [
+                    "Bauernregeln"
+                ]
+            ],
+            "25": [
+                [
+                    "Fasching"
+                ]
+            ],
+            "27": [
+                [
+                    "Bräuche"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Lichtmeß",
+                    "Mariä"
+                ],
+                [
+                    "Patron",
+                    "Bräuche"
+                ],
+                [
+                    "Fasching",
+                    "Fasnacht"
+                ],
+                [
+                    "närren",
+                    "narren"
+                ],
+                [
+                    "Bauernregeln",
+                    "Sprüche"
+                ],
+                [
+                    "Fasching",
+                    "Tage"
+                ],
+                [
+                    "Wie",
+                    "Fasching"
+                ]
+            ],
+            "2": [
+                [
+                    "Larve",
+                    "Maske"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "maskieren",
+                    "Larve",
+                    "Maske"
+                ],
+                [
+                    "Volksglaube",
+                    "Heilige",
+                    "Kalendertage"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 1,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Neujahr"
+            ],
+            "source": 3,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dreikönig"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 4,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dreikönig"
+            ],
+            "source": 4,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 4,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 4,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 4,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 4,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bezügliche"
+            ],
+            "source": 6,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dreikönig"
+            ],
+            "source": 7,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dreikönigstag"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namensformen"
+            ],
+            "source": 10,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 10,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 10,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 10,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 10,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 10,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 11,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 11,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 11,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wie"
+            ],
+            "source": 12,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wie"
+            ],
+            "source": 12,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wie"
+            ],
+            "source": 12,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weihnachten"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 13,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 13,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 13,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 13,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zeit"
+            ],
+            "source": 13,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Unterschied"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Patron",
+                "Bräuche"
+            ],
+            "source": 14,
+            "target": 19,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Februar"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 14,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 14,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 14,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jänner"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube",
+                "Heilige",
+                "Kalendertage"
+            ],
+            "source": 15,
+            "target": 54,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 15,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichtmeß"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichtmeß"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 16,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tag"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln",
+                "Sprüche"
+            ],
+            "source": 16,
+            "target": 43,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 16,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 16,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 16,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 16,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 16,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lichtmeß",
+                "Mariä"
+            ],
+            "source": 17,
+            "target": 18,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mariä"
+            ],
+            "source": 17,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mariä"
+            ],
+            "source": 18,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 19,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 19,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 19,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 19,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 19,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 20,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 20,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 20,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 20,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 20,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 20,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Koseformen"
+            ],
+            "source": 20,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 20,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 20,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching",
+                "Fasnacht"
+            ],
+            "source": 21,
+            "target": 22,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasnacht"
+            ],
+            "source": 21,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 21,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 21,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 21,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 21,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 21,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 21,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasnacht"
+            ],
+            "source": 22,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 22,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 22,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 22,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 22,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 22,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Narren"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 23,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 23,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 23,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 23,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching",
+                "Tage"
+            ],
+            "source": 23,
+            "target": 45,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Narr"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 24,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 24,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "närrisch"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "närren",
+                "narren"
+            ],
+            "source": 30,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Faschingnarr"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 33,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 33,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Larve",
+                "Maske"
+            ],
+            "source": 34,
+            "target": 35,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Larve",
+                "Maske"
+            ],
+            "source": 34,
+            "target": 36,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "maskieren",
+                "Larve",
+                "Maske"
+            ],
+            "source": 35,
+            "target": 36,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 37,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 37,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 37,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 37,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 37,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 38,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 38,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 39,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 39,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 39,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 39,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 39,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wie",
+                "Fasching"
+            ],
+            "source": 40,
+            "target": 45,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wie"
+            ],
+            "source": 40,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümliche"
+            ],
+            "source": 41,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 41,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasching"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speisen"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speisen"
+            ],
+            "source": 42,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aschermittwoch"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 43,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 43,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 43,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 43,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 43,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 44,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksbräuche"
+            ],
+            "source": 45,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verbrennen"
+            ],
+            "source": 45,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wie"
+            ],
+            "source": 45,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speisen"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faste"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fastenzeit"
+            ],
+            "source": 48,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fasten"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 53,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 53,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 53,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "März"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 54,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 55,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernregeln"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "April"
+            ],
+            "source": 56,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mai"
+            ],
+            "source": 57,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heiligen"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißen"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 60,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kalender"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kalender"
+            ],
+            "source": 61,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kalender"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Neujahr"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Neujahr",
+                "Neujahrgeiger"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "wünschen",
+                "Bräuche",
+                "Neujahr",
+                "ansingen"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Hüteln",
+                "Hütelheben",
+                "Losspiele",
+                "Hutgupfen",
+                "Neujahr"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Dreikönig",
+                "Neunrichteltag",
+                "Perchtenabend",
+                "Vorabend"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Percht",
+                "erzählt",
+                "Was"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Tresterer",
+                "schöne",
+                "Verse",
+                "bezügliche",
+                "Darauf",
+                "Perchtenlaufen",
+                "Perchten",
+                "Ausdrücke",
+                "Pinzgau"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Dreikönig"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Perchtentag",
+                "Perchtnacht",
+                "Gebnacht",
+                "Großneujahr",
+                "Dreikönigstag"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Dreikönigstag"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Waldhauser",
+                "drei",
+                "Verwendung",
+                "weitere",
+                "Namensformen",
+                "Kåsperl",
+                "Kåschper",
+                "Volkstümliche",
+                "Namen",
+                "Hauser"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Dreikönigsspiele",
+                "Brauch",
+                "lebendig",
+                "Sterntreiben",
+                "Inwieweit",
+                "bezügliche",
+                "darauf",
+                "sonstige"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Name",
+                "dauern",
+                "lange",
+                "Wasserweihe",
+                "geweihten",
+                "sei",
+                "Weihe",
+                "Wie",
+                "wirksam"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Dreikönigen",
+                "Unternächte",
+                "Weihnachten",
+                "Zeit"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Viehpatron",
+                "Patron",
+                "fallende",
+                "Unterschied",
+                "Namens",
+                "Valentin",
+                "Fåltan",
+                "Sucht",
+                "Fålentain",
+                "Bräuche",
+                "Såmpfålda",
+                "Mundartliche",
+                "Formen",
+                "Fålt",
+                "Februar"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "besonders",
+                "Anton",
+                "Unterschied",
+                "Volksglaube",
+                "Einsiedler",
+                "Vinzenz",
+                "Sautoni",
+                "Heilige",
+                "Fabian",
+                "alte",
+                "Namensformen",
+                "Vogelheirat",
+                "Agnes",
+                "Pauli",
+                "Bekehrung",
+                "Kalendertage",
+                "Jänner",
+                "Sebastian",
+                "sonstiger",
+                "Genoveva"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Tag",
+                "warm",
+                "Dreikönig",
+                "ganze",
+                "Hirschensprung",
+                "Sprüche",
+                "wächst",
+                "Tages",
+                "Wachsen",
+                "Lichtmeß",
+                "Gott",
+                "Bauernregeln",
+                "Neujahr",
+                "erbarm",
+                "Weihnachten",
+                "Jänner",
+                "Hahnentritt"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Lichteltag",
+                "Dienstbotenwechsel",
+                "Lichtmeß",
+                "Mariä"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Lichtmeßzeit",
+                "Lichtmeß",
+                "Mariä"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Patron",
+                "Blasl",
+                "Bräuche",
+                "Sprüche",
+                "durchwehen",
+                "Wind",
+                "Rausch",
+                "Neigerlucke",
+                "Schnee",
+                "Mutt",
+                "Da",
+                "Halskrankheiten",
+                "Blasius"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Konrad",
+                "Koseformen",
+                "Bauernregeln",
+                "sonstige",
+                "Veronika",
+                "Matz",
+                "Scholastika",
+                "Juliana",
+                "Eis",
+                "bricht",
+                "Appolonia",
+                "Agatha",
+                "Heiligentage",
+                "Hies",
+                "Schelte",
+                "Februar",
+                "Matthias",
+                "Durl",
+                "Konstantia",
+                "Matteis",
+                "Dorothea"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Tag",
+                "vergnügte",
+                "Tanz",
+                "Faschingszeit",
+                "Faschingsnarr",
+                "Fasnacht",
+                "Fasching",
+                "Person",
+                "Belustigung"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Fasnachtsonntag",
+                "Fasnacht",
+                "Fasching",
+                "Faschinghenne"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Tage",
+                "unsinniger",
+                "Pfinztag",
+                "Donnerstag",
+                "Faschingsonntag",
+                "einzelnen",
+                "gumpiger",
+                "Fraßmontag",
+                "Faschings",
+                "Montag",
+                "Fasching",
+                "Kirchtag",
+                "Faschingdienstag",
+                "Narren",
+                "blauer",
+                "feister",
+                "Faschingmontag"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Gu",
+                "Narren",
+                "Kappe",
+                "weitere",
+                "umsonst",
+                "Narr",
+                "gefällt",
+                "gefressen"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Obernarr",
+                "Halbnarr",
+                "narrenschüssig",
+                "Narr",
+                "Narrentattel"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "närrisch",
+                "Ausruf",
+                "Verwunderung",
+                "kalt"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "närrisch",
+                "wildnärrisch"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Narrechte",
+                "kommt",
+                "narrecht"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Narretei"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "närren",
+                "Narrerei",
+                "narrieren",
+                "Genarrach",
+                "narretzen",
+                "narren"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "ausnarren",
+                "dernärren",
+                "närren",
+                "dernarrt",
+                "narren"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Faschingnarr"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Faschingnarr",
+                "Gibt",
+                "Faschinggeck",
+                "Faschingweib",
+                "Fasnacht",
+                "Frau",
+                "Wörter",
+                "el",
+                "sonstige"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "häßliches",
+                "Larve",
+                "Scheme",
+                "Weibsbild",
+                "Schemper",
+                "Person",
+                "maskierte",
+                "Gesicht",
+                "Maske",
+                "Schembart"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Larve",
+                "Maskerer",
+                "maskerieren",
+                "Maskerade",
+                "maskieren",
+                "Maske",
+                "masken"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Larve",
+                "Maske",
+                "verlarven",
+                "Maskenball",
+                "maskieren",
+                "Teufelslarve"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Mummerei",
+                "kurze",
+                "Faschingzug",
+                "gehen",
+                "Schilderung",
+                "Wendungen",
+                "statt",
+                "Schembartlauf",
+                "Fasching",
+                "Wann",
+                "findet",
+                "Schemenlaufen",
+                "abpfüeten",
+                "Mummenschanz",
+                "Maskeradi"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "verschiedenen",
+                "Masken",
+                "typische",
+                "Namen"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Teilnehmer",
+                "Vergnügungen",
+                "Faschingtagen",
+                "Blockziehen",
+                "Hochzeit",
+                "Samsonumzug",
+                "Fasching",
+                "wilde",
+                "Namen",
+                "feiern"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "Faschingstückel",
+                "Fasching",
+                "Volksbelustigungen",
+                "Wie",
+                "Scherze"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Faschingsunterhaltungen",
+                "Ball",
+                "Redoute",
+                "weiteren",
+                "Etwaige",
+                "Volkskreisen",
+                "städtischer",
+                "geläufig",
+                "Ausdrücke",
+                "volkstümliche"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "Faschingskrapfen",
+                "Gebäcke",
+                "Speisen",
+                "Fasching",
+                "Gebildbäckereien"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Bauernregeln",
+                "Aschertag",
+                "Sprüche",
+                "Aschermittwoch"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "einäschern",
+                "Bräuche",
+                "Kirche"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Puppe",
+                "besteht",
+                "heißt",
+                "Tage",
+                "Fasching",
+                "begraben",
+                "etwa",
+                "Volksbräuche",
+                "woraus",
+                "geschieht",
+                "Wie",
+                "verbrennen"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "bestimmte",
+                "Speisen",
+                "Aschermittwoch"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Faste"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "gebotener",
+                "Fastenveigerl",
+                "Mitfastenwoche",
+                "Fastwoche",
+                "Jahrfasten",
+                "Fastenzeit",
+                "Mitt",
+                "Faste",
+                "Fasttag"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "fasten"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Fasten",
+                "Fastenbrot",
+                "Speisen"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Fastenpredigt",
+                "Fastenzeit",
+                "Andachten",
+                "Hauptandacht",
+                "Verrichtungen",
+                "kirchliche"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "Fasten",
+                "wann",
+                "Volksbräuche",
+                "Todaustreiben"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "Sonntage",
+                "Lätare",
+                "Ostern",
+                "Totensonntag",
+                "Schwarzsonntag",
+                "Namen",
+                "Bauernregeln",
+                "Wochen",
+                "Schwarzwoche",
+                "eigene",
+                "Haben",
+                "Okuli",
+                "kommen",
+                "Zeit"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Josel",
+                "Gertraud",
+                "Franziska",
+                "Mariä",
+                "Sepp",
+                "Kalendertage",
+                "Rosina",
+                "Sprüche",
+                "Josep",
+                "Namensform",
+                "Schmer",
+                "Kunigunde",
+                "Jos",
+                "40",
+                "März",
+                "Josef",
+                "Seff",
+                "Volksglaube",
+                "Heilige",
+                "Gregor",
+                "Märtyrer"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "muß",
+                "weh",
+                "Raben",
+                "Feldern",
+                "Märzenschnee",
+                "tut",
+                "März",
+                "Eier",
+                "Bauernregeln",
+                "aufgefrören"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Bauernregeln",
+                "April"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Bauernregeln",
+                "Mai"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "deren",
+                "Gedächtnistag",
+                "Mai",
+                "Nisl",
+                "ON",
+                "HN",
+                "Koseformen",
+                "fällt",
+                "Hermann",
+                "Dionysius",
+                "April",
+                "Namen",
+                "Heiligen"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Monats",
+                "Hat",
+                "Monatheilige",
+                "gefeiert",
+                "Laufe",
+                "heißen",
+                "Sinn",
+                "Heiligen"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "zusammenhängende",
+                "Ermachoras",
+                "Schpåterjån",
+                "Donatus",
+                "Måcher",
+                "Ortsnamen",
+                "Michår",
+                "Taufnamen",
+                "Hermagoras",
+                "seltene",
+                "Paternianus",
+                "landschaftlich",
+                "bekannte",
+                "sonstige"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Nase",
+                "Feiertag",
+                "Volksglaube",
+                "Kalender",
+                "verbrennen"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Heiligenfiguren",
+                "soweit",
+                "Kalenders",
+                "Arten",
+                "Bauernkalender",
+                "heißen",
+                "volksüblich",
+                "Wie",
+                "hundertjähriger"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Kalender",
+                "kalendern",
+                "umherlaufen"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Kalendermacher",
+                "Kalender"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Planeten",
+                "Planetenbüchel",
+                "lesen",
+                "volkstümliche"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Normatag",
+                "Norma"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Kalenderwesen",
+                "Ausdrücke",
+                "zusammenhängen",
+                "sonstige"
+            ],
+            "id": "D7"
+        }
+    ]
+}

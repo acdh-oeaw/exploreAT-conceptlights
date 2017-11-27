@@ -1,0 +1,1882 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Färberei"
+                ],
+                [
+                    "Scheck"
+                ],
+                [
+                    "bunt"
+                ],
+                [
+                    "weißlich"
+                ],
+                [
+                    "Weiße"
+                ],
+                [
+                    "Weißling"
+                ],
+                [
+                    "Schwarze"
+                ],
+                [
+                    "schwarz"
+                ],
+                [
+                    "rötlich"
+                ],
+                [
+                    "Rot"
+                ],
+                [
+                    "Braun"
+                ],
+                [
+                    "Krankheit"
+                ],
+                [
+                    "gelb"
+                ],
+                [
+                    "TierN"
+                ],
+                [
+                    "en"
+                ],
+                [
+                    "Tier"
+                ],
+                [
+                    "blaß"
+                ]
+            ],
+            "2": [
+                [
+                    "Vergleiche"
+                ]
+            ],
+            "3": [
+                [
+                    "weiß"
+                ],
+                [
+                    "Röte"
+                ],
+                [
+                    "Tiername"
+                ],
+                [
+                    "braun"
+                ],
+                [
+                    "Grüne"
+                ],
+                [
+                    "falb"
+                ],
+                [
+                    "grau"
+                ]
+            ],
+            "6": [
+                [
+                    "blau"
+                ],
+                [
+                    "grün"
+                ],
+                [
+                    "sonstige"
+                ]
+            ],
+            "10": [
+                [
+                    "bleich"
+                ]
+            ],
+            "14": [
+                [
+                    "Wendungen"
+                ]
+            ],
+            "15": [
+                [
+                    "rot"
+                ],
+                [
+                    "Farbe"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Wendungen",
+                    "Vergleiche"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 0,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 0,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 0,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 0,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 0,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 1,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 1,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 3,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 3,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "en"
+            ],
+            "source": 3,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Färberei"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 9,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 9,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 9,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bunt"
+            ],
+            "source": 10,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheck"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tier"
+            ],
+            "source": 12,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Farbe"
+            ],
+            "source": 15,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weißlich"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rötlich"
+            ],
+            "source": 16,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 17,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 17,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Vergleiche"
+            ],
+            "source": 17,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 17,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 17,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 17,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiß"
+            ],
+            "source": 18,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weiße"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "TierN"
+            ],
+            "source": 21,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weißling"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwarz"
+            ],
+            "source": 27,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 27,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarze"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tiername"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tiername"
+            ],
+            "source": 31,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 36,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 36,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 36,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 36,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 36,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 36,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 36,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 36,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rot"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Röte"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Röte"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tiername"
+            ],
+            "source": 40,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Röte"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rot"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "braun"
+            ],
+            "source": 47,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "braun"
+            ],
+            "source": 47,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 47,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 47,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braun"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "braun"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blau"
+            ],
+            "source": 56,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blau"
+            ],
+            "source": 56,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blau"
+            ],
+            "source": 56,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 60,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 60,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blau"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blau"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blau"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grün"
+            ],
+            "source": 65,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grün"
+            ],
+            "source": 65,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grün"
+            ],
+            "source": 65,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grüne"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grüne"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grüne"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grün"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grün"
+            ],
+            "source": 70,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grün"
+            ],
+            "source": 71,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krankheit"
+            ],
+            "source": 72,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gelb"
+            ],
+            "source": 72,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "falb"
+            ],
+            "source": 79,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "falb"
+            ],
+            "source": 79,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "falb"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 85,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grau"
+            ],
+            "source": 86,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grau"
+            ],
+            "source": 86,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 86,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "grau"
+            ],
+            "source": 90,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 92,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 92,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 92,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 92,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 93,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 93,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 94,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 94,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleich"
+            ],
+            "source": 99,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blaß"
+            ],
+            "source": 101,
+            "target": 105,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Wendungen",
+                "Kartenspiel",
+                "heraus",
+                "Farbe"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Farbenspiel",
+                "Kinderspiel",
+                "Farbe",
+                "Farbvieh",
+                "Ölfarbe"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "einfärbig",
+                "färbig"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "abfarb",
+                "en",
+                "leibfarben",
+                "Farbe"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "färben"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "färbeln"
+            ],
+            "id": "A5a"
+        },
+        {
+            "concepts": [
+                "Färber"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Färberei"
+            ],
+            "id": "A6a"
+        },
+        {
+            "concepts": [
+                "Fachausdrücke",
+                "Färberei"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Farbe",
+                "sonstige"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "bunt",
+                "scheckig",
+                "kch",
+                "fech",
+                "ja",
+                "verschiedenfarbig",
+                "schecket",
+                "kh"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "rotschecket"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "buntfarbiges",
+                "Haaren",
+                "Tier",
+                "Scheck"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Scheck",
+                "Scheckpeter",
+                "Rotscheck"
+            ],
+            "id": "A11a"
+        },
+        {
+            "concepts": [
+                "Farbenkastel",
+                "gestreift",
+                "bunt",
+                "Umschreibungen",
+                "gesprengelt",
+                "gespritzt",
+                "kariert",
+                "Verwandtes",
+                "gefleckt",
+                "getupft",
+                "ganzes"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "schmutziger",
+                "farblos",
+                "Farbe"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "stammen",
+                "kupfern",
+                "Stoffen",
+                "rötlich",
+                "silbern",
+                "weißlich"
+            ],
+            "id": "A13a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "weiß",
+                "Vergleiche",
+                "Schnee",
+                "herschauen"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "weiß",
+                "weißlich",
+                "lecht"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "anweiß"
+            ],
+            "id": "B2a"
+        },
+        {
+            "concepts": [
+                "Weiße"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Weiß",
+                "TierN",
+                "Weißel"
+            ],
+            "id": "B3a"
+        },
+        {
+            "concepts": [
+                "Weißling"
+            ],
+            "id": "B3b"
+        },
+        {
+            "concepts": [
+                "Weißling",
+                "Weiße"
+            ],
+            "id": "B3c"
+        },
+        {
+            "concepts": [
+                "gewissen",
+                "weißeln",
+                "weißigen",
+                "geweißt",
+                "weißen"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "verweißen"
+            ],
+            "id": "B4a"
+        },
+        {
+            "concepts": [
+                "käseweiß",
+                "Weißarbeit",
+                "weißärmlig",
+                "weiß"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "schwarz",
+                "Vergleiche"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "schwärzlich"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Schwärzlein",
+                "Schwarze",
+                "Scheibe"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Schwarze"
+            ],
+            "id": "B8a"
+        },
+        {
+            "concepts": [
+                "Schwarz",
+                "Schwärzel",
+                "Tiername"
+            ],
+            "id": "B8b"
+        },
+        {
+            "concepts": [
+                "Schwärze"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "schwärzen"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Schwärzer"
+            ],
+            "id": "B10a"
+        },
+        {
+            "concepts": [
+                "schwarzrücklecht",
+                "Schwarzblättlein",
+                "schwarz",
+                "pechschwarz"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "rote",
+                "Vergleiche",
+                "Halsbänder",
+                "Kälbern",
+                "Schellenbögen",
+                "rot",
+                "Zauberfarbe"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "rötlich",
+                "rotlecht"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Rot"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Rote"
+            ],
+            "id": "C3a"
+        },
+        {
+            "concepts": [
+                "Röte",
+                "Rötel",
+                "Tiername",
+                "Rot"
+            ],
+            "id": "C3b"
+        },
+        {
+            "concepts": [
+                "Blut",
+                "Röte",
+                "bedeutet"
+            ],
+            "id": "C3c"
+        },
+        {
+            "concepts": [
+                "Engelrot",
+                "Röte",
+                "rot",
+                "Gamsröte"
+            ],
+            "id": "C3d"
+        },
+        {
+            "concepts": [
+                "blutharnen",
+                "röten",
+                "rot"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Rotblättlein",
+                "rotfuchset",
+                "rot",
+                "feuerrot"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Abstufungen",
+                "purpurn",
+                "rot",
+                "Purpur"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "purpur",
+                "rot"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "braun"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "braunlecht",
+                "bräunlich"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "brünett",
+                "braunett"
+            ],
+            "id": "C9a"
+        },
+        {
+            "concepts": [
+                "Braun"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Braune"
+            ],
+            "id": "C10a"
+        },
+        {
+            "concepts": [
+                "Bräundl",
+                "Braun",
+                "Tiername"
+            ],
+            "id": "C10b"
+        },
+        {
+            "concepts": [
+                "KrankheitsN",
+                "Halsbräune",
+                "Bräune"
+            ],
+            "id": "C10c"
+        },
+        {
+            "concepts": [
+                "bräunen",
+                "bräuneln",
+                "braunen",
+                "braun",
+                "braunieren"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "braunhelmecht",
+                "braun",
+                "kestenbraun",
+                "Braunnudel"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "blau"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "blaulecht",
+                "bläulich"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Himmel",
+                "Blaue",
+                "versprechen",
+                "Blau"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Waschblau",
+                "Bläue"
+            ],
+            "id": "D3a"
+        },
+        {
+            "concepts": [
+                "sonstige",
+                "Bläuelein",
+                "Vogel"
+            ],
+            "id": "D3b"
+        },
+        {
+            "concepts": [
+                "Unkraut",
+                "blaublühendes",
+                "Blables"
+            ],
+            "id": "D3c"
+        },
+        {
+            "concepts": [
+                "bläuen",
+                "betrügen"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Blaufuß",
+                "blaunaset",
+                "himmelblau",
+                "blau"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Farben",
+                "violett",
+                "lila",
+                "blau"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "roh",
+                "blau",
+                "schlagen",
+                "grün",
+                "unreif"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Grüne",
+                "Teufel"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Grüne",
+                "angeben",
+                "Spielkartenfarbe",
+                "Grünzeug"
+            ],
+            "id": "D9a"
+        },
+        {
+            "concepts": [
+                "Fläche",
+                "Grüne",
+                "Farbe"
+            ],
+            "id": "D9b"
+        },
+        {
+            "concepts": [
+                "Grünler",
+                "Grünling",
+                "Tieren",
+                "Name",
+                "Menschen",
+                "Pflanzen",
+                "Grüner"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "grünen",
+                "grüneln",
+                "grün"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "grünwachs",
+                "grün",
+                "Grünarbeit",
+                "lauchgrün",
+                "Wintergrün"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "Schelm",
+                "gelber",
+                "Zorn",
+                "grün",
+                "gelb",
+                "golden",
+                "Krankheit"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "gelblecht",
+                "gelblich"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Gelb"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Gelbe",
+                "Gelben"
+            ],
+            "id": "E3a"
+        },
+        {
+            "concepts": [
+                "Krankheit",
+                "Gilbe",
+                "Gel"
+            ],
+            "id": "E3b"
+        },
+        {
+            "concepts": [
+                "gilben",
+                "vergilben",
+                "gilbel"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "gelb",
+                "Gelbwurz",
+                "strohgelb"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "falb",
+                "falch",
+                "fahl"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "falbelet",
+                "falchet",
+                "falchelet"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Falch",
+                "Falb",
+                "TierN"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Verkleinerung",
+                "Falbe",
+                "Tiernamen",
+                "Falche"
+            ],
+            "id": "E8a"
+        },
+        {
+            "concepts": [
+                "falchelen",
+                "falb",
+                "falbelen",
+                "falben"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "falbwild",
+                "falb",
+                "falbbrückelecht"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "erpf",
+                "en",
+                "alb",
+                "elbelecht",
+                "Elbschaf",
+                "sonstige"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "grau",
+                "grab",
+                "Wendungen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "graulich",
+                "grawelet"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Graue",
+                "Grau"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "grauel",
+                "grauen",
+                "grauetzen",
+                "grawel"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "grau",
+                "kitzgrau",
+                "Grauamsel"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "schimpel",
+                "greis",
+                "etwa",
+                "grau",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "bleich"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "blöd",
+                "bleich"
+            ],
+            "id": "F1a"
+        },
+        {
+            "concepts": [
+                "ablechtig",
+                "bleich"
+            ],
+            "id": "F1b"
+        },
+        {
+            "concepts": [
+                "bleichlich"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "anbleich"
+            ],
+            "id": "F2a"
+        },
+        {
+            "concepts": [
+                "Bleiche"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "bleichen"
+            ],
+            "id": "F3a"
+        },
+        {
+            "concepts": [
+                "bleich",
+                "erbleichen"
+            ],
+            "id": "F3b"
+        },
+        {
+            "concepts": [
+                "bleich"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "blaß",
+                "üblich"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Blässe",
+                "Bedeutungen"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Blese",
+                "Schmutzfleck"
+            ],
+            "id": "F6a"
+        },
+        {
+            "concepts": [
+                "Stirnfleck",
+                "Blassel",
+                "Tier",
+                "weißer",
+                "Blass",
+                "Blasel"
+            ],
+            "id": "F6b"
+        },
+        {
+            "concepts": [
+                "blaß",
+                "leichenblaß"
+            ],
+            "id": "F7"
+        }
+    ]
+}

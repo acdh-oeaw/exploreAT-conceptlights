@@ -1,0 +1,4680 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Volk"
+                ],
+                [
+                    "Wabenbau"
+                ],
+                [
+                    "Tracht"
+                ],
+                [
+                    "ab"
+                ],
+                [
+                    "Flugloch"
+                ],
+                [
+                    "genannt"
+                ],
+                [
+                    "Drohne"
+                ],
+                [
+                    "geht"
+                ],
+                [
+                    "Bienenstock"
+                ],
+                [
+                    "gilt"
+                ],
+                [
+                    "Imker"
+                ],
+                [
+                    "Imkers"
+                ],
+                [
+                    "Strohkorb"
+                ],
+                [
+                    "Stockes"
+                ],
+                [
+                    "Vorrichtungen"
+                ],
+                [
+                    "Namen"
+                ],
+                [
+                    "Bezeichnung"
+                ],
+                [
+                    "erster"
+                ],
+                [
+                    "ausschneiden"
+                ],
+                [
+                    "auslassen"
+                ],
+                [
+                    "Heilmittel"
+                ],
+                [
+                    "Zeidelweide"
+                ],
+                [
+                    "bekannt"
+                ]
+            ],
+            "2": [
+                [
+                    "Wintersitz"
+                ],
+                [
+                    "dabei"
+                ],
+                [
+                    "Bienenhaus"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "Met"
+                ]
+            ],
+            "3": [
+                [
+                    "Imp"
+                ],
+                [
+                    "warum"
+                ],
+                [
+                    "Honigs"
+                ],
+                [
+                    "Lebkuchen"
+                ],
+                [
+                    "Vergleiche"
+                ]
+            ],
+            "5": [
+                [
+                    "besondere"
+                ],
+                [
+                    "Waben"
+                ]
+            ],
+            "6": [
+                [
+                    "Königin"
+                ],
+                [
+                    "Schwärmen"
+                ],
+                [
+                    "Sprüche"
+                ]
+            ],
+            "8": [
+                [
+                    "Biene"
+                ]
+            ],
+            "9": [
+                [
+                    "Wabe"
+                ]
+            ],
+            "10": [
+                [
+                    "Arten"
+                ]
+            ],
+            "14": [
+                [
+                    "Stock"
+                ]
+            ],
+            "27": [
+                [
+                    "Wachs"
+                ]
+            ],
+            "28": [
+                [
+                    "Schwarm"
+                ]
+            ],
+            "36": [
+                [
+                    "Honig"
+                ]
+            ],
+            "119": [
+                [
+                    "Bienen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Fladen",
+                    "Wabe"
+                ],
+                [
+                    "Stock",
+                    "Wintersitz"
+                ],
+                [
+                    "Imme",
+                    "Biene"
+                ],
+                [
+                    "besondere",
+                    "Bienen"
+                ],
+                [
+                    "beim",
+                    "Gebräuche"
+                ],
+                [
+                    "Biene",
+                    "Bienenhaus"
+                ],
+                [
+                    "Waben",
+                    "ausbrechen"
+                ],
+                [
+                    "Ausnehmen",
+                    "zeideln"
+                ],
+                [
+                    "je",
+                    "verschiedene"
+                ],
+                [
+                    "Stelle",
+                    "Met"
+                ],
+                [
+                    "Bienenwachs",
+                    "Wachs"
+                ]
+            ],
+            "3": [
+                [
+                    "beziehen",
+                    "Sprüche"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "dabei",
+                    "Stöcke",
+                    "Sprüche"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Imp"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Imp"
+            ],
+            "source": 0,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "genannt"
+            ],
+            "source": 0,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Imme",
+                "Biene"
+            ],
+            "source": 0,
+            "target": 90,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 0,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 0,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 0,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 0,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Drohne"
+            ],
+            "source": 2,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Königin"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Königin"
+            ],
+            "source": 3,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Königin"
+            ],
+            "source": 3,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Königin"
+            ],
+            "source": 4,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Königin"
+            ],
+            "source": 4,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannt"
+            ],
+            "source": 5,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 7,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volk"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 13,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 13,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Imp"
+            ],
+            "source": 13,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 13,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 13,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 13,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bezeichnung"
+            ],
+            "source": 14,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabenbau"
+            ],
+            "source": 15,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fladen",
+                "Wabe"
+            ],
+            "source": 16,
+            "target": 17,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 16,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 16,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 17,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 17,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 21,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wabe"
+            ],
+            "source": 23,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 27,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wintersitz"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wintersitz"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock",
+                "Wintersitz"
+            ],
+            "source": 30,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 30,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 30,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 30,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 31,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 31,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 31,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "erster"
+            ],
+            "source": 32,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tracht"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zeidelweide"
+            ],
+            "source": 33,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 35,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ab"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwärmen"
+            ],
+            "source": 36,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwärmen"
+            ],
+            "source": 36,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwärmen"
+            ],
+            "source": 36,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stockes"
+            ],
+            "source": 37,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 38,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 38,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 38,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 38,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 38,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 38,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 38,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 38,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 39,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 39,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 41,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 41,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 41,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 41,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 41,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 42,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 42,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 42,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 42,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 43,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 43,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 43,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 45,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 45,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorrichtungen"
+            ],
+            "source": 46,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 47,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 47,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwarm"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 92,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 51,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 51,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 51,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 52,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 52,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwärmen"
+            ],
+            "source": 52,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwärmen"
+            ],
+            "source": 52,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beziehen",
+                "Sprüche"
+            ],
+            "source": 52,
+            "target": 109,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beziehen",
+                "Sprüche"
+            ],
+            "source": 52,
+            "target": 159,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 53,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Königin"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 55,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stock"
+            ],
+            "source": 57,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flugloch"
+            ],
+            "source": 60,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 60,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 62,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 62,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 62,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 62,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 62,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 62,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 62,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienenstock"
+            ],
+            "source": 65,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 67,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 67,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 67,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 68,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 68,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 68,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strohkorb"
+            ],
+            "source": 71,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 77,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 77,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienenhaus"
+            ],
+            "source": 79,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienenhaus"
+            ],
+            "source": 79,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 80,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 80,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "warum"
+            ],
+            "source": 84,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "warum"
+            ],
+            "source": 84,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 90,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene",
+                "Bienenhaus"
+            ],
+            "source": 90,
+            "target": 107,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 90,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 90,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 90,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei",
+                "Stöcke",
+                "Sprüche"
+            ],
+            "source": 91,
+            "target": 94,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 91,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 91,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 91,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 91,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 91,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 91,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 91,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 92,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 92,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 92,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 92,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 92,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 92,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 92,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Gebräuche"
+            ],
+            "source": 94,
+            "target": 96,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 94,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Imkers"
+            ],
+            "source": 94,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 94,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sprüche"
+            ],
+            "source": 94,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schwärmen"
+            ],
+            "source": 96,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 96,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 98,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 99,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gilt"
+            ],
+            "source": 99,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 99,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 99,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 99,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "warum"
+            ],
+            "source": 103,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 103,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 103,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 103,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 105,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 105,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Biene"
+            ],
+            "source": 107,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beziehen",
+                "Sprüche"
+            ],
+            "source": 109,
+            "target": 159,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Imker"
+            ],
+            "source": 110,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 112,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waben"
+            ],
+            "source": 113,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waben",
+                "ausbrechen"
+            ],
+            "source": 113,
+            "target": 115,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Waben"
+            ],
+            "source": 113,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waben"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waben"
+            ],
+            "source": 114,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausnehmen",
+                "zeideln"
+            ],
+            "source": 115,
+            "target": 144,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Waben"
+            ],
+            "source": 115,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ausschneiden"
+            ],
+            "source": 115,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 118,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 118,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienen"
+            ],
+            "source": 119,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honigs"
+            ],
+            "source": 138,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honigs"
+            ],
+            "source": 138,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honigs"
+            ],
+            "source": 144,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 145,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "auslassen"
+            ],
+            "source": 145,
+            "target": 176,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 146,
+            "target": 150,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 146,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 146,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 146,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 146,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 146,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 146,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 150,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 150,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 150,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 150,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 150,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 150,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "je",
+                "verschiedene"
+            ],
+            "source": 151,
+            "target": 152,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 151,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 151,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 151,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 151,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 151,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 154,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 154,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 154,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 154,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 155,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 155,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 155,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 158,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 158,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Honig"
+            ],
+            "source": 159,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vergleiche"
+            ],
+            "source": 159,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heilmittel"
+            ],
+            "source": 160,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Met"
+            ],
+            "source": 165,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Met"
+            ],
+            "source": 165,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Met"
+            ],
+            "source": 166,
+            "target": 167,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lebkuchen"
+            ],
+            "source": 168,
+            "target": 169,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lebkuchen"
+            ],
+            "source": 168,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 168,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lebkuchen"
+            ],
+            "source": 169,
+            "target": 172,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 174,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 174,
+            "target": 176,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 174,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 174,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 174,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 174,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bienenwachs",
+                "Wachs"
+            ],
+            "source": 174,
+            "target": 188,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 175,
+            "target": 176,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 175,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 175,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 175,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 175,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 175,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 176,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 176,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 176,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 176,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 176,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 180,
+            "target": 181,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 180,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 180,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 180,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 181,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 181,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 181,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 182,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 182,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wachs"
+            ],
+            "source": 186,
+            "target": 188,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Imp",
+                "Beienvogel",
+                "bienenähnliche",
+                "Bienen",
+                "Bai",
+                "Pain",
+                "Paie",
+                "Insekten",
+                "Impbeien",
+                "Beie",
+                "Zeidel",
+                "genannt",
+                "Biene",
+                "Werden",
+                "Imme"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Arbeitsbiene",
+                "Honigsammlerin"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Narr",
+                "Wasserbiene",
+                "Drohne",
+                "Brutbeie"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Königsbiene",
+                "Stockmutter",
+                "Weiser",
+                "Mutterbiene",
+                "Königin",
+                "Weisel"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "unbefruchtete",
+                "Königin"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Quäker",
+                "bekannt",
+                "bedeuten",
+                "Drohnenweisel"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Italiener",
+                "Bienenrassen",
+                "Heidebiene",
+                "Deutsche",
+                "Krainer"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "Bienen",
+                "Flügel",
+                "Kopf",
+                "etwa",
+                "Fühler",
+                "Körperteile"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Stachel",
+                "Angel"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Bienenstich"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "zugeschrieben",
+                "Bienenstichen",
+                "Heilwirkung"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "beißen",
+                "stechen",
+                "angeln",
+                "hecken"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "stechlustig",
+                "gereizt"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Imp",
+                "Schwall",
+                "Stock",
+                "Bienenvolk",
+                "ganzen",
+                "Bien",
+                "Volk"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "schwaches",
+                "Bienenvolkes",
+                "Volk",
+                "Bezeichnung",
+                "Güte",
+                "starkes"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Wabenbau",
+                "Ganzes",
+                "Honigraß",
+                "Klösterlein",
+                "Raß",
+                "Bau",
+                "Impzelten"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "einzelne",
+                "Fladen",
+                "Wabe"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Fladen",
+                "Brutwabe",
+                "Wabe"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "beachte",
+                "verschiedenen",
+                "Zellen",
+                "Benennung",
+                "Pollenzelle"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Weiselzelle",
+                "Weiselwiege"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Wabenbau",
+                "Kreuzbau",
+                "fehlerhafter"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Wabe",
+                "unausgebaute",
+                "Wabenbaues",
+                "ausgebaute",
+                "Entwicklungsstufen"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "verdeckelte",
+                "reife",
+                "Honigwabe"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Bienenbrot",
+                "gefüllte",
+                "Pollen",
+                "Wabe"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Drohnenbrut",
+                "Brut"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Eier"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Larve",
+                "Nymphe",
+                "Made",
+                "Bienenwurm"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Jungbienen",
+                "Bienen",
+                "jüngstausgeschlüpfte"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "zusammenziehen",
+                "Winterruhe",
+                "Winterschlaf"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Wintertraube",
+                "Wintersitz"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Wintersitz",
+                "singt",
+                "gesunde",
+                "Stock",
+                "summt"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "braust",
+                "Wintersitz",
+                "Stock",
+                "lärmt",
+                "kranke"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "leeren",
+                "Reinigungsflug",
+                "erster",
+                "Frühlingsausflug",
+                "reinigen"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Tracht",
+                "Zeidelweide"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Tracht",
+                "Buchweizentracht"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "tragen",
+                "Bienen"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "ab",
+                "Schwärmen",
+                "schwärmen",
+                "treiben"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "tütüt",
+                "quackquack",
+                "Kennzeichen",
+                "Schwarmreife",
+                "singen",
+                "Stockes"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Imp",
+                "geht",
+                "ab",
+                "abher",
+                "herunter",
+                "lassen",
+                "Schwarm"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Stock",
+                "abgeschwärmt"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Hungerschwarm"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Flugling",
+                "Ausreißer",
+                "durchgeht",
+                "Schwarm",
+                "Durchgänger",
+                "Findling"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "legt",
+                "setzt",
+                "Schwarm"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "aufsitzt",
+                "Schwarm",
+                "Baum"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Schwärme",
+                "Abflug",
+                "Schwarmpassen",
+                "warten"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "einfangen",
+                "Schwarm"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Schwarmes",
+                "Schwarmfangkasten",
+                "Vorrichtungen",
+                "Einfangen"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "zurückfliegt",
+                "ganz",
+                "teilweise",
+                "Schwarm",
+                "Mutterstock"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Kunstschwarm",
+                "Ableger",
+                "Fegling"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "teilen",
+                "Kunstschwärme"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "einlogieren",
+                "einstocken",
+                "Schwarm"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Bienen",
+                "besondere",
+                "Schwarmaktes",
+                "Spurbienen",
+                "Quartiermacher"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Mai",
+                "Sprüche",
+                "Fuder",
+                "Schwärmen",
+                "Heu",
+                "Schwarm",
+                "Schwarmzeit",
+                "beziehen"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "neue",
+                "Wohnung",
+                "fliegen",
+                "Bienen"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Königin",
+                "Befruchtungsausflug"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Hosen",
+                "Bienen",
+                "höseln",
+                "eintragen",
+                "Blütenstaub"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Fluglochwächter"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "fächeln",
+                "Luft",
+                "Stock",
+                "steißeln"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "Königin",
+                "Leibbienen",
+                "Trabanten"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "schlachten",
+                "Drohnenschlacht",
+                "Drohnen",
+                "austreiben"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "liegen",
+                "Flugloch",
+                "Bienen"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Schnipfer",
+                "Raubbiene"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "räubern",
+                "Raub",
+                "Bienen"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "womit",
+                "Raubfüttern"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "erforscht",
+                "Mehl",
+                "Bestreuen",
+                "Raubfütterer",
+                "Raubbienen"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Bienenstock",
+                "Bienenbäume",
+                "Kasten",
+                "Bäumen",
+                "Beute",
+                "Bungst",
+                "aufgehängte"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Impfaß",
+                "Fäßel",
+                "Bienenkorb"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Stülper",
+                "Strohständer",
+                "Bienenkorbes",
+                "Torstock",
+                "Arten"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Klotzbeute",
+                "Vereinsständer",
+                "Bienenkasten",
+                "Zargenstock",
+                "Breitwabenstock",
+                "Arten",
+                "Dreietager"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Königinnenzuchtkasten"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Wagstock"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Öffnungen",
+                "Strohkorb"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Untersatzel",
+                "Stroh",
+                "Kranzel"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Brutraum"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Honigraum"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Bodenbrett"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Flugloch",
+                "hellem",
+                "Flaserloch"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Anordnung",
+                "Farben",
+                "angebracht",
+                "Fluglöchern",
+                "dabei",
+                "befolgt",
+                "Verzierungen"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Ganzrähmchen",
+                "Rähmchen"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Impbank",
+                "Bienenhaus"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Stapel",
+                "Bienenhäusern",
+                "Zweibeuter",
+                "Arten",
+                "Lacht"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "faulbrütig",
+                "Faulbrut",
+                "Bienenpest"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Ruhr",
+                "Durchlauf"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "buckelbrütig",
+                "Buckelbrut"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "genannt",
+                "warum",
+                "Hörnerkrankheit"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Tollkrankheit"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "weisellos",
+                "Weisellosigkeit"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Bienenlaus"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Insekt",
+                "vielfüßiges",
+                "Bienenwolf"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Zeidelbär"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Drohne",
+                "Vergleiche",
+                "fleißig",
+                "Bienenhaus",
+                "Biene",
+                "faul",
+                "Imme"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Sprüche",
+                "Bienen",
+                "wecken",
+                "Lichtmeß",
+                "Welche",
+                "Imkerbräuche",
+                "Feiertagen",
+                "Klopfen",
+                "hohen",
+                "Petri",
+                "dabei",
+                "Stuhlfeier",
+                "Stöcke",
+                "gesprochen"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "angekündigt",
+                "ganze",
+                "wurden",
+                "Bienen",
+                "betreffende",
+                "Ereignisse",
+                "besondere",
+                "Land"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "farbigen",
+                "Hochzeit",
+                "Verziehen",
+                "Bienenstöcke",
+                "Taufe",
+                "Geburt",
+                "Tüchern"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Tod",
+                "Sprüche",
+                "verstellen",
+                "dabei",
+                "Gebräuche",
+                "Stöcke",
+                "beim",
+                "Imkers"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Beinstock",
+                "überheben",
+                "Spiel"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Erde",
+                "Schwärmen",
+                "Körperhaltung",
+                "werfen",
+                "Gebräuche",
+                "bestimmter",
+                "beim"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Bienensegen"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "gibt",
+                "Bienengebete"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Bienen",
+                "gilt",
+                "Heilige",
+                "Schutzherr"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Honigernten",
+                "Bienenzauber",
+                "guter",
+                "Erlangung"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "verknüpft",
+                "Aberglaube",
+                "Schwärmen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Bienenkrankheiten",
+                "Abwehrmittel"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Rotklee",
+                "Bienen",
+                "warum",
+                "anfliegen",
+                "Erklärung",
+                "sagenhafte"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "gekauft",
+                "Bienenstock",
+                "warum",
+                "erste",
+                "geschenkt"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "genießt",
+                "besondere",
+                "Verehrung",
+                "Biene"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "besonderes",
+                "geahndet",
+                "Bienendiebstahl",
+                "Verbrechen",
+                "gilt"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Türstock",
+                "Einkitten",
+                "Bienenhaus",
+                "Biene",
+                "Zaubermittel",
+                "Wolfsschädel"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Imkerregeln"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Sprüche",
+                "gereimte",
+                "Biene",
+                "ungereimte",
+                "beziehen"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Beienzüchter",
+                "Zeidler",
+                "Bienenvater",
+                "Imker"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Beiennarr",
+                "übereifrigen",
+                "Imker"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "besonderen",
+                "Namen",
+                "Imkers",
+                "Frau"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Waben",
+                "nachhängen",
+                "Einhängen",
+                "luftmachen",
+                "ausbrechen",
+                "erweitern"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Waben",
+                "Stock",
+                "Umhängen"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Ausnehmen",
+                "Waben",
+                "ausbrechen",
+                "Strohkorb",
+                "zeideln",
+                "ausschneiden",
+                "beim"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Stockes",
+                "Einengen"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Aufsetzen",
+                "Honigraums"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Bienen",
+                "Reinigung",
+                "toten",
+                "Unrat",
+                "Bodenbrettes"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Abtrommeln",
+                "Bienen"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Abschwefeln",
+                "Körbe"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Imkerarbeiten",
+                "sonstige"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Wabenzange"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Wabenmesser"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Wabenpresse"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Wabenständer"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Wabenegge",
+                "Entdeckelungskabel"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Schleier",
+                "Bienenhaube"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Imkerhandschuh"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Imkerpfeife"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Räucherapparat"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Flederwisch",
+                "Abkehrbesen"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Bodenkrucke"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Weiselkäfig"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Absperrgitter"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Futtergeschirr"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Wachsschmelze"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Honigschleuder"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Honigs",
+                "Vorrichtungen",
+                "Läutern",
+                "Auslassen"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Honigspachtel"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Seimlöffel"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Honigkübel",
+                "Schmeichler"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Honigsieb"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Honigpresse"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Ausnehmen",
+                "Honigs",
+                "zeideln",
+                "Körben",
+                "melken",
+                "bedeutet"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "auslassen",
+                "Honig"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "auspressen",
+                "hönigen",
+                "Honig"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "aushönigen",
+                "übervorteilen",
+                "abhönigen"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Waben",
+                "Entdeckeln"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Honigschleudern",
+                "ausschleudern"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Stammsilbenvokal",
+                "Honig"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "unverdeckelter",
+                "verschiedene",
+                "Wabe",
+                "stammt",
+                "je",
+                "nachdem",
+                "verdeckelter",
+                "Namen",
+                "Honig"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "verschiedene",
+                "Honigarten",
+                "Stampfhonig",
+                "je",
+                "Gewinnung"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Honigs",
+                "gezogen",
+                "Pflanzen",
+                "Bezeichnung",
+                "Heide",
+                "Waldhonig"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "kandierter",
+                "festgewordener",
+                "Honig"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "türkischer",
+                "Kunsthonig",
+                "Honig"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "Seim",
+                "Honigseim"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Bienenhonig",
+                "schmalz",
+                "vogel",
+                "Bein"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Leckermaul",
+                "Honigbirne",
+                "Honigernte",
+                "honiggelb",
+                "honigfüß",
+                "Honighandel",
+                "Honig"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "Vergleiche",
+                "Sprüche",
+                "kleinsten",
+                "Honiglecken",
+                "Bär",
+                "Köpfe",
+                "beziehen",
+                "Honig"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "Heilmittel",
+                "volkstümliches",
+                "Honig"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "Honigwein"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Honigschnaps"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Honigbier"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Honigessig"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Met"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "zweiter",
+                "Birkenmet",
+                "Met"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "erster",
+                "Metkirchtag",
+                "metsüß",
+                "Met"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Arten",
+                "Lebkuchen"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "Lebzelten",
+                "Lebkuchen"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "Lebzelter"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "Lebzelterstand"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "Gelegenheiten",
+                "Lebkuchen",
+                "gegessen"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "Honigbäckereien"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "Bienenwachs",
+                "Wachs"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "Wachs",
+                "ausschneiden"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "Wachs",
+                "schmelzen",
+                "auslassen"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "Wachses",
+                "Arten"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "Wachshändler",
+                "Wächsler"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "Wachszieher"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "wächsen",
+                "Wachs"
+            ],
+            "id": "K7"
+        },
+        {
+            "concepts": [
+                "Wachs",
+                "bestreichen",
+                "wächseln"
+            ],
+            "id": "K8"
+        },
+        {
+            "concepts": [
+                "Erdwachs",
+                "Baumwachs",
+                "Nähwachs",
+                "Bodenwachs",
+                "Wachs"
+            ],
+            "id": "K9"
+        },
+        {
+            "concepts": [
+                "Wachsstock"
+            ],
+            "id": "K10"
+        },
+        {
+            "concepts": [
+                "Wachskerze"
+            ],
+            "id": "K11"
+        },
+        {
+            "concepts": [
+                "Wachsfiguren"
+            ],
+            "id": "K12"
+        },
+        {
+            "concepts": [
+                "Wachs",
+                "Heilmittel"
+            ],
+            "id": "K13"
+        },
+        {
+            "concepts": [
+                "wachsgelb"
+            ],
+            "id": "K14"
+        },
+        {
+            "concepts": [
+                "zerrinnt",
+                "Vergleiche",
+                "rein",
+                "Bienenwachs",
+                "Wachs"
+            ],
+            "id": "K15"
+        },
+        {
+            "concepts": [
+                "Bienengarten"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "Bienenhag",
+                "Zeidelweide",
+                "Bienenfeld",
+                "Bienenweide"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "Wanderbienenzucht"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "Weide",
+                "führen",
+                "Bienen"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "Bienenfutter",
+                "Bienenpflanzen"
+            ],
+            "id": "L5"
+        },
+        {
+            "concepts": [
+                "Rechtsausdrücke",
+                "Wachsdienst",
+                "bekannt",
+                "Abgabe",
+                "Wachszins",
+                "Honigrecht"
+            ],
+            "id": "L6"
+        }
+    ]
+}

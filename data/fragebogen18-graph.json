@@ -1,0 +1,5852 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "misten"
+                ],
+                [
+                    "geilen"
+                ],
+                [
+                    "gehört"
+                ],
+                [
+                    "Mistes"
+                ],
+                [
+                    "Geil"
+                ],
+                [
+                    "Wort"
+                ],
+                [
+                    "führen"
+                ],
+                [
+                    "Kunstdünger"
+                ],
+                [
+                    "Düngens"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "etwaige"
+                ],
+                [
+                    "Bauen"
+                ]
+            ],
+            "2": [
+                [
+                    "Aberglaube"
+                ],
+                [
+                    "Grund"
+                ],
+                [
+                    "Furche"
+                ]
+            ],
+            "3": [
+                [
+                    "Dung"
+                ],
+                [
+                    "Ausdruck"
+                ],
+                [
+                    "Wörter"
+                ],
+                [
+                    "Pflügen"
+                ],
+                [
+                    "bauen"
+                ],
+                [
+                    "Pflug"
+                ]
+            ],
+            "5": [
+                [
+                    "ackern"
+                ],
+                [
+                    "gibt"
+                ]
+            ],
+            "6": [
+                [
+                    "verwendet"
+                ]
+            ],
+            "7": [
+                [
+                    "Atel"
+                ],
+                [
+                    "ziehen"
+                ]
+            ],
+            "13": [
+                [
+                    "düngen"
+                ]
+            ],
+            "14": [
+                [
+                    "pflügen"
+                ]
+            ],
+            "22": [
+                [
+                    "Dünger"
+                ]
+            ],
+            "44": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "86": [
+                [
+                    "Jauche"
+                ]
+            ],
+            "253": [
+                [
+                    "Mist"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "düngen",
+                    "dummen"
+                ],
+                [
+                    "Aufziehen",
+                    "Mist"
+                ],
+                [
+                    "Felde",
+                    "Misthaufen"
+                ],
+                [
+                    "Ausdrücke",
+                    "Mist"
+                ],
+                [
+                    "Mist",
+                    "Grund"
+                ],
+                [
+                    "Bestandteile",
+                    "Mist"
+                ],
+                [
+                    "betreffend",
+                    "Aberglaube"
+                ],
+                [
+                    "ackern",
+                    "pflügen"
+                ]
+            ],
+            "2": [
+                [
+                    "Furchen",
+                    "ziehen"
+                ]
+            ],
+            "3": [
+                [
+                    "Dünger",
+                    "Ausdrücke"
+                ],
+                [
+                    "Dünger",
+                    "Mist"
+                ],
+                [
+                    "Atel",
+                    "Jauche"
+                ]
+            ],
+            "6": [
+                [
+                    "Bauernsprüche",
+                    "Ausdrücke"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Stelle",
+                    "zweiter",
+                    "Mist"
+                ],
+                [
+                    "ateln",
+                    "Jauche",
+                    "düngen"
+                ]
+            ],
+            "3": [
+                [
+                    "Acker",
+                    "gedüngten",
+                    "Ausdruck"
+                ]
+            ],
+            "9": [
+                [
+                    "Vb",
+                    "Jauche",
+                    "Mist"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Rain",
+                    "Ackerbeetes",
+                    "auswerfen",
+                    "Furche"
+                ]
+            ],
+            "6": [
+                [
+                    "Arbeiten",
+                    "Vb",
+                    "Jauche",
+                    "Mist"
+                ]
+            ]
+        },
+        "6": {
+            "1": [
+                [
+                    "Furchen",
+                    "besondere",
+                    "ziehen",
+                    "gibt",
+                    "dafür",
+                    "Ausdrücke"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "düngen",
+                "dummen"
+            ],
+            "source": 0,
+            "target": 2,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "misten"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geilen"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 0,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 0,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dung"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dung"
+            ],
+            "source": 1,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Düngens"
+            ],
+            "source": 1,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 2,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 2,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 3,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 3,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 5,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 5,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernsprüche",
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 7,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bauernsprüche",
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 8,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bauernsprüche",
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 9,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehört"
+            ],
+            "source": 6,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Mist"
+            ],
+            "source": 6,
+            "target": 27,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 6,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernsprüche",
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 8,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bauernsprüche",
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 9,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger",
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 12,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 7,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 7,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger",
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 22,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 7,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dung"
+            ],
+            "source": 7,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 7,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauernsprüche",
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 9,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 8,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "düngen"
+            ],
+            "source": 8,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 8,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geil"
+            ],
+            "source": 9,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 9,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 10,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 11,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 11,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 11,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mistes"
+            ],
+            "source": 11,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 11,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 11,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 12,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 12,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger",
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 22,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 12,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 12,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 12,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 13,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 14,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 14,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 15,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 15,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 16,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 17,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aufziehen",
+                "Mist"
+            ],
+            "source": 18,
+            "target": 19,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 18,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bestandteile",
+                "Mist"
+            ],
+            "source": 19,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 19,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger",
+                "Mist"
+            ],
+            "source": 20,
+            "target": 21,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger",
+                "Mist"
+            ],
+            "source": 20,
+            "target": 28,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 20,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 20,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger",
+                "Mist"
+            ],
+            "source": 21,
+            "target": 28,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 21,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 21,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 21,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 21,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 21,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 22,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 22,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 22,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 22,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 22,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 22,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 22,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Felde",
+                "Misthaufen"
+            ],
+            "source": 25,
+            "target": 26,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 25,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 25,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter",
+                "Mist"
+            ],
+            "source": 26,
+            "target": 30,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 26,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist",
+                "Grund"
+            ],
+            "source": 27,
+            "target": 29,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 27,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 27,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 27,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 27,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 27,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 27,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 27,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 27,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 27,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dünger"
+            ],
+            "source": 28,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 28,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 29,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 29,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grund"
+            ],
+            "source": 29,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 30,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 31,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 32,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 32,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 32,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 32,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 32,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 32,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 34,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 34,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 34,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 34,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 34,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mist"
+            ],
+            "source": 34,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ateln",
+                "Jauche",
+                "düngen"
+            ],
+            "source": 35,
+            "target": 36,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 35,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 36,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 37,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 38,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel",
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 43,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel"
+            ],
+            "source": 39,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel"
+            ],
+            "source": 39,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel",
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 48,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 39,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 39,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 39,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 42,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel",
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 48,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 43,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 44,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 44,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 44,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 44,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 44,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 44,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 44,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "betreffend",
+                "Aberglaube"
+            ],
+            "source": 44,
+            "target": 72,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Atel"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel"
+            ],
+            "source": 45,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Atel"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 48,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 48,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 48,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 48,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 48,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jauche"
+            ],
+            "source": 48,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kunstdünger"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 49,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 49,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 49,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 50,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 50,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 50,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 50,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 50,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 52,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 52,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 55,
+            "target": 56,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 55,
+            "target": 57,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 55,
+            "target": 58,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 55,
+            "target": 59,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 55,
+            "target": 60,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 56,
+            "target": 57,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 56,
+            "target": 58,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 56,
+            "target": 59,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 56,
+            "target": 60,
+            "target_group": [
+                3,
+                9,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Arbeiten",
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 57,
+            "target": 58,
+            "target_group": [
+                4,
+                6,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Arbeiten",
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 57,
+            "target": 59,
+            "target_group": [
+                4,
+                6,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Arbeiten",
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 57,
+            "target": 60,
+            "target_group": [
+                4,
+                6,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Arbeiten",
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 58,
+            "target": 59,
+            "target_group": [
+                4,
+                6,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Arbeiten",
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 58,
+            "target": 60,
+            "target_group": [
+                4,
+                6,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Arbeiten",
+                "Vb",
+                "Jauche",
+                "Mist"
+            ],
+            "source": 59,
+            "target": 60,
+            "target_group": [
+                4,
+                6,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "gedüngten",
+                "Ausdruck"
+            ],
+            "source": 61,
+            "target": 62,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "gedüngten",
+                "Ausdruck"
+            ],
+            "source": 61,
+            "target": 63,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Acker",
+                "gedüngten",
+                "Ausdruck"
+            ],
+            "source": 62,
+            "target": 63,
+            "target_group": [
+                3,
+                3,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 64,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 64,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bauen"
+            ],
+            "source": 64,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ackern"
+            ],
+            "source": 64,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ackern"
+            ],
+            "source": 64,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ackern",
+                "pflügen"
+            ],
+            "source": 64,
+            "target": 78,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 64,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bauen"
+            ],
+            "source": 64,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 64,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflügen"
+            ],
+            "source": 65,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 65,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflügen"
+            ],
+            "source": 65,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bauen"
+            ],
+            "source": 65,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 65,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 66,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 66,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 67,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 67,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 68,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 68,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflügen"
+            ],
+            "source": 69,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 70,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bauen"
+            ],
+            "source": 71,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ackern"
+            ],
+            "source": 73,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ackern"
+            ],
+            "source": 73,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ackern"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Furchen",
+                "ziehen"
+            ],
+            "source": 83,
+            "target": 84,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Furchen",
+                "ziehen"
+            ],
+            "source": 83,
+            "target": 85,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 83,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 83,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Furchen",
+                "besondere",
+                "ziehen",
+                "gibt",
+                "dafür",
+                "Ausdrücke"
+            ],
+            "source": 84,
+            "target": 85,
+            "target_group": [
+                6,
+                1,
+                0
+            ],
+            "weight": 6
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 84,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 84,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 85,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 85,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "Ackerbeetes",
+                "auswerfen",
+                "Furche"
+            ],
+            "source": 86,
+            "target": 87,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Furche"
+            ],
+            "source": 86,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ziehen"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Furche"
+            ],
+            "source": 87,
+            "target": 91,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "dummen",
+                "sagt",
+                "Feld",
+                "Wörtern",
+                "misten",
+                "düngen",
+                "geilen",
+                "Wiese",
+                "Unterschiede"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Düngung",
+                "ausgedrückt",
+                "Dunge",
+                "Düngens",
+                "Dung",
+                "Mistung"
+            ],
+            "id": "E8a"
+        },
+        {
+            "concepts": [
+                "vordüngen",
+                "draufdüngen",
+                "dummen",
+                "düngen"
+            ],
+            "id": "E8b"
+        },
+        {
+            "concepts": [
+                "zusammenmisten",
+                "ausmisten",
+                "Wörter",
+                "misten",
+                "letzteres",
+                "schelten"
+            ],
+            "id": "E8c"
+        },
+        {
+            "concepts": [
+                "geilen",
+                "angeilen"
+            ],
+            "id": "E8d"
+        },
+        {
+            "concepts": [
+                "Kopfdüngung",
+                "Saat",
+                "düngen"
+            ],
+            "id": "E8e"
+        },
+        {
+            "concepts": [
+                "Mist",
+                "Bauernsprüche",
+                "hocken",
+                "Geld",
+                "lassen",
+                "rechter",
+                "gehört",
+                "gefunden",
+                "Ausdrücke"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Dumme",
+                "Bauernsprüche",
+                "Dünger",
+                "Dunged",
+                "Dung",
+                "Dummung",
+                "Ausdrücke"
+            ],
+            "id": "E9a"
+        },
+        {
+            "concepts": [
+                "geht",
+                "länger",
+                "Bartelmä",
+                "Ruhr",
+                "Bauernsprüche",
+                "wer",
+                "Fretter",
+                "braucht",
+                "Ruhrbauen",
+                "einbauen",
+                "Ausdrücke",
+                "düngen"
+            ],
+            "id": "E9b"
+        },
+        {
+            "concepts": [
+                "Geil",
+                "Bauernsprüche",
+                "Ausdrücke"
+            ],
+            "id": "E9c"
+        },
+        {
+            "concepts": [
+                "Presse",
+                "Wort",
+                "eingeführt",
+                "wann",
+                "häufig",
+                "seit",
+                "Kompost",
+                "wen",
+                "Kurse",
+                "Vereine"
+            ],
+            "id": "E9d"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "gutem",
+                "hitzig",
+                "Dünger",
+                "Mistes",
+                "gut",
+                "Dunges",
+                "gehört",
+                "scharf"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Dünger",
+                "Ausdrücke",
+                "gemischter"
+            ],
+            "id": "E10a"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "misteln",
+                "Mist"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Mistele",
+                "Mist",
+                "mistig"
+            ],
+            "id": "E11a"
+        },
+        {
+            "concepts": [
+                "ausfahren",
+                "führen",
+                "Mist"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "abkräueln",
+                "herab",
+                "zerfahren",
+                "zertragen",
+                "breiten",
+                "zerkräueln",
+                "zerkrallen",
+                "Wagen",
+                "streuen",
+                "Mist"
+            ],
+            "id": "E12a"
+        },
+        {
+            "concepts": [
+                "Mist",
+                "Person",
+                "benannt",
+                "streut"
+            ],
+            "id": "E12b"
+        },
+        {
+            "concepts": [
+                "steilen",
+                "Dungseil",
+                "Lehnen",
+                "Aufziehen",
+                "Mist"
+            ],
+            "id": "E12c"
+        },
+        {
+            "concepts": [
+                "Dungtasche",
+                "Gelände",
+                "steilem",
+                "Aufziehen",
+                "Mist",
+                "Bestandteile"
+            ],
+            "id": "E12d"
+        },
+        {
+            "concepts": [
+                "kaufen",
+                "Dünger",
+                "Mist"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "verkaufen",
+                "Fuhre",
+                "Krippen",
+                "ab",
+                "fuhrenweise",
+                "gerne",
+                "Dünger",
+                "dabei",
+                "gibt",
+                "Bauer",
+                "gemessen",
+                "Mist"
+            ],
+            "id": "E13a"
+        },
+        {
+            "concepts": [
+                "Preisen",
+                "Dünger",
+                "holen",
+                "Stadt",
+                "gekauften",
+                "Ausdrücke"
+            ],
+            "id": "E13b"
+        },
+        {
+            "concepts": [
+                "Mistfuhre"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "gemauert",
+                "Mistgrube"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Streuen",
+                "Misthaufen",
+                "Felde",
+                "kleinen",
+                "Drachenbrutstätte",
+                "Aberglaube",
+                "angeführt"
+            ],
+            "id": "E15a"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Geilbühel",
+                "Mist",
+                "Stallmist",
+                "Mistarten",
+                "zweiter",
+                "Verwen",
+                "Misthaufen",
+                "Felde",
+                "Geilhaufen",
+                "tierischer",
+                "Hofe",
+                "große",
+                "Geißmist"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "Mist",
+                "Grund",
+                "Scheißhäuselmist",
+                "Ausdrücke"
+            ],
+            "id": "E16a"
+        },
+        {
+            "concepts": [
+                "Dünger",
+                "Stroh",
+                "Laub",
+                "Laubet",
+                "Streumist",
+                "Mist",
+                "gewonnener"
+            ],
+            "id": "E16b"
+        },
+        {
+            "concepts": [
+                "nötigen",
+                "unergiebigen",
+                "ganz",
+                "Gartenmist",
+                "Grund",
+                "Wörter",
+                "Mistes",
+                "Gartenabfall",
+                "Unterfutter",
+                "Mist"
+            ],
+            "id": "E16c"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "zweiter",
+                "Mist",
+                "Stadtmist"
+            ],
+            "id": "E16d"
+        },
+        {
+            "concepts": [
+                "Mistgabel",
+                "Bestandteile",
+                "Mist"
+            ],
+            "id": "E16e"
+        },
+        {
+            "concepts": [
+                "Mistbub",
+                "Mist",
+                "mistfaul"
+            ],
+            "id": "E16f"
+        },
+        {
+            "concepts": [
+                "Dung",
+                "Kuhdung",
+                "Stalldung"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Geil",
+                "Geilgeld",
+                "Abgabe",
+                "Mist"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "odeln",
+                "jauchen",
+                "ateln",
+                "Jauche",
+                "adeln",
+                "düngen"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "ausateln",
+                "fertigateln",
+                "ateln",
+                "Jauche",
+                "düngen"
+            ],
+            "id": "E19a"
+        },
+        {
+            "concepts": [
+                "Jauche"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Mistbrod",
+                "Jauche",
+                "Mistlacke"
+            ],
+            "id": "E20a"
+        },
+        {
+            "concepts": [
+                "Adach",
+                "Wort",
+                "Atach",
+                "verwendet",
+                "Atel",
+                "Jauche",
+                "Odel",
+                "Abtritt",
+                "Adel"
+            ],
+            "id": "E20b"
+        },
+        {
+            "concepts": [
+                "Mistjauche"
+            ],
+            "id": "E20c"
+        },
+        {
+            "concepts": [
+                "Jauchengrube"
+            ],
+            "id": "E20d"
+        },
+        {
+            "concepts": [
+                "Jauche"
+            ],
+            "id": "E20e"
+        },
+        {
+            "concepts": [
+                "Atel",
+                "Jauche",
+                "Atelfaß"
+            ],
+            "id": "E20f"
+        },
+        {
+            "concepts": [
+                "Gebäude",
+                "betreffend",
+                "Jauche",
+                "brennendes",
+                "begossen",
+                "Aberglaube"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Atel",
+                "schöpfen",
+                "pumpen"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Atel",
+                "führen"
+            ],
+            "id": "E22a"
+        },
+        {
+            "concepts": [
+                "Atelfuhre"
+            ],
+            "id": "E22b"
+        },
+        {
+            "concepts": [
+                "Adler",
+                "Schmutzfleck",
+                "Atel",
+                "atlig",
+                "adlig",
+                "Atler",
+                "Jauche"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "besonderen",
+                "bekannt",
+                "soweit",
+                "Gattungen",
+                "Kunstdünger",
+                "Kainit",
+                "Ausdrücke",
+                "Volk"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Kunstdünger",
+                "gibt",
+                "Ausdruck",
+                "Düngers"
+            ],
+            "id": "E24a"
+        },
+        {
+            "concepts": [
+                "richtige",
+                "Düngens",
+                "Zeit"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "Düngmittel",
+                "Ausdrücke",
+                "Pflanzenasche"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "stehlen",
+                "Dünger"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "Düngerdieb",
+                "beurteilt"
+            ],
+            "id": "E27a"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "Jauche",
+                "stinken",
+                "stinkt",
+                "Mist"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "ausgeraucht",
+                "Jauche",
+                "dampfen",
+                "dampft",
+                "raucht",
+                "Mist"
+            ],
+            "id": "E28a"
+        },
+        {
+            "concepts": [
+                "wenden",
+                "Vb",
+                "Arbeiten",
+                "umschaufeln",
+                "Jauche",
+                "Mist"
+            ],
+            "id": "E28b"
+        },
+        {
+            "concepts": [
+                "aufladen",
+                "Vb",
+                "Arbeiten",
+                "Jauche",
+                "Mist"
+            ],
+            "id": "E28c"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "Arbeiten",
+                "aufschlagen",
+                "Jauche",
+                "Mist"
+            ],
+            "id": "E28d"
+        },
+        {
+            "concepts": [
+                "Vb",
+                "Arbeiten",
+                "einschaufeln",
+                "eingraben",
+                "Jauche",
+                "Mist"
+            ],
+            "id": "E28e"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "gut",
+                "Ausdruck",
+                "gedüngten"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "gedüngten",
+                "Ausdruck",
+                "schlecht"
+            ],
+            "id": "E29a"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "gedüngten",
+                "Ausdruck",
+                "übermäßig"
+            ],
+            "id": "E29b"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "pflügen",
+                "Hausbau",
+                "ausgenommen",
+                "verwendet",
+                "Aufbauen",
+                "pfluegen",
+                "Wörter",
+                "ackern",
+                "Wiesen",
+                "bauen",
+                "Umpflügen"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "beschweren",
+                "Weise",
+                "Bauen",
+                "Pflug",
+                "Auflehnen",
+                "Pflügen"
+            ],
+            "id": "F1a"
+        },
+        {
+            "concepts": [
+                "tief",
+                "pflügen"
+            ],
+            "id": "F1b"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "seicht"
+            ],
+            "id": "F1c"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "gewühlt",
+                "Säue",
+                "unordentlich",
+                "hätten"
+            ],
+            "id": "F1d"
+        },
+        {
+            "concepts": [
+                "Sauuesch",
+                "Sauüesche",
+                "entstandene",
+                "Vertiefung",
+                "Unebenheit",
+                "Pflügen"
+            ],
+            "id": "F1e"
+        },
+        {
+            "concepts": [
+                "überglittene",
+                "Beham",
+                "erfaßte",
+                "Ackerkrume",
+                "Pflug"
+            ],
+            "id": "F1f"
+        },
+        {
+            "concepts": [
+                "arlen",
+                "bauen",
+                "Arl"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "betreffend",
+                "Aberglaube",
+                "Pflügen"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "zwibrachen",
+                "ackern",
+                "zweite",
+                "Feieracker",
+                "Brachfeldes"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "einackern",
+                "schinden",
+                "halmeln",
+                "Herbstackern",
+                "Halme"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Herbstackeret"
+            ],
+            "id": "F5a"
+        },
+        {
+            "concepts": [
+                "rühren",
+                "Frühjahrsackerung"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Ackern",
+                "letztes",
+                "Bauen",
+                "ackern",
+                "Säen",
+                "bauenackern"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "Nachbargrund",
+                "hinüberackern",
+                "pflügenden",
+                "überhaupt",
+                "Grund",
+                "Ernte",
+                "ackern",
+                "Beete",
+                "schmale",
+                "beginnen",
+                "formen",
+                "genannte",
+                "fo"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "pflügen"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "bauen"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Haue",
+                "pecken",
+                "hauen",
+                "lockern"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "anreißen",
+                "Zweck",
+                "besonderes",
+                "verwendet",
+                "Name",
+                "Gerät"
+            ],
+            "id": "F11a"
+        },
+        {
+            "concepts": [
+                "fürcheln",
+                "Mais",
+                "Furchen",
+                "gesetzt",
+                "seichte",
+                "ziehen",
+                "furchen"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Furchen",
+                "gerade",
+                "besondere",
+                "ziehen",
+                "gibt",
+                "dafür",
+                "Ausdrücke"
+            ],
+            "id": "F12a"
+        },
+        {
+            "concepts": [
+                "krumme",
+                "Furchen",
+                "besondere",
+                "ziehen",
+                "gibt",
+                "dafür",
+                "Ausdrücke"
+            ],
+            "id": "F12b"
+        },
+        {
+            "concepts": [
+                "Ackerbeetes",
+                "Furche",
+                "Rain",
+                "vorletzte",
+                "teilen",
+                "auswerfen"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "letzte",
+                "Ackerbeetes",
+                "Furche",
+                "Rain",
+                "ziehen",
+                "auswerfen"
+            ],
+            "id": "F13a"
+        },
+        {
+            "concepts": [
+                "ausheben",
+                "graben",
+                "ziehen",
+                "Wasserfurche"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "putzen",
+                "Wasserfurchen"
+            ],
+            "id": "F14a"
+        },
+        {
+            "concepts": [
+                "furchbauen",
+                "einsäumen",
+                "gewendet",
+                "umackern",
+                "senkrecht",
+                "Ackerfurchen",
+                "Randstreifen",
+                "Stoß",
+                "Pflug"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "rauhen",
+                "Winter",
+                "Felder",
+                "Furche",
+                "geeggt",
+                "heißen",
+                "gepflügt",
+                "bleiben"
+            ],
+            "id": "F16"
+        }
+    ]
+}

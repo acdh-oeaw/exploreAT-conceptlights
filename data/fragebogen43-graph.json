@@ -1,0 +1,2043 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "zergehn"
+                ],
+                [
+                    "untergehn"
+                ],
+                [
+                    "Milch"
+                ],
+                [
+                    "Geher"
+                ],
+                [
+                    "Gänger"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "hingehn"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "herkommen"
+                ],
+                [
+                    "zuherkommen"
+                ],
+                [
+                    "zuhinkommen"
+                ],
+                [
+                    "kömmlich"
+                ],
+                [
+                    "etwaige"
+                ]
+            ],
+            "3": [
+                [
+                    "geht"
+                ],
+                [
+                    "Gang"
+                ]
+            ],
+            "8": [
+                [
+                    "kommt"
+                ]
+            ],
+            "10": [
+                [
+                    "gehn"
+                ]
+            ],
+            "15": [
+                [
+                    "jemand"
+                ]
+            ],
+            "44": [
+                [
+                    "kommen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "geschehen",
+                    "kommen"
+                ],
+                [
+                    "darauf",
+                    "kommt"
+                ],
+                [
+                    "kommt",
+                    "komme"
+                ]
+            ],
+            "7": [
+                [
+                    "kommt",
+                    "kommen"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "kommt",
+                    "komm",
+                    "kommen"
+                ],
+                [
+                    "darauf",
+                    "bloß",
+                    "kommt"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "komm",
+                    "schon",
+                    "kommt",
+                    "kommen"
+                ],
+                [
+                    "darauf",
+                    "kommt",
+                    "komm",
+                    "kommen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 0,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zergehn"
+            ],
+            "source": 0,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 0,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 0,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 3,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 3,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 3,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 3,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 3,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 7,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 7,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 7,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 7,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 7,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 7,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "herkommen"
+            ],
+            "source": 7,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 10,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 10,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 10,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hingehn"
+            ],
+            "source": 10,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 13,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 15,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 19,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 19,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Milch"
+            ],
+            "source": 19,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "untergehn"
+            ],
+            "source": 21,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 23,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 23,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 26,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 26,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 42,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gang"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gang"
+            ],
+            "source": 43,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gang"
+            ],
+            "source": 44,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geher"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 53,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gänger"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschehen",
+                "kommen"
+            ],
+            "source": 60,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 60,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "komm",
+                "kommen"
+            ],
+            "source": 61,
+            "target": 62,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "komm",
+                "schon",
+                "kommt",
+                "kommen"
+            ],
+            "source": 61,
+            "target": 64,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "kommen"
+            ],
+            "source": 61,
+            "target": 65,
+            "target_group": [
+                2,
+                7,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 61,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 61,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "kommen"
+            ],
+            "source": 61,
+            "target": 69,
+            "target_group": [
+                2,
+                7,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 61,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "komme"
+            ],
+            "source": 61,
+            "target": 83,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 61,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 61,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 61,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "darauf",
+                "kommt",
+                "komm",
+                "kommen"
+            ],
+            "source": 62,
+            "target": 64,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "kommen"
+            ],
+            "source": 62,
+            "target": 65,
+            "target_group": [
+                2,
+                7,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 62,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 62,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "kommen"
+            ],
+            "source": 62,
+            "target": 69,
+            "target_group": [
+                2,
+                7,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "darauf",
+                "kommt"
+            ],
+            "source": 62,
+            "target": 72,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 62,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 62,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 62,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 62,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "kommen"
+            ],
+            "source": 64,
+            "target": 65,
+            "target_group": [
+                2,
+                7,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 64,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 64,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "kommen"
+            ],
+            "source": 64,
+            "target": 69,
+            "target_group": [
+                2,
+                7,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "darauf",
+                "bloß",
+                "kommt"
+            ],
+            "source": 64,
+            "target": 72,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 64,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 64,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 64,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 64,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 65,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 65,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "kommen"
+            ],
+            "source": 65,
+            "target": 69,
+            "target_group": [
+                2,
+                7,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 65,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 65,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 65,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 65,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 65,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 67,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 67,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 67,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 68,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 68,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 68,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 69,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 69,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 69,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 69,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 69,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 72,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zuherkommen"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zuhinkommen"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 108,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 108,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kömmlich"
+            ],
+            "source": 110,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 110,
+            "target": 124,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Schuh",
+                "dergehn",
+                "zergehn",
+                "jemand",
+                "ergehn",
+                "lassen"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "schrumpfen",
+                "ewigen",
+                "Ruhe",
+                "ingehn",
+                "eingehn",
+                "Geld",
+                "getäuscht"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Eingang"
+            ],
+            "id": "A21a"
+        },
+        {
+            "concepts": [
+                "fürsich",
+                "geht",
+                "gehn",
+                "vorgehn"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Vorgang"
+            ],
+            "id": "A22a"
+        },
+        {
+            "concepts": [
+                "Vorgeher"
+            ],
+            "id": "A22b"
+        },
+        {
+            "concepts": [
+                "vorübergehn"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "hergehn",
+                "gehn",
+                "jemand",
+                "herkommen"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Hergang"
+            ],
+            "id": "A24a"
+        },
+        {
+            "concepts": [
+                "zurückhergehn"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "jemand",
+                "hingehn"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Hingang"
+            ],
+            "id": "A26a"
+        },
+        {
+            "concepts": [
+                "zurückhingehn"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "hintersich",
+                "gehen",
+                "hintergehen"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Hintergang"
+            ],
+            "id": "A28a"
+        },
+        {
+            "concepts": [
+                "geht",
+                "nachgehn",
+                "Uhr"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "nebenausgehn"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "niedergehn"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Niedergang"
+            ],
+            "id": "A31a"
+        },
+        {
+            "concepts": [
+                "geht",
+                "übergéhn",
+                "Zorn",
+                "jemand",
+                "geh",
+                "Häferl",
+                "Tote",
+                "Milch",
+                "übergehn"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Übergang"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "untergehn"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "Untergang"
+            ],
+            "id": "A34a"
+        },
+        {
+            "concepts": [
+                "umgehn",
+                "Umgehende",
+                "fensterln",
+                "spuken",
+                "herumgehn",
+                "Prozession",
+                "gehn"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Umgang"
+            ],
+            "id": "A35a"
+        },
+        {
+            "concepts": [
+                "Umgeher"
+            ],
+            "id": "A35b"
+        },
+        {
+            "concepts": [
+                "gut",
+                "irregehen",
+                "jemand",
+                "vergehn"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "weggehn"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Weggang"
+            ],
+            "id": "A37a"
+        },
+        {
+            "concepts": [
+                "widergehn"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Widergang"
+            ],
+            "id": "A38a"
+        },
+        {
+            "concepts": [
+                "zergehn"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "schließen",
+                "zugehn",
+                "jemand",
+                "untergehn",
+                "abspielen"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "Zugang"
+            ],
+            "id": "A40a"
+        },
+        {
+            "concepts": [
+                "Zugeherin"
+            ],
+            "id": "A40b"
+        },
+        {
+            "concepts": [
+                "zurückgehn"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Rückgang"
+            ],
+            "id": "A41a"
+        },
+        {
+            "concepts": [
+                "Hunger",
+                "Paar",
+                "Alter",
+                "Milch",
+                "zusammengehn"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "dazugehn"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "Daraufgänger"
+            ],
+            "id": "A43a"
+        },
+        {
+            "concepts": [
+                "daraufgeherisch"
+            ],
+            "id": "A43b"
+        },
+        {
+            "concepts": [
+                "Daraufgeherei"
+            ],
+            "id": "A43c"
+        },
+        {
+            "concepts": [
+                "Gehschule",
+                "gehn",
+                "Gehwégtag"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Gänglein",
+                "Gang",
+                "Gehen",
+                "zwei"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "Gangwerk",
+                "Scheißgang",
+                "Urgang",
+                "Gang",
+                "Gangsteigtörl",
+                "keifendes",
+                "Gangsteig",
+                "Weib"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "ungäng",
+                "gäng"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "gängig",
+                "un"
+            ],
+            "id": "A47a"
+        },
+        {
+            "concepts": [
+                "zugängig",
+                "vergänglich"
+            ],
+            "id": "A47b"
+        },
+        {
+            "concepts": [
+                "gängel"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "gängeln"
+            ],
+            "id": "A48a"
+        },
+        {
+            "concepts": [
+                "gangbar"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "Geher",
+                "guter"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "Geher",
+                "Umgeheramt",
+                "Fußgeher"
+            ],
+            "id": "A50a"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Geherei"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "Gegehe"
+            ],
+            "id": "A51a"
+        },
+        {
+            "concepts": [
+                "Gehecht"
+            ],
+            "id": "A51b"
+        },
+        {
+            "concepts": [
+                "Gänger"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "Sachsengänger",
+                "Kostgänger",
+                "Gänger"
+            ],
+            "id": "A52a"
+        },
+        {
+            "concepts": [
+                "gengen",
+                "gehen",
+                "Schmalz"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "gehn",
+                "Gang"
+            ],
+            "id": "A53a"
+        },
+        {
+            "concepts": [
+                "berücksichtigen",
+                "geraten",
+                "Formen",
+                "hingehn",
+                "gebracht",
+                "geschehen",
+                "versetzt",
+                "gelangen",
+                "kommen"
+            ],
+            "id": "A54"
+        },
+        {
+            "concepts": [
+                "Tag",
+                "kommt",
+                "Vater",
+                "Gelegenheit",
+                "laß",
+                "Schlaf",
+                "Zeitangabe",
+                "allein",
+                "kom",
+                "Saat",
+                "gut",
+                "komm",
+                "Nacht",
+                "gleich",
+                "komme",
+                "schon",
+                "Kreuzung",
+                "kommen",
+                "Zeit"
+            ],
+            "id": "A54a"
+        },
+        {
+            "concepts": [
+                "daran",
+                "woher",
+                "kommt",
+                "Reihe",
+                "hingekommen",
+                "daraus",
+                "fortkommen",
+                "geschehen",
+                "komm",
+                "Sonne",
+                "darauf",
+                "daher",
+                "dahin",
+                "davon",
+                "weit",
+                "kommen"
+            ],
+            "id": "A54b"
+        },
+        {
+            "concepts": [
+                "heimkommen"
+            ],
+            "id": "A54c"
+        },
+        {
+            "concepts": [
+                "darauf",
+                "kommt",
+                "teuer",
+                "bloß",
+                "fangen",
+                "stehn",
+                "nimm",
+                "konnte",
+                "kommen",
+                "10",
+                "tanzen",
+                "bald",
+                "schon",
+                "abholen",
+                "komm",
+                "reden"
+            ],
+            "id": "A54d"
+        },
+        {
+            "concepts": [
+                "schlau",
+                "Begleitumständen",
+                "kommt",
+                "gelegen",
+                "Vorwürfen",
+                "Fuß",
+                "grob",
+                "gerade",
+                "kommst",
+                "recht",
+                "kommmt",
+                "gerufen",
+                "kommen"
+            ],
+            "id": "A54e"
+        },
+        {
+            "concepts": [
+                "loskommen",
+                "Zusammenrückungen"
+            ],
+            "id": "A54f"
+        },
+        {
+            "concepts": [
+                "gelaufen",
+                "singend",
+                "kommen",
+                "geritten"
+            ],
+            "id": "A54g"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "kommen"
+            ],
+            "id": "A54h"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "anstatt",
+                "gebraten",
+                "Soldat",
+                "gesotten",
+                "kommen"
+            ],
+            "id": "A54i"
+        },
+        {
+            "concepts": [
+                "Abkommen",
+                "abkommen",
+                "einander"
+            ],
+            "id": "A55"
+        },
+        {
+            "concepts": [
+                "Abkunft"
+            ],
+            "id": "A55a"
+        },
+        {
+            "concepts": [
+                "hart",
+                "kommt",
+                "ankommen",
+                "darauf",
+                "bloß"
+            ],
+            "id": "A56"
+        },
+        {
+            "concepts": [
+                "Ankunft"
+            ],
+            "id": "A56a"
+        },
+        {
+            "concepts": [
+                "aufkommen",
+                "Kranke",
+                "Diebstahl"
+            ],
+            "id": "A57"
+        },
+        {
+            "concepts": [
+                "auskommen",
+                "Auskommen"
+            ],
+            "id": "A58"
+        },
+        {
+            "concepts": [
+                "Auskunft"
+            ],
+            "id": "A58a"
+        },
+        {
+            "concepts": [
+                "bekommt",
+                "bekommen"
+            ],
+            "id": "A59"
+        },
+        {
+            "concepts": [
+                "beikommen"
+            ],
+            "id": "A59a"
+        },
+        {
+            "concepts": [
+                "durchkommen"
+            ],
+            "id": "A60"
+        },
+        {
+            "concepts": [
+                "einkommen",
+                "Einkommen"
+            ],
+            "id": "A61"
+        },
+        {
+            "concepts": [
+                "Einkünfte"
+            ],
+            "id": "A61a"
+        },
+        {
+            "concepts": [
+                "verkommt",
+                "verkommen"
+            ],
+            "id": "A62"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "komme",
+                "vorkommen"
+            ],
+            "id": "A63"
+        },
+        {
+            "concepts": [
+                "vorüberkommen"
+            ],
+            "id": "A64"
+        },
+        {
+            "concepts": [
+                "Herkommen",
+                "herkommen"
+            ],
+            "id": "A65"
+        },
+        {
+            "concepts": [
+                "Herkunft"
+            ],
+            "id": "A65a"
+        },
+        {
+            "concepts": [
+                "zuherkommen"
+            ],
+            "id": "A66"
+        },
+        {
+            "concepts": [
+                "Abherkunft",
+                "zuherkommen",
+                "Herabkunft"
+            ],
+            "id": "A66a"
+        },
+        {
+            "concepts": [
+                "hinkommen"
+            ],
+            "id": "A67"
+        },
+        {
+            "concepts": [
+                "Hinkunft"
+            ],
+            "id": "A67a"
+        },
+        {
+            "concepts": [
+                "zuhinkommen"
+            ],
+            "id": "A68"
+        },
+        {
+            "concepts": [
+                "zuhinkommen",
+                "Abhinkunft"
+            ],
+            "id": "A68a"
+        },
+        {
+            "concepts": [
+                "hinterkommen"
+            ],
+            "id": "A69"
+        },
+        {
+            "concepts": [
+                "niederkommen"
+            ],
+            "id": "A70"
+        },
+        {
+            "concepts": [
+                "Niederkunft"
+            ],
+            "id": "A70a"
+        },
+        {
+            "concepts": [
+                "überkommen",
+                "aushalten"
+            ],
+            "id": "A71"
+        },
+        {
+            "concepts": [
+                "Übereinkommen",
+                "übereinkommen"
+            ],
+            "id": "A72"
+        },
+        {
+            "concepts": [
+                "Übereinkunft"
+            ],
+            "id": "A72a"
+        },
+        {
+            "concepts": [
+                "unterkommen",
+                "Unterkommen"
+            ],
+            "id": "A73"
+        },
+        {
+            "concepts": [
+                "Unterkunft"
+            ],
+            "id": "A73a"
+        },
+        {
+            "concepts": [
+                "umkommen"
+            ],
+            "id": "A74"
+        },
+        {
+            "concepts": [
+                "wegkommen"
+            ],
+            "id": "A75"
+        },
+        {
+            "concepts": [
+                "zerkommen"
+            ],
+            "id": "A76"
+        },
+        {
+            "concepts": [
+                "zukommen"
+            ],
+            "id": "A77"
+        },
+        {
+            "concepts": [
+                "Zukunft"
+            ],
+            "id": "A77a"
+        },
+        {
+            "concepts": [
+                "zusammenkommen"
+            ],
+            "id": "A78"
+        },
+        {
+            "concepts": [
+                "Zusammenkunft"
+            ],
+            "id": "A78a"
+        },
+        {
+            "concepts": [
+                "kommen",
+                "wiederkommen"
+            ],
+            "id": "A79"
+        },
+        {
+            "concepts": [
+                "Wiederkunft"
+            ],
+            "id": "A79a"
+        },
+        {
+            "concepts": [
+                "kömmlich",
+                "kommen"
+            ],
+            "id": "A80"
+        },
+        {
+            "concepts": [
+                "abkömmlich",
+                "unabkömmlich"
+            ],
+            "id": "A80a"
+        },
+        {
+            "concepts": [
+                "ankömmlich"
+            ],
+            "id": "A80b"
+        },
+        {
+            "concepts": [
+                "bekömmlich"
+            ],
+            "id": "A80c"
+        },
+        {
+            "concepts": [
+                "kömmlich"
+            ],
+            "id": "A80d"
+        },
+        {
+            "concepts": [
+                "vollkommen"
+            ],
+            "id": "A81"
+        },
+        {
+            "concepts": [
+                "willkommen"
+            ],
+            "id": "A82"
+        },
+        {
+            "concepts": [
+                "gottwillkommen"
+            ],
+            "id": "A82a"
+        },
+        {
+            "concepts": [
+                "künftig"
+            ],
+            "id": "A83"
+        },
+        {
+            "concepts": [
+                "zukünftig",
+                "Zukünftige"
+            ],
+            "id": "A83a"
+        },
+        {
+            "concepts": [
+                "hinkünftig"
+            ],
+            "id": "A83b"
+        },
+        {
+            "concepts": [
+                "hinterkünftig",
+                "Hinterkünftiger"
+            ],
+            "id": "A83c"
+        },
+        {
+            "concepts": [
+                "Kommerei",
+                "etwaige"
+            ],
+            "id": "A84"
+        },
+        {
+            "concepts": [
+                "Gekommecht"
+            ],
+            "id": "A84a"
+        },
+        {
+            "concepts": [
+                "Kunft",
+                "kommen"
+            ],
+            "id": "A85"
+        }
+    ]
+}

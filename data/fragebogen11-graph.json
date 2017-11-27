@@ -1,0 +1,4165 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Bezeichnungen"
+                ],
+                [
+                    "scheltende"
+                ],
+                [
+                    "Eheweib"
+                ],
+                [
+                    "Hörner"
+                ],
+                [
+                    "Ehebrecher"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "Gatten"
+                ],
+                [
+                    "verbreitet"
+                ],
+                [
+                    "Mann"
+                ],
+                [
+                    "beigelegt"
+                ],
+                [
+                    "Weib"
+                ],
+                [
+                    "scherzhafte"
+                ],
+                [
+                    "volkstümlich"
+                ],
+                [
+                    "ledig"
+                ],
+                [
+                    "Stand"
+                ],
+                [
+                    "heißen"
+                ],
+                [
+                    "spielen"
+                ],
+                [
+                    "Vater"
+                ],
+                [
+                    "vermögensrechtliche"
+                ]
+            ],
+            "2": [
+                [
+                    "Braut"
+                ],
+                [
+                    "denkt"
+                ],
+                [
+                    "verwendet"
+                ],
+                [
+                    "Eheleute"
+                ]
+            ],
+            "3": [
+                [
+                    "Heirat"
+                ],
+                [
+                    "Ehemann"
+                ],
+                [
+                    "Volk"
+                ],
+                [
+                    "Mutter"
+                ],
+                [
+                    "Kinder"
+                ]
+            ],
+            "4": [
+                [
+                    "sonstige"
+                ]
+            ],
+            "5": [
+                [
+                    "Hochzeit"
+                ],
+                [
+                    "Ehebruch"
+                ],
+                [
+                    "Benennungen"
+                ],
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "6": [
+                [
+                    "Frau"
+                ]
+            ],
+            "7": [
+                [
+                    "Ehescheidung"
+                ],
+                [
+                    "Witwer"
+                ]
+            ],
+            "12": [
+                [
+                    "Wortes"
+                ]
+            ],
+            "16": [
+                [
+                    "Witwe"
+                ],
+                [
+                    "Stelle"
+                ]
+            ],
+            "55": [
+                [
+                    "Wendungen"
+                ]
+            ],
+            "94": [
+                [
+                    "Ehe"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "darauf",
+                    "beziehen"
+                ],
+                [
+                    "Stelle",
+                    "Hochzeit"
+                ],
+                [
+                    "Wendungen",
+                    "Ehebruch"
+                ],
+                [
+                    "denkt",
+                    "Ehescheidung"
+                ],
+                [
+                    "Benennungen",
+                    "Ehescheidung"
+                ],
+                [
+                    "Ehe",
+                    "Ehescheidung"
+                ],
+                [
+                    "weit",
+                    "verwendet"
+                ],
+                [
+                    "Wendungen",
+                    "lediger"
+                ],
+                [
+                    "Witwe",
+                    "Wortes"
+                ],
+                [
+                    "Wortes",
+                    "sonstige"
+                ],
+                [
+                    "Stelle",
+                    "Witwe"
+                ],
+                [
+                    "Stelle",
+                    "Ehe"
+                ]
+            ],
+            "2": [
+                [
+                    "Ehe",
+                    "Ausdrücke"
+                ],
+                [
+                    "Wendungen",
+                    "Ausdrücke"
+                ]
+            ],
+            "3": [
+                [
+                    "Witwe",
+                    "Witwer"
+                ]
+            ],
+            "5": [
+                [
+                    "Wendungen",
+                    "Ehe"
+                ]
+            ],
+            "6": [
+                [
+                    "Stelle",
+                    "erster"
+                ]
+            ],
+            "10": [
+                [
+                    "Stelle",
+                    "zweiter"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Stelle",
+                    "Braut",
+                    "Fügungen"
+                ],
+                [
+                    "Anwendung",
+                    "Ehefrau",
+                    "schlechthin"
+                ],
+                [
+                    "nennt",
+                    "unauffällig",
+                    "Ehen"
+                ],
+                [
+                    "hierüber",
+                    "Ehe",
+                    "Urteile"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Wendungen",
+                    "alter",
+                    "Eigenschaften",
+                    "sonstige"
+                ],
+                [
+                    "Wendungen",
+                    "Ehe",
+                    "Ausdrücke",
+                    "Eheleute"
+                ]
+            ]
+        },
+        "5": {
+            "1": [
+                [
+                    "Abkürzung",
+                    "Wortes",
+                    "Schreiben",
+                    "volksmäßige",
+                    "beim"
+                ]
+            ],
+            "3": [
+                [
+                    "neben",
+                    "Mutter",
+                    "Kinder",
+                    "ehelichen",
+                    "benannt"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Heirat"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heirat"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 0,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beigelegt"
+            ],
+            "source": 1,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spielen"
+            ],
+            "source": 1,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 2,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braut"
+            ],
+            "source": 2,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißen"
+            ],
+            "source": 3,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 4,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 4,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 5,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hochzeit"
+            ],
+            "source": 5,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "darauf",
+                "beziehen"
+            ],
+            "source": 6,
+            "target": 8,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heirat"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 8,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Hochzeit"
+            ],
+            "source": 11,
+            "target": 12,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 11,
+            "target": 14,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 11,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 11,
+            "target": 68,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 11,
+            "target": 70,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 11,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 11,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 11,
+            "target": 81,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 11,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "erster"
+            ],
+            "source": 12,
+            "target": 15,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 12,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 12,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "erster"
+            ],
+            "source": 12,
+            "target": 73,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 12,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "erster"
+            ],
+            "source": 12,
+            "target": 82,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Braut",
+                "Fügungen"
+            ],
+            "source": 14,
+            "target": 15,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 14,
+            "target": 68,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 14,
+            "target": 70,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 14,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 14,
+            "target": 81,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 14,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 15,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 15,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "erster"
+            ],
+            "source": 15,
+            "target": 73,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 15,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "erster"
+            ],
+            "source": 15,
+            "target": 82,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 40,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 16,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 16,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 16,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 16,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 16,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 16,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 16,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 16,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 16,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 76,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 77,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 16,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verbreitet"
+            ],
+            "source": 17,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 17,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 17,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 17,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 17,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 18,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nennt",
+                "unauffällig",
+                "Ehen"
+            ],
+            "source": 20,
+            "target": 58,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "volkstümlich"
+            ],
+            "source": 23,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eheleute"
+            ],
+            "source": 24,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eheleute"
+            ],
+            "source": 24,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volk"
+            ],
+            "source": 25,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gatten"
+            ],
+            "source": 25,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volk"
+            ],
+            "source": 25,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anwendung",
+                "Ehefrau",
+                "schlechthin"
+            ],
+            "source": 26,
+            "target": 29,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ehemann"
+            ],
+            "source": 26,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehemann"
+            ],
+            "source": 26,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mann"
+            ],
+            "source": 26,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vater"
+            ],
+            "source": 26,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bezeichnungen"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheltende"
+            ],
+            "source": 28,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 29,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eheweib"
+            ],
+            "source": 29,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 29,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weib"
+            ],
+            "source": 29,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 29,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 29,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 29,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mutter"
+            ],
+            "source": 29,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scherzhafte"
+            ],
+            "source": 30,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 32,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 38,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 38,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 38,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe",
+                "Ausdrücke"
+            ],
+            "source": 38,
+            "target": 76,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ehe",
+                "Ausdrücke"
+            ],
+            "source": 38,
+            "target": 77,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 38,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 39,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 39,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kinder"
+            ],
+            "source": 39,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehebruch"
+            ],
+            "source": 40,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehebruch"
+            ],
+            "source": 40,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ehebruch"
+            ],
+            "source": 40,
+            "target": 47,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 40,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 40,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 40,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 40,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 76,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 77,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 40,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehebrecher"
+            ],
+            "source": 41,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hörner"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehemann"
+            ],
+            "source": 43,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehebruch"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehebruch"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frau"
+            ],
+            "source": 45,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehebruch"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volk"
+            ],
+            "source": 46,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 47,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 47,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 47,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 47,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ausdrücke"
+            ],
+            "source": 47,
+            "target": 76,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ausdrücke"
+            ],
+            "source": 47,
+            "target": 77,
+            "target_group": [
+                2,
+                2,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 49,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 49,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 50,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehescheidung"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehescheidung"
+            ],
+            "source": 52,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehescheidung"
+            ],
+            "source": 52,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehescheidung"
+            ],
+            "source": 52,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vermögensrechtliche"
+            ],
+            "source": 52,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "denkt",
+                "Ehescheidung"
+            ],
+            "source": 53,
+            "target": 54,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ehescheidung"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehescheidung"
+            ],
+            "source": 53,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "denkt"
+            ],
+            "source": 53,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen",
+                "Ehescheidung"
+            ],
+            "source": 54,
+            "target": 55,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ehescheidung"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "denkt"
+            ],
+            "source": 54,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 54,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe",
+                "Ehescheidung"
+            ],
+            "source": 55,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 55,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 55,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 55,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 55,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 55,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 55,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 55,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 55,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 55,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 56,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 56,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 56,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 56,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 56,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 56,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 56,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 57,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 59,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 59,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 59,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 59,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 59,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 59,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ledig"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "alter",
+                "Eigenschaften",
+                "sonstige"
+            ],
+            "source": 61,
+            "target": 62,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "weit",
+                "verwendet"
+            ],
+            "source": 61,
+            "target": 63,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "lediger"
+            ],
+            "source": 61,
+            "target": 64,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 61,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 61,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 61,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 61,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 61,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 62,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 62,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 62,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 63,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abkürzung",
+                "Wortes",
+                "Schreiben",
+                "volksmäßige",
+                "beim"
+            ],
+            "source": 63,
+            "target": 67,
+            "target_group": [
+                5,
+                1,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 63,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stand"
+            ],
+            "source": 64,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 64,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 64,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe",
+                "Wortes"
+            ],
+            "source": 65,
+            "target": 67,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 65,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes",
+                "sonstige"
+            ],
+            "source": 65,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 65,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 65,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 65,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwer"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwer"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe",
+                "Witwer"
+            ],
+            "source": 66,
+            "target": 71,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 66,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe",
+                "Witwer"
+            ],
+            "source": 66,
+            "target": 74,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wortes"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 67,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 67,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 68,
+            "target": 70,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 68,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Witwe"
+            ],
+            "source": 68,
+            "target": 73,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 68,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 68,
+            "target": 81,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 68,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwer"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwer"
+            ],
+            "source": 69,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwer"
+            ],
+            "source": 69,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwer"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 70,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwer"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "zweiter"
+            ],
+            "source": 70,
+            "target": 81,
+            "target_group": [
+                2,
+                10,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 70,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 71,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Witwe",
+                "Witwer"
+            ],
+            "source": 71,
+            "target": 74,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Witwe"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle"
+            ],
+            "source": 73,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "erster"
+            ],
+            "source": 73,
+            "target": 82,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hierüber",
+                "Ehe",
+                "Urteile"
+            ],
+            "source": 75,
+            "target": 77,
+            "target_group": [
+                3,
+                1,
+                3
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 75,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 75,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 75,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen",
+                "Ehe",
+                "Ausdrücke",
+                "Eheleute"
+            ],
+            "source": 76,
+            "target": 77,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 76,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 76,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 76,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 77,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 77,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 77,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "neben",
+                "Mutter",
+                "Kinder",
+                "ehelichen",
+                "benannt"
+            ],
+            "source": 78,
+            "target": 79,
+            "target_group": [
+                5,
+                3,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "neben",
+                "Mutter",
+                "Kinder",
+                "ehelichen",
+                "benannt"
+            ],
+            "source": 78,
+            "target": 80,
+            "target_group": [
+                5,
+                3,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "neben",
+                "Mutter",
+                "Kinder",
+                "ehelichen",
+                "benannt"
+            ],
+            "source": 79,
+            "target": 80,
+            "target_group": [
+                5,
+                3,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ehe"
+            ],
+            "source": 80,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Ehe"
+            ],
+            "source": 81,
+            "target": 82,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Ehe",
+                "abtreten",
+                "bereitet",
+                "abträglich",
+                "Mittel",
+                "woraus",
+                "nützlich",
+                "Heirat",
+                "Liebestränke",
+                "Heiratsgeist"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "D13a",
+                "Schafe",
+                "beigelegt",
+                "abgesehen",
+                "spielen",
+                "Vorzeichen",
+                "Springen",
+                "Haftel",
+                "Zuspätkommen",
+                "Zerbrechen",
+                "Tiere",
+                "Lösen",
+                "Schweine",
+                "Zufälligkeiten",
+                "erwähnten",
+                "Gäste",
+                "Wetter",
+                "Haare",
+                "Tauben",
+                "Geschirres"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Braut",
+                "wann",
+                "Krautsalzen"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Jahreszeit",
+                "finden",
+                "gelten",
+                "empfehlenswert",
+                "Tage",
+                "geschlossenen",
+                "statt",
+                "heißen",
+                "Heiraten",
+                "Zeit"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Besuche",
+                "Hochzeit",
+                "Ehepaares",
+                "Jahr",
+                "Geschenke",
+                "Verwandten",
+                "Verhalten",
+                "bezeichnet"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "silberne",
+                "Hochzeit",
+                "goldene",
+                "diamantene",
+                "Hochzeitjubelfeier"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "darauf",
+                "Jubelbraut",
+                "Ausdrücke",
+                "beziehen"
+            ],
+            "id": "G6a"
+        },
+        {
+            "concepts": [
+                "kurze",
+                "Beschreibung",
+                "Feiern"
+            ],
+            "id": "G6b"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "darauf",
+                "Heirat",
+                "Geldheirat",
+                "beziehen"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Heirat",
+                "Heiratsbrief",
+                "heiratssüchtig"
+            ],
+            "id": "H1a"
+        },
+        {
+            "concepts": [
+                "Bedeutungen",
+                "verheiraten",
+                "heiraten",
+                "umeinanderheiraten",
+                "Angabe"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Wendungen",
+                "Störzlerhochzeit",
+                "Ausdrücken",
+                "Hochzeit",
+                "zweiter",
+                "Beiwörter",
+                "Bauernhochzeit",
+                "zusammenhängen",
+                "geschenkte"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Hochzeitsknödel",
+                "erster",
+                "Hochzeit"
+            ],
+            "id": "H3a"
+        },
+        {
+            "concepts": [
+                "Trauschein",
+                "trauen"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Braut",
+                "Fügungen",
+                "zweiter",
+                "Himmelsbraut"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Braut",
+                "Brautsegen",
+                "Fügungen",
+                "erster"
+            ],
+            "id": "H5a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Ehe",
+                "Wortes"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "Schriftsprache",
+                "zweisilbige",
+                "angenäherte",
+                "Aussprachen",
+                "verbreitet",
+                "Wortes",
+                "lauten",
+                "geschärftem",
+                "betont"
+            ],
+            "id": "I1a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Ehstand",
+                "heilige",
+                "Wehstand",
+                "Ehestand"
+            ],
+            "id": "I1b"
+        },
+        {
+            "concepts": [
+                "Ehejoch",
+                "Ehebund"
+            ],
+            "id": "I1c"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "unauffällig",
+                "häufig",
+                "Blutsverwandter",
+                "Ehen"
+            ],
+            "id": "I1d"
+        },
+        {
+            "concepts": [
+                "Ehedispens"
+            ],
+            "id": "I1e"
+        },
+        {
+            "concepts": [
+                "Eheerlaubnis"
+            ],
+            "id": "I1f"
+        },
+        {
+            "concepts": [
+                "volkstümlich",
+                "unehelich",
+                "umschrieben",
+                "ehelich",
+                "Wörter"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Ehepaar",
+                "Eheleute",
+                "Ehemensch",
+                "Ehevolk",
+                "Ehegatten"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "beschaffen",
+                "Alters",
+                "urteilt",
+                "zusammenstehn",
+                "sollen",
+                "schön",
+                "ungleiche",
+                "Größe",
+                "Paare",
+                "Gatten",
+                "Volk"
+            ],
+            "id": "I3a"
+        },
+        {
+            "concepts": [
+                "gewöhnlich",
+                "Anwendung",
+                "beschränkt",
+                "Vater",
+                "bäuerlichen",
+                "schlechthin",
+                "Ehemann",
+                "Herr",
+                "Er",
+                "Schaffer",
+                "Ehefrau",
+                "Papa",
+                "Mann",
+                "Bauer",
+                "gesagt"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Begriffes",
+                "Ehekrüppel"
+            ],
+            "id": "I4a"
+        },
+        {
+            "concepts": [
+                "Bezeichnungen",
+                "scheltende"
+            ],
+            "id": "I4b"
+        },
+        {
+            "concepts": [
+                "Anwendung",
+                "Sei",
+                "schlechthin",
+                "Sie",
+                "Eheweib",
+                "diebäuerliche",
+                "Frau",
+                "Bäuerin",
+                "Ehefrau",
+                "Mutter",
+                "Mama",
+                "Weib"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Schürhakel",
+                "Hälfte",
+                "scherzhafte",
+                "bessere",
+                "Bezeichnungen",
+                "Alte",
+                "Hauskreuz"
+            ],
+            "id": "I5a"
+        },
+        {
+            "concepts": [
+                "Zange",
+                "Beißzange",
+                "scheltende"
+            ],
+            "id": "I5b"
+        },
+        {
+            "concepts": [
+                "gekauft",
+                "probiert",
+                "Ehe",
+                "Sack",
+                "schon",
+                "Katze"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "Probenächte",
+                "vorhanden",
+                "Brauch"
+            ],
+            "id": "I6a"
+        },
+        {
+            "concepts": [
+                "Ehesegen"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Ehezwist",
+                "bekannt",
+                "Lieder",
+                "berichten"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "Eheteufel"
+            ],
+            "id": "I8a"
+        },
+        {
+            "concepts": [
+                "Ehekreuz"
+            ],
+            "id": "I8b"
+        },
+        {
+            "concepts": [
+                "Ehe",
+                "Hosen",
+                "Frau",
+                "Vorherrschaft",
+                "Regiment",
+                "Ausdrücke",
+                "führt"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "steht",
+                "Pantoffel",
+                "Simandl",
+                "bringt",
+                "Kinder",
+                "Pantoffelheld"
+            ],
+            "id": "I9a"
+        },
+        {
+            "concepts": [
+                "brechen",
+                "Ehe",
+                "Wendungen",
+                "Ehebruch"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "Ehebrecher"
+            ],
+            "id": "I10a"
+        },
+        {
+            "concepts": [
+                "Paar",
+                "Ehebrecherbande",
+                "ehebrecherisches"
+            ],
+            "id": "I10b"
+        },
+        {
+            "concepts": [
+                "Hörner",
+                "aufsetzen",
+                "Ehemann",
+                "nebenausgehn",
+                "Eheweib",
+                "jemand",
+                "hintergehn",
+                "Quinten"
+            ],
+            "id": "I10c"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "Hörner",
+                "Ehebruch",
+                "erleiden",
+                "aufgesetzt",
+                "hintergangen"
+            ],
+            "id": "I10d"
+        },
+        {
+            "concepts": [
+                "gegenüber",
+                "betrogene",
+                "Gattin",
+                "Ehemann",
+                "gleichgiltig",
+                "Gatte",
+                "Frau",
+                "Untreue",
+                "Benennung"
+            ],
+            "id": "I10e"
+        },
+        {
+            "concepts": [
+                "seitens",
+                "Weibes",
+                "Ehebruch",
+                "beurteilt",
+                "Mannes",
+                "milder",
+                "Volk"
+            ],
+            "id": "I10f"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Ehebrecher",
+                "Bräuche",
+                "habern",
+                "möglich",
+                "Ehebruch",
+                "Original",
+                "Verunre",
+                "Haberfeld",
+                "Rügeformeln",
+                "entdeckt",
+                "Mauermachen",
+                "Haberzettel",
+                "Ausdrücke",
+                "schildern",
+                "treiben"
+            ],
+            "id": "I10g"
+        },
+        {
+            "concepts": [
+                "Ehescheidungen"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "lassen",
+                "scheiden"
+            ],
+            "id": "I11a"
+        },
+        {
+            "concepts": [
+                "Ehe",
+                "Trennung"
+            ],
+            "id": "I11b"
+        },
+        {
+            "concepts": [
+                "trennen",
+                "lassen"
+            ],
+            "id": "I11c"
+        },
+        {
+            "concepts": [
+                "vermögensrechtliche",
+                "Ehescheidung",
+                "Folgen"
+            ],
+            "id": "I11d"
+        },
+        {
+            "concepts": [
+                "denkt",
+                "Ehescheidung",
+                "Alter",
+                "je",
+                "Stadt",
+                "Ständen",
+                "Land"
+            ],
+            "id": "I11e"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "denkt",
+                "Ehescheidung",
+                "Gütertrennung",
+                "Gütergemeinschaft",
+                "eheliche"
+            ],
+            "id": "I11f"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Ehe",
+                "unverdingte",
+                "gereute",
+                "Ehescheidung",
+                "Vertrag"
+            ],
+            "id": "I11g"
+        },
+        {
+            "concepts": [
+                "Ehe",
+                "Ungiltigkeitserklärung",
+                "Ehescheidung",
+                "Aufhebung"
+            ],
+            "id": "I11h"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "kommt",
+                "Trauung",
+                "Beurteilung",
+                "Zivilehe",
+                "kirchliche"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "Bekenntnisses",
+                "nennt",
+                "unauffällig",
+                "verschiedenen",
+                "Ehen",
+                "Gatten"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "stärker",
+                "Ehe",
+                "darunter",
+                "konkubinateln",
+                "verbreitet",
+                "denkt",
+                "darüber",
+                "Konkabinett",
+                "wilde",
+                "Konkubinat",
+                "Entstellungen",
+                "Lebensform",
+                "versteht",
+                "Volk"
+            ],
+            "id": "I14"
+        },
+        {
+            "concepts": [
+                "unverheiratet",
+                "Unterschiede",
+                "ehelos",
+                "ledig"
+            ],
+            "id": "I15"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "sonstige",
+                "alter",
+                "lediger",
+                "verwendet",
+                "Eigenschaften",
+                "Ledigen",
+                "Junggeselle",
+                "eigensinnig",
+                "brummig",
+                "Jungherr",
+                "Mann",
+                "weit",
+                "eigen"
+            ],
+            "id": "I15a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "sonstige",
+                "Benennungen",
+                "lediges",
+                "scherzhafte",
+                "satirische",
+                "Jungfer",
+                "fad",
+                "beigelegt",
+                "Katzenmutter",
+                "alter",
+                "Eigenschaften",
+                "alte",
+                "Schlitten",
+                "Weib",
+                "sierig"
+            ],
+            "id": "I15b"
+        },
+        {
+            "concepts": [
+                "volkstümlich",
+                "Abkürzung",
+                "beim",
+                "verwendet",
+                "volksmäßige",
+                "Wortes",
+                "Schreiben",
+                "Fräulein",
+                "heute",
+                "weit"
+            ],
+            "id": "I15c"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "lediger",
+                "Sprüche",
+                "ledig",
+                "Volksmeinung",
+                "Stand"
+            ],
+            "id": "I15d"
+        },
+        {
+            "concepts": [
+                "Witwe",
+                "Wittin",
+                "Wortes",
+                "Witfrau",
+                "Wittib",
+                "sonstige"
+            ],
+            "id": "I16"
+        },
+        {
+            "concepts": [
+                "Wi",
+                "verwendet",
+                "Schriftgebrauch",
+                "Witwe",
+                "Witwer",
+                "gebracht",
+                "Frau",
+                "Mannne",
+                "Ausdruck",
+                "Unterschrift",
+                "Geschäftsschildern",
+                "Eigennamens",
+                "verwitwete",
+                "Stand",
+                "öfter",
+                "Formel"
+            ],
+            "id": "I16a"
+        },
+        {
+            "concepts": [
+                "Abkürzung",
+                "Wwe",
+                "Witwe",
+                "Wortes",
+                "Schreiben",
+                "volksmäßige",
+                "beim"
+            ],
+            "id": "I16b"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Witwe",
+                "zweiter",
+                "Graswitwe"
+            ],
+            "id": "I16c"
+        },
+        {
+            "concepts": [
+                "Witling",
+                "Wortes",
+                "Witwer",
+                "Witmann",
+                "sonstige"
+            ],
+            "id": "I17"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "zweiter",
+                "Strohwitwer",
+                "Witwer"
+            ],
+            "id": "I17a"
+        },
+        {
+            "concepts": [
+                "Witwe",
+                "zusammen",
+                "Witwer",
+                "Witleute",
+                "heißen"
+            ],
+            "id": "I18"
+        },
+        {
+            "concepts": [
+                "verwittibt",
+                "verwitwet",
+                "wittig"
+            ],
+            "id": "I19"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Witwe",
+                "Witwenstand",
+                "erster"
+            ],
+            "id": "I20"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Schwänke",
+                "spielen",
+                "Witwe",
+                "Witwer",
+                "Volkswitze",
+                "Rolle"
+            ],
+            "id": "I21"
+        },
+        {
+            "concepts": [
+                "hierüber",
+                "Ehe",
+                "zweite",
+                "Urteile"
+            ],
+            "id": "I22"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Ehe",
+                "Eheleute",
+                "kinderreiche",
+                "Ausdrücke"
+            ],
+            "id": "I23"
+        },
+        {
+            "concepts": [
+                "kinderarme",
+                "Wendungen",
+                "Ehe",
+                "Eheleute",
+                "Urteile",
+                "kinderlose",
+                "hierüber",
+                "Ausdrücke"
+            ],
+            "id": "I24"
+        },
+        {
+            "concepts": [
+                "voreheliche",
+                "Vater",
+                "neben",
+                "ehelichen",
+                "Mutter",
+                "Kinder",
+                "benannt"
+            ],
+            "id": "I25"
+        },
+        {
+            "concepts": [
+                "uneheliche",
+                "neben",
+                "Mutter",
+                "Kinder",
+                "ehelichen",
+                "benannt"
+            ],
+            "id": "I25a"
+        },
+        {
+            "concepts": [
+                "Ehe",
+                "vermögensrechtliche",
+                "geborene",
+                "außereheliche",
+                "neben",
+                "ehelichen",
+                "Behandlung",
+                "Mutter",
+                "Kinder",
+                "benannt"
+            ],
+            "id": "I25b"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Ehe",
+                "zweiter",
+                "Josefsehe"
+            ],
+            "id": "I26"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Ehe",
+                "Eheverschreibung",
+                "erster",
+                "Angaben",
+                "Ehegaumer"
+            ],
+            "id": "I26a"
+        }
+    ]
+}

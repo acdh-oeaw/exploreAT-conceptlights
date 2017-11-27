@@ -1,0 +1,3554 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Bestellen"
+                ],
+                [
+                    "Messen"
+                ],
+                [
+                    "Maßpapier"
+                ],
+                [
+                    "Breite"
+                ],
+                [
+                    "Buckel"
+                ],
+                [
+                    "angeben"
+                ],
+                [
+                    "Ärmel"
+                ],
+                [
+                    "Länge"
+                ],
+                [
+                    "Hosenmaße"
+                ],
+                [
+                    "Maße"
+                ],
+                [
+                    "Trachten"
+                ],
+                [
+                    "Kunde"
+                ],
+                [
+                    "Taille"
+                ],
+                [
+                    "samt"
+                ],
+                [
+                    "Nadeln"
+                ],
+                [
+                    "Schnittmuster"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "darnach"
+                ],
+                [
+                    "Formen"
+                ],
+                [
+                    "kommen"
+                ],
+                [
+                    "Zuschneiden"
+                ],
+                [
+                    "Nähen"
+                ],
+                [
+                    "Wendungen"
+                ],
+                [
+                    "soweit"
+                ],
+                [
+                    "heften"
+                ]
+            ],
+            "2": [
+                [
+                    "lassen"
+                ],
+                [
+                    "bestellen"
+                ],
+                [
+                    "Rock"
+                ],
+                [
+                    "Ausdruck"
+                ],
+                [
+                    "dabei"
+                ]
+            ],
+            "3": [
+                [
+                    "Schneider"
+                ],
+                [
+                    "Anmessen"
+                ],
+                [
+                    "steppen"
+                ]
+            ],
+            "5": [
+                [
+                    "Schneiders"
+                ],
+                [
+                    "Schnitt"
+                ],
+                [
+                    "Tuch"
+                ],
+                [
+                    "Stoff"
+                ],
+                [
+                    "gerade"
+                ]
+            ],
+            "9": [
+                [
+                    "messen"
+                ],
+                [
+                    "nähen"
+                ]
+            ],
+            "11": [
+                [
+                    "schneiden"
+                ]
+            ],
+            "12": [
+                [
+                    "Faden"
+                ]
+            ],
+            "13": [
+                [
+                    "Schneiderei"
+                ]
+            ],
+            "14": [
+                [
+                    "guter"
+                ]
+            ],
+            "20": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "41": [
+                [
+                    "Maß"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Auftraggeber",
+                    "Schneiders"
+                ],
+                [
+                    "Mäßerei",
+                    "Maß"
+                ],
+                [
+                    "Maß",
+                    "Papier"
+                ],
+                [
+                    "Maß",
+                    "Länge"
+                ],
+                [
+                    "guter",
+                    "sicherer"
+                ],
+                [
+                    "Schnitt",
+                    "Schneiderei"
+                ],
+                [
+                    "Stoff",
+                    "Arten"
+                ],
+                [
+                    "schneiden",
+                    "Tuch"
+                ],
+                [
+                    "Rock",
+                    "schneiden"
+                ],
+                [
+                    "kürzer",
+                    "schneiden"
+                ],
+                [
+                    "schneiden",
+                    "Schneiderei"
+                ],
+                [
+                    "gut",
+                    "schlecht"
+                ],
+                [
+                    "scheel",
+                    "gerade"
+                ],
+                [
+                    "nähen",
+                    "Ausdrücke"
+                ],
+                [
+                    "stechen",
+                    "sticheln"
+                ]
+            ],
+            "3": [
+                [
+                    "Faden",
+                    "Zwirn"
+                ]
+            ],
+            "4": [
+                [
+                    "Maß",
+                    "gewonnen"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "lassen",
+                    "bestellen",
+                    "Anzug"
+                ],
+                [
+                    "nehmen",
+                    "messen",
+                    "Maß"
+                ],
+                [
+                    "äußere",
+                    "Länge",
+                    "innere"
+                ],
+                [
+                    "besonderer",
+                    "Ausdruck",
+                    "herrichten"
+                ]
+            ],
+            "6": [
+                [
+                    "Maß",
+                    "Art",
+                    "gewonnen"
+                ]
+            ],
+            "20": [
+                [
+                    "schlechter",
+                    "guter",
+                    "schwieriger"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "schlechter",
+                    "guter",
+                    "spannt",
+                    "schwieriger"
+                ],
+                [
+                    "rechts",
+                    "näht",
+                    "links",
+                    "dabei"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "lassen",
+                "bestellen",
+                "Anzug"
+            ],
+            "source": 0,
+            "target": 1,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bestellen"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 0,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bestellen"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 1,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 1,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 1,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 1,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 1,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 1,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bestellen"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 3,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 3,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 4,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneider"
+            ],
+            "source": 4,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuch"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 5,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiders"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anmessen"
+            ],
+            "source": 5,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anmessen"
+            ],
+            "source": 5,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "samt"
+            ],
+            "source": 5,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuch"
+            ],
+            "source": 5,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuch"
+            ],
+            "source": 5,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 5,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 5,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuch"
+            ],
+            "source": 6,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tuch"
+            ],
+            "source": 6,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Auftraggeber",
+                "Schneiders"
+            ],
+            "source": 8,
+            "target": 9,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 9,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 9,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 9,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 9,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 9,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 9,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 9,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kunde"
+            ],
+            "source": 9,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter",
+                "sicherer"
+            ],
+            "source": 9,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 10,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mäßerei",
+                "Maß"
+            ],
+            "source": 10,
+            "target": 14,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen",
+                "messen",
+                "Maß"
+            ],
+            "source": 10,
+            "target": 18,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 10,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 10,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messen"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut",
+                "schlecht"
+            ],
+            "source": 11,
+            "target": 60,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 11,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "messen"
+            ],
+            "source": 12,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 12,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 12,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 12,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 12,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 12,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 14,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 14,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 14,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maßpapier"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 15,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Papier"
+            ],
+            "source": 15,
+            "target": 23,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 15,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 15,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 15,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 15,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nadeln"
+            ],
+            "source": 15,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 15,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden",
+                "Zwirn"
+            ],
+            "source": 15,
+            "target": 51,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Faden",
+                "Zwirn"
+            ],
+            "source": 15,
+            "target": 53,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 15,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 15,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 16,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 17,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 17,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 17,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 17,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 17,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 17,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Breite"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 18,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Länge"
+            ],
+            "source": 18,
+            "target": 25,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 18,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Länge"
+            ],
+            "source": 18,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 18,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 18,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buckel"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "angeben"
+            ],
+            "source": 19,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maße"
+            ],
+            "source": 19,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 20,
+            "target": 22,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 20,
+            "target": 24,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "spannt",
+                "schwieriger"
+            ],
+            "source": 20,
+            "target": 26,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "guter",
+                "schlechter",
+                "schwieriger"
+            ],
+            "source": 20,
+            "target": 28,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 20,
+            "target": 30,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 20,
+            "target": 32,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 20,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "gewonnen"
+            ],
+            "source": 21,
+            "target": 23,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "gewonnen"
+            ],
+            "source": 21,
+            "target": 25,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "gewonnen"
+            ],
+            "source": 21,
+            "target": 27,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "gewonnen"
+            ],
+            "source": 21,
+            "target": 31,
+            "target_group": [
+                2,
+                4,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 21,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 22,
+            "target": 24,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 22,
+            "target": 26,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter",
+                "schlechter",
+                "schwieriger"
+            ],
+            "source": 22,
+            "target": 28,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 22,
+            "target": 30,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 22,
+            "target": 32,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 22,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Art",
+                "gewonnen"
+            ],
+            "source": 23,
+            "target": 25,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Art",
+                "gewonnen"
+            ],
+            "source": 23,
+            "target": 27,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Art",
+                "gewonnen"
+            ],
+            "source": 23,
+            "target": 31,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 23,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rock"
+            ],
+            "source": 23,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rock"
+            ],
+            "source": 23,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 24,
+            "target": 26,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter",
+                "schlechter",
+                "schwieriger"
+            ],
+            "source": 24,
+            "target": 28,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 24,
+            "target": 30,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 24,
+            "target": 32,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 24,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ärmel"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Art",
+                "gewonnen"
+            ],
+            "source": 25,
+            "target": 27,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "äußere",
+                "Länge",
+                "innere"
+            ],
+            "source": 25,
+            "target": 29,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Art",
+                "gewonnen"
+            ],
+            "source": 25,
+            "target": 31,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 25,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerade"
+            ],
+            "source": 25,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerade"
+            ],
+            "source": 25,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerade"
+            ],
+            "source": 25,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter",
+                "schlechter",
+                "schwieriger"
+            ],
+            "source": 26,
+            "target": 28,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 26,
+            "target": 30,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 26,
+            "target": 32,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 26,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß",
+                "Art",
+                "gewonnen"
+            ],
+            "source": 27,
+            "target": 31,
+            "target_group": [
+                3,
+                6,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 27,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter",
+                "schlechter",
+                "schwieriger"
+            ],
+            "source": 28,
+            "target": 30,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter",
+                "schlechter",
+                "schwieriger"
+            ],
+            "source": 28,
+            "target": 32,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 28,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hosenmaße"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlechter",
+                "guter",
+                "schwieriger"
+            ],
+            "source": 30,
+            "target": 32,
+            "target_group": [
+                3,
+                20,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 30,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trachten"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anmessen"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "guter"
+            ],
+            "source": 32,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Taille"
+            ],
+            "source": 33,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "darnach"
+            ],
+            "source": 33,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 33,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 33,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 33,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 33,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 33,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 33,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 33,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 33,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 34,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 34,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 34,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 34,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnitt"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnitt"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnitt"
+            ],
+            "source": 35,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnitt"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnitt"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnitt",
+                "Schneiderei"
+            ],
+            "source": 37,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 37,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 37,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schnittmuster"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 38,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerade"
+            ],
+            "source": 38,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schneiderei"
+            ],
+            "source": 38,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gerade"
+            ],
+            "source": 38,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stoff"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stoff"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stoff"
+            ],
+            "source": 39,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zuschneiden"
+            ],
+            "source": 39,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stoff",
+                "Arten"
+            ],
+            "source": 40,
+            "target": 44,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stoff"
+            ],
+            "source": 40,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden",
+                "Tuch"
+            ],
+            "source": 42,
+            "target": 44,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rock",
+                "schneiden"
+            ],
+            "source": 42,
+            "target": 46,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schneiden",
+                "Schneiderei"
+            ],
+            "source": 42,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 43,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 43,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 43,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 43,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 43,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scheel",
+                "gerade"
+            ],
+            "source": 43,
+            "target": 60,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stoff"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kürzer",
+                "schneiden"
+            ],
+            "source": 44,
+            "target": 46,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 44,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schneiden"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderer",
+                "Ausdruck",
+                "herrichten"
+            ],
+            "source": 50,
+            "target": 52,
+            "target_group": [
+                3,
+                1,
+                3
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Nähen"
+            ],
+            "source": 50,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden",
+                "Zwirn"
+            ],
+            "source": 51,
+            "target": 53,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 51,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 53,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Faden"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 57,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "soweit"
+            ],
+            "source": 57,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 58,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen",
+                "Ausdrücke"
+            ],
+            "source": 59,
+            "target": 61,
+            "target_group": [
+                2,
+                1,
+                13
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 59,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rechts",
+                "näht",
+                "links",
+                "dabei"
+            ],
+            "source": 61,
+            "target": 62,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "nähen"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stechen",
+                "sticheln"
+            ],
+            "source": 65,
+            "target": 66,
+            "target_group": [
+                2,
+                1,
+                14
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "heften"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steppen"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steppen"
+            ],
+            "source": 69,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steppen"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "sonstige",
+                "anfrümmen",
+                "anmessen",
+                "Gewand",
+                "bestellen",
+                "lassen",
+                "Unterschiede",
+                "Anzug",
+                "ganzen",
+                "messen",
+                "anfertigen",
+                "Teile"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "bestellen",
+                "lassen",
+                "Anzug",
+                "bauen",
+                "Ausdrücke"
+            ],
+            "id": "D1a"
+        },
+        {
+            "concepts": [
+                "Bestellen",
+                "Anzuges"
+            ],
+            "id": "D1b"
+        },
+        {
+            "concepts": [
+                "Stör",
+                "wann",
+                "gewissen",
+                "holen",
+                "Kalenderterminen",
+                "lassen",
+                "Schneider",
+                "Jahreszeiten",
+                "liebsten",
+                "Feiertagen",
+                "geschieht",
+                "gehn",
+                "kommen"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Holen",
+                "Gang",
+                "Schneiders",
+                "Schneider"
+            ],
+            "id": "D2a"
+        },
+        {
+            "concepts": [
+                "kaufen",
+                "Schneiders",
+                "kauft",
+                "Ausdrücken",
+                "Reisenden",
+                "Sch",
+                "bestellen",
+                "liefert",
+                "Anmessen",
+                "erst",
+                "dabei",
+                "Händler",
+                "wählen",
+                "einschlägigen",
+                "aussuchen",
+                "samt",
+                "Tuch"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Auswählen",
+                "Tuch",
+                "Bestellen",
+                "Einkaufen"
+            ],
+            "id": "D3a"
+        },
+        {
+            "concepts": [
+                "beliebter",
+                "beliebte",
+                "Farbe",
+                "Tuchsorten",
+                "Namen"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Auftraggeber",
+                "Kundschaft",
+                "Schneiders",
+                "Bez"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Schneiders",
+                "Auftraggeber",
+                "Kunde",
+                "guter",
+                "Bauernkundschaft",
+                "sicherer"
+            ],
+            "id": "D5a"
+        },
+        {
+            "concepts": [
+                "maß",
+                "Mäßerei",
+                "Maß",
+                "Formen",
+                "meßten",
+                "häufiger",
+                "nehmen",
+                "mäße",
+                "maßet",
+                "be",
+                "messen",
+                "gemessen"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "beim",
+                "irren",
+                "vertun",
+                "vermessen",
+                "gut",
+                "knapp",
+                "messen",
+                "schlecht",
+                "Ausdrücke",
+                "Messen"
+            ],
+            "id": "D6a"
+        },
+        {
+            "concepts": [
+                "nachmessen",
+                "einherfahren",
+                "bissel",
+                "Schneiderei",
+                "einhin",
+                "messen"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Ärger",
+                "messens",
+                "Scherz",
+                "An",
+                "Ausdrücke"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Ergebnis",
+                "Mäßerei",
+                "Maß",
+                "Messens",
+                "Werkzeug",
+                "Ausdruck",
+                "Messen"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "verwendet",
+                "Meßband",
+                "Meter",
+                "Zwirn",
+                "Papier",
+                "Maßnehmen",
+                "Maßpapier",
+                "Maß",
+                "Fadenmaß",
+                "wurde",
+                "Zentimeter",
+                "Nadeln",
+                "dafür",
+                "abstecken",
+                "gesagt"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Knoten",
+                "Maßfaden",
+                "Risse",
+                "Maßpapier",
+                "Einschnitte",
+                "Einrisse"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Maß",
+                "einschreiben"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "vordere",
+                "Breitenmaß",
+                "hinten",
+                "hinterwärtling",
+                "Weite",
+                "vorne",
+                "Maß",
+                "hintere",
+                "Breite",
+                "nehmen",
+                "messen",
+                "Länge"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "angeben",
+                "umher",
+                "Buckel",
+                "Rückenlänge",
+                "Breite",
+                "Genick",
+                "Joppenmaß",
+                "Maße",
+                "Rückenmaß",
+                "Rücken",
+                "ermessen"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "macht",
+                "schwieriger",
+                "Buckel",
+                "Falten",
+                "spannt",
+                "schlechter",
+                "Buckligen",
+                "Rückenmaßes",
+                "zieht",
+                "schönen",
+                "gemacht",
+                "Verkrüppelten",
+                "ausher",
+                "guter",
+                "mach"
+            ],
+            "id": "D14a"
+        },
+        {
+            "concepts": [
+                "Achselmaß",
+                "angeben",
+                "Maß",
+                "gemeint",
+                "gewonnen"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Achsel",
+                "muß",
+                "ab",
+                "schwieriger",
+                "unterlegen",
+                "schlechter",
+                "Schulter",
+                "fällst",
+                "maßes",
+                "guter"
+            ],
+            "id": "D15a"
+        },
+        {
+            "concepts": [
+                "Weste",
+                "heute",
+                "Ausschnittmaß",
+                "Maß",
+                "Papier",
+                "Rock",
+                "gewonnen",
+                "Art",
+                "Kragenmaß",
+                "genommen"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Kragenmaßes",
+                "schwieriger",
+                "steht",
+                "Kragen",
+                "fein",
+                "schlechter",
+                "schön",
+                "anlegt",
+                "guter",
+                "her"
+            ],
+            "id": "D16a"
+        },
+        {
+            "concepts": [
+                "gebogene",
+                "Ärmelmaß",
+                "Ärmel",
+                "herunten",
+                "äußere",
+                "Maß",
+                "gerade",
+                "auswendige",
+                "Art",
+                "innerer",
+                "Ärmelweite",
+                "innere",
+                "heroben",
+                "Länge",
+                "gewonnen",
+                "einwendige"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "geht",
+                "schwieriger",
+                "Ärmelmaßes",
+                "hinaufstecken",
+                "Ärmel",
+                "spannt",
+                "schlechter",
+                "einziehen",
+                "mehr",
+                "Üechsen",
+                "guter"
+            ],
+            "id": "D17a"
+        },
+        {
+            "concepts": [
+                "gewonnen",
+                "Maß",
+                "Art",
+                "Brustmaß"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Brustmaßes",
+                "guter",
+                "schlechter",
+                "schwieriger"
+            ],
+            "id": "D18a"
+        },
+        {
+            "concepts": [
+                "Schrittlänge",
+                "Bundweite",
+                "ent",
+                "Hinterhosenhöhe",
+                "Hosenmaße",
+                "Hosenmaß",
+                "äußere",
+                "halbe",
+                "Vorfall",
+                "Seitenlänge",
+                "Arschweite",
+                "innere",
+                "Fußweite",
+                "Schrittspitzenmaß",
+                "Länge",
+                "Spreizweite",
+                "Schlitzes"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Hosenbodens",
+                "Hosen",
+                "Frage",
+                "schwieriger",
+                "linkstragen",
+                "Hosenmaße",
+                "schlechter",
+                "Zuschnitts",
+                "guter"
+            ],
+            "id": "D19a"
+        },
+        {
+            "concepts": [
+                "Überziehermaß",
+                "Trachten",
+                "Maß",
+                "Anmessen",
+                "Art",
+                "gewonnen"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "schwieriger",
+                "Trachten",
+                "schlechter",
+                "Maße",
+                "guter"
+            ],
+            "id": "D20a"
+        },
+        {
+            "concepts": [
+                "Wünsche",
+                "Anmessen",
+                "eng",
+                "weit",
+                "schneiden",
+                "faltig",
+                "darnach",
+                "arbeiten",
+                "Kleidform",
+                "glockig",
+                "Schneider",
+                "Taille",
+                "fragt",
+                "denen",
+                "trage",
+                "kundgibt",
+                "tragen",
+                "Glocken",
+                "anliegend",
+                "Kunde",
+                "Ausdrücke"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "Maß",
+                "Schneiderei"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Schnitt",
+                "Mitte",
+                "Fasson",
+                "Dem",
+                "Taille"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Schnitt",
+                "fescher",
+                "fester",
+                "schneller",
+                "guter",
+                "sicherer"
+            ],
+            "id": "D23a"
+        },
+        {
+            "concepts": [
+                "Schnitt",
+                "Einschnitt",
+                "Kragenschnitt",
+                "Aufschnitt",
+                "Schneiderei",
+                "Zuschnitt",
+                "samt"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Schnitt",
+                "Schnittkante",
+                "scharfe",
+                "zackige",
+                "gerade",
+                "Schneiderei",
+                "Schnittmuster"
+            ],
+            "id": "D24a"
+        },
+        {
+            "concepts": [
+                "zurechtlegen",
+                "Zuschneiden",
+                "Stoff",
+                "anrichten"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "mittels",
+                "auflegen",
+                "übertragen",
+                "Stoff",
+                "Kreide",
+                "Arten",
+                "Schnittmuster",
+                "Nadeln",
+                "ausrädeln"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Rückenteil",
+                "geschnittenen",
+                "darnach",
+                "abgegrenzten",
+                "ausgerädelten",
+                "Teile"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "schneiden",
+                "Formen",
+                "Schneiderei",
+                "Rock",
+                "Leib",
+                "Tuch"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "schneiden",
+                "gerade",
+                "Quer",
+                "Bug",
+                "Zwickel",
+                "scheel",
+                "Gerung",
+                "kommen",
+                "Strich"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "rückwärtsschneiden",
+                "schneiden",
+                "zackig",
+                "kurz",
+                "drein",
+                "verwüsten",
+                "Stoff",
+                "drauf",
+                "ungeschickt",
+                "stu",
+                "herfeseln",
+                "Arten",
+                "Schneidens",
+                "Tuch",
+                "kürzer",
+                "fiseln",
+                "los"
+            ],
+            "id": "D29a"
+        },
+        {
+            "concepts": [
+                "hereinlegen",
+                "Stoff",
+                "wenig"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "besorgt",
+                "Zuschneiden",
+                "schneiden",
+                "hinzuschneiden",
+                "fortfahren",
+                "zuschneiden",
+                "Rock",
+                "wer",
+                "kürzer"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "Zuschneider"
+            ],
+            "id": "D31a"
+        },
+        {
+            "concepts": [
+                "schneidearbeit",
+                "Zuschneidens"
+            ],
+            "id": "D31b"
+        },
+        {
+            "concepts": [
+                "schneiden",
+                "beschneiden",
+                "zerschneiden",
+                "verschneiden",
+                "Schneiderei",
+                "auseinanderschneiden",
+                "jedoch"
+            ],
+            "id": "D32"
+        },
+        {
+            "concepts": [
+                "besonderer",
+                "Ausdruck",
+                "Nähen",
+                "herrichten"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "abhertun",
+                "Zwirn",
+                "abwickeln",
+                "abschneiden"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Wachses",
+                "Fadendrehen",
+                "Ausdruck",
+                "herrichten",
+                "Wachs",
+                "besonderer"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "streifen",
+                "wachse",
+                "Zwirn",
+                "schwärzen",
+                "netzen",
+                "wichsen",
+                "drehen"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "fädmen",
+                "einfädeln",
+                "ausfädeln",
+                "fädeln"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "Knopf"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Faden",
+                "ausherziehen",
+                "festziehen"
+            ],
+            "id": "E6a"
+        },
+        {
+            "concepts": [
+                "Maschine",
+                "Nähen",
+                "soweit",
+                "Ausdrücke",
+                "beziehen"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "nähen",
+                "nähte",
+                "Form",
+                "genäht"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Näharbeit",
+                "Näherei",
+                "nähen",
+                "Nähterei",
+                "Ausdrücke"
+            ],
+            "id": "E8a"
+        },
+        {
+            "concepts": [
+                "geschickt",
+                "fest",
+                "locker",
+                "gerade",
+                "nähen",
+                "gut",
+                "schluderig",
+                "scheel",
+                "schlecht",
+                "haltbar",
+                "flink"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "einreihen",
+                "überwindling",
+                "näht",
+                "links",
+                "nähen",
+                "rechts",
+                "dabei",
+                "überwindeln",
+                "Rechtshänder",
+                "Ausdrücke",
+                "überwideln"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "näht",
+                "links",
+                "endeln",
+                "rechts",
+                "dabei",
+                "zusammenendeln",
+                "enteln"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "nähen",
+                "abnähen",
+                "aufnähen",
+                "ernähen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Karren",
+                "einspannen",
+                "maschinnähen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "stechen",
+                "sticheln"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "stechen",
+                "zerstechen",
+                "sticheln",
+                "niederstechen"
+            ],
+            "id": "E14a"
+        },
+        {
+            "concepts": [
+                "Schneiderausdruck",
+                "heften"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "niederheften",
+                "soweit",
+                "heften",
+                "Ersatzausdrücke",
+                "Schneiderausdrücke"
+            ],
+            "id": "E15a"
+        },
+        {
+            "concepts": [
+                "anbringen",
+                "steppen",
+                "Sachen",
+                "gestrickten",
+                "genähten",
+                "Verzierungen"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Steppdecke",
+                "niedersteppen",
+                "steppen"
+            ],
+            "id": "E16a"
+        },
+        {
+            "concepts": [
+                "Stepper",
+                "steppen"
+            ],
+            "id": "E16b"
+        },
+        {
+            "concepts": [
+                "steppig"
+            ],
+            "id": "E16c"
+        }
+    ]
+}

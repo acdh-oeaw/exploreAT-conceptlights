@@ -1,0 +1,2161 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Hüfte"
+                ],
+                [
+                    "weiche"
+                ],
+                [
+                    "Wade"
+                ],
+                [
+                    "wiegen"
+                ],
+                [
+                    "Kniee"
+                ],
+                [
+                    "knien"
+                ],
+                [
+                    "Schweißfüße"
+                ],
+                [
+                    "Socken"
+                ],
+                [
+                    "Ferse"
+                ],
+                [
+                    "große"
+                ],
+                [
+                    "Hühneraugen"
+                ],
+                [
+                    "womit"
+                ],
+                [
+                    "brechen"
+                ],
+                [
+                    "dünne"
+                ],
+                [
+                    "dicke"
+                ],
+                [
+                    "gespreizten"
+                ],
+                [
+                    "steife"
+                ],
+                [
+                    "Beinbruch"
+                ]
+            ],
+            "3": [
+                [
+                    "Knie"
+                ],
+                [
+                    "Füßen"
+                ],
+                [
+                    "Strumpf"
+                ],
+                [
+                    "gehn"
+                ],
+                [
+                    "Zehen"
+                ]
+            ],
+            "6": [
+                [
+                    "Waden"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "Beinen"
+                ]
+            ],
+            "10": [
+                [
+                    "Zehe"
+                ]
+            ],
+            "14": [
+                [
+                    "Fuß"
+                ]
+            ],
+            "15": [
+                [
+                    "Bein"
+                ]
+            ],
+            "21": [
+                [
+                    "Beine"
+                ]
+            ],
+            "35": [
+                [
+                    "Füße"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Fuß",
+                    "Füße"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Hüfte"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wiegen"
+            ],
+            "source": 4,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weiche"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waden"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waden"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waden"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wade"
+            ],
+            "source": 12,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waden"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waden"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waden"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dicke"
+            ],
+            "source": 14,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dünne"
+            ],
+            "source": 15,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kniee"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knie"
+            ],
+            "source": 18,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knie"
+            ],
+            "source": 18,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 18,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "steife"
+            ],
+            "source": 19,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knie"
+            ],
+            "source": 22,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 23,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "knien"
+            ],
+            "source": 24,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß",
+                "Füße"
+            ],
+            "source": 26,
+            "target": 28,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füßen"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 26,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 26,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füßen"
+            ],
+            "source": 26,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 26,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 26,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 26,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 26,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 26,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 26,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 26,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 26,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 26,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 26,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 28,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 28,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 28,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 28,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 28,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 28,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 28,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 28,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 28,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 28,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 28,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 30,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 30,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 30,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 30,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füßen"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 32,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 32,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 32,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 32,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 33,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 33,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 33,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 33,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schweißfüße"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 36,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 36,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 39,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 39,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 39,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ferse"
+            ],
+            "source": 49,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehen"
+            ],
+            "source": 49,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehen"
+            ],
+            "source": 49,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 50,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 50,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 50,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Socken"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 52,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strumpf"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strumpf"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 55,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 55,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strumpf"
+            ],
+            "source": 56,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehen"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 59,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 59,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 60,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 60,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 61,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zehe"
+            ],
+            "source": 63,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hühneraugen"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 70,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Füße"
+            ],
+            "source": 74,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuß"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 78,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 78,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 78,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 78,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 78,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 79,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 79,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 79,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 79,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 79,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 79,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 81,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 81,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 81,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 81,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 81,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 83,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 83,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 83,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 83,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinen"
+            ],
+            "source": 87,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinen"
+            ],
+            "source": 87,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinen"
+            ],
+            "source": 87,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 88,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 88,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 88,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 88,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 89,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 89,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 89,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 91,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 91,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 92,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 92,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gespreizten"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinen"
+            ],
+            "source": 93,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinen"
+            ],
+            "source": 93,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beine"
+            ],
+            "source": 95,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinen"
+            ],
+            "source": 96,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 97,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bein"
+            ],
+            "source": 98,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beinbruch"
+            ],
+            "source": 101,
+            "target": 104,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Hüffe",
+                "Seite",
+                "Hüfte",
+                "Huff"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Kugel",
+                "Hüftgelenk"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Hüftweh",
+                "Seitenstechen"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "hüftlahm"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "ausdrehen",
+                "wiegen",
+                "Hüften",
+                "auskegeln",
+                "Hüfte"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Weiche",
+                "Flanke",
+                "Lende"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "lendenlahm"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Schenkel",
+                "schlagen"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Oberschenkel",
+                "Dieche"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Unterschenkel"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "gleichschenkelig"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Muskulatur",
+                "weiche",
+                "Oberschenkels",
+                "Fleisch"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Wade",
+                "zwicken",
+                "Waden"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Waden",
+                "starke",
+                "muskulöse"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "dicke",
+                "weiche",
+                "schlampechte",
+                "Waden"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Spatzenwadeln",
+                "dünne",
+                "Waden"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "dünnwadlecht"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Wadelstrumpf",
+                "Wade"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "wiegen",
+                "Knien",
+                "hutschen",
+                "legen",
+                "läßt",
+                "brechen",
+                "schaukeln",
+                "Knie",
+                "jemandem",
+                "übers",
+                "umfassen",
+                "liegen",
+                "Kniee"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Kniee",
+                "steife"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "Kniekehle"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "Kniescheibe"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Geliebte",
+                "Kniebohrer",
+                "Kniebasel",
+                "knietief",
+                "Kniebiß",
+                "kniebiegeln",
+                "Knie",
+                "Kniewetzer",
+                "FlN",
+                "kniewetzen",
+                "Kniebeißer",
+                "Knieschemmel",
+                "Knielotterer"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "dahergeht",
+                "knieweich"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "kniegeln",
+                "knien"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "knien",
+                "aufhinknien",
+                "Knie",
+                "fallen",
+                "niederknien"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Fuß",
+                "folgen",
+                "springen",
+                "Bettes",
+                "stehn",
+                "gleichen",
+                "stehenden",
+                "eigenen",
+                "gut",
+                "abrennen",
+                "Füße",
+                "schwachen",
+                "gehn",
+                "Fußende",
+                "schlecht",
+                "Füßen"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "schnellfüßig"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Fuß",
+                "Trittlinge",
+                "großem",
+                "Schinakeln",
+                "Füße",
+                "Kisteln",
+                "große",
+                "leben"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Tritte",
+                "sieht",
+                "Fußspur"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "aufwetzen",
+                "fußmarod",
+                "aufgetretene",
+                "aufreiben",
+                "Füße"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Blasen",
+                "Füßen"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Füße",
+                "geschwollene",
+                "aufgelaufene"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Füße",
+                "warme",
+                "kalte"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Schwielen",
+                "Füßen",
+                "Haut",
+                "harte"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Schweißfüße",
+                "Sulzfüße",
+                "Schwaßer"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Schweißfüße"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "Schweißfüßen"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Plattfuß"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Fuß",
+                "Fußtruhe",
+                "Kratzfuß",
+                "Dreifuß",
+                "Kriegsfuß",
+                "Leichtfuß"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "beeilen",
+                "fußen"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "füßeln"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "tanzen",
+                "fußeinen"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "bloßfüßig",
+                "barfuß"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Füßel",
+                "Fußschaufel",
+                "Fußsohle"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Fußspitze"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Rist",
+                "Laffel"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Fußballen"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Frostballen"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "rsch",
+                "geben",
+                "Fersen",
+                "rs",
+                "lieber",
+                "Ferse",
+                "Fersengeld",
+                "treten",
+                "rscht",
+                "Zehen",
+                "bloßes",
+                "sehen"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "frören",
+                "erfrorene",
+                "Füße"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Füßling"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Socken",
+                "gehn",
+                "Fußsocken"
+            ],
+            "id": "G27"
+        },
+        {
+            "concepts": [
+                "Socken",
+                "söckeln",
+                "stricken"
+            ],
+            "id": "G28"
+        },
+        {
+            "concepts": [
+                "Strumpf",
+                "Fresser",
+                "Stumpf",
+                "zerreißen",
+                "Strümpfe",
+                "Tiroler"
+            ],
+            "id": "G29"
+        },
+        {
+            "concepts": [
+                "Spitze",
+                "Fuß",
+                "Strumpfes",
+                "ganzer",
+                "Ferse",
+                "Teile"
+            ],
+            "id": "G30"
+        },
+        {
+            "concepts": [
+                "Loch",
+                "Strumpf"
+            ],
+            "id": "G31"
+        },
+        {
+            "concepts": [
+                "verlieren",
+                "Strumpfband"
+            ],
+            "id": "G32"
+        },
+        {
+            "concepts": [
+                "Wadenstrumpf",
+                "Strumpf",
+                "Strumpfsocken"
+            ],
+            "id": "G33"
+        },
+        {
+            "concepts": [
+                "Zehe",
+                "Zehen",
+                "gehn",
+                "stellen",
+                "getreten"
+            ],
+            "id": "G34"
+        },
+        {
+            "concepts": [
+                "ichs",
+                "große",
+                "gespürt",
+                "Zehe"
+            ],
+            "id": "G35"
+        },
+        {
+            "concepts": [
+                "Hirn",
+                "Verstand",
+                "kleine",
+                "kleinen",
+                "mehr",
+                "Zehe"
+            ],
+            "id": "G36"
+        },
+        {
+            "concepts": [
+                "verkrüppelte",
+                "Zehen"
+            ],
+            "id": "G37"
+        },
+        {
+            "concepts": [
+                "böse",
+                "wehe",
+                "Zehe"
+            ],
+            "id": "G38"
+        },
+        {
+            "concepts": [
+                "eingewachsene",
+                "Zehennägel"
+            ],
+            "id": "G39"
+        },
+        {
+            "concepts": [
+                "Zehenspitze"
+            ],
+            "id": "G40"
+        },
+        {
+            "concepts": [
+                "Roßzehe",
+                "Zehenkäs",
+                "Knofelzehe",
+                "Zehe"
+            ],
+            "id": "G41"
+        },
+        {
+            "concepts": [
+                "ausschneiden",
+                "womit",
+                "Hühnerauge",
+                "Hühneraugen"
+            ],
+            "id": "G42"
+        },
+        {
+            "concepts": [
+                "Mittel",
+                "Hühneraugenpflaster",
+                "vertreiben",
+                "Hühneraugen"
+            ],
+            "id": "G43"
+        },
+        {
+            "concepts": [
+                "Fußbad"
+            ],
+            "id": "G44"
+        },
+        {
+            "concepts": [
+                "baden",
+                "waschen",
+                "Füße"
+            ],
+            "id": "G45"
+        },
+        {
+            "concepts": [
+                "Fußwanne"
+            ],
+            "id": "G46"
+        },
+        {
+            "concepts": [
+                "Fußwaschung"
+            ],
+            "id": "G47"
+        },
+        {
+            "concepts": [
+                "Fußsalbe",
+                "woraus",
+                "bereitet"
+            ],
+            "id": "G48"
+        },
+        {
+            "concepts": [
+                "einschmieren",
+                "salben",
+                "einreiben",
+                "Füße",
+                "womit"
+            ],
+            "id": "G49"
+        },
+        {
+            "concepts": [
+                "Fußwärmer"
+            ],
+            "id": "G50"
+        },
+        {
+            "concepts": [
+                "Knöchel",
+                "Enkel"
+            ],
+            "id": "G51"
+        },
+        {
+            "concepts": [
+                "verstauchen",
+                "Fuß",
+                "überknöcheln"
+            ],
+            "id": "G52"
+        },
+        {
+            "concepts": [
+                "Gruegge",
+                "Hächse",
+                "heb",
+                "Fuß",
+                "Hächsen",
+                "brechen",
+                "Bein"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Stelzen",
+                "Beine",
+                "dünne",
+                "lange",
+                "Elfer"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "langbeinig"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "kurze",
+                "Beine"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "kurzbeinig"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Elephantenfüße",
+                "dicke",
+                "Beine"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [],
+            "id": "H7"
+        },
+        {
+            "concepts": [],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "krummbeinig"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Beinen",
+                "krummen"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "Mensch",
+                "Bein"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "Stelzfuß",
+                "Bein"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "Schienbein"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "kreuzen",
+                "unanständig",
+                "gilt",
+                "Beine"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "grätschen",
+                "Beine",
+                "sprageln",
+                "griten",
+                "graiteln"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "gritisch",
+                "Beinen",
+                "gehen",
+                "gespreizten"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "Winkel",
+                "Schenkeln",
+                "Gritel",
+                "gespreizten"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "baumeln",
+                "lassen",
+                "Beine"
+            ],
+            "id": "H18"
+        },
+        {
+            "concepts": [
+                "stoßen",
+                "Beinen"
+            ],
+            "id": "H19"
+        },
+        {
+            "concepts": [
+                "stehen",
+                "Bein"
+            ],
+            "id": "H20"
+        },
+        {
+            "concepts": [
+                "abnehmen",
+                "amputieren",
+                "Bein"
+            ],
+            "id": "H21"
+        },
+        {
+            "concepts": [
+                "Beinen",
+                "lahm",
+                "gelähmt"
+            ],
+            "id": "H22"
+        },
+        {
+            "concepts": [
+                "Füße",
+                "steife",
+                "Beine"
+            ],
+            "id": "H23"
+        },
+        {
+            "concepts": [
+                "Beinbruch"
+            ],
+            "id": "H24"
+        },
+        {
+            "concepts": [
+                "gebrochene",
+                "schienen",
+                "Bein"
+            ],
+            "id": "H25"
+        },
+        {
+            "concepts": [
+                "Beinschiene"
+            ],
+            "id": "H26"
+        },
+        {
+            "concepts": [
+                "Gipsverband",
+                "Beinbruch",
+                "Heilmittel",
+                "insbesondere",
+                "Heilsprüche"
+            ],
+            "id": "H27"
+        }
+    ]
+}

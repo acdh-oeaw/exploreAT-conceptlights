@@ -1,0 +1,3937 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "häkeln"
+                ],
+                [
+                    "Spitze"
+                ],
+                [
+                    "sticken"
+                ],
+                [
+                    "klöppeln"
+                ],
+                [
+                    "knüpfen"
+                ],
+                [
+                    "stopfen"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "Unterschied"
+                ],
+                [
+                    "schmutzig"
+                ],
+                [
+                    "Reisstroh"
+                ],
+                [
+                    "Waschel"
+                ],
+                [
+                    "Seife"
+                ],
+                [
+                    "Waschblau"
+                ],
+                [
+                    "gewaschen"
+                ],
+                [
+                    "geben"
+                ],
+                [
+                    "Bleiche"
+                ],
+                [
+                    "naß"
+                ],
+                [
+                    "sitzen"
+                ],
+                [
+                    "trocknen"
+                ],
+                [
+                    "kochen"
+                ],
+                [
+                    "Person"
+                ],
+                [
+                    "Formen"
+                ],
+                [
+                    "Wasser"
+                ],
+                [
+                    "siedend"
+                ],
+                [
+                    "gar"
+                ],
+                [
+                    "braten"
+                ],
+                [
+                    "bähen"
+                ],
+                [
+                    "sagt"
+                ],
+                [
+                    "legen"
+                ],
+                [
+                    "sulzen"
+                ],
+                [
+                    "versalzen"
+                ],
+                [
+                    "salzen"
+                ],
+                [
+                    "Teig"
+                ],
+                [
+                    "Kochen"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "Sieb"
+                ],
+                [
+                    "sieben"
+                ],
+                [
+                    "Röhre"
+                ],
+                [
+                    "kommen"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "gern"
+                ],
+                [
+                    "Gerät"
+                ],
+                [
+                    "Töpfe"
+                ],
+                [
+                    "Heferl"
+                ],
+                [
+                    "Schüssel"
+                ],
+                [
+                    "Untersatz"
+                ],
+                [
+                    "Plutzer"
+                ],
+                [
+                    "Kanne"
+                ]
+            ],
+            "2": [
+                [
+                    "stauben"
+                ],
+                [
+                    "schon"
+                ]
+            ],
+            "3": [
+                [
+                    "Wolle"
+                ],
+                [
+                    "Masche"
+                ],
+                [
+                    "Besen"
+                ],
+                [
+                    "Staub"
+                ],
+                [
+                    "Boden"
+                ],
+                [
+                    "Lauge"
+                ],
+                [
+                    "waschen"
+                ],
+                [
+                    "trocken"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "sieden"
+                ],
+                [
+                    "Korb"
+                ],
+                [
+                    "Topf"
+                ],
+                [
+                    "Pfanne"
+                ],
+                [
+                    "geht"
+                ]
+            ],
+            "6": [
+                [
+                    "stricken"
+                ],
+                [
+                    "Geschirr"
+                ],
+                [
+                    "Krug"
+                ]
+            ],
+            "55": [
+                [
+                    "Wäsche"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "kehren",
+                    "fegen"
+                ],
+                [
+                    "stäuben",
+                    "stauben"
+                ],
+                [
+                    "schon",
+                    "Ahnel"
+                ],
+                [
+                    "brodeln",
+                    "poppeln"
+                ],
+                [
+                    "Braten",
+                    "Bratel"
+                ],
+                [
+                    "Beize",
+                    "Beiße"
+                ],
+                [
+                    "beizen",
+                    "beißen"
+                ],
+                [
+                    "Model",
+                    "Form"
+                ],
+                [
+                    "Kasserole",
+                    "Rein"
+                ]
+            ],
+            "2": [
+                [
+                    "Hefen",
+                    "Topf"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Hafen",
+                    "Hefen",
+                    "Topf"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Kot",
+                    "Mist",
+                    "Schmutz",
+                    "Dreck"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "stricken"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stricken"
+            ],
+            "source": 0,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stricken"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stricken"
+            ],
+            "source": 1,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stricken"
+            ],
+            "source": 1,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 3,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sitzen"
+            ],
+            "source": 3,
+            "target": 125,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wolle"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Masche"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Masche"
+            ],
+            "source": 10,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 10,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 10,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Masche"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stricken"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 15,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "häkeln"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spitze"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 18,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sticken"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klöppeln"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "knüpfen"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stopfen"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kehren",
+                "fegen"
+            ],
+            "source": 33,
+            "target": 34,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Besen"
+            ],
+            "source": 33,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Besen"
+            ],
+            "source": 33,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 35,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 35,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Besen"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reisstroh"
+            ],
+            "source": 39,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Unterschied"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kot",
+                "Mist",
+                "Schmutz",
+                "Dreck"
+            ],
+            "source": 43,
+            "target": 46,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "schmutzig"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Staub"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Staub"
+            ],
+            "source": 50,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Staub"
+            ],
+            "source": 51,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stauben"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stauben"
+            ],
+            "source": 53,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stäuben",
+                "stauben"
+            ],
+            "source": 54,
+            "target": 55,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 57,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 57,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Boden"
+            ],
+            "source": 58,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waschel"
+            ],
+            "source": 64,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "waschen"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gewaschen"
+            ],
+            "source": 67,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "waschen"
+            ],
+            "source": 67,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 67,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "waschen"
+            ],
+            "source": 68,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 68,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wasser"
+            ],
+            "source": 70,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 73,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schon",
+                "Ahnel"
+            ],
+            "source": 77,
+            "target": 94,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geben"
+            ],
+            "source": 77,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 77,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schon"
+            ],
+            "source": 77,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 78,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 79,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 80,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 80,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 80,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 80,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 80,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 80,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 81,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 81,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 81,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 81,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 81,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 81,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 83,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 83,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 83,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 83,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 84,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 84,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 84,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 84,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 85,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 85,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 85,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seife"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauge"
+            ],
+            "source": 94,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauge"
+            ],
+            "source": 94,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schon"
+            ],
+            "source": 94,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauge"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "legen"
+            ],
+            "source": 96,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Waschblau"
+            ],
+            "source": 99,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 101,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 101,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wäsche"
+            ],
+            "source": 106,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bleiche"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 109,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommen"
+            ],
+            "source": 112,
+            "target": 225,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschirr"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschirr"
+            ],
+            "source": 114,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschirr"
+            ],
+            "source": 114,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschirr"
+            ],
+            "source": 115,
+            "target": 233,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschirr"
+            ],
+            "source": 115,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "naß"
+            ],
+            "source": 121,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gern"
+            ],
+            "source": 124,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trocken"
+            ],
+            "source": 125,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trocken"
+            ],
+            "source": 125,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trocken"
+            ],
+            "source": 126,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gar"
+            ],
+            "source": 126,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "trocknen"
+            ],
+            "source": 130,
+            "target": 131,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kochen"
+            ],
+            "source": 132,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "versalzen"
+            ],
+            "source": 134,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kochen"
+            ],
+            "source": 136,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 137,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 137,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sagt"
+            ],
+            "source": 137,
+            "target": 158,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 138,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "siedend"
+            ],
+            "source": 139,
+            "target": 140,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brodeln",
+                "poppeln"
+            ],
+            "source": 146,
+            "target": 147,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "braten"
+            ],
+            "source": 148,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Röhre"
+            ],
+            "source": 148,
+            "target": 219,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Braten",
+                "Bratel"
+            ],
+            "source": 150,
+            "target": 151,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bähen"
+            ],
+            "source": 156,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beize",
+                "Beiße"
+            ],
+            "source": 159,
+            "target": 160,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beizen",
+                "beißen"
+            ],
+            "source": 161,
+            "target": 162,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sulzen"
+            ],
+            "source": 164,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "salzen"
+            ],
+            "source": 166,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teig"
+            ],
+            "source": 172,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 179,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Korb"
+            ],
+            "source": 184,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Korb"
+            ],
+            "source": 184,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Korb"
+            ],
+            "source": 187,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfanne"
+            ],
+            "source": 198,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfanne"
+            ],
+            "source": 198,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sieb"
+            ],
+            "source": 203,
+            "target": 204,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieben"
+            ],
+            "source": 205,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Model",
+                "Form"
+            ],
+            "source": 225,
+            "target": 226,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gerät"
+            ],
+            "source": 231,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Töpfe"
+            ],
+            "source": 232,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschirr"
+            ],
+            "source": 233,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hafen",
+                "Hefen",
+                "Topf"
+            ],
+            "source": 236,
+            "target": 237,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Topf"
+            ],
+            "source": 236,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hefen",
+                "Topf"
+            ],
+            "source": 236,
+            "target": 243,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Heferl"
+            ],
+            "source": 236,
+            "target": 245,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Topf"
+            ],
+            "source": 237,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hefen",
+                "Topf"
+            ],
+            "source": 237,
+            "target": 243,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Topf"
+            ],
+            "source": 238,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krug"
+            ],
+            "source": 238,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krug"
+            ],
+            "source": 238,
+            "target": 255,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krug"
+            ],
+            "source": 238,
+            "target": 257,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüssel"
+            ],
+            "source": 245,
+            "target": 246,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Untersatz"
+            ],
+            "source": 248,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kasserole",
+                "Rein"
+            ],
+            "source": 249,
+            "target": 250,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Pfanne"
+            ],
+            "source": 251,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krug"
+            ],
+            "source": 253,
+            "target": 255,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krug"
+            ],
+            "source": 253,
+            "target": 257,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Krug"
+            ],
+            "source": 255,
+            "target": 257,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Plutzer"
+            ],
+            "source": 257,
+            "target": 258,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kanne"
+            ],
+            "source": 260,
+            "target": 261,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "stricken"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "maschinstricken",
+                "anstricken",
+                "Stricknadel",
+                "stricken"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Strickzeug",
+                "Strickerei",
+                "Stricket"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "sitzen",
+                "Wolle"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "wollig"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Wolljacke",
+                "Wolle",
+                "Wickelwolle"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Knaul",
+                "Knäuel",
+                "Knoll",
+                "Kleuel",
+                "wirrer"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "verwirren",
+                "verfitzen",
+                "Wolle",
+                "bezogen"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "zusammenknäueln"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "knäuelet"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Masche",
+                "lassen",
+                "fallen",
+                "aufnehmen",
+                "Häkelmaschine"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Masche",
+                "heruntergefallene",
+                "Leiterl",
+                "Gasserl"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "glatt",
+                "stricken",
+                "verkehrt"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "anschlagen",
+                "stricken",
+                "anfangen"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Beginn",
+                "Strickarbeit",
+                "Anschlag"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "zunehmen",
+                "Stricken",
+                "beim"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "häkeln"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "häkeln",
+                "Häkelgarn"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Spitze",
+                "gehen",
+                "Seide",
+                "Spitzen"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Spitze",
+                "Einsatz"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Masche",
+                "Luftmasche",
+                "feste",
+                "Stäbchen"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "sticken"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Sticknadel",
+                "aussticken",
+                "sticken"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Stickstiche",
+                "Fischgrätenstich"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Leinen",
+                "gestickt",
+                "Stramin",
+                "worauf"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "klöppeln"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "klöppeln",
+                "Klöppelpolster"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Klöppel"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "knüpfen"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "verknüpfen",
+                "knüpfen"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Knopf",
+                "Knoten"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Strümpfe",
+                "stopfen"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Stopfnadel",
+                "stopfen"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Besen",
+                "gut",
+                "kehren",
+                "fegen",
+                "neue"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "eintrechen",
+                "zusammenkehren",
+                "allein",
+                "kehren",
+                "ausgekehrt",
+                "Stube",
+                "fegen",
+                "einkehren",
+                "Glut"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "geht",
+                "kehraus",
+                "kehrausschlagen",
+                "Da",
+                "Kehraus"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Kehricht",
+                "Kehrach",
+                "Kehrkot"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Kehrichtschaufel"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Esel",
+                "heimgeigen",
+                "Besen"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Flederwisch",
+                "Kochbeselein",
+                "großer",
+                "Besen",
+                "Roßhaar",
+                "kleiner",
+                "Besenarten",
+                "Stubenbesen",
+                "Tannenreisig",
+                "Reisbesen",
+                "selbstgemachter",
+                "Staubwedel",
+                "Reisstroh",
+                "Kehrwisch"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Besenstiel"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "ausbesnen",
+                "fortjagen"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "einbeseln",
+                "Mehl"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Schmotz",
+                "Unterschied",
+                "Dunst",
+                "gegeben",
+                "daheim",
+                "Dreckerl",
+                "Schmutz",
+                "verstehst",
+                "Kot",
+                "Watschen",
+                "weißt",
+                "Gesell",
+                "Dreck",
+                "beim",
+                "Mist",
+                "Geschmötz"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "schmutzig",
+                "Unterschied",
+                "dreckig",
+                "mistig",
+                "schmötzig",
+                "kotig"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "köten",
+                "schmutzig",
+                "abmühen"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Kotkrucke",
+                "Schmutz",
+                "Kot",
+                "Schmutzarbeit",
+                "Dreck",
+                "Mist",
+                "Mistwaben"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "dreckelen"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "Mistschaufel"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Misttruhe"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Stäuberl",
+                "aufwirbeln",
+                "Staub",
+                "schlucken"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Staubtuch",
+                "Kalkstaub",
+                "Staub"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Mädchen",
+                "Bier",
+                "Wetter",
+                "staubig"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "lügt",
+                "staubt",
+                "stauben"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "stäuben",
+                "stauben"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "zerstauben",
+                "stäuben",
+                "stauben"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "wischen",
+                "gewischt",
+                "gewuschen",
+                "Staub"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "einlassen",
+                "Boden"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "aufbürsten",
+                "wichsen",
+                "Boden"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Wichsbürste"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Bodenwachs"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "reiben",
+                "ausreiben",
+                "Boden"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Ausreibbürste"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "räumen",
+                "gründlich",
+                "groß"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Strohwaschel",
+                "Waschel",
+                "Waschridel"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "Reisstroh",
+                "Kratzel"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Reibsand"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "gewascht",
+                "waschen",
+                "wäscht",
+                "gewaschen",
+                "Waschen",
+                "wäschst",
+                "hellem",
+                "Formen",
+                "Gibt",
+                "ähnl",
+                "Bachen",
+                "gescholten",
+                "dumpfem",
+                "Arbeit",
+                "geprügelt"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "geht",
+                "waschen",
+                "derwaschen",
+                "Zeug",
+                "Aufwaschen",
+                "verwaschenes"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Spukgestalt",
+                "Waschahnel",
+                "Nachtahnel",
+                "Volksglaube"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "wascheln",
+                "Wasser",
+                "spielen"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Gerede",
+                "bedeutungsloses",
+                "Gewäsch",
+                "dünnes",
+                "Getränk"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Wasch",
+                "Person"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "waschet",
+                "Kleidern",
+                "weit"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Waschel",
+                "Wäscher"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Waschin",
+                "Waschfrau",
+                "Wäscherin"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Wäsche",
+                "kommt",
+                "geben",
+                "Unangenehmes",
+                "zugerichtet",
+                "gebracht",
+                "Ahnel",
+                "schon",
+                "richtet"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Kinderwäsche",
+                "Wäsche"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Wäsche",
+                "weiken",
+                "einweichen"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Weiche",
+                "Wäsche",
+                "Weike"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Wäsche",
+                "spülen",
+                "ausschlötern",
+                "schwaiben",
+                "ausschwaiben",
+                "schwemmen"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Geschwemm",
+                "Geschwaibed",
+                "Zusammengeschwaibed"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "auswinden",
+                "Wäsche"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Wäsche",
+                "einspritzen"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Wäsche",
+                "zusammenlegen"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Seife"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Seifenwurz",
+                "aufgegangen",
+                "Seife",
+                "Kernseife",
+                "Seifensieder"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "einseifen",
+                "eingeseift",
+                "Ohr",
+                "sauber",
+                "gehaut",
+                "derseifigen",
+                "seifigen"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Loder",
+                "Seifenwasser"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Soda"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Borax"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Salmiak"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Terpentin"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Laugen",
+                "Lauge",
+                "steht",
+                "bereitet",
+                "ausgegossen",
+                "dunkle",
+                "Regenwolke",
+                "Ahnel",
+                "Verdruß",
+                "schon"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "Lauge",
+                "Urlauge",
+                "benützte"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Lauge",
+                "legen",
+                "laugnen",
+                "sechteln"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Sechtelzuber"
+            ],
+            "id": "Nachtr."
+        },
+        {
+            "concepts": [
+                "ausgelaugnet",
+                "ganz"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Blew",
+                "Waschblau"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "behandeln",
+                "blewen",
+                "blaweln",
+                "Waschblau"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Wäsche",
+                "Rumpel",
+                "gewaschen",
+                "gerumpelt",
+                "gebürstet"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Waschbürste"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Wringmaschine"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "Wäschrolle",
+                "Mangel"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Schwersteine"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "rollen",
+                "Wäsche",
+                "mangen"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "geben",
+                "Bleiche"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "Bleichplatz",
+                "Bleiche",
+                "Sonnenbleiche"
+            ],
+            "id": "C41"
+        },
+        {
+            "concepts": [
+                "Wäsche",
+                "lassen",
+                "bleichen"
+            ],
+            "id": "C42"
+        },
+        {
+            "concepts": [
+                "Bleicherin"
+            ],
+            "id": "C43"
+        },
+        {
+            "concepts": [
+                "Fleckputzmittel",
+                "verwendet"
+            ],
+            "id": "C44"
+        },
+        {
+            "concepts": [
+                "Waschbank",
+                "kommen"
+            ],
+            "id": "C45"
+        },
+        {
+            "concepts": [
+                "Schwemmschaff"
+            ],
+            "id": "C46"
+        },
+        {
+            "concepts": [
+                "Geschirr",
+                "waschen"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Geschirr",
+                "abspülen"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Spüllicht",
+                "Kaspel",
+                "Spülwasser"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Wasserbankel"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Gläsertuch"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Abwaschschüssel"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Metallgefäße",
+                "Kufe",
+                "Butte",
+                "Assach",
+                "Wasseraufbewahren",
+                "Aussehens",
+                "Lagel",
+                "Putsch",
+                "Wasserholen"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Fetzen",
+                "nassen",
+                "nässesten",
+                "davonjagen",
+                "nässer",
+                "naß"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "tropfnaß",
+                "naß"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Nässe"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "trinken",
+                "nässeln",
+                "gern",
+                "feucht"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Patron",
+                "trockensten",
+                "sitzen",
+                "trocken",
+                "Trockenen",
+                "Worten",
+                "trockener",
+                "trockenen"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "gänzlich",
+                "trocken",
+                "Maul",
+                "Jetzt",
+                "gleich",
+                "gar",
+                "halt"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "strohtrocken",
+                "trocken"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Trückne",
+                "Trockne",
+                "Trockenheit"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Austrückne"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "trocknen",
+                "trücknen"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "trocknen",
+                "lufttrocknen",
+                "vertrocknen"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "kochen",
+                "lassen",
+                "fühlen"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "kochen",
+                "zerkochen"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "viele",
+                "Person",
+                "Brei",
+                "Koch",
+                "versalzen",
+                "Köche"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Köchin"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "bestimmten",
+                "Ware",
+                "Kochet",
+                "Menge",
+                "Kochen"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "kocht",
+                "hart",
+                "beschaffen",
+                "weich",
+                "Zorn",
+                "Formen",
+                "sagt",
+                "sieden",
+                "Sünder",
+                "Aha",
+                "hartgesottener",
+                "siedet",
+                "gesotten",
+                "schon",
+                "Wasser"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "ausgesotten",
+                "Siedewurst",
+                "sieden",
+                "aussieden",
+                "saftlos"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "siedig",
+                "siedendig",
+                "siedend"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "leicht",
+                "gesöd",
+                "siedend"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Schelte",
+                "Sieder",
+                "Metsieder"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "beginnen",
+                "sieden"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "wallen",
+                "suttern",
+                "aufwallen",
+                "derwellen"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Aufwallen",
+                "Brudel",
+                "Wall"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "übergehen",
+                "überlaufen"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "Luftblasen",
+                "aufsteigenden",
+                "Geräusch",
+                "brodeln",
+                "poppeln"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "aufpoppeln",
+                "brodeln",
+                "poppeln",
+                "Brodelhefen",
+                "umherbrodeln"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Huhn",
+                "brät",
+                "Röhre",
+                "Wirtin",
+                "braten",
+                "gebratene",
+                "Gesottenes",
+                "Gebratenes",
+                "Tauben"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "stark",
+                "Bratferkel",
+                "braten",
+                "gebraten",
+                "durchbraten",
+                "gar",
+                "ausgebraten"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "wenden",
+                "sauberes",
+                "Braten",
+                "Bratel",
+                "Sinn",
+                "aufgießen",
+                "verkleinernden",
+                "begießen"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Bratensbrühe",
+                "Bratelgeiger",
+                "Braten",
+                "Bratel",
+                "Bratenpinsel",
+                "Sonntagsbraten"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Fleisch",
+                "gedämpftes",
+                "gedünstetes",
+                "dünsten",
+                "dämpfen"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "einbrennen"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "einmachen"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "einpanieren",
+                "panieren"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "schließen",
+                "Semmeln",
+                "bähen",
+                "gebähte",
+                "Schnittlein"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "aufbähen",
+                "bähen"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "sagt",
+                "rösten",
+                "Zwiebel"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "Beize",
+                "nehmen",
+                "Beiße",
+                "legen"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "Beize",
+                "Beiße",
+                "Beißbottich"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "beizen",
+                "beißen"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "beizen",
+                "beißen",
+                "einbeizen"
+            ],
+            "id": "E31"
+        },
+        {
+            "concepts": [
+                "Sulze"
+            ],
+            "id": "E32"
+        },
+        {
+            "concepts": [
+                "sulzen"
+            ],
+            "id": "E33"
+        },
+        {
+            "concepts": [
+                "versulzen",
+                "sulzen"
+            ],
+            "id": "E34"
+        },
+        {
+            "concepts": [
+                "schmalzen",
+                "gesalzen",
+                "prügeln",
+                "Jakobi",
+                "gesalzt",
+                "Obst",
+                "Kind",
+                "taufen",
+                "tut",
+                "salzen",
+                "Barthlmä",
+                "gesalzent",
+                "katholisch"
+            ],
+            "id": "E35"
+        },
+        {
+            "concepts": [
+                "versalzen",
+                "salzen"
+            ],
+            "id": "E36"
+        },
+        {
+            "concepts": [
+                "pfeffern",
+                "gepfeffert"
+            ],
+            "id": "E37"
+        },
+        {
+            "concepts": [
+                "durchtreiben",
+                "passieren"
+            ],
+            "id": "E38"
+        },
+        {
+            "concepts": [
+                "abtreiben"
+            ],
+            "id": "E39"
+        },
+        {
+            "concepts": [
+                "eintropfen",
+                "Eingetropftes"
+            ],
+            "id": "E40"
+        },
+        {
+            "concepts": [
+                "walgen",
+                "auswalgen",
+                "Teig"
+            ],
+            "id": "E41"
+        },
+        {
+            "concepts": [
+                "ausziehen",
+                "Strudel",
+                "Teig"
+            ],
+            "id": "E42"
+        },
+        {
+            "concepts": [
+                "Kraut",
+                "einlegen",
+                "Gurken"
+            ],
+            "id": "E43"
+        },
+        {
+            "concepts": [
+                "Krautwasser"
+            ],
+            "id": "E44"
+        },
+        {
+            "concepts": [
+                "Krautschaffel"
+            ],
+            "id": "E45"
+        },
+        {
+            "concepts": [
+                "zerlegen",
+                "Geflügel",
+                "tranchieren"
+            ],
+            "id": "E46"
+        },
+        {
+            "concepts": [
+                "schmieren",
+                "Blech"
+            ],
+            "id": "E47"
+        },
+        {
+            "concepts": [
+                "Handhabungen",
+                "Kochen",
+                "sonstige"
+            ],
+            "id": "E48"
+        },
+        {
+            "concepts": [
+                "Küchenstockerl"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Wasserausguß"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Kohlenkübel"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Kohlenkiste"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "fertig",
+                "Körbel",
+                "Korb"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Zegger",
+                "Einkaufkorb"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Holzkorb"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Korb",
+                "Körbeltuch",
+                "sonstige"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Korbflechter",
+                "Körbler"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "flechten",
+                "Korb",
+                "körbeln"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Fachausdrücke",
+                "besondere",
+                "örtern",
+                "zeinen",
+                "Korbflechterei",
+                "Wid",
+                "Zein"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Mosche",
+                "Einkauftasche"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Aufhängen",
+                "Gestell",
+                "Gramasäule",
+                "Küchengeräten"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Gråmmel",
+                "Brotes",
+                "Zerkleinern",
+                "Werkzeug"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Krauthobel"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Gurkenhobel"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Kaffeemühle"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Mohnmühle"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Tisch",
+                "trägt",
+                "Pfanne",
+                "Pfannbrett",
+                "Kochschlitten"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Unterlage",
+                "eiserne",
+                "Pfannen",
+                "Sterzkreuz"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "Bratspieß",
+                "Bratheinzel",
+                "drehbarer",
+                "Bratelbråter",
+                "Uhrwerk"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "Nudelwalker"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Nudelbrett"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Sieb"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Siebmacher",
+                "Sieb",
+                "Siebler",
+                "Sieberer",
+                "Nudelsieb"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "sieben"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "durchsieben",
+                "sieben"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Dese",
+                "Schmalzbüchse"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Kaffeebüchse"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "Krauthacke",
+                "Pletzer"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "Mörser"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "Stößel"
+            ],
+            "id": "F32"
+        },
+        {
+            "concepts": [
+                "Kartoffelstampfe"
+            ],
+            "id": "F33"
+        },
+        {
+            "concepts": [
+                "Fleischhammer"
+            ],
+            "id": "F34"
+        },
+        {
+            "concepts": [
+                "Bratbrett"
+            ],
+            "id": "F35"
+        },
+        {
+            "concepts": [
+                "Fleischbrett"
+            ],
+            "id": "F36"
+        },
+        {
+            "concepts": [
+                "Fleischhackmaschine"
+            ],
+            "id": "F37"
+        },
+        {
+            "concepts": [
+                "Reibmaschine"
+            ],
+            "id": "F38"
+        },
+        {
+            "concepts": [
+                "Ribeisen"
+            ],
+            "id": "F39"
+        },
+        {
+            "concepts": [
+                "Unterstellen",
+                "Rost",
+                "Röhre"
+            ],
+            "id": "F40"
+        },
+        {
+            "concepts": [
+                "Zwirl",
+                "Sprüdel",
+                "Quirl"
+            ],
+            "id": "F41"
+        },
+        {
+            "concepts": [
+                "zwirln",
+                "quirln",
+                "sprüdeln"
+            ],
+            "id": "F42"
+        },
+        {
+            "concepts": [
+                "Schmarrenschaufel",
+                "Muser"
+            ],
+            "id": "F43"
+        },
+        {
+            "concepts": [
+                "Teigradel"
+            ],
+            "id": "F44"
+        },
+        {
+            "concepts": [
+                "Krapfenstecher"
+            ],
+            "id": "F45"
+        },
+        {
+            "concepts": [
+                "Model",
+                "Form",
+                "bringen",
+                "kommen"
+            ],
+            "id": "F46"
+        },
+        {
+            "concepts": [
+                "Model",
+                "Form",
+                "Tortenform"
+            ],
+            "id": "F47"
+        },
+        {
+            "concepts": [
+                "Backblech"
+            ],
+            "id": "F48"
+        },
+        {
+            "concepts": [
+                "Seiher"
+            ],
+            "id": "F49"
+        },
+        {
+            "concepts": [
+                "Suppenschüssel"
+            ],
+            "id": "F50"
+        },
+        {
+            "concepts": [
+                "Suppenschöpfer"
+            ],
+            "id": "F51"
+        },
+        {
+            "concepts": [
+                "Gerät",
+                "Hippe",
+                "Hohlhippenbacken"
+            ],
+            "id": "F52"
+        },
+        {
+            "concepts": [
+                "Töpfe",
+                "Glasur",
+                "ausgesprungen"
+            ],
+            "id": "F53"
+        },
+        {
+            "concepts": [
+                "löcherig",
+                "Geschirr",
+                "lucket"
+            ],
+            "id": "F54"
+        },
+        {
+            "concepts": [
+                "Küchengeschirr"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Glasgeschirr",
+                "Geschirr"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Heferln",
+                "Hafen",
+                "Hefen",
+                "Heferl",
+                "gehen",
+                "gern",
+                "Deckel",
+                "kleine",
+                "setzen",
+                "besten",
+                "voll",
+                "findet",
+                "Jedes",
+                "Unglück",
+                "Topf",
+                "halten"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Hafen",
+                "Hefen",
+                "Topfschlagen",
+                "Spiel",
+                "Hafenbinden",
+                "Kartenspiel",
+                "Heferlgucker",
+                "Glückshafen",
+                "Topf"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Schnabel",
+                "Topf",
+                "Schnäuzel",
+                "Krug"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Henkel",
+                "Hienge"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Stürze",
+                "Topfdeckel"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Topfboden"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "Hefengabel",
+                "schieben",
+                "Töpfe",
+                "Gerät",
+                "ans"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Hefen",
+                "flicken",
+                "Topf",
+                "binden",
+                "eindrahten"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Weigling",
+                "Weidling",
+                "Weiding",
+                "Weitling"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Schüssel",
+                "Heferl",
+                "müssen",
+                "Kinderspiel",
+                "anhören",
+                "Vorwurf",
+                "verköstigen",
+                "Schüsserl"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Schüssel",
+                "Fleischschüssel"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Schüßler",
+                "Schüsselmacher"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Untersatz",
+                "Schüsseln",
+                "heiße"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Kasserole",
+                "Rein"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Kasserole",
+                "Rein",
+                "Schmalzrein",
+                "Untersatz",
+                "Reinfüßel",
+                "Reindlhut"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Pfännlein",
+                "hauen",
+                "Pfanne"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Bratpfanne",
+                "Pfannenstiel",
+                "Pfanne"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "geht",
+                "lang",
+                "Der",
+                "Krug",
+                "Brunnen"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Krugel",
+                "Gefäßes",
+                "bekannt",
+                "einfachem",
+                "krugartigen"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Krügelbürste",
+                "Tränenkrüglein",
+                "Zinnkrug",
+                "Krug"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Krugmacher",
+                "Krügelkramer",
+                "Krügler"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Halse",
+                "Luderkrugel",
+                "Plutzer",
+                "engem",
+                "bauchiger",
+                "Krug"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Plutzerwasser",
+                "Steinplutzer",
+                "Plutzer",
+                "Mineralwasser"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Krugelmann",
+                "Krughändler"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Kanne",
+                "Kante",
+                "Kannel"
+            ],
+            "id": "G27"
+        },
+        {
+            "concepts": [
+                "Kandlwerfen",
+                "Kannengießer",
+                "Kanne",
+                "Kandlbrett",
+                "Seitelkanne"
+            ],
+            "id": "G28"
+        }
+    ]
+}

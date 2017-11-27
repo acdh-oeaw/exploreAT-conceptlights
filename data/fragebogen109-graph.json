@@ -1,0 +1,1511 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Herrschaft"
+                ],
+                [
+                    "herrisch"
+                ],
+                [
+                    "Dienstboten"
+                ],
+                [
+                    "Herren"
+                ],
+                [
+                    "Arbeiter"
+                ],
+                [
+                    "lohnen"
+                ],
+                [
+                    "Löhner"
+                ],
+                [
+                    "Pension"
+                ],
+                [
+                    "Ruhestand"
+                ],
+                [
+                    "bodenständige"
+                ]
+            ],
+            "2": [
+                [
+                    "Herr"
+                ],
+                [
+                    "dienen"
+                ],
+                [
+                    "nehmen"
+                ]
+            ],
+            "3": [
+                [
+                    "Diener"
+                ],
+                [
+                    "arbeiten"
+                ],
+                [
+                    "Arbeit"
+                ],
+                [
+                    "Gehalt"
+                ]
+            ],
+            "5": [
+                [
+                    "Magd"
+                ],
+                [
+                    "Dienst"
+                ],
+                [
+                    "Lohn"
+                ]
+            ],
+            "9": [
+                [
+                    "Knecht"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Magd",
+                    "Dirne"
+                ],
+                [
+                    "Knecht",
+                    "Herr"
+                ],
+                [
+                    "verlassen",
+                    "Dienst"
+                ],
+                [
+                    "nehmen",
+                    "gehen"
+                ],
+                [
+                    "dienen",
+                    "Lohn"
+                ],
+                [
+                    "aufbessern",
+                    "auszahlen"
+                ],
+                [
+                    "Berufe",
+                    "bodenständige"
+                ],
+                [
+                    "bodenständige",
+                    "heute"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Diener"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Diener"
+            ],
+            "source": 11,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lohn"
+            ],
+            "source": 11,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lohn"
+            ],
+            "source": 11,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lohn"
+            ],
+            "source": 11,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Diener"
+            ],
+            "source": 12,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magd",
+                "Dirne"
+            ],
+            "source": 15,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Magd"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magd"
+            ],
+            "source": 15,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magd"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magd"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Magd"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht",
+                "Herr"
+            ],
+            "source": 20,
+            "target": 48,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Herr"
+            ],
+            "source": 20,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 21,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 22,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Knecht"
+            ],
+            "source": 23,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herr"
+            ],
+            "source": 48,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herren"
+            ],
+            "source": 48,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herrschaft"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "herrisch"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dienstboten"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dienst"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dienst"
+            ],
+            "source": 63,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dienst"
+            ],
+            "source": 63,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verlassen",
+                "Dienst"
+            ],
+            "source": 64,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Dienst"
+            ],
+            "source": 64,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dienen"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dienen",
+                "Lohn"
+            ],
+            "source": 65,
+            "target": 87,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Lohn"
+            ],
+            "source": 65,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dienen"
+            ],
+            "source": 66,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dienst"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen",
+                "gehen"
+            ],
+            "source": 69,
+            "target": 75,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "nehmen"
+            ],
+            "source": 69,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeit"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeit"
+            ],
+            "source": 75,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen"
+            ],
+            "source": 75,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeit"
+            ],
+            "source": 76,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "arbeiten"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "arbeiten"
+            ],
+            "source": 79,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "arbeiten"
+            ],
+            "source": 80,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeiter"
+            ],
+            "source": 84,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lohn"
+            ],
+            "source": 87,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aufbessern",
+                "auszahlen"
+            ],
+            "source": 87,
+            "target": 94,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "lohnen"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Löhner"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gehalt"
+            ],
+            "source": 94,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gehalt"
+            ],
+            "source": 94,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gehalt"
+            ],
+            "source": 95,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pension"
+            ],
+            "source": 100,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ruhestand"
+            ],
+            "source": 101,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Berufe",
+                "bodenständige"
+            ],
+            "source": 109,
+            "target": 110,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bodenständige",
+                "heute"
+            ],
+            "source": 109,
+            "target": 111,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bodenständige"
+            ],
+            "source": 110,
+            "target": 111,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Hofmeister"
+            ],
+            "id": "495"
+        },
+        {
+            "concepts": [
+                "Gouvernante",
+                "Erzieherin"
+            ],
+            "id": "496"
+        },
+        {
+            "concepts": [
+                "Bonne",
+                "Kinderfräulein"
+            ],
+            "id": "497"
+        },
+        {
+            "concepts": [
+                "Kinderfrau"
+            ],
+            "id": "498"
+        },
+        {
+            "concepts": [
+                "Kindsmädchen"
+            ],
+            "id": "499"
+        },
+        {
+            "concepts": [
+                "Hausdame",
+                "Gesellschafterin"
+            ],
+            "id": "500"
+        },
+        {
+            "concepts": [
+                "Wirtschafterin"
+            ],
+            "id": "501"
+        },
+        {
+            "concepts": [
+                "Kammerzofe"
+            ],
+            "id": "502"
+        },
+        {
+            "concepts": [
+                "Stubenmädchen"
+            ],
+            "id": "503"
+        },
+        {
+            "concepts": [
+                "Mädchen"
+            ],
+            "id": "504"
+        },
+        {
+            "concepts": [
+                "Bedienerin",
+                "Zugeherin"
+            ],
+            "id": "505"
+        },
+        {
+            "concepts": [
+                "alter",
+                "treue",
+                "Lohn",
+                "Diener",
+                "guter"
+            ],
+            "id": "506"
+        },
+        {
+            "concepts": [
+                "Augendiener",
+                "Dienerzimmer",
+                "Diener"
+            ],
+            "id": "507"
+        },
+        {
+            "concepts": [
+                "Dienerschaft"
+            ],
+            "id": "508"
+        },
+        {
+            "concepts": [
+                "Dienerin"
+            ],
+            "id": "509"
+        },
+        {
+            "concepts": [
+                "Magd",
+                "Dirne",
+                "Dirn"
+            ],
+            "id": "510"
+        },
+        {
+            "concepts": [
+                "Magd",
+                "Dirne",
+                "Kinderdirn",
+                "Mägdekammer"
+            ],
+            "id": "511"
+        },
+        {
+            "concepts": [
+                "Magd",
+                "Bestdirn",
+                "Erste"
+            ],
+            "id": "512"
+        },
+        {
+            "concepts": [
+                "Magd",
+                "Zweite",
+                "Mitterdirn"
+            ],
+            "id": "513"
+        },
+        {
+            "concepts": [
+                "schlechte",
+                "Pudeldirn",
+                "Untermagd"
+            ],
+            "id": "514"
+        },
+        {
+            "concepts": [
+                "Knecht",
+                "armer",
+                "Wie",
+                "Herr"
+            ],
+            "id": "515"
+        },
+        {
+            "concepts": [
+                "Knecht",
+                "Knechtdirn",
+                "Sündenknecht"
+            ],
+            "id": "516"
+        },
+        {
+            "concepts": [
+                "Knecht",
+                "Erster",
+                "Meier",
+                "Meisterknecht"
+            ],
+            "id": "517"
+        },
+        {
+            "concepts": [
+                "Knecht",
+                "Mitterknecht",
+                "Zweiter"
+            ],
+            "id": "518"
+        },
+        {
+            "concepts": [
+                "Unterknecht",
+                "Hausbostel"
+            ],
+            "id": "519"
+        },
+        {
+            "concepts": [
+                "knechten",
+                "bedrücken"
+            ],
+            "id": "520"
+        },
+        {
+            "concepts": [
+                "Knechtschaft"
+            ],
+            "id": "521"
+        },
+        {
+            "concepts": [
+                "knechtisch"
+            ],
+            "id": "522"
+        },
+        {
+            "concepts": [
+                "Sklave"
+            ],
+            "id": "523"
+        },
+        {
+            "concepts": [
+                "Sklavin"
+            ],
+            "id": "524"
+        },
+        {
+            "concepts": [
+                "Sklaverei"
+            ],
+            "id": "525"
+        },
+        {
+            "concepts": [
+                "sklavisch"
+            ],
+            "id": "526"
+        },
+        {
+            "concepts": [
+                "treu",
+                "ergebenster",
+                "ergeben",
+                "Diener"
+            ],
+            "id": "527"
+        },
+        {
+            "concepts": [
+                "untergeben",
+                "Untergebener"
+            ],
+            "id": "528"
+        },
+        {
+            "concepts": [
+                "Vorgesetzter",
+                "vorgesetzt"
+            ],
+            "id": "529"
+        },
+        {
+            "concepts": [
+                "unterdrücken"
+            ],
+            "id": "530"
+        },
+        {
+            "concepts": [
+                "Unterdrückung"
+            ],
+            "id": "531"
+        },
+        {
+            "concepts": [
+                "benachteiligen"
+            ],
+            "id": "532"
+        },
+        {
+            "concepts": [
+                "Benachteiligung"
+            ],
+            "id": "533"
+        },
+        {
+            "concepts": [
+                "zurücksetzen"
+            ],
+            "id": "534"
+        },
+        {
+            "concepts": [
+                "Zurücksetzung"
+            ],
+            "id": "535"
+        },
+        {
+            "concepts": [
+                "bevorzugen"
+            ],
+            "id": "536"
+        },
+        {
+            "concepts": [
+                "Bevorzugung"
+            ],
+            "id": "537"
+        },
+        {
+            "concepts": [
+                "begünstigen",
+                "protegieren"
+            ],
+            "id": "538"
+        },
+        {
+            "concepts": [
+                "Protektion",
+                "Begünstigung"
+            ],
+            "id": "539"
+        },
+        {
+            "concepts": [
+                "Günstling",
+                "Protegé"
+            ],
+            "id": "540"
+        },
+        {
+            "concepts": [
+                "fördern"
+            ],
+            "id": "541"
+        },
+        {
+            "concepts": [
+                "Gönner",
+                "Förderer",
+                "Protektor"
+            ],
+            "id": "542"
+        },
+        {
+            "concepts": [
+                "großer",
+                "zeigen",
+                "gestrenger",
+                "Herren",
+                "Knecht",
+                "spielen",
+                "Ausruf",
+                "Herr",
+                "gnädiger",
+                "aufspielen",
+                "Haus",
+                "eigener"
+            ],
+            "id": "543"
+        },
+        {
+            "concepts": [
+                "Hauptherr",
+                "Herrenbrot",
+                "Herr"
+            ],
+            "id": "544"
+        },
+        {
+            "concepts": [
+                "Herrschaft"
+            ],
+            "id": "545"
+        },
+        {
+            "concepts": [
+                "Herrschaftsdiener",
+                "Herrschaft",
+                "Grundherrschaft"
+            ],
+            "id": "546"
+        },
+        {
+            "concepts": [
+                "herrschaftlich"
+            ],
+            "id": "547"
+        },
+        {
+            "concepts": [
+                "barsch",
+                "herrisch"
+            ],
+            "id": "548"
+        },
+        {
+            "concepts": [
+                "herrisch",
+                "städtisch",
+                "nobel"
+            ],
+            "id": "549"
+        },
+        {
+            "concepts": [
+                "herrlich"
+            ],
+            "id": "550"
+        },
+        {
+            "concepts": [
+                "Dienstbote",
+                "Hausgehilfe",
+                "Ehalte"
+            ],
+            "id": "551"
+        },
+        {
+            "concepts": [
+                "Mädel",
+                "Hausgehilfin",
+                "Dienstmädchen"
+            ],
+            "id": "552"
+        },
+        {
+            "concepts": [
+                "Dienstboten",
+                "Gesinde"
+            ],
+            "id": "553"
+        },
+        {
+            "concepts": [
+                "Diensteintritt",
+                "Gesindetermine"
+            ],
+            "id": "554"
+        },
+        {
+            "concepts": [
+                "Dienstboten",
+                "Termine",
+                "Dienstaustritt"
+            ],
+            "id": "555"
+        },
+        {
+            "concepts": [
+                "entlassen",
+                "kündigen"
+            ],
+            "id": "556"
+        },
+        {
+            "concepts": [
+                "aufnehmen"
+            ],
+            "id": "557"
+        },
+        {
+            "concepts": [
+                "antreten",
+                "eintreten",
+                "Dienst"
+            ],
+            "id": "558"
+        },
+        {
+            "concepts": [
+                "verlassen",
+                "austreten",
+                "Dienst"
+            ],
+            "id": "559"
+        },
+        {
+            "concepts": [
+                "dienen",
+                "dient",
+                "Entschuldigung",
+                "Herren",
+                "zwei",
+                "Vorwand",
+                "Niemand",
+                "Lohn",
+                "womit"
+            ],
+            "id": "560"
+        },
+        {
+            "concepts": [
+                "dienen",
+                "bedienen"
+            ],
+            "id": "561"
+        },
+        {
+            "concepts": [
+                "ausgedient"
+            ],
+            "id": "562"
+        },
+        {
+            "concepts": [
+                "diensam",
+                "dienlich"
+            ],
+            "id": "563"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "Dienst",
+                "erw",
+                "verlassen",
+                "einführen",
+                "leichten",
+                "jagen",
+                "führen",
+                "übernehmen",
+                "harten",
+                "nehmen",
+                "suchen"
+            ],
+            "id": "564"
+        },
+        {
+            "concepts": [
+                "Dienstmann",
+                "Dienst",
+                "Liebesdienst"
+            ],
+            "id": "565"
+        },
+        {
+            "concepts": [
+                "dienstlich"
+            ],
+            "id": "566"
+        },
+        {
+            "concepts": [
+                "dienstbar"
+            ],
+            "id": "567"
+        },
+        {
+            "concepts": [
+                "Verdienst"
+            ],
+            "id": "568"
+        },
+        {
+            "concepts": [
+                "verdienstlich"
+            ],
+            "id": "569"
+        },
+        {
+            "concepts": [
+                "macht",
+                "gehen",
+                "geben",
+                "ganze",
+                "halbe",
+                "Aracht",
+                "Hände",
+                "nehmen",
+                "getaner",
+                "gut",
+                "ernähren",
+                "Arbeit",
+                "ruhe",
+                "gibt"
+            ],
+            "id": "570"
+        },
+        {
+            "concepts": [
+                "Dreckarbeit",
+                "arbeitsmüde",
+                "Arbeitsgewand",
+                "Arbeit"
+            ],
+            "id": "571"
+        },
+        {
+            "concepts": [
+                "arbeitsam"
+            ],
+            "id": "572"
+        },
+        {
+            "concepts": [
+                "Arbeitgeber"
+            ],
+            "id": "573"
+        },
+        {
+            "concepts": [
+                "arachten",
+                "Taglohn",
+                "arbeiten",
+                "Kopf",
+                "Akkord",
+                "Geld",
+                "lassen",
+                "Füßen",
+                "Händen"
+            ],
+            "id": "574"
+        },
+        {
+            "concepts": [
+                "derarbeiten",
+                "arbeiten"
+            ],
+            "id": "575"
+        },
+        {
+            "concepts": [
+                "abarbeiten",
+                "abmühen"
+            ],
+            "id": "576"
+        },
+        {
+            "concepts": [
+                "Schein",
+                "arbeiten",
+                "markieren"
+            ],
+            "id": "577"
+        },
+        {
+            "concepts": [
+                "Überstunden"
+            ],
+            "id": "578"
+        },
+        {
+            "concepts": [
+                "langsamer",
+                "flinker",
+                "Arbeiter"
+            ],
+            "id": "579"
+        },
+        {
+            "concepts": [
+                "Arbeiterin"
+            ],
+            "id": "580"
+        },
+        {
+            "concepts": [
+                "Arbeiterhaus",
+                "Arbeiter",
+                "Akkordarbeiter"
+            ],
+            "id": "581"
+        },
+        {
+            "concepts": [
+                "vorenthalten",
+                "dienen",
+                "Welt",
+                "verlangen",
+                "auszahlen",
+                "aufbessern",
+                "Kost",
+                "Lohn",
+                "Arbeit",
+                "abzwicken",
+                "dafür",
+                "Undank"
+            ],
+            "id": "582"
+        },
+        {
+            "concepts": [
+                "Lohnarbeit",
+                "Gotteslohn",
+                "Lohn"
+            ],
+            "id": "583"
+        },
+        {
+            "concepts": [
+                "lohnen",
+                "lohnt",
+                "gelohnt"
+            ],
+            "id": "584"
+        },
+        {
+            "concepts": [
+                "lohnen",
+                "auslohnen"
+            ],
+            "id": "585"
+        },
+        {
+            "concepts": [
+                "Löhner"
+            ],
+            "id": "586"
+        },
+        {
+            "concepts": [
+                "Fuhrlöhner",
+                "Löhner"
+            ],
+            "id": "587"
+        },
+        {
+            "concepts": [
+                "Löhnung"
+            ],
+            "id": "588"
+        },
+        {
+            "concepts": [
+                "kürzen",
+                "verdoppeln",
+                "auszahlen",
+                "aussetzen",
+                "aufbessern",
+                "bekommen",
+                "Gehalt"
+            ],
+            "id": "589"
+        },
+        {
+            "concepts": [
+                "Gehaltserhöhung",
+                "Gnadengehalt",
+                "Gehalt"
+            ],
+            "id": "590"
+        },
+        {
+            "concepts": [
+                "Gage"
+            ],
+            "id": "591"
+        },
+        {
+            "concepts": [
+                "Gagist"
+            ],
+            "id": "592"
+        },
+        {
+            "concepts": [
+                "Ehrensold",
+                "Honorar"
+            ],
+            "id": "593"
+        },
+        {
+            "concepts": [
+                "honorieren",
+                "vergüten"
+            ],
+            "id": "594"
+        },
+        {
+            "concepts": [
+                "Pension",
+                "Ruhegenuß"
+            ],
+            "id": "595"
+        },
+        {
+            "concepts": [
+                "Ruhestand",
+                "Pension"
+            ],
+            "id": "596"
+        },
+        {
+            "concepts": [
+                "Ruhestand",
+                "versetzen",
+                "pensionieren"
+            ],
+            "id": "597"
+        },
+        {
+            "concepts": [
+                "Ruheständler",
+                "Pensionist"
+            ],
+            "id": "598"
+        },
+        {
+            "concepts": [
+                "einkommen",
+                "Pensionierung"
+            ],
+            "id": "599"
+        },
+        {
+            "concepts": [
+                "Zuschuß"
+            ],
+            "id": "600"
+        },
+        {
+            "concepts": [
+                "Vorschuß",
+                "nehmen"
+            ],
+            "id": "601"
+        },
+        {
+            "concepts": [
+                "Zulage"
+            ],
+            "id": "602"
+        },
+        {
+            "concepts": [
+                "Abzug",
+                "Gehalt"
+            ],
+            "id": "603"
+        },
+        {
+            "concepts": [
+                "Volkes",
+                "lebende",
+                "Berufe",
+                "Ausnahme",
+                "bodenständige",
+                "heute",
+                "fahrenden",
+                "Künstler",
+                "sonstige"
+            ],
+            "id": "604"
+        },
+        {
+            "concepts": [
+                "Armbruster",
+                "Löffler",
+                "Berufe",
+                "Nagler",
+                "Waffenschmied",
+                "Brüchler",
+                "Bogner",
+                "fortleben",
+                "Schäffler",
+                "bodenständige",
+                "Erinnerung",
+                "Schwertfeger",
+                "abgekommene",
+                "Goldschläger"
+            ],
+            "id": "605"
+        },
+        {
+            "concepts": [
+                "mehr",
+                "FN",
+                "bodenständige",
+                "heute",
+                "zurückgehen"
+            ],
+            "id": "606"
+        }
+    ]
+}

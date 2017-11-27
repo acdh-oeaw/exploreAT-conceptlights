@@ -1,0 +1,7562 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Aussprache"
+                ],
+                [
+                    "Scherze"
+                ],
+                [
+                    "Jägerei"
+                ],
+                [
+                    "Schuß"
+                ],
+                [
+                    "Aberglaube"
+                ],
+                [
+                    "Schüsse"
+                ],
+                [
+                    "Schütze"
+                ],
+                [
+                    "Scheiben"
+                ],
+                [
+                    "Kolben"
+                ],
+                [
+                    "Zunder"
+                ],
+                [
+                    "Gewehrkugel"
+                ],
+                [
+                    "laden"
+                ],
+                [
+                    "Patronen"
+                ],
+                [
+                    "Gewehrreinigen"
+                ],
+                [
+                    "Hirschfänger"
+                ],
+                [
+                    "Büchsenmachers"
+                ],
+                [
+                    "weit"
+                ],
+                [
+                    "Pfeiles"
+                ],
+                [
+                    "Körperteile"
+                ],
+                [
+                    "nehmen"
+                ],
+                [
+                    "werfen"
+                ],
+                [
+                    "hitzig"
+                ],
+                [
+                    "zieht"
+                ],
+                [
+                    "anschlagen"
+                ],
+                [
+                    "geben"
+                ],
+                [
+                    "stellen"
+                ],
+                [
+                    "Sau"
+                ],
+                [
+                    "lösen"
+                ],
+                [
+                    "geht"
+                ],
+                [
+                    "Ende"
+                ],
+                [
+                    "Sechsender"
+                ],
+                [
+                    "Augen"
+                ],
+                [
+                    "Reh"
+                ],
+                [
+                    "Spießer"
+                ],
+                [
+                    "Gabler"
+                ],
+                [
+                    "alter"
+                ],
+                [
+                    "Gemsbock"
+                ],
+                [
+                    "Hase"
+                ],
+                [
+                    "Hasen"
+                ],
+                [
+                    "Kaninchen"
+                ],
+                [
+                    "Frettchen"
+                ],
+                [
+                    "Volksglaube"
+                ],
+                [
+                    "gehörig"
+                ],
+                [
+                    "Fuchs"
+                ],
+                [
+                    "junge"
+                ],
+                [
+                    "Bau"
+                ],
+                [
+                    "schlau"
+                ],
+                [
+                    "Dachs"
+                ]
+            ],
+            "2": [
+                [
+                    "sitzt"
+                ],
+                [
+                    "Fährte"
+                ],
+                [
+                    "Enden"
+                ],
+                [
+                    "Iltis"
+                ]
+            ],
+            "3": [
+                [
+                    "Pulver"
+                ],
+                [
+                    "Schrot"
+                ],
+                [
+                    "Lauf"
+                ],
+                [
+                    "Pfeil"
+                ],
+                [
+                    "Schleuder"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "ab"
+                ],
+                [
+                    "lassen"
+                ],
+                [
+                    "jagen"
+                ]
+            ],
+            "6": [
+                [
+                    "Jäger"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "Marder"
+                ]
+            ],
+            "10": [
+                [
+                    "Formen"
+                ],
+                [
+                    "Armbrust"
+                ],
+                [
+                    "Jagd"
+                ],
+                [
+                    "Teile"
+                ]
+            ],
+            "14": [
+                [
+                    "Kugel"
+                ]
+            ],
+            "15": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "21": [
+                [
+                    "schießen"
+                ]
+            ],
+            "25": [
+                [
+                    "Hirsch"
+                ]
+            ],
+            "35": [
+                [
+                    "Wild"
+                ]
+            ],
+            "45": [
+                [
+                    "Gewehr"
+                ]
+            ],
+            "118": [
+                [
+                    "Hund"
+                ]
+            ],
+            "119": [
+                [
+                    "Geweih"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Kugel",
+                    "sitzt"
+                ],
+                [
+                    "Jägerausdrücke",
+                    "Jagdhundes"
+                ],
+                [
+                    "niedere",
+                    "hohe"
+                ],
+                [
+                    "Fährte",
+                    "Hund"
+                ],
+                [
+                    "Riemen",
+                    "Hund"
+                ],
+                [
+                    "Geweih",
+                    "bezogen"
+                ],
+                [
+                    "Gamß",
+                    "Gemse"
+                ],
+                [
+                    "Dandel",
+                    "Damwild"
+                ],
+                [
+                    "Wiesel",
+                    "schnell"
+                ],
+                [
+                    "Elteis",
+                    "Iltis"
+                ]
+            ],
+            "2": [
+                [
+                    "Hirsch",
+                    "je"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "jöchen",
+                    "jauken",
+                    "hetzen"
+                ],
+                [
+                    "Stelle",
+                    "Schusse",
+                    "Wild"
+                ],
+                [
+                    "Enden",
+                    "je",
+                    "Hirsch"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussprache"
+            ],
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 0,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 1,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 1,
+            "target": 333,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 5,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 6,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 6,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "niedere",
+                "hohe"
+            ],
+            "source": 6,
+            "target": 216,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 10,
+            "target": 162,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 10,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jagd"
+            ],
+            "source": 10,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jagen"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 11,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jagen"
+            ],
+            "source": 11,
+            "target": 332,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jagen"
+            ],
+            "source": 12,
+            "target": 332,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jöchen",
+                "jauken",
+                "hetzen"
+            ],
+            "source": 13,
+            "target": 14,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 13,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jäger"
+            ],
+            "source": 15,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jäger"
+            ],
+            "source": 15,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jäger"
+            ],
+            "source": 15,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jäger"
+            ],
+            "source": 16,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jäger"
+            ],
+            "source": 16,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scherze"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jägerei"
+            ],
+            "source": 19,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jäger"
+            ],
+            "source": 21,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 23,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 23,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 23,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 23,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 26,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 26,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 26,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 34,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 34,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 34,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 34,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 34,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 34,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 34,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 34,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 35,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 35,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 35,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 35,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 35,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 36,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 36,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 36,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 36,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schuß"
+            ],
+            "source": 40,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pulver"
+            ],
+            "source": 40,
+            "target": 133,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pulver"
+            ],
+            "source": 40,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weit"
+            ],
+            "source": 40,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 42,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 42,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stelle",
+                "Schusse",
+                "Wild"
+            ],
+            "source": 42,
+            "target": 62,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 42,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 42,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 42,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 42,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 42,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 42,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 42,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 42,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 44,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 44,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 44,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 44,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 44,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 44,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 44,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 47,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 47,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 47,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüsse"
+            ],
+            "source": 50,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Körperteile"
+            ],
+            "source": 50,
+            "target": 202,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 55,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sitzt"
+            ],
+            "source": 55,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 55,
+            "target": 123,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel",
+                "sitzt"
+            ],
+            "source": 55,
+            "target": 137,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 55,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 55,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 55,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 55,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 55,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 59,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 59,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 59,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 59,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ab"
+            ],
+            "source": 59,
+            "target": 220,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ab"
+            ],
+            "source": 59,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 61,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 61,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 61,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 61,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 61,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 62,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 62,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 62,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 62,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 62,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 67,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Augen"
+            ],
+            "source": 67,
+            "target": 291,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 67,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schütze"
+            ],
+            "source": 68,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheiben"
+            ],
+            "source": 72,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 72,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 72,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "anschlagen"
+            ],
+            "source": 84,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 87,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 87,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 90,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 91,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 91,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 91,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 92,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 92,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 92,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 92,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 92,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 92,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 92,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauf"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauf"
+            ],
+            "source": 93,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lauf"
+            ],
+            "source": 94,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kolben"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 106,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 106,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 106,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 106,
+            "target": 351,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 108,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 108,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 108,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 108,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 108,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 108,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 110,
+            "target": 124,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "laden"
+            ],
+            "source": 110,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 110,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 110,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 110,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 110,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 110,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sitzt"
+            ],
+            "source": 112,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 115,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zunder"
+            ],
+            "source": 117,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nehmen"
+            ],
+            "source": 121,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 123,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 123,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pulver"
+            ],
+            "source": 133,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schießen"
+            ],
+            "source": 134,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehrkugel"
+            ],
+            "source": 137,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 137,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 137,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 137,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 142,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 142,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kugel"
+            ],
+            "source": 143,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schrot"
+            ],
+            "source": 146,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schrot"
+            ],
+            "source": 146,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schrot"
+            ],
+            "source": 147,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Patronen"
+            ],
+            "source": 155,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 157,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 157,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 157,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 157,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehrreinigen"
+            ],
+            "source": 158,
+            "target": 159,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 162,
+            "target": 195,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 163,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirschfänger"
+            ],
+            "source": 166,
+            "target": 167,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 166,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 166,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 166,
+            "target": 351,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geben"
+            ],
+            "source": 167,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Büchsenmachers"
+            ],
+            "source": 174,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 177,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 177,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 177,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 178,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 178,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 178,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewehr"
+            ],
+            "source": 179,
+            "target": 180,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 181,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 181,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 181,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 181,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 182,
+            "target": 183,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 182,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 182,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 182,
+            "target": 187,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 182,
+            "target": 351,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 183,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 183,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Armbrust"
+            ],
+            "source": 184,
+            "target": 185,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfeil"
+            ],
+            "source": 186,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfeil"
+            ],
+            "source": 186,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfeiles"
+            ],
+            "source": 187,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 187,
+            "target": 351,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfeil"
+            ],
+            "source": 188,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schleuder"
+            ],
+            "source": 192,
+            "target": 193,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schleuder"
+            ],
+            "source": 192,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schleuder"
+            ],
+            "source": 193,
+            "target": 194,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "werfen"
+            ],
+            "source": 194,
+            "target": 203,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "junge"
+            ],
+            "source": 200,
+            "target": 349,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 206,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 210,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 201,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jägerausdrücke",
+                "Jagdhundes"
+            ],
+            "source": 202,
+            "target": 203,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "hitzig"
+            ],
+            "source": 203,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lösen"
+            ],
+            "source": 203,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 207,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 210,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 206,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 208,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 210,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 207,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 209,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 210,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 208,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 210,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 209,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 211,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 210,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 211,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 212,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 213,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 213,
+            "target": 327,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zieht"
+            ],
+            "source": 217,
+            "target": 221,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 217,
+            "target": 227,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 217,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 217,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 217,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 217,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 217,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 217,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fährte"
+            ],
+            "source": 218,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fährte"
+            ],
+            "source": 218,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ab"
+            ],
+            "source": 220,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 221,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 221,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 221,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 221,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 227,
+            "target": 234,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 227,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 227,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 227,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 227,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 227,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 229,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 229,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 229,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 230,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 230,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 233,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fährte",
+                "Hund"
+            ],
+            "source": 234,
+            "target": 249,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 234,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 234,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 234,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 234,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wild"
+            ],
+            "source": 238,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stellen"
+            ],
+            "source": 238,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sau"
+            ],
+            "source": 243,
+            "target": 244,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 249,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 249,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 249,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 249,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 250,
+            "target": 251,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 250,
+            "target": 252,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 250,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Riemen",
+                "Hund"
+            ],
+            "source": 251,
+            "target": 252,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 251,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 251,
+            "target": 327,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 252,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 254,
+            "target": 255,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 254,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 254,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 254,
+            "target": 265,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 254,
+            "target": 284,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 254,
+            "target": 286,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 254,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 255,
+            "target": 263,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 255,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 255,
+            "target": 265,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 255,
+            "target": 284,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 255,
+            "target": 286,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 255,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 263,
+            "target": 264,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 263,
+            "target": 265,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 263,
+            "target": 284,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 263,
+            "target": 286,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 263,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 264,
+            "target": 265,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 264,
+            "target": 284,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 264,
+            "target": 286,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 264,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 265,
+            "target": 284,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 265,
+            "target": 286,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch"
+            ],
+            "source": 265,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alter"
+            ],
+            "source": 265,
+            "target": 310,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 269,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 270,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 271,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 273,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 274,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 268,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 270,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 271,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 273,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 274,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 269,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 271,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 273,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 274,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih",
+                "bezogen"
+            ],
+            "source": 270,
+            "target": 290,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 270,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 273,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 274,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 271,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 274,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 273,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 275,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 274,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 276,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 275,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 278,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 276,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ende"
+            ],
+            "source": 277,
+            "target": 283,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Enden"
+            ],
+            "source": 277,
+            "target": 286,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Enden"
+            ],
+            "source": 277,
+            "target": 287,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 278,
+            "target": 279,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 278,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 278,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 278,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 278,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 278,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 278,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 279,
+            "target": 280,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 279,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 279,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 279,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 279,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 279,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 280,
+            "target": 281,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 280,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 280,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 280,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 280,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 281,
+            "target": 289,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 281,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 281,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 281,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hirsch",
+                "je"
+            ],
+            "source": 284,
+            "target": 286,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hirsch",
+                "je"
+            ],
+            "source": 284,
+            "target": 287,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Spießer"
+            ],
+            "source": 284,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Enden",
+                "je",
+                "Hirsch"
+            ],
+            "source": 286,
+            "target": 287,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Gabler"
+            ],
+            "source": 286,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sechsender"
+            ],
+            "source": 287,
+            "target": 288,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 289,
+            "target": 290,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 289,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 289,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 290,
+            "target": 301,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 290,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reh"
+            ],
+            "source": 291,
+            "target": 292,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweih"
+            ],
+            "source": 301,
+            "target": 318,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gamß",
+                "Gemse"
+            ],
+            "source": 307,
+            "target": 308,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gemsbock"
+            ],
+            "source": 309,
+            "target": 310,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dandel",
+                "Damwild"
+            ],
+            "source": 317,
+            "target": 320,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Hase"
+            ],
+            "source": 321,
+            "target": 322,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hasen"
+            ],
+            "source": 321,
+            "target": 326,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehörig"
+            ],
+            "source": 326,
+            "target": 340,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kaninchen"
+            ],
+            "source": 329,
+            "target": 332,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bau"
+            ],
+            "source": 330,
+            "target": 352,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Frettchen"
+            ],
+            "source": 331,
+            "target": 332,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wiesel",
+                "schnell"
+            ],
+            "source": 333,
+            "target": 334,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Marder"
+            ],
+            "source": 336,
+            "target": 339,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Marder"
+            ],
+            "source": 336,
+            "target": 340,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Marder"
+            ],
+            "source": 336,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Marder"
+            ],
+            "source": 339,
+            "target": 340,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Marder"
+            ],
+            "source": 339,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Marder"
+            ],
+            "source": 340,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Elteis",
+                "Iltis"
+            ],
+            "source": 341,
+            "target": 342,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Iltis"
+            ],
+            "source": 341,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Iltis"
+            ],
+            "source": 342,
+            "target": 343,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuchs"
+            ],
+            "source": 345,
+            "target": 346,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlau"
+            ],
+            "source": 345,
+            "target": 357,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Dachs"
+            ],
+            "source": 359,
+            "target": 360,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Aussprache",
+                "Jagd"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Die",
+                "Volksglaube",
+                "Gejaid",
+                "wilde",
+                "Jagd"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Jagdfieber",
+                "Scherzhaftes"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Jagdkarte"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Waffenpaß"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Jagdglück",
+                "Aberglaube"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "niedere",
+                "hohe",
+                "Jagd"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Feldjagd"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Hühnerjagd"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "jagdbar"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Jagd",
+                "sonstige"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "jagen"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "jagen",
+                "ausjagen"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "jöchen",
+                "jauken",
+                "Ausdrücke",
+                "hetzen"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "jöchen",
+                "hetzen",
+                "jauken"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Jagdteilnehmer",
+                "Aussprache",
+                "Berufsjäger",
+                "Jäger",
+                "bloß"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "passionierter",
+                "Jäger"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Scherze",
+                "Sonntagsjäger"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "Jägerlatein",
+                "Scherze"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Jägerhaus",
+                "Jägerei"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Jägerlied",
+                "Schwange"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Oberjäger",
+                "Aasjäger",
+                "Jäger",
+                "Jägermeister"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Jägerin"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "jagern",
+                "Jagerei",
+                "planloses",
+                "verächtliche",
+                "Aasjägerei",
+                "Jagen",
+                "unwaidmännisches",
+                "Ausdrücke"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Heger",
+                "Jagdpersonal"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Jagdleiter"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Jägerei",
+                "Gesamtheit",
+                "Jäger",
+                "bezeichnen",
+                "Ausdrücke"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Waidmann"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "waidmännisch"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "schußgerecht"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "waidlich"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Waidwerk"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Jägergruß"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Geschlecht",
+                "Revier"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "Stich",
+                "Formen",
+                "Fleck",
+                "schießen",
+                "kurz"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "schießen",
+                "plettern"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "schießen",
+                "derschießen"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "unbeschossen"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Schießer"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Schießerei"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "blinder",
+                "Pulver",
+                "wert",
+                "weit",
+                "kommen",
+                "Schuß"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Abschuß"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "stand",
+                "Wild",
+                "Schusse",
+                "Anschuß",
+                "beim"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Schnitthaare",
+                "abgeschossene",
+                "Haare",
+                "Schlaghaare"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Ausschuß",
+                "Wild"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Fehlschuß"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "danebenschießen",
+                "fehlen",
+                "fehlschießen"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "krank",
+                "Holze",
+                "schießen",
+                "ankratzen",
+                "anschießen"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "flügeln"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "ständern",
+                "standeln"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "verletzt",
+                "Schüsse",
+                "wurden",
+                "bestimmte",
+                "Krellschuß",
+                "Körperteile"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "waidwund"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Streifschuß"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "kämmen",
+                "federn"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "radeln"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "gut",
+                "Kugel",
+                "sitzt"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "Schrotschuß"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Fangschuß"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Geller",
+                "Gellschuß"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "gellt",
+                "ab",
+                "Kugel",
+                "springt"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "ausschlagen",
+                "flüchtig",
+                "Benehmen",
+                "bäumen",
+                "zusammenziehen",
+                "aufspringen",
+                "abgehen",
+                "Hinterläufen",
+                "langsam",
+                "Schußzeichen",
+                "Wildes",
+                "ducken",
+                "stürzen",
+                "Schuß"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Wild",
+                "zeichnet"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "Wild",
+                "Knicken",
+                "Schusse",
+                "verschwunden",
+                "anmerken",
+                "Zweige",
+                "verbrechen"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "schußfertig"
+            ],
+            "id": "B30"
+        },
+        {
+            "concepts": [
+                "gefeit",
+                "Schüsse",
+                "Aberglaube",
+                "kugelfest"
+            ],
+            "id": "B31"
+        },
+        {
+            "concepts": [
+                "Schußgeld"
+            ],
+            "id": "B32"
+        },
+        {
+            "concepts": [
+                "schußneidig"
+            ],
+            "id": "B33"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "Abfeuern",
+                "schußblind",
+                "jemand",
+                "schließt",
+                "beim"
+            ],
+            "id": "B34"
+        },
+        {
+            "concepts": [
+                "Grillenlochbohrer",
+                "schlechter",
+                "Schütze"
+            ],
+            "id": "B35"
+        },
+        {
+            "concepts": [
+                "Wildschütze",
+                "Lump",
+                "Wilderer"
+            ],
+            "id": "B36"
+        },
+        {
+            "concepts": [
+                "wildern"
+            ],
+            "id": "B37"
+        },
+        {
+            "concepts": [
+                "Schützenkönig",
+                "Schütze"
+            ],
+            "id": "B38"
+        },
+        {
+            "concepts": [
+                "Schießscheibe",
+                "schießen",
+                "Scheiben"
+            ],
+            "id": "B39"
+        },
+        {
+            "concepts": [
+                "Figurscheiben",
+                "Scheiben",
+                "Benennungen",
+                "Gebrauch"
+            ],
+            "id": "B40"
+        },
+        {
+            "concepts": [
+                "Scheibengewehr"
+            ],
+            "id": "B41"
+        },
+        {
+            "concepts": [
+                "Scheibenhaus"
+            ],
+            "id": "B42"
+        },
+        {
+            "concepts": [
+                "Scheibenstand"
+            ],
+            "id": "B43"
+        },
+        {
+            "concepts": [
+                "Kugelfang"
+            ],
+            "id": "B44"
+        },
+        {
+            "concepts": [
+                "Scheibenanzeiger",
+                "Zieler"
+            ],
+            "id": "B45"
+        },
+        {
+            "concepts": [
+                "Zentrum",
+                "Schwarze",
+                "Scheibenmittelpunkt"
+            ],
+            "id": "B46"
+        },
+        {
+            "concepts": [
+                "Kreise",
+                "Namen",
+                "Scheibe"
+            ],
+            "id": "B47"
+        },
+        {
+            "concepts": [
+                "Schützenhaus",
+                "Schießstätte"
+            ],
+            "id": "B48"
+        },
+        {
+            "concepts": [
+                "Ziel"
+            ],
+            "id": "B49"
+        },
+        {
+            "concepts": [
+                "zielen"
+            ],
+            "id": "B50"
+        },
+        {
+            "concepts": [
+                "anschlagen"
+            ],
+            "id": "B51"
+        },
+        {
+            "concepts": [
+                "liegen",
+                "Anschlag"
+            ],
+            "id": "B52"
+        },
+        {
+            "concepts": [
+                "vorhalten"
+            ],
+            "id": "B53"
+        },
+        {
+            "concepts": [
+                "treffen",
+                "Formen"
+            ],
+            "id": "B54"
+        },
+        {
+            "concepts": [
+                "Treffer"
+            ],
+            "id": "B55"
+        },
+        {
+            "concepts": [
+                "Trefferpreis"
+            ],
+            "id": "B56"
+        },
+        {
+            "concepts": [
+                "Gewehr"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "Brachse",
+                "Schrotspritze",
+                "Ausdrücke",
+                "Schießprügel"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Drilling",
+                "Gewehr",
+                "hahnenloses",
+                "Gewehrarten",
+                "Scheinschloßgewehr",
+                "Doppelbüchse",
+                "Lancaster",
+                "Lefaucher",
+                "Hinterlader"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Lauf"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Lauf",
+                "gezogener",
+                "verjüngter",
+                "Gewehrlaufarten",
+                "vorne",
+                "Würgebohrung"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Drall"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Schaft"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Kolben"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Kolben",
+                "Backe"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Schloß",
+                "Abzugvorrichtung"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Hahn"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Züngel",
+                "Abzug",
+                "Schneller"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "abziehen"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Stecher"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "gestochen",
+                "stechen"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Rast",
+                "Schlosses",
+                "Teil"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Gewehrschlosses",
+                "Teile"
+            ],
+            "id": "C16a"
+        },
+        {
+            "concepts": [
+                "Verschlußbügel"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "öffnen",
+                "schließen"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "Patronenauswerfer"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "laden",
+                "Formen",
+                "heute",
+                "geladen"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Ladung"
+            ],
+            "id": "C20a"
+        },
+        {
+            "concepts": [
+                "Ladstock",
+                "wann",
+                "sitzt",
+                "hätte",
+                "Ladestock",
+                "geschluckt"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "entladen"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Patronenzieher",
+                "Patronenhülsen",
+                "steckengebliebene"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Steinschloßgewehr",
+                "beim",
+                "Pfanne"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Feuerstein"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "brennt",
+                "Zunder",
+                "Feuerschwamm"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "zunderrot",
+                "Zunder"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Feuerschwämme",
+                "zundern",
+                "sammeln"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "Grinsel",
+                "Visier",
+                "Absehen"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Korn",
+                "aufs",
+                "nehmen",
+                "Mücke",
+                "gestrichenes"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Büchsenlicht"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "gut",
+                "schlecht",
+                "abkommen"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "spannen",
+                "Formen"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "entspannen"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "losgehen",
+                "versagen"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Versager"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "Gewehrriemen"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Schießpulver"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "Pulverdampf"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "Pulverhorn"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "Pulvermaß"
+            ],
+            "id": "C41"
+        },
+        {
+            "concepts": [
+                "Pulver",
+                "rauchloses",
+                "Pulversorten"
+            ],
+            "id": "C42"
+        },
+        {
+            "concepts": [
+                "schießen",
+                "pulvern"
+            ],
+            "id": "C43"
+        },
+        {
+            "concepts": [
+                "verpulvern"
+            ],
+            "id": "C44"
+        },
+        {
+            "concepts": [
+                "riechen",
+                "Pulver",
+                "pülverln"
+            ],
+            "id": "C45"
+        },
+        {
+            "concepts": [
+                "sitzt",
+                "Gewehrkugel",
+                "Kugel",
+                "Kugeln",
+                "gießen"
+            ],
+            "id": "C46"
+        },
+        {
+            "concepts": [
+                "blaue",
+                "Gewehrkugel",
+                "Bohnen"
+            ],
+            "id": "C47"
+        },
+        {
+            "concepts": [
+                "Kugelbeutel"
+            ],
+            "id": "C48"
+        },
+        {
+            "concepts": [
+                "Gewehrkugeln",
+                "Gießen",
+                "Kugelform"
+            ],
+            "id": "C49"
+        },
+        {
+            "concepts": [
+                "Kugelarten",
+                "Kettenkugel"
+            ],
+            "id": "C50"
+        },
+        {
+            "concepts": [
+                "schlägt",
+                "glatt",
+                "Kugel"
+            ],
+            "id": "C51"
+        },
+        {
+            "concepts": [
+                "reißt",
+                "Kugel"
+            ],
+            "id": "C52"
+        },
+        {
+            "concepts": [
+                "bleibt",
+                "stecken",
+                "Kugel",
+                "steckt"
+            ],
+            "id": "C53"
+        },
+        {
+            "concepts": [
+                "Steckschuß"
+            ],
+            "id": "C54"
+        },
+        {
+            "concepts": [
+                "Schrot",
+                "Schrötel",
+                "abkriegen"
+            ],
+            "id": "C55"
+        },
+        {
+            "concepts": [
+                "Entenschrot",
+                "Vogeldunst",
+                "4er",
+                "Schrotsorten",
+                "Schrot",
+                "Rehposten"
+            ],
+            "id": "C56"
+        },
+        {
+            "concepts": [
+                "Schrot",
+                "Schrotbeutel"
+            ],
+            "id": "C57"
+        },
+        {
+            "concepts": [
+                "Pfropfen",
+                "Stoppel"
+            ],
+            "id": "C58"
+        },
+        {
+            "concepts": [
+                "Patrone"
+            ],
+            "id": "C59"
+        },
+        {
+            "concepts": [
+                "Jagdtasche",
+                "Patronentasche"
+            ],
+            "id": "C60"
+        },
+        {
+            "concepts": [
+                "Patronengürtel"
+            ],
+            "id": "C61"
+        },
+        {
+            "concepts": [
+                "Patronenhülse"
+            ],
+            "id": "C62"
+        },
+        {
+            "concepts": [
+                "Gapsel",
+                "Kapsel",
+                "Zündhütchen"
+            ],
+            "id": "C63"
+        },
+        {
+            "concepts": [
+                "laden",
+                "Patronen",
+                "füllen"
+            ],
+            "id": "C64"
+        },
+        {
+            "concepts": [
+                "Geräte",
+                "Patronen",
+                "Füllen"
+            ],
+            "id": "C65"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "putzen",
+                "reinigen"
+            ],
+            "id": "C66"
+        },
+        {
+            "concepts": [
+                "Gewehrreinigen",
+                "Putzstock"
+            ],
+            "id": "C67"
+        },
+        {
+            "concepts": [
+                "Gewehrreinigen",
+                "Putzschnur"
+            ],
+            "id": "C68"
+        },
+        {
+            "concepts": [
+                "Gewehrreinigung",
+                "Putzgerät"
+            ],
+            "id": "C69"
+        },
+        {
+            "concepts": [
+                "Lappen",
+                "Putzmittel",
+                "Werg"
+            ],
+            "id": "C70"
+        },
+        {
+            "concepts": [
+                "Gewehröl",
+                "Erhaltungsmittel",
+                "sonstige"
+            ],
+            "id": "C71"
+        },
+        {
+            "concepts": [
+                "Ausdrücke",
+                "Jägerrucksack"
+            ],
+            "id": "C72"
+        },
+        {
+            "concepts": [
+                "Jagdhorn",
+                "Blase"
+            ],
+            "id": "C73"
+        },
+        {
+            "concepts": [
+                "Wildgattungen",
+                "Hasenklage",
+                "Blatter",
+                "Anlocken",
+                "verschiedener",
+                "Eulenruf",
+                "Instrumente"
+            ],
+            "id": "C74"
+        },
+        {
+            "concepts": [
+                "Hirschfänger",
+                "Teile",
+                "heißen"
+            ],
+            "id": "C75"
+        },
+        {
+            "concepts": [
+                "Hirschfänger",
+                "geben",
+                "abfangen",
+                "Fang"
+            ],
+            "id": "C76"
+        },
+        {
+            "concepts": [
+                "Kälberfang"
+            ],
+            "id": "C77"
+        },
+        {
+            "concepts": [
+                "Saufeder"
+            ],
+            "id": "C78"
+        },
+        {
+            "concepts": [
+                "Waidmesser",
+                "Waidner",
+                "Knicker"
+            ],
+            "id": "C79"
+        },
+        {
+            "concepts": [
+                "knicken"
+            ],
+            "id": "C80"
+        },
+        {
+            "concepts": [
+                "Standhauer"
+            ],
+            "id": "C81"
+        },
+        {
+            "concepts": [
+                "Büchsenmacher"
+            ],
+            "id": "C82"
+        },
+        {
+            "concepts": [
+                "Büchsenmachers",
+                "Werkzeuge"
+            ],
+            "id": "C83"
+        },
+        {
+            "concepts": [
+                "Büchsenmachers",
+                "Lauf",
+                "Arbeiten",
+                "ausbohren",
+                "brünieren"
+            ],
+            "id": "C84"
+        },
+        {
+            "concepts": [
+                "Büchsenspanner"
+            ],
+            "id": "C85"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "stark",
+                "streut"
+            ],
+            "id": "C86"
+        },
+        {
+            "concepts": [
+                "hält",
+                "Gewehr",
+                "zusammen",
+                "deckt",
+                "gut"
+            ],
+            "id": "C87"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "weit",
+                "trägt"
+            ],
+            "id": "C88"
+        },
+        {
+            "concepts": [
+                "Gewehr",
+                "stößt"
+            ],
+            "id": "C89"
+        },
+        {
+            "concepts": [
+                "Balester",
+                "Armbrust"
+            ],
+            "id": "C90"
+        },
+        {
+            "concepts": [
+                "Armbrust",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "id": "C91"
+        },
+        {
+            "concepts": [
+                "Armbrust",
+                "Bolzen"
+            ],
+            "id": "C92"
+        },
+        {
+            "concepts": [
+                "Armbrust",
+                "Bogen"
+            ],
+            "id": "C93"
+        },
+        {
+            "concepts": [
+                "Armbrust",
+                "Bogensehne"
+            ],
+            "id": "C94"
+        },
+        {
+            "concepts": [
+                "Pfitschepfeil",
+                "Pfeil"
+            ],
+            "id": "C95"
+        },
+        {
+            "concepts": [
+                "Spitze",
+                "Pfeiles",
+                "Teile"
+            ],
+            "id": "C96"
+        },
+        {
+            "concepts": [
+                "pfeilschnell",
+                "Pfeil"
+            ],
+            "id": "C97"
+        },
+        {
+            "concepts": [
+                "Pfeil",
+                "abschießen"
+            ],
+            "id": "C98"
+        },
+        {
+            "concepts": [
+                "Flitzen",
+                "Fliegen",
+                "Pfeiles"
+            ],
+            "id": "C99"
+        },
+        {
+            "concepts": [
+                "Köcher",
+                "Pfeile"
+            ],
+            "id": "C100"
+        },
+        {
+            "concepts": [
+                "Schleuder"
+            ],
+            "id": "C101"
+        },
+        {
+            "concepts": [
+                "Schleuder"
+            ],
+            "id": "C102"
+        },
+        {
+            "concepts": [
+                "schießen",
+                "schleudern",
+                "Schleuder",
+                "werfen"
+            ],
+            "id": "C103"
+        },
+        {
+            "concepts": [
+                "Knabenspielzeug",
+                "Jagdwaffen",
+                "sonstige"
+            ],
+            "id": "C104"
+        },
+        {
+            "concepts": [
+                "Vorstehhund"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Bracken",
+                "Hunderassen",
+                "Branteln",
+                "Jagd",
+                "verwendeten"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Jagdhundnamen"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Hündin",
+                "Jägerausdruck"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Jagdhunde",
+                "junge"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Jägers",
+                "such",
+                "apport",
+                "hüt",
+                "kusch",
+                "faß",
+                "Zurufe",
+                "Hund"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Jägerausdrücke",
+                "Jagdhundes",
+                "Körperteile"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "eingehen",
+                "decken",
+                "Lebensfunktionen",
+                "Jagdhundes",
+                "hitzig",
+                "belegen",
+                "gebären",
+                "fressen",
+                "werfen",
+                "nehmen",
+                "Jägerausdrücke",
+                "läufig",
+                "entleeren",
+                "umstehen",
+                "lösen"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "abrichten",
+                "abführen"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "Dressur"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "gut",
+                "arbeitet",
+                "Hund"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Appell",
+                "Hund"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "hitzig",
+                "scharf",
+                "Hund"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "ferm",
+                "Hund"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "hasenrein",
+                "Hund"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "schußscheu",
+                "Hund"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "handscheu",
+                "Hund"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "suchen"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Schwaißarbeit"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "gute",
+                "Witterung"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "niedere",
+                "hohe",
+                "Suche"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "zieht",
+                "Hund"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Fährte",
+                "fällt",
+                "nimmt"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "reviert"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "rändert",
+                "ab",
+                "stöbert"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "laufenden",
+                "zieht",
+                "Wild"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "hüten",
+                "vorstehen",
+                "stehen"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "einspringen",
+                "aufstöbern"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "nachprellen"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "nachjagen"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "abrufen"
+            ],
+            "id": "D31"
+        },
+        {
+            "concepts": [
+                "ablegen",
+                "liegend",
+                "zurücklassen",
+                "Hund"
+            ],
+            "id": "D32"
+        },
+        {
+            "concepts": [
+                "apportieren"
+            ],
+            "id": "D33"
+        },
+        {
+            "concepts": [
+                "zerdrücken",
+                "knautschen",
+                "Wild"
+            ],
+            "id": "D34"
+        },
+        {
+            "concepts": [
+                "anfressen",
+                "Wild",
+                "anschneiden"
+            ],
+            "id": "D35"
+        },
+        {
+            "concepts": [
+                "Laut",
+                "anschlagen",
+                "geben"
+            ],
+            "id": "D36"
+        },
+        {
+            "concepts": [
+                "fährtenlaut"
+            ],
+            "id": "D37"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Beil"
+            ],
+            "id": "D38"
+        },
+        {
+            "concepts": [
+                "beilbrüchig",
+                "Fährte",
+                "aufhört",
+                "bellen",
+                "Hund"
+            ],
+            "id": "D39"
+        },
+        {
+            "concepts": [
+                "lautjagend"
+            ],
+            "id": "D40"
+        },
+        {
+            "concepts": [
+                "Gebell",
+                "Geläute"
+            ],
+            "id": "D41"
+        },
+        {
+            "concepts": [
+                "tot",
+                "verbellen"
+            ],
+            "id": "D42"
+        },
+        {
+            "concepts": [
+                "Wild",
+                "stellen"
+            ],
+            "id": "D43"
+        },
+        {
+            "concepts": [
+                "angegangen",
+                "Wild"
+            ],
+            "id": "D44"
+        },
+        {
+            "concepts": [
+                "Meute"
+            ],
+            "id": "D45"
+        },
+        {
+            "concepts": [
+                "abkoppeln"
+            ],
+            "id": "D46"
+        },
+        {
+            "concepts": [
+                "Schwein",
+                "packen",
+                "stellen"
+            ],
+            "id": "D47"
+        },
+        {
+            "concepts": [
+                "ausheben",
+                "Sau"
+            ],
+            "id": "D48"
+        },
+        {
+            "concepts": [
+                "Hunde",
+                "Sau",
+                "abnehmen"
+            ],
+            "id": "D49"
+        },
+        {
+            "concepts": [
+                "Halsung",
+                "Hundehalsband"
+            ],
+            "id": "D50"
+        },
+        {
+            "concepts": [
+                "Hundeleine"
+            ],
+            "id": "D51"
+        },
+        {
+            "concepts": [
+                "Hundepeitsche"
+            ],
+            "id": "D52"
+        },
+        {
+            "concepts": [
+                "Schwaißriemen"
+            ],
+            "id": "D53"
+        },
+        {
+            "concepts": [
+                "Fährte",
+                "setzen",
+                "Hund"
+            ],
+            "id": "D54"
+        },
+        {
+            "concepts": [
+                "hängt",
+                "Hund"
+            ],
+            "id": "D55"
+        },
+        {
+            "concepts": [
+                "nacharbeiten",
+                "Riemen",
+                "lassen",
+                "Hund"
+            ],
+            "id": "D56"
+        },
+        {
+            "concepts": [
+                "Riemen",
+                "lösen",
+                "Hund"
+            ],
+            "id": "D57"
+        },
+        {
+            "concepts": [
+                "geht",
+                "fährt",
+                "ab",
+                "Hund"
+            ],
+            "id": "D58"
+        },
+        {
+            "concepts": [
+                "Hirsch",
+                "Hörner",
+                "binden",
+                "Hirschen"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Hirsch",
+                "Hirschbrust",
+                "hirschhäuten",
+                "Beihirsch"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Hirschkuh",
+                "Kahlwild",
+                "Tier",
+                "Hirschin"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Schmaltier"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Alttier"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Galttier"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "unfruchtbar",
+                "galt"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Hirschkalb"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Wildkalb"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Hirsch",
+                "schwacher",
+                "geringer"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Hirsch",
+                "guter",
+                "starker",
+                "kapitaler"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Hirsch",
+                "alter",
+                "einsamer",
+                "Einsiedler"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Edelwild"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Stangen",
+                "Gestemm",
+                "Hirschgeweih"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "abwerfen",
+                "Geweih"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "aufsetzen",
+                "Geweih",
+                "brav",
+                "schiebt"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "fegen",
+                "Geweih",
+                "verfegt",
+                "bezogen"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "rauh",
+                "Geweih",
+                "Bast"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Kolbenhirsch"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "Geweih",
+                "Rosen"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Geweih",
+                "Rosenstöcke"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Geweih",
+                "Perlen"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "Geweih",
+                "geperlt"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "woran",
+                "Enden",
+                "Geweihes",
+                "Ende",
+                "Hut",
+                "gilt",
+                "aufhängen"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "Augensproß",
+                "Geweih"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "Eissproß",
+                "Geweih"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "Geweih",
+                "Mittelsproß"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "Krone",
+                "Geweih"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "Kronengeweih"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "Perle",
+                "Ausbuchtung",
+                "blendet",
+                "starke",
+                "Ende",
+                "Geweihs",
+                "aussieht"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "Spieß",
+                "Spießer",
+                "je",
+                "Hirsch",
+                "Spießhirsch"
+            ],
+            "id": "E31"
+        },
+        {
+            "concepts": [
+                "verreckt",
+                "Spieße"
+            ],
+            "id": "E32"
+        },
+        {
+            "concepts": [
+                "Enden",
+                "je",
+                "Gabler",
+                "Gabelhirsch",
+                "Hirsch"
+            ],
+            "id": "E33"
+        },
+        {
+            "concepts": [
+                "Enden",
+                "Sechsender",
+                "je",
+                "mehr",
+                "Hirsch"
+            ],
+            "id": "E34"
+        },
+        {
+            "concepts": [
+                "gerader",
+                "ungerader",
+                "Sechsender"
+            ],
+            "id": "E35"
+        },
+        {
+            "concepts": [
+                "widersinniges",
+                "abnormes",
+                "Geweih"
+            ],
+            "id": "E36"
+        },
+        {
+            "concepts": [
+                "zurückgesetzt",
+                "Geweih",
+                "bezogen"
+            ],
+            "id": "E37"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "Reh"
+            ],
+            "id": "E38"
+        },
+        {
+            "concepts": [
+                "Rehleder",
+                "Reh"
+            ],
+            "id": "E39"
+        },
+        {
+            "concepts": [
+                "Rehbock"
+            ],
+            "id": "E40"
+        },
+        {
+            "concepts": [
+                "Rehkuh",
+                "Rehgeiß",
+                "Rehin",
+                "Ricke"
+            ],
+            "id": "E41"
+        },
+        {
+            "concepts": [
+                "Rehkitz"
+            ],
+            "id": "E42"
+        },
+        {
+            "concepts": [
+                "Rehwild"
+            ],
+            "id": "E43"
+        },
+        {
+            "concepts": [
+                "Schmalreh"
+            ],
+            "id": "E44"
+        },
+        {
+            "concepts": [
+                "Altreh"
+            ],
+            "id": "E45"
+        },
+        {
+            "concepts": [
+                "Galtreh"
+            ],
+            "id": "E46"
+        },
+        {
+            "concepts": [
+                "Rehgeweih",
+                "Rehgewichtel"
+            ],
+            "id": "E47"
+        },
+        {
+            "concepts": [
+                "Gabler",
+                "Geweih",
+                "Rehe",
+                "Spießer"
+            ],
+            "id": "E48"
+        },
+        {
+            "concepts": [
+                "Knopfspießer"
+            ],
+            "id": "E49"
+        },
+        {
+            "concepts": [
+                "Sechser",
+                "Achter",
+                "Achterbock"
+            ],
+            "id": "E50"
+        },
+        {
+            "concepts": [
+                "Kümmerer"
+            ],
+            "id": "E51"
+        },
+        {
+            "concepts": [
+                "Kreuzbock"
+            ],
+            "id": "E52"
+        },
+        {
+            "concepts": [
+                "Perückenbock"
+            ],
+            "id": "E53"
+        },
+        {
+            "concepts": [
+                "springen",
+                "Gam",
+                "Gemse",
+                "ßen",
+                "Gamß"
+            ],
+            "id": "E54"
+        },
+        {
+            "concepts": [
+                "Talgamß",
+                "Gamßsteig",
+                "Gemse",
+                "Gamß",
+                "Ziege"
+            ],
+            "id": "E55"
+        },
+        {
+            "concepts": [
+                "Gemsbock"
+            ],
+            "id": "E56"
+        },
+        {
+            "concepts": [
+                "Gemsbock",
+                "alter",
+                "Lauberbock"
+            ],
+            "id": "E57"
+        },
+        {
+            "concepts": [
+                "Bartgams"
+            ],
+            "id": "E58"
+        },
+        {
+            "concepts": [
+                "Muttergemse",
+                "Gamßin"
+            ],
+            "id": "E59"
+        },
+        {
+            "concepts": [
+                "Scharwildel",
+                "Gemsjunges"
+            ],
+            "id": "E60"
+        },
+        {
+            "concepts": [
+                "Leittier",
+                "Leit",
+                "Vorgeiß"
+            ],
+            "id": "E61"
+        },
+        {
+            "concepts": [
+                "Gemsgeweih",
+                "Krucken"
+            ],
+            "id": "E62"
+        },
+        {
+            "concepts": [
+                "Steinbock"
+            ],
+            "id": "E63"
+        },
+        {
+            "concepts": [
+                "Dandel",
+                "Damwild"
+            ],
+            "id": "E64"
+        },
+        {
+            "concepts": [
+                "Schaufel",
+                "Geweih"
+            ],
+            "id": "E65"
+        },
+        {
+            "concepts": [
+                "Schaufler"
+            ],
+            "id": "E66"
+        },
+        {
+            "concepts": [
+                "Dandel",
+                "Damwild",
+                "Dandelgarten"
+            ],
+            "id": "E67"
+        },
+        {
+            "concepts": [
+                "heuriger",
+                "Hasen",
+                "Hase"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Feldhase",
+                "Hasenbalg",
+                "Hase"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Häsin"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Junghase"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Hasenvorderes",
+                "Fürhas",
+                "has"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "hasig",
+                "töricht",
+                "gehörig",
+                "Hasen"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "sinken",
+                "lassen",
+                "Mut",
+                "erhasen"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Alpenhase"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "wildes",
+                "Kaninchen"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Kaninchens",
+                "Bau",
+                "Röhre"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Frettchen",
+                "Furettel"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Kaninchen",
+                "Frettchen",
+                "jagen",
+                "frettieren"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Mümlein",
+                "Harmlein",
+                "schnell",
+                "Bräutlein",
+                "Volksglaube",
+                "Anblasen",
+                "Seelentier",
+                "Wiesel"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "wieselwendig",
+                "Hauswiesel",
+                "Wiesel",
+                "schnell"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Murmeltier",
+                "Murmentel"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Marder"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Edelmarder"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Steinmarder"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Marderdreck",
+                "Hausmarder",
+                "Marder"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "gehörig",
+                "märdern",
+                "Marder"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "Elteis",
+                "stinken",
+                "Iltis"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "Elteis",
+                "Iltisfalle",
+                "Iltis"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "besonders",
+                "Männchen",
+                "Weibchen",
+                "Marder",
+                "Iltis",
+                "beim",
+                "benannt"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Wildkatze"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "schlau",
+                "hast",
+                "Gans",
+                "gestohlen",
+                "Spiele",
+                "Fuchs",
+                "Höll",
+                "Lieder",
+                "Fuchsen"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "fuchsteufelswild",
+                "Kreuzfuchs",
+                "Fuchs"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Ried",
+                "Fuchsmännchen"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Föhin",
+                "Füchsin"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Welfen",
+                "junge",
+                "Füchse"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "Geschläuf",
+                "Fuchsbau"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "Kessel",
+                "Fuchsbaues",
+                "Teile"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "kriechen",
+                "fahren",
+                "Bau"
+            ],
+            "id": "F32"
+        },
+        {
+            "concepts": [
+                "füchsen",
+                "Fuchsfell"
+            ],
+            "id": "F33"
+        },
+        {
+            "concepts": [
+                "fuchsig"
+            ],
+            "id": "F34"
+        },
+        {
+            "concepts": [
+                "fuchsen"
+            ],
+            "id": "F35"
+        },
+        {
+            "concepts": [
+                "füchseln"
+            ],
+            "id": "F36"
+        },
+        {
+            "concepts": [
+                "gefüchst",
+                "schlau"
+            ],
+            "id": "F37"
+        },
+        {
+            "concepts": [
+                "Federfuchser"
+            ],
+            "id": "F38"
+        },
+        {
+            "concepts": [
+                "faul",
+                "en",
+                "Dachs"
+            ],
+            "id": "F39"
+        },
+        {
+            "concepts": [
+                "Heilmittel",
+                "Dachsfett",
+                "Frechdachs",
+                "Dachs"
+            ],
+            "id": "F40"
+        }
+    ]
+}

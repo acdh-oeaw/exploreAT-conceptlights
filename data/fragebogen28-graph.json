@@ -1,0 +1,5620 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Höhe"
+                ],
+                [
+                    "Material"
+                ],
+                [
+                    "geht"
+                ],
+                [
+                    "Feuer"
+                ],
+                [
+                    "wozu"
+                ],
+                [
+                    "Platten"
+                ],
+                [
+                    "Backstube"
+                ],
+                [
+                    "Form"
+                ],
+                [
+                    "Bäckers"
+                ],
+                [
+                    "Verbindungen"
+                ],
+                [
+                    "Back"
+                ],
+                [
+                    "besonderem"
+                ]
+            ],
+            "2": [
+                [
+                    "Reisig"
+                ],
+                [
+                    "Ofenbesen"
+                ],
+                [
+                    "Raum"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Wörter"
+                ],
+                [
+                    "Bäck"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "besonderen"
+                ],
+                [
+                    "Trog"
+                ]
+            ],
+            "3": [
+                [
+                    "Ofenloch"
+                ],
+                [
+                    "Backhitze"
+                ],
+                [
+                    "Ofen"
+                ],
+                [
+                    "Bäckerei"
+                ],
+                [
+                    "Gebäck"
+                ]
+            ],
+            "4": [
+                [
+                    "gibt"
+                ],
+                [
+                    "Backen"
+                ],
+                [
+                    "verwendet"
+                ]
+            ],
+            "5": [
+                [
+                    "Backhütte"
+                ],
+                [
+                    "Bäcker"
+                ],
+                [
+                    "wann"
+                ],
+                [
+                    "Aussehen"
+                ],
+                [
+                    "Backtrog"
+                ]
+            ],
+            "7": [
+                [
+                    "Name"
+                ]
+            ],
+            "9": [
+                [
+                    "backen"
+                ],
+                [
+                    "Ausdruck"
+                ]
+            ],
+            "12": [
+                [
+                    "besondere"
+                ]
+            ],
+            "15": [
+                [
+                    "Namen"
+                ]
+            ],
+            "29": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "74": [
+                [
+                    "Backofens"
+                ]
+            ],
+            "220": [
+                [
+                    "Backofen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Namen",
+                    "Backofens"
+                ],
+                [
+                    "Grube",
+                    "Backofen"
+                ],
+                [
+                    "Backhütte",
+                    "Backofens"
+                ],
+                [
+                    "besondere",
+                    "Wörter"
+                ],
+                [
+                    "Stube",
+                    "Backofen"
+                ],
+                [
+                    "Aussehen",
+                    "Backofens"
+                ],
+                [
+                    "gibt",
+                    "Backofens"
+                ],
+                [
+                    "gibt",
+                    "Ausdruck"
+                ],
+                [
+                    "Backofens",
+                    "Teile"
+                ],
+                [
+                    "Fabriksmarken",
+                    "Ausdrücke"
+                ],
+                [
+                    "backen",
+                    "Backen"
+                ],
+                [
+                    "Bäcker",
+                    "Bäck"
+                ],
+                [
+                    "Namen",
+                    "sonstige"
+                ],
+                [
+                    "Backen",
+                    "verwendet"
+                ]
+            ],
+            "3": [
+                [
+                    "Backofen",
+                    "Name"
+                ],
+                [
+                    "Werkzeug",
+                    "Backofens"
+                ],
+                [
+                    "besonderen",
+                    "Namen"
+                ]
+            ],
+            "5": [
+                [
+                    "besondere",
+                    "Backofens"
+                ],
+                [
+                    "Ausdrücke",
+                    "Backofens"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Stube",
+                    "Backofen",
+                    "Raum"
+                ],
+                [
+                    "eingebaut",
+                    "Backofen",
+                    "Küche"
+                ],
+                [
+                    "Pflaster",
+                    "beim",
+                    "Backofen"
+                ],
+                [
+                    "Stube",
+                    "besonderen",
+                    "Backofen"
+                ],
+                [
+                    "außer",
+                    "verwendet",
+                    "Backofen"
+                ],
+                [
+                    "Backtrog",
+                    "Trog",
+                    "Namen"
+                ]
+            ],
+            "2": [
+                [
+                    "Auskehren",
+                    "Werkzeug",
+                    "Backofens"
+                ]
+            ],
+            "10": [
+                [
+                    "besondere",
+                    "Ausdrücke",
+                    "Backofens"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "geschehend",
+                    "Glut",
+                    "wann",
+                    "Backofen"
+                ]
+            ]
+        },
+        "6": {
+            "1": [
+                [
+                    "Fetzen",
+                    "Backofens",
+                    "Werkzeug",
+                    "Ofenbesen",
+                    "Auskehren",
+                    "Reisig"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wozu"
+            ],
+            "source": 0,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "außer",
+                "verwendet",
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 54,
+            "target_group": [
+                3,
+                1,
+                4
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 0,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 0,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 0,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhütte"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhütte"
+            ],
+            "source": 1,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhütte"
+            ],
+            "source": 1,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 1,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube",
+                "Backofen",
+                "Raum"
+            ],
+            "source": 2,
+            "target": 3,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "eingebaut",
+                "Backofen",
+                "Küche"
+            ],
+            "source": 2,
+            "target": 4,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube",
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 32,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Raum"
+            ],
+            "source": 2,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 2,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderen",
+                "Namen"
+            ],
+            "source": 3,
+            "target": 5,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 3,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 3,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stube",
+                "besonderen",
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 32,
+            "target_group": [
+                3,
+                1,
+                3
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Raum"
+            ],
+            "source": 3,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 3,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 3,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderen",
+                "Namen"
+            ],
+            "source": 3,
+            "target": 73,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 3,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Höhe"
+            ],
+            "source": 4,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 4,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhütte"
+            ],
+            "source": 5,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen",
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 18,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhütte",
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 23,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 5,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderen"
+            ],
+            "source": 5,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 5,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 5,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderen",
+                "Namen"
+            ],
+            "source": 5,
+            "target": 73,
+            "target_group": [
+                2,
+                3,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 5,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 6,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 7,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 23,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 7,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Material"
+            ],
+            "source": 7,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen",
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 44,
+            "target_group": [
+                2,
+                5,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 47,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 48,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 49,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 7,
+            "target": 50,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 7,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 7,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 7,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflaster",
+                "beim",
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 9,
+            "target_group": [
+                3,
+                1,
+                2
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Platten"
+            ],
+            "source": 8,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 8,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen",
+                "Name"
+            ],
+            "source": 9,
+            "target": 11,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen",
+                "Name"
+            ],
+            "source": 9,
+            "target": 28,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 9,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 9,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 10,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofenloch"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofenloch"
+            ],
+            "source": 11,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen",
+                "Name"
+            ],
+            "source": 11,
+            "target": 28,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 11,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 11,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 11,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhütte"
+            ],
+            "source": 12,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 12,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 12,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofenloch"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 17,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 17,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 17,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 18,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens",
+                "Teile"
+            ],
+            "source": 18,
+            "target": 47,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 18,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 18,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 18,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen",
+                "sonstige"
+            ],
+            "source": 18,
+            "target": 73,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 18,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grube",
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 20,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 19,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 19,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 20,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 20,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 20,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 21,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 22,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 22,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Wörter"
+            ],
+            "source": 23,
+            "target": 24,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 23,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt",
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 44,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 23,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 47,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 48,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 49,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Backofens"
+            ],
+            "source": 23,
+            "target": 50,
+            "target_group": [
+                2,
+                5,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 23,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 23,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 24,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 24,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 24,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 24,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 24,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 24,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 24,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Feuer"
+            ],
+            "source": 25,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 25,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reisig"
+            ],
+            "source": 26,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reisig"
+            ],
+            "source": 26,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 26,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 26,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 26,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 28,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 28,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhitze"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhitze"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backhitze"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofen"
+            ],
+            "source": 30,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 32,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt",
+                "Ausdruck"
+            ],
+            "source": 32,
+            "target": 45,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 32,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 32,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 32,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderen"
+            ],
+            "source": 32,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 32,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 34,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 34,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 34,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 34,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 34,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 34,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geschehend",
+                "Glut",
+                "wann",
+                "Backofen"
+            ],
+            "source": 35,
+            "target": 37,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 35,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 35,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 35,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 35,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 35,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 35,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Werkzeug",
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 38,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Werkzeug",
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 39,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Werkzeug",
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 40,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 36,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 37,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 37,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 37,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 37,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 37,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 37,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Auskehren",
+                "Werkzeug",
+                "Backofens"
+            ],
+            "source": 38,
+            "target": 39,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Auskehren",
+                "Werkzeug",
+                "Backofens"
+            ],
+            "source": 38,
+            "target": 40,
+            "target_group": [
+                3,
+                2,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 38,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 38,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 38,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 38,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Back"
+            ],
+            "source": 38,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aussehen"
+            ],
+            "source": 38,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fetzen",
+                "Backofens",
+                "Werkzeug",
+                "Ofenbesen",
+                "Auskehren",
+                "Reisig"
+            ],
+            "source": 39,
+            "target": 40,
+            "target_group": [
+                6,
+                1,
+                0
+            ],
+            "weight": 6
+        },
+        {
+            "coincidences": [
+                "Ofenbesen"
+            ],
+            "source": 39,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 39,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 39,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 39,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 39,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 39,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ofenbesen"
+            ],
+            "source": 40,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 40,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 40,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 40,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 40,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofens"
+            ],
+            "source": 40,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 42,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 42,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 42,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 42,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 43,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 43,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 44,
+            "target": 47,
+            "target_group": [
+                2,
+                5,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 44,
+            "target": 48,
+            "target_group": [
+                2,
+                5,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 44,
+            "target": 49,
+            "target_group": [
+                2,
+                5,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 44,
+            "target": 50,
+            "target_group": [
+                2,
+                5,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 44,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 45,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 45,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 45,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fabriksmarken",
+                "Ausdrücke"
+            ],
+            "source": 46,
+            "target": 47,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 46,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Form"
+            ],
+            "source": 46,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 46,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 47,
+            "target": 48,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 47,
+            "target": 49,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 47,
+            "target": 50,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 47,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 47,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 47,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 48,
+            "target": 49,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 48,
+            "target": 50,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 48,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 48,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere",
+                "Ausdrücke",
+                "Backofens"
+            ],
+            "source": 49,
+            "target": 50,
+            "target_group": [
+                3,
+                10,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 49,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 49,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 50,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 50,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backstube"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäckers"
+            ],
+            "source": 51,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besonderem"
+            ],
+            "source": 51,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäckerei"
+            ],
+            "source": 52,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäckerei"
+            ],
+            "source": 52,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backofen"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen",
+                "Backen"
+            ],
+            "source": 54,
+            "target": 56,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 54,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backen"
+            ],
+            "source": 54,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 54,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 54,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backen",
+                "verwendet"
+            ],
+            "source": 54,
+            "target": 80,
+            "target_group": [
+                2,
+                1,
+                13
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 56,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backen"
+            ],
+            "source": 56,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 56,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backen"
+            ],
+            "source": 56,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 57,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "backen"
+            ],
+            "source": 59,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäcker"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäcker"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäcker",
+                "Bäck"
+            ],
+            "source": 61,
+            "target": 64,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bäck"
+            ],
+            "source": 61,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verbindungen"
+            ],
+            "source": 61,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäcker"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäcker"
+            ],
+            "source": 62,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäcker"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 63,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 63,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäck"
+            ],
+            "source": 64,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 65,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 65,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backen"
+            ],
+            "source": 65,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bäckerei"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebäck"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebäck"
+            ],
+            "source": 69,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdruck"
+            ],
+            "source": 69,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebäck"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backtrog"
+            ],
+            "source": 73,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backtrog",
+                "Trog",
+                "Namen"
+            ],
+            "source": 73,
+            "target": 75,
+            "target_group": [
+                3,
+                1,
+                5
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Backtrog"
+            ],
+            "source": 73,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trog"
+            ],
+            "source": 73,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backtrog"
+            ],
+            "source": 74,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backtrog"
+            ],
+            "source": 74,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Backtrog"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trog"
+            ],
+            "source": 75,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 75,
+            "target": 80,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "verwendet",
+                "bäuerlicher",
+                "wozu",
+                "Obstdörren",
+                "Brotbacken",
+                "außer",
+                "Backofen",
+                "Kochen"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Backhütte",
+                "steht",
+                "Obstgarten",
+                "Backhaus",
+                "Backofen",
+                "eigener",
+                "Dürrhäusel"
+            ],
+            "id": "A1a"
+        },
+        {
+            "concepts": [
+                "eingebaut",
+                "Wagenhütte",
+                "Raum",
+                "Vorratsscheune",
+                "Stube",
+                "außerhalb",
+                "Waschhaus",
+                "Backofen",
+                "Küche"
+            ],
+            "id": "A1b"
+        },
+        {
+            "concepts": [
+                "Stelle",
+                "hinein",
+                "besonderen",
+                "Raum",
+                "reicht",
+                "Stube",
+                "Backofen",
+                "Namen"
+            ],
+            "id": "A1c"
+        },
+        {
+            "concepts": [
+                "eingebaut",
+                "Herd",
+                "Höhe",
+                "gleicher",
+                "Selchküche",
+                "Backofen",
+                "Küche",
+                "offenen"
+            ],
+            "id": "A1d"
+        },
+        {
+            "concepts": [
+                "Backhütte",
+                "besonderen",
+                "Backofens",
+                "Namen",
+                "Platz"
+            ],
+            "id": "A1e"
+        },
+        {
+            "concepts": [
+                "Sonstiges",
+                "Backofens",
+                "Orte"
+            ],
+            "id": "A1f"
+        },
+        {
+            "concepts": [
+                "Höhe",
+                "Material",
+                "Backofens",
+                "besondere",
+                "Aussehen",
+                "Ausdrücke",
+                "selbständigen"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Platten",
+                "heißt",
+                "Ziegel",
+                "Kelheimer",
+                "Pflaster",
+                "Steine",
+                "Backofen",
+                "pflastern",
+                "pflaster",
+                "beim"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Name",
+                "Pflaster",
+                "Backofen",
+                "Fugen",
+                "beim"
+            ],
+            "id": "A3a"
+        },
+        {
+            "concepts": [
+                "Wölbung",
+                "Backofen"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Name",
+                "Kamin",
+                "Ofenloch",
+                "Abzug",
+                "Feuerhut",
+                "Backofen",
+                "Rauchlöcher",
+                "Rauch"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Rauchfangs",
+                "Backhütte",
+                "Name"
+            ],
+            "id": "A5a"
+        },
+        {
+            "concepts": [
+                "Ofenloch"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Türe",
+                "Backofentürl",
+                "Ofenloch",
+                "erlaubt",
+                "Stubenbackofen",
+                "Angeln",
+                "angelehnt"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Griff",
+                "Backofentüre"
+            ],
+            "id": "A7a"
+        },
+        {
+            "concepts": [
+                "Spreize"
+            ],
+            "id": "A7b"
+        },
+        {
+            "concepts": [
+                "öffnen",
+                "schließen",
+                "wann",
+                "Zuglucke"
+            ],
+            "id": "A7c"
+        },
+        {
+            "concepts": [
+                "Teile",
+                "Namen",
+                "Backofens",
+                "sonstige"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Hineintreten",
+                "Zweck",
+                "Grube",
+                "Kohlenloch",
+                "Backofen",
+                "Backöfen",
+                "sonstige"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Aussehen",
+                "Grube",
+                "Deckel",
+                "Backofen"
+            ],
+            "id": "A9a"
+        },
+        {
+            "concepts": [
+                "Backofens",
+                "Asphaltboden",
+                "Estrich",
+                "Umgebung"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Zimmerofen",
+                "zusammengefallen",
+                "gemeint",
+                "Ofen",
+                "niedergekommen",
+                "Weib"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Backhütte",
+                "deren",
+                "Wände",
+                "Backofens",
+                "besondere",
+                "Wörter",
+                "Dach",
+                "gibt"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Wörter",
+                "Backofen",
+                "Feuermachen"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "genug",
+                "Feuer",
+                "Brot",
+                "gegoren",
+                "niedergebrannt",
+                "Feuermachens",
+                "Ausdrücke",
+                "Zeit"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Scheiten",
+                "Sch",
+                "Material",
+                "Schoatn",
+                "Span",
+                "Stroh",
+                "unterzünden",
+                "Unterzündel",
+                "womit",
+                "Namen",
+                "Reisig"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "kliebendes",
+                "weniger",
+                "Backholz",
+                "gut",
+                "herrichten",
+                "Länge",
+                "knopfiges",
+                "Gebrauch"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Unterlegscheiter",
+                "Ganzen",
+                "Name",
+                "schlichten",
+                "Lege",
+                "legen",
+                "Scheiter",
+                "Lage",
+                "aufrichten",
+                "Rindscheit",
+                "Backofen",
+                "Stoß",
+                "Anlege"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Backhitze"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "schlechte",
+                "geht",
+                "richtige",
+                "Backhitze",
+                "weiß",
+                "Hitze",
+                "Ofen"
+            ],
+            "id": "A18a"
+        },
+        {
+            "concepts": [
+                "richtigen",
+                "Backhitze",
+                "Prüfung",
+                "Kennzeichen",
+                "Ausdrücke"
+            ],
+            "id": "A18b"
+        },
+        {
+            "concepts": [
+                "besonderen",
+                "bachlwarm",
+                "Wärme",
+                "Stube",
+                "Ausdruck",
+                "Backofen",
+                "gibt",
+                "geheiztem"
+            ],
+            "id": "A18c"
+        },
+        {
+            "concepts": [
+                "Ofengabel"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "zerschüren",
+                "Feuer",
+                "Backofen"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "ausscharren",
+                "wann",
+                "herausscharren",
+                "geschehend",
+                "Backofen",
+                "Glut"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Backkrücke",
+                "Backofens",
+                "Ausscharren",
+                "Werkzeug"
+            ],
+            "id": "A21a"
+        },
+        {
+            "concepts": [
+                "wann",
+                "geschehend",
+                "putzen",
+                "auskehren",
+                "herauskehren",
+                "Backofen",
+                "Glut"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Back",
+                "besen",
+                "Aussehen",
+                "Läutrit",
+                "wisch",
+                "Backofens",
+                "Werkzeug",
+                "Ofen",
+                "Auskehren"
+            ],
+            "id": "A22a"
+        },
+        {
+            "concepts": [
+                "Fetzen",
+                "Wischdaxn",
+                "Wischgraß",
+                "Krassach",
+                "Werkzeug",
+                "Backofens",
+                "befestigtes",
+                "Grasset",
+                "Ofenbesen",
+                "Auskehren",
+                "Backwasser",
+                "Reisig",
+                "genäßt"
+            ],
+            "id": "A22b"
+        },
+        {
+            "concepts": [
+                "Fetzen",
+                "nennt",
+                "Werkzeug",
+                "Backofens",
+                "Ofenbesen",
+                "Auskehren",
+                "Befestigen",
+                "Reisig",
+                "einbinden"
+            ],
+            "id": "A22c"
+        },
+        {
+            "concepts": [
+                "Stiel",
+                "Ofenbesen"
+            ],
+            "id": "A22d"
+        },
+        {
+            "concepts": [
+                "Backofen",
+                "abkühlen"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Aufnahme",
+                "außen",
+                "kleiner",
+                "Häferlloch",
+                "Geräte",
+                "Backofen"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Kontrollierung",
+                "Backofens",
+                "gibt",
+                "Bauzustand",
+                "Ausdrücke"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "gibt",
+                "Ausdruck",
+                "Gemeindebacköfen"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Benennungen",
+                "Patentbackofen",
+                "Bäckerofen",
+                "Fabriksmarken",
+                "Form",
+                "Backofen",
+                "unterscheiden",
+                "Ausdrücke"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Platten",
+                "Ausziehherd",
+                "Fabriksmarken",
+                "Backofens",
+                "Chamotteplatte",
+                "besondere",
+                "wozu",
+                "Schwell",
+                "Schwellapparat",
+                "Backfläche",
+                "dienend",
+                "Ausdrücke",
+                "Teile"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "indirekte",
+                "Backofens",
+                "direkte",
+                "besondere",
+                "halbtiefe",
+                "Feuerung",
+                "Ausdrücke"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Lösch",
+                "Nebengeräte",
+                "Stahlbesen",
+                "Backofens",
+                "besondere",
+                "Ausdrücke"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "arbeitet",
+                "Backofens",
+                "besondere",
+                "lassen",
+                "abliegen",
+                "Ausdrücke"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Name",
+                "Raum",
+                "Backstube",
+                "zubereitet",
+                "Bäckers",
+                "besonderem",
+                "Teig"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Bäckerei",
+                "Räume"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Backstube",
+                "Backstubenordnung"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "fürs",
+                "Teige",
+                "verwendet",
+                "Backen",
+                "Schinken",
+                "zubereiteter",
+                "außer",
+                "Backofen",
+                "herausbacken",
+                "backen",
+                "Bauernhaus"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Ergänzungen",
+                "allfällige",
+                "Backraum",
+                "Backofen"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "wem",
+                "Formen",
+                "Backen",
+                "Arbeit",
+                "backen",
+                "Bauer",
+                "fällt"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "backen",
+                "waschen",
+                "Haus"
+            ],
+            "id": "B1a"
+        },
+        {
+            "concepts": [
+                "pfistern"
+            ],
+            "id": "B1b"
+        },
+        {
+            "concepts": [
+                "unausgebacken",
+                "herba",
+                "beachte",
+                "ausgebacken",
+                "Verwendungen",
+                "Ausgebackener",
+                "Unausgebackener",
+                "backen",
+                "ausbacken"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "bäckeln"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Konditor",
+                "Bäcker",
+                "Melbler",
+                "Verbindungen",
+                "Pfister",
+                "Bäck"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Graben",
+                "Bäcker",
+                "Feldbäcker",
+                "wohnt",
+                "Grabenbäck"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Bäcker",
+                "Rang",
+                "einzelnen",
+                "Form",
+                "Bäckerssohn",
+                "besondere",
+                "üblichste",
+                "Bäckermeister",
+                "Namen"
+            ],
+            "id": "B5a"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Teigbatzenmacher",
+                "neckende",
+                "Bäcker",
+                "Laibelschmied",
+                "dicke",
+                "Bäck",
+                "ÜN"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Kleidung",
+                "Backen",
+                "Ausdruck",
+                "Hitzgewand",
+                "Bäckers",
+                "Teile"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Bäckerei"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Pfisterei"
+            ],
+            "id": "B8a"
+        },
+        {
+            "concepts": [
+                "Klosterbäckerei",
+                "Saubäckerei",
+                "scheltende",
+                "Bäckereihandwerk",
+                "Bäckerei"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Gebackene",
+                "beschränkt",
+                "Bächt",
+                "Bachede",
+                "Menge",
+                "Feingebäck",
+                "Wörter",
+                "Ausdruck",
+                "Gebackenen",
+                "Gebächt",
+                "Bachet",
+                "Bäck",
+                "Gebäck"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "schwarzes",
+                "Verbindungen",
+                "weißes",
+                "gemischtes",
+                "Gebäck"
+            ],
+            "id": "B10a"
+        },
+        {
+            "concepts": [
+                "Weißgebäck",
+                "Gebäck"
+            ],
+            "id": "B10b"
+        },
+        {
+            "concepts": [
+                "Tag",
+                "wann",
+                "Volksglaube",
+                "gebacken",
+                "Backtag",
+                "darf",
+                "backen"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "besonderen",
+                "Kneten",
+                "Backtrog",
+                "darin",
+                "sonstiges",
+                "Eigentümli",
+                "Anmachen",
+                "Sauabbacheln",
+                "Multer",
+                "Trog",
+                "Teiges",
+                "Arten",
+                "Tisch",
+                "Backtrögen",
+                "Namen",
+                "Ausdrücke",
+                "aufbewahrt",
+                "sonstige"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Backtrog"
+            ],
+            "id": "B12a"
+        },
+        {
+            "concepts": [
+                "Back",
+                "fest",
+                "verwendet",
+                "Backtrog",
+                "schragen",
+                "Untergestell",
+                "voneinander",
+                "Trog",
+                "Saustechen",
+                "Stücke",
+                "verbunden",
+                "Schragen",
+                "getrennte",
+                "Namen",
+                "besonderem"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "schief",
+                "Backtroges",
+                "Ausdruck",
+                "Füße",
+                "besonderer"
+            ],
+            "id": "B13a"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Backtrog",
+                "liegt",
+                "Träger",
+                "Aussehen",
+                "unmittelbar"
+            ],
+            "id": "B13b"
+        },
+        {
+            "concepts": [
+                "Trogdeckel"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Trog",
+                "genannte"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "verwendet",
+                "Backen",
+                "Sauerkübel",
+                "Säuer",
+                "Scherze"
+            ],
+            "id": "B16"
+        }
+    ]
+}

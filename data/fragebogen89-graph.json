@@ -1,0 +1,4403 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Christ"
+                ],
+                [
+                    "christlich"
+                ],
+                [
+                    "Aberglaube"
+                ],
+                [
+                    "Gebete"
+                ],
+                [
+                    "Arten"
+                ],
+                [
+                    "Glauben"
+                ],
+                [
+                    "gewisse"
+                ],
+                [
+                    "Rosenkranzküglein"
+                ],
+                [
+                    "beichten"
+                ],
+                [
+                    "Sünden"
+                ],
+                [
+                    "Ablaß"
+                ],
+                [
+                    "kirchliche"
+                ],
+                [
+                    "Kommunion"
+                ],
+                [
+                    "Firm"
+                ],
+                [
+                    "Gottesdienst"
+                ],
+                [
+                    "ums"
+                ],
+                [
+                    "gehen"
+                ],
+                [
+                    "Kloster"
+                ],
+                [
+                    "Stift"
+                ],
+                [
+                    "Weihwasser"
+                ],
+                [
+                    "Glocke"
+                ],
+                [
+                    "treten"
+                ],
+                [
+                    "Pfarrer"
+                ],
+                [
+                    "Pfarre"
+                ],
+                [
+                    "Wimm"
+                ],
+                [
+                    "Gesellschaftsspiel"
+                ],
+                [
+                    "Bischof"
+                ],
+                [
+                    "alt"
+                ],
+                [
+                    "Pfaffe"
+                ],
+                [
+                    "Benennungen"
+                ],
+                [
+                    "geistlichen"
+                ],
+                [
+                    "gen"
+                ],
+                [
+                    "Hölle"
+                ],
+                [
+                    "Hund"
+                ],
+                [
+                    "hängt"
+                ],
+                [
+                    "Mensch"
+                ],
+                [
+                    "quälen"
+                ],
+                [
+                    "Geist"
+                ],
+                [
+                    "Maria"
+                ],
+                [
+                    "hören"
+                ],
+                [
+                    "Engel"
+                ],
+                [
+                    "Formen"
+                ],
+                [
+                    "selig"
+                ],
+                [
+                    "Apostel"
+                ],
+                [
+                    "vier"
+                ]
+            ],
+            "2": [
+                [
+                    "Seele"
+                ],
+                [
+                    "tun"
+                ]
+            ],
+            "3": [
+                [
+                    "Glaube"
+                ],
+                [
+                    "beten"
+                ],
+                [
+                    "Rosenkranz"
+                ],
+                [
+                    "Beichte"
+                ],
+                [
+                    "Buße"
+                ],
+                [
+                    "Segen"
+                ],
+                [
+                    "Kapelle"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Orgel"
+                ],
+                [
+                    "Himmel"
+                ],
+                [
+                    "Ausruf"
+                ]
+            ],
+            "6": [
+                [
+                    "Gebet"
+                ],
+                [
+                    "Messe"
+                ],
+                [
+                    "Bräuche"
+                ],
+                [
+                    "Opfer"
+                ],
+                [
+                    "Fluch"
+                ]
+            ],
+            "9": [
+                [
+                    "heilig"
+                ]
+            ],
+            "10": [
+                [
+                    "Sakrament"
+                ],
+                [
+                    "Kirche"
+                ],
+                [
+                    "läuten"
+                ],
+                [
+                    "Namen"
+                ]
+            ],
+            "14": [
+                [
+                    "Kirchtag"
+                ]
+            ],
+            "15": [
+                [
+                    "heilige"
+                ]
+            ],
+            "20": [
+                [
+                    "Gott"
+                ]
+            ],
+            "35": [
+                [
+                    "etwaige"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Kirchtag",
+                    "Ausdrücke"
+                ],
+                [
+                    "etwaige",
+                    "mundartliche"
+                ],
+                [
+                    "Seele",
+                    "Seel"
+                ],
+                [
+                    "Personen",
+                    "drei"
+                ],
+                [
+                    "tun",
+                    "Gott"
+                ],
+                [
+                    "Herrjee",
+                    "Jö"
+                ],
+                [
+                    "Heiligen",
+                    "heilig"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Glaube"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glaube"
+            ],
+            "source": 5,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glaube"
+            ],
+            "source": 6,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glauben"
+            ],
+            "source": 6,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aberglaube"
+            ],
+            "source": 9,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mensch"
+            ],
+            "source": 15,
+            "target": 232,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 17,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 17,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 17,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 17,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Christ"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "christlich"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beten"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beten"
+            ],
+            "source": 32,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 32,
+            "target": 246,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 32,
+            "target": 247,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 32,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 32,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 32,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebete"
+            ],
+            "source": 33,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beten"
+            ],
+            "source": 33,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gewisse"
+            ],
+            "source": 33,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ums"
+            ],
+            "source": 33,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebet"
+            ],
+            "source": 35,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebet"
+            ],
+            "source": 35,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebet"
+            ],
+            "source": 35,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 36,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebet"
+            ],
+            "source": 37,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebet"
+            ],
+            "source": 37,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 37,
+            "target": 163,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 37,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 37,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 37,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rosenkranz"
+            ],
+            "source": 38,
+            "target": 39,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rosenkranz"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 38,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 38,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 38,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 38,
+            "target": 246,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rosenkranz"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rosenkranzküglein"
+            ],
+            "source": 43,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 44,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 44,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 44,
+            "target": 246,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebet"
+            ],
+            "source": 46,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weihwasser"
+            ],
+            "source": 51,
+            "target": 146,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 53,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 53,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 53,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beichte"
+            ],
+            "source": 54,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beichte"
+            ],
+            "source": 54,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buße"
+            ],
+            "source": 54,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buße"
+            ],
+            "source": 54,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 54,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 54,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 54,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 54,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beichten"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sünden"
+            ],
+            "source": 55,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beichte"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hören"
+            ],
+            "source": 56,
+            "target": 243,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ablaß"
+            ],
+            "source": 59,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Buße"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tun"
+            ],
+            "source": 62,
+            "target": 228,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tun"
+            ],
+            "source": 62,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kirchliche"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kommunion"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 66,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 66,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 66,
+            "target": 226,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 66,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 66,
+            "target": 240,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 66,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 69,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 69,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 69,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Firm"
+            ],
+            "source": 70,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sakrament"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 75,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 75,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messe"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messe"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messe"
+            ],
+            "source": 76,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 76,
+            "target": 226,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 76,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 76,
+            "target": 240,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 76,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messe"
+            ],
+            "source": 77,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messe"
+            ],
+            "source": 77,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messe"
+            ],
+            "source": 78,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 78,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 78,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 78,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 78,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 78,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 78,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 78,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 78,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 78,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige",
+                "mundartliche"
+            ],
+            "source": 78,
+            "target": 205,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Opfer"
+            ],
+            "source": 81,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Opfer"
+            ],
+            "source": 81,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Opfer"
+            ],
+            "source": 81,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Opfer"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Opfer"
+            ],
+            "source": 82,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gen"
+            ],
+            "source": 83,
+            "target": 215,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Opfer"
+            ],
+            "source": 83,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gottesdienst"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 85,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 85,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 85,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 86,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 86,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 86,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 86,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 86,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 86,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 86,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Segen"
+            ],
+            "source": 90,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Segen"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Segen"
+            ],
+            "source": 91,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 94,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 94,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 94,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag",
+                "Ausdrücke"
+            ],
+            "source": 94,
+            "target": 98,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 94,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 94,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 95,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 95,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 95,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 96,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 96,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 97,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 97,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirchtag"
+            ],
+            "source": 98,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 106,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 106,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kirche"
+            ],
+            "source": 108,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kapelle"
+            ],
+            "source": 110,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kapelle"
+            ],
+            "source": 110,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 110,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 110,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 110,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 110,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 110,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 110,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kapelle"
+            ],
+            "source": 111,
+            "target": 112,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 112,
+            "target": 119,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kloster"
+            ],
+            "source": 117,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 117,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 117,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 117,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 117,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 117,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stift"
+            ],
+            "source": 120,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 120,
+            "target": 174,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 120,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 120,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 120,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Orgel"
+            ],
+            "source": 140,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Orgel"
+            ],
+            "source": 140,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "treten"
+            ],
+            "source": 140,
+            "target": 169,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Orgel"
+            ],
+            "source": 143,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gesellschaftsspiel"
+            ],
+            "source": 144,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Glocke"
+            ],
+            "source": 156,
+            "target": 160,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Benennungen"
+            ],
+            "source": 157,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 157,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 157,
+            "target": 246,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 163,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 163,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 163,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 164,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 164,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Himmel"
+            ],
+            "source": 164,
+            "target": 212,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Himmel"
+            ],
+            "source": 164,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hund"
+            ],
+            "source": 164,
+            "target": 220,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "läuten"
+            ],
+            "source": 165,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geistlichen"
+            ],
+            "source": 169,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfarrer"
+            ],
+            "source": 172,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfarre"
+            ],
+            "source": 174,
+            "target": 175,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 174,
+            "target": 188,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 174,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 174,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "alt"
+            ],
+            "source": 175,
+            "target": 196,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wimm"
+            ],
+            "source": 178,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bischof"
+            ],
+            "source": 188,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 188,
+            "target": 199,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 188,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfaffe"
+            ],
+            "source": 196,
+            "target": 197,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 199,
+            "target": 205,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Himmel"
+            ],
+            "source": 212,
+            "target": 214,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fluch"
+            ],
+            "source": 212,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hängt"
+            ],
+            "source": 212,
+            "target": 220,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fluch"
+            ],
+            "source": 212,
+            "target": 223,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fluch"
+            ],
+            "source": 212,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Hölle"
+            ],
+            "source": 215,
+            "target": 217,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fluch"
+            ],
+            "source": 217,
+            "target": 223,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fluch"
+            ],
+            "source": 217,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vier"
+            ],
+            "source": 219,
+            "target": 258,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seele",
+                "Seel"
+            ],
+            "source": 220,
+            "target": 221,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Seele"
+            ],
+            "source": 220,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seele"
+            ],
+            "source": 221,
+            "target": 222,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fluch"
+            ],
+            "source": 223,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "quälen"
+            ],
+            "source": 224,
+            "target": 237,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Personen",
+                "drei"
+            ],
+            "source": 226,
+            "target": 227,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 226,
+            "target": 238,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 226,
+            "target": 240,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 226,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 227,
+            "target": 228,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 227,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 227,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 227,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 227,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausruf"
+            ],
+            "source": 227,
+            "target": 236,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausruf"
+            ],
+            "source": 227,
+            "target": 241,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 227,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 228,
+            "target": 229,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tun",
+                "Gott"
+            ],
+            "source": 228,
+            "target": 230,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 228,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 228,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 228,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 229,
+            "target": 230,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 229,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 229,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 229,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 230,
+            "target": 231,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 230,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 230,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 231,
+            "target": 235,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 231,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gott"
+            ],
+            "source": 235,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Herrjee",
+                "Jö"
+            ],
+            "source": 236,
+            "target": 237,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ausruf"
+            ],
+            "source": 236,
+            "target": 241,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 237,
+            "target": 246,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geist"
+            ],
+            "source": 238,
+            "target": 239,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 238,
+            "target": 240,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 238,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maria"
+            ],
+            "source": 240,
+            "target": 241,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilige"
+            ],
+            "source": 240,
+            "target": 242,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Engel"
+            ],
+            "source": 243,
+            "target": 244,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 247,
+            "target": 248,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heiligen",
+                "heilig"
+            ],
+            "source": 247,
+            "target": 249,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 247,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 248,
+            "target": 249,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 248,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heilig"
+            ],
+            "source": 249,
+            "target": 250,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "selig"
+            ],
+            "source": 252,
+            "target": 253,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Apostel"
+            ],
+            "source": 255,
+            "target": 256,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Religion"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "fromm",
+                "religiös",
+                "gläubig"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "rechtgläubig"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "strenggläubig"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Atheist",
+                "ungläubig",
+                "Ungläubiger"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Glaube"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Glauben",
+                "Glaube",
+                "Kredit",
+                "schenken"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "glauben"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "Glaubensbekenntnis"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Aberglaube"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "abergläubisch"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Ketzerei",
+                "Irrglaube"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Ketzer",
+                "Irrgläubiger"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "irrgläubig",
+                "ketzerisch"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "frömmelnd",
+                "bigott",
+                "scheinheilig"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "bigotter",
+                "Himmelzanner",
+                "Frömmler",
+                "Mensch",
+                "Betbruder",
+                "frömmelnder"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Frömmelei",
+                "Bigotterie",
+                "Scheinheiligkeit"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Kirche"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "katholisch"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "protestantisch",
+                "evangelisch"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "kalvinisch"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "mosaisch",
+                "jüdisch",
+                "israelitisch"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Katholik"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "Protestant"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Kalviner"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Jude",
+                "Jüdin"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Christ"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Christ",
+                "Christenmensch",
+                "Christenheit"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "christlich",
+                "unchristlich"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "christlich",
+                "einschenken"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Heide"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "heidnisch"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "richtig",
+                "Formen",
+                "heilig",
+                "gut",
+                "beten",
+                "doppelt",
+                "gebetet",
+                "gearbeitet"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Schweinen",
+                "alter",
+                "Aberglaube",
+                "Betzeit",
+                "abbeten",
+                "nachbeten",
+                "Leben",
+                "Abgaben",
+                "vorbeten",
+                "beten",
+                "Gebete",
+                "gewisse",
+                "ums",
+                "bringen"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "betendes",
+                "Nachbeter",
+                "eifriger",
+                "Leut",
+                "wohl",
+                "Beter"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Gebet"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Arten",
+                "Gebetbuch"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "läuten",
+                "Gebet",
+                "Gebetläuten",
+                "Ave"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Gruß",
+                "schmerzhafte",
+                "verst",
+                "Glaube",
+                "Litanei",
+                "englische",
+                "abgeschliffenen",
+                "Rosenkranz",
+                "Tischgebet",
+                "Gebete",
+                "freudenreiche",
+                "Gebetstexte",
+                "Namen",
+                "Vaterunser",
+                "Himmelriegel",
+                "Rosenkranzgebet"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Nuster",
+                "Better",
+                "Bette",
+                "Gegenstand",
+                "Rosenkranz"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Rosenkranz",
+                "nustern",
+                "beten"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "verschiedene",
+                "Material",
+                "Rosenkränzen",
+                "je",
+                "Arten",
+                "Josefzäherbette"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Rosenkranzschnur",
+                "Rätsel",
+                "mitten",
+                "Was",
+                "Glauben",
+                "Das",
+                "Bettenschnürl"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Bettenringlein",
+                "Grallen",
+                "Paterl",
+                "Rosenkranzküglein"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "Rosenkranzküglein",
+                "Vorbeterl",
+                "Gruppen",
+                "eigene",
+                "gewisse",
+                "Namen"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "Rosenkranzmacher"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "Andacht",
+                "Gebet",
+                "Seelenstimmung"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "andächtig"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Maiandacht"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Bittgang"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "schlagen",
+                "bekreuzigen",
+                "aufgesegnen",
+                "Brust"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "Weihwasser",
+                "besprengen"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "Ja",
+                "Gebet",
+                "sagen",
+                "Amen"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "Sakrament",
+                "Sakramente",
+                "sieben"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Sakrament",
+                "gehen",
+                "Buße",
+                "Beichte"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Sünden",
+                "beichten",
+                "bekennen"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Beichte",
+                "beichten",
+                "hören"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "lange",
+                "Beichte",
+                "Beichtvater",
+                "Generalbeichte"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Sünden",
+                "nachlassen"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Antlaß",
+                "Sündennachlaß",
+                "Ablaß"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Generalabsolution"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Buße",
+                "auferlegte"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Buße"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Ablaß",
+                "kirchliche"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Ablaßgebete"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Antlaßwoche",
+                "Zeremonie",
+                "kirchliche",
+                "Antlaßen"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Sakrament",
+                "heilige",
+                "Altares",
+                "Kommunion"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "kommunizieren"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Hostie"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "ersten",
+                "Kommunion"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Sakrament",
+                "Firm",
+                "Firmung"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "firmen"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Firmpate"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "Firm",
+                "Firmungsband",
+                "Firmbindel"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Sakrament",
+                "Priesterweihe"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Primiz"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Messe",
+                "heilige",
+                "lesen",
+                "Meßopfer"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Messen",
+                "Frühmesse",
+                "Amt",
+                "Messe",
+                "Engelmesse",
+                "Stille",
+                "Hochamt"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Wandlung",
+                "etwaige",
+                "mundartliche",
+                "Evangelium",
+                "einzelnen",
+                "Aussprachformen",
+                "Messe",
+                "Offertorium",
+                "Teile"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "ministrieren"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Ministrant"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "darunter",
+                "gespendete",
+                "Opfer",
+                "Geld",
+                "Messe",
+                "versteht"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Opfer",
+                "Opfergang"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "opfern",
+                "gehn",
+                "gen",
+                "Opfer"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "aufopfern"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "heute",
+                "Gottesdienst",
+                "Kirche",
+                "hebt"
+            ],
+            "id": "D10"
+        },
+        {
+            "concepts": [
+                "Zusammenkunft",
+                "gemütliche",
+                "Gottesdienst",
+                "etwaige"
+            ],
+            "id": "D11"
+        },
+        {
+            "concepts": [
+                "Predigt"
+            ],
+            "id": "D12"
+        },
+        {
+            "concepts": [
+                "predigen"
+            ],
+            "id": "D13"
+        },
+        {
+            "concepts": [
+                "Prediger"
+            ],
+            "id": "D14"
+        },
+        {
+            "concepts": [
+                "Segen",
+                "geben"
+            ],
+            "id": "D15"
+        },
+        {
+            "concepts": [
+                "Sonntagsegen",
+                "Segen"
+            ],
+            "id": "D16"
+        },
+        {
+            "concepts": [
+                "Segen",
+                "eingesegnen"
+            ],
+            "id": "D17"
+        },
+        {
+            "concepts": [
+                "Christenlehre"
+            ],
+            "id": "D18"
+        },
+        {
+            "concepts": [
+                "Kirchtag",
+                "Bräuche",
+                "Ausdrücke"
+            ],
+            "id": "D19"
+        },
+        {
+            "concepts": [
+                "Kirchtag",
+                "Kirchtagpfennig"
+            ],
+            "id": "D20"
+        },
+        {
+            "concepts": [
+                "Kathl",
+                "gekommen",
+                "Kirchtag"
+            ],
+            "id": "D21"
+        },
+        {
+            "concepts": [
+                "Kirchtag",
+                "Tuld",
+                "Jahrmarkt"
+            ],
+            "id": "D22"
+        },
+        {
+            "concepts": [
+                "Kirchtag",
+                "Ausdrücke",
+                "Kirchtagsgeschenk"
+            ],
+            "id": "D23"
+        },
+        {
+            "concepts": [
+                "Nachkirchtag"
+            ],
+            "id": "D24"
+        },
+        {
+            "concepts": [
+                "Kirchnacht",
+                "Kirchtag",
+                "Abend",
+                "Kirchweihsamstag"
+            ],
+            "id": "D25"
+        },
+        {
+            "concepts": [
+                "Rosenkranzfest"
+            ],
+            "id": "D26"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Kirchfahrt"
+            ],
+            "id": "D27"
+        },
+        {
+            "concepts": [
+                "kirchferten",
+                "wallfahrten"
+            ],
+            "id": "D28"
+        },
+        {
+            "concepts": [
+                "Wallfahrer",
+                "Kirchferter"
+            ],
+            "id": "D29"
+        },
+        {
+            "concepts": [
+                "Pilgerhut",
+                "Kirchfahrtstecken",
+                "Pilgerstock",
+                "trug",
+                "trägt",
+                "Pilgergewand"
+            ],
+            "id": "D30"
+        },
+        {
+            "concepts": [
+                "Aussprache",
+                "Kirche"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Holzkirche",
+                "Kirchenarten"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "Kirche",
+                "ums",
+                "Kreuz"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "Kirchenweg",
+                "Kirche",
+                "Mesner",
+                "Kantner"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Schochen",
+                "Kapelle"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Waldkapelle",
+                "Kapelle"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Kapelle",
+                "Einrichtungsgegenstände",
+                "Teile"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Marter",
+                "Martersäule",
+                "Bildstock"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "Christi",
+                "Kreuzweg",
+                "Leidensstationen"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Kreuzwegandacht"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Kalvarienberg"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Kloster"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "Klostersuppe",
+                "Frauenkloster",
+                "Kloster"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "Klosters",
+                "Klausur",
+                "benannte",
+                "Teile"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Gestift",
+                "Stift"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "Erzstift",
+                "Stiftskeller",
+                "Stift"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "Presbyterium"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Seitenschiff",
+                "Kirchenschiff"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Vorhalle",
+                "Laube"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Empore"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Chor"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Sakristei"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Turm"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Turmspitze"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Kirchenfenster"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Altar",
+                "Betonung",
+                "Seitenaltar"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Altarbild"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Tabernakel"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Monstranze"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Dazugehöriges",
+                "Kelch"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Kruzifix"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Heiltum",
+                "Reliquie",
+                "Reliquienschrein"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Evangelienbuch"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Predigtstuhl",
+                "Kanzel"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "treten",
+                "Orgel"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Orgeltreter"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Organist",
+                "Orgler"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "spielen",
+                "orgeletzen",
+                "Orgel",
+                "orgeln"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Orgelpfeife",
+                "Orgel",
+                "Gesellschaftsspiel"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Kirchenbank"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Weihwasser"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Weihwasserbecken"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Rauchfaß"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Weihrauch"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Räucherkerzchen"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Sprengwedel"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "ewiges",
+                "Licht"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Opferstock",
+                "Gotteskasten"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Klingelbeutel",
+                "Opferschachtel"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Katafalk",
+                "Seelentruhe"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Glöckerl",
+                "Stimme",
+                "Glocke"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Sturmglocke",
+                "Benennungen",
+                "Elferin",
+                "Glocken",
+                "Lorettoglocke",
+                "Namen",
+                "Bummerin"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Sakristeiglocke"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Ministrantenglöckchen"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Glockenturm",
+                "Glocke"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Läuterbub",
+                "Glöckner"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Himmelloch",
+                "Loch",
+                "Glockenstrick"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "läuten",
+                "geläutet",
+                "gelitten"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "Himmel",
+                "Dritte",
+                "Sturm",
+                "Grabe",
+                "Schidung",
+                "Sauglocke",
+                "Hund",
+                "Zwölfe",
+                "läuten",
+                "Mittag",
+                "Elfe",
+                "Zweite",
+                "Wetter",
+                "Erste"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "läuten",
+                "zusammenläuten"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "läuten",
+                "Läutwerk"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "Geläute"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "Seelsorger",
+                "Priester",
+                "Geistlicher"
+            ],
+            "id": "I1"
+        },
+        {
+            "concepts": [
+                "treten",
+                "geistlich",
+                "geistlichen",
+                "Stand"
+            ],
+            "id": "I2"
+        },
+        {
+            "concepts": [
+                "Alumne",
+                "Geistlichen"
+            ],
+            "id": "I3"
+        },
+        {
+            "concepts": [
+                "Kaplan",
+                "Kooperator"
+            ],
+            "id": "I4"
+        },
+        {
+            "concepts": [
+                "Pfarrherr",
+                "Pfarrer",
+                "studieren"
+            ],
+            "id": "I5"
+        },
+        {
+            "concepts": [
+                "Hauserin",
+                "Pfarrer",
+                "Pfarrerköchin"
+            ],
+            "id": "I6"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Pfarre"
+            ],
+            "id": "I7"
+        },
+        {
+            "concepts": [
+                "Pfarre",
+                "Pfarramt",
+                "Fürpfaff",
+                "Zupfarre",
+                "alt"
+            ],
+            "id": "I8"
+        },
+        {
+            "concepts": [
+                "Pfarrei"
+            ],
+            "id": "I9"
+        },
+        {
+            "concepts": [
+                "eingepfarrt"
+            ],
+            "id": "I10"
+        },
+        {
+            "concepts": [
+                "Pfarrwidum",
+                "Wimm"
+            ],
+            "id": "I11"
+        },
+        {
+            "concepts": [
+                "Widumbauer",
+                "Wimmer",
+                "Widum",
+                "Wimm"
+            ],
+            "id": "I12"
+        },
+        {
+            "concepts": [
+                "Pastor"
+            ],
+            "id": "I13"
+        },
+        {
+            "concepts": [
+                "Rabbiner"
+            ],
+            "id": "I14"
+        },
+        {
+            "concepts": [
+                "Dechant"
+            ],
+            "id": "I15"
+        },
+        {
+            "concepts": [
+                "Dechantei"
+            ],
+            "id": "I16"
+        },
+        {
+            "concepts": [
+                "Diakon",
+                "Subdiakon"
+            ],
+            "id": "I17"
+        },
+        {
+            "concepts": [
+                "Kanonikus"
+            ],
+            "id": "I18"
+        },
+        {
+            "concepts": [
+                "Prior"
+            ],
+            "id": "I19"
+        },
+        {
+            "concepts": [
+                "Prälat",
+                "Abt"
+            ],
+            "id": "I20"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "Bischof"
+            ],
+            "id": "I21"
+        },
+        {
+            "concepts": [
+                "Bischofeinweihen",
+                "Gesellschaftsspiel",
+                "Bischofsmütze",
+                "Bischof",
+                "Inful"
+            ],
+            "id": "I22"
+        },
+        {
+            "concepts": [
+                "Bistum"
+            ],
+            "id": "I23"
+        },
+        {
+            "concepts": [
+                "Superintendent"
+            ],
+            "id": "I24"
+        },
+        {
+            "concepts": [
+                "Fürstbischof"
+            ],
+            "id": "I25"
+        },
+        {
+            "concepts": [
+                "Pabst"
+            ],
+            "id": "I26"
+        },
+        {
+            "concepts": [
+                "Peterspfennig",
+                "Papst",
+                "Papststeuer"
+            ],
+            "id": "I27"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "Kirchenprobst",
+                "Kirchengemeinde",
+                "Kammerer",
+                "Probst",
+                "Vorsteher"
+            ],
+            "id": "I28"
+        },
+        {
+            "concepts": [
+                "Pfaffe",
+                "Weltgeistlicher",
+                "alt"
+            ],
+            "id": "I29"
+        },
+        {
+            "concepts": [
+                "Pfaffenfarb",
+                "Pfaffe",
+                "Pfaffentaffet"
+            ],
+            "id": "I30"
+        },
+        {
+            "concepts": [
+                "Klösterer",
+                "Leute",
+                "Klostergeistlicher",
+                "geistliche"
+            ],
+            "id": "I31"
+        },
+        {
+            "concepts": [
+                "Mönch",
+                "etwaige"
+            ],
+            "id": "I32"
+        },
+        {
+            "concepts": [
+                "Klosterbruder",
+                "Bettelmönch"
+            ],
+            "id": "I33"
+        },
+        {
+            "concepts": [
+                "Laienbruder"
+            ],
+            "id": "I34"
+        },
+        {
+            "concepts": [
+                "Missionär"
+            ],
+            "id": "I35"
+        },
+        {
+            "concepts": [
+                "Nonne",
+                "Klosterschwester"
+            ],
+            "id": "I36"
+        },
+        {
+            "concepts": [
+                "Oberin"
+            ],
+            "id": "I37"
+        },
+        {
+            "concepts": [
+                "Prämonstratenser",
+                "etwaige",
+                "Benennungen",
+                "mundartliche",
+                "Jesuwider",
+                "Zisterzienser",
+                "Kapuziner",
+                "Benediktiner",
+                "Ursulinerinnen",
+                "Franziskaner",
+                "geistlichen",
+                "Orden",
+                "Jesuiten"
+            ],
+            "id": "I38"
+        },
+        {
+            "concepts": [
+                "Sutane"
+            ],
+            "id": "K1"
+        },
+        {
+            "concepts": [
+                "Mönchskutte"
+            ],
+            "id": "K2"
+        },
+        {
+            "concepts": [
+                "Meßgewand"
+            ],
+            "id": "K3"
+        },
+        {
+            "concepts": [
+                "Chorhemd"
+            ],
+            "id": "K4"
+        },
+        {
+            "concepts": [
+                "Stola",
+                "Stolagebühr",
+                "Geistlapeitsche"
+            ],
+            "id": "K5"
+        },
+        {
+            "concepts": [
+                "Collare",
+                "Geistlahals"
+            ],
+            "id": "K6"
+        },
+        {
+            "concepts": [
+                "Himmel",
+                "hängt",
+                "voller",
+                "Geigen",
+                "Sinne",
+                "religiösen",
+                "Fluch",
+                "Himmelseiten"
+            ],
+            "id": "L1"
+        },
+        {
+            "concepts": [
+                "himmlisch"
+            ],
+            "id": "L2"
+        },
+        {
+            "concepts": [
+                "Himmel",
+                "Himmelstein"
+            ],
+            "id": "L3"
+        },
+        {
+            "concepts": [
+                "gen",
+                "Hölle",
+                "fahren"
+            ],
+            "id": "L4"
+        },
+        {
+            "concepts": [
+                "Feuer",
+                "höllische",
+                "höllisch"
+            ],
+            "id": "L5"
+        },
+        {
+            "concepts": [
+                "höllenweit",
+                "Hölle",
+                "höllmentisch",
+                "Höllenhund",
+                "Fluch",
+                "Höllsakra"
+            ],
+            "id": "L6"
+        },
+        {
+            "concepts": [
+                "Fegefeuer"
+            ],
+            "id": "L7"
+        },
+        {
+            "concepts": [
+                "vier",
+                "Dinge",
+                "letzten"
+            ],
+            "id": "L8"
+        },
+        {
+            "concepts": [
+                "hängt",
+                "heraus",
+                "wahrlich",
+                "Sein",
+                "Seel",
+                "Zwerch",
+                "drin",
+                "Seele",
+                "Hund"
+            ],
+            "id": "L9"
+        },
+        {
+            "concepts": [
+                "arme",
+                "Ruh",
+                "Seele",
+                "Seel"
+            ],
+            "id": "L10"
+        },
+        {
+            "concepts": [
+                "Seelenleute",
+                "gestiftetes",
+                "Opfer",
+                "seelengut",
+                "Bad",
+                "Seelbad",
+                "Seele"
+            ],
+            "id": "L11"
+        },
+        {
+            "concepts": [
+                "verdammt",
+                "verdammen",
+                "verbeint",
+                "Fluch",
+                "verzwirnt"
+            ],
+            "id": "L12"
+        },
+        {
+            "concepts": [
+                "peinigen",
+                "quälen"
+            ],
+            "id": "L13"
+        },
+        {
+            "concepts": [
+                "erlösen"
+            ],
+            "id": "L14"
+        },
+        {
+            "concepts": [
+                "drei",
+                "göttlichen",
+                "heilige",
+                "Personen",
+                "Dreifaltigkeit"
+            ],
+            "id": "M1"
+        },
+        {
+            "concepts": [
+                "Wieviel",
+                "drei",
+                "Göttel",
+                "Personen",
+                "Gott",
+                "Ausruf",
+                "Frageformel",
+                "Gotteles",
+                "Götter",
+                "Antwort"
+            ],
+            "id": "M2"
+        },
+        {
+            "concepts": [
+                "tun",
+                "bitten",
+                "Gott",
+                "gar",
+                "Liebe"
+            ],
+            "id": "M3"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "gebe",
+                "Dank",
+                "Falle",
+                "Gottlob",
+                "Daß",
+                "Will",
+                "Tröst",
+                "Gott",
+                "Got",
+                "steh",
+                "erbarm",
+                "wahr",
+                "willkommen",
+                "erkenn",
+                "Tat",
+                "sei",
+                "Weiß"
+            ],
+            "id": "M4"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Gottesnamen",
+                "gotteseinzig",
+                "gotzig",
+                "Gottesgabe",
+                "Gott",
+                "Gotteswillen",
+                "gottig",
+                "lieben"
+            ],
+            "id": "M5"
+        },
+        {
+            "concepts": [
+                "potztausend",
+                "Gott",
+                "Fluch"
+            ],
+            "id": "M6"
+        },
+        {
+            "concepts": [
+                "aufgeblasener",
+                "Mensch",
+                "Herrgöttel",
+                "Herrgott"
+            ],
+            "id": "M7"
+        },
+        {
+            "concepts": [
+                "Herrgottswinkel"
+            ],
+            "id": "M8"
+        },
+        {
+            "concepts": [
+                "Himmelvater",
+                "Gottvater"
+            ],
+            "id": "M9"
+        },
+        {
+            "concepts": [
+                "Sohn",
+                "Gott"
+            ],
+            "id": "M10"
+        },
+        {
+            "concepts": [
+                "Jösile",
+                "as",
+                "Jö",
+                "Ausruf",
+                "Jes",
+                "Christus",
+                "Herrjee",
+                "Jemine",
+                "Jui",
+                "Jeschgas",
+                "Jesus"
+            ],
+            "id": "M11"
+        },
+        {
+            "concepts": [
+                "Jessas",
+                "Jö",
+                "jösigen",
+                "quälen",
+                "jöschpetzen",
+                "abgeleitete",
+                "jöseln",
+                "Herrjee",
+                "Jesu",
+                "jammern",
+                "jöschpeln",
+                "Ausrufen",
+                "jöggisen",
+                "Namen"
+            ],
+            "id": "M12"
+        },
+        {
+            "concepts": [
+                "heilige",
+                "Geist"
+            ],
+            "id": "M13"
+        },
+        {
+            "concepts": [
+                "Pfingstfest",
+                "Herunterlassen",
+                "Öffnung",
+                "Heiligengeistbrunnen",
+                "Geist",
+                "Holztaube"
+            ],
+            "id": "M14"
+        },
+        {
+            "concepts": [
+                "Gottes",
+                "unsere",
+                "heilige",
+                "Frau",
+                "liebe",
+                "Mutter",
+                "Himmelmutter",
+                "Maria"
+            ],
+            "id": "M15"
+        },
+        {
+            "concepts": [
+                "Maria",
+                "Ausruf",
+                "Marandanna"
+            ],
+            "id": "M16"
+        },
+        {
+            "concepts": [
+                "heilige",
+                "Josef",
+                "Nährvater"
+            ],
+            "id": "M17"
+        },
+        {
+            "concepts": [
+                "Kinderspiel",
+                "Engel",
+                "hören",
+                "singen",
+                "tragen"
+            ],
+            "id": "M18"
+        },
+        {
+            "concepts": [
+                "Engel",
+                "engelsatt",
+                "Engelspiel",
+                "Blasengel"
+            ],
+            "id": "M19"
+        },
+        {
+            "concepts": [
+                "engelet",
+                "englisch"
+            ],
+            "id": "M20"
+        },
+        {
+            "concepts": [
+                "Michael",
+                "Uriel",
+                "Formen",
+                "Raphael",
+                "Gabriel",
+                "Erzengel",
+                "Namen",
+                "volkstümliche"
+            ],
+            "id": "M21"
+        },
+        {
+            "concepts": [
+                "Heiligen",
+                "Heiliger",
+                "Heilige",
+                "heilig"
+            ],
+            "id": "M22"
+        },
+        {
+            "concepts": [
+                "gewiß",
+                "Bekräftigung",
+                "derlogen",
+                "heilig",
+                "geschieht"
+            ],
+            "id": "M23"
+        },
+        {
+            "concepts": [
+                "anrufen",
+                "Heiligen",
+                "heilig"
+            ],
+            "id": "M24"
+        },
+        {
+            "concepts": [
+                "Heiligenbild",
+                "heilig"
+            ],
+            "id": "M25"
+        },
+        {
+            "concepts": [
+                "Messingbildchen",
+                "Heiligkeit",
+                "geweihtes"
+            ],
+            "id": "M26"
+        },
+        {
+            "concepts": [
+                "Seliger",
+                "selig",
+                "Seligen",
+                "Selige"
+            ],
+            "id": "M27"
+        },
+        {
+            "concepts": [
+                "selig",
+                "Gott"
+            ],
+            "id": "M28"
+        },
+        {
+            "concepts": [
+                "seligsprechen"
+            ],
+            "id": "M29"
+        },
+        {
+            "concepts": [
+                "Zwölfboten",
+                "Apostel",
+                "zwölf"
+            ],
+            "id": "M30"
+        },
+        {
+            "concepts": [
+                "Apostel",
+                "Apostelreiter"
+            ],
+            "id": "M31"
+        },
+        {
+            "concepts": [
+                "Jünger"
+            ],
+            "id": "M32"
+        },
+        {
+            "concepts": [
+                "Evangelisten",
+                "vier"
+            ],
+            "id": "M33"
+        },
+        {
+            "concepts": [
+                "Märtyrer"
+            ],
+            "id": "M34"
+        },
+        {
+            "concepts": [
+                "Propheten"
+            ],
+            "id": "M35"
+        },
+        {
+            "concepts": [
+                "vierzehn",
+                "Nothelfer"
+            ],
+            "id": "M36"
+        }
+    ]
+}

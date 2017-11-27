@@ -1,0 +1,2850 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Schuljahr"
+                ],
+                [
+                    "Griffel"
+                ],
+                [
+                    "Bleistift"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Tinte"
+                ],
+                [
+                    "Löschpapier"
+                ],
+                [
+                    "Papier"
+                ],
+                [
+                    "Klasse"
+                ],
+                [
+                    "fängt"
+                ],
+                [
+                    "merken"
+                ],
+                [
+                    "Unterricht"
+                ],
+                [
+                    "folgen"
+                ],
+                [
+                    "Prüfung"
+                ],
+                [
+                    "kriegen"
+                ],
+                [
+                    "geben"
+                ],
+                [
+                    "Lesen"
+                ],
+                [
+                    "Brief"
+                ],
+                [
+                    "gute"
+                ],
+                [
+                    "Nummer"
+                ],
+                [
+                    "geht"
+                ],
+                [
+                    "Einser"
+                ],
+                [
+                    "wann"
+                ],
+                [
+                    "Vierer"
+                ],
+                [
+                    "Aufzählung"
+                ],
+                [
+                    "erste"
+                ],
+                [
+                    "ersten"
+                ],
+                [
+                    "Stunde"
+                ],
+                [
+                    "eins"
+                ],
+                [
+                    "zwei"
+                ],
+                [
+                    "einzigen"
+                ],
+                [
+                    "letzte"
+                ],
+                [
+                    "volkstümliche"
+                ],
+                [
+                    "vier"
+                ],
+                [
+                    "Geschichte"
+                ],
+                [
+                    "Strich"
+                ],
+                [
+                    "Zeichnen"
+                ],
+                [
+                    "malen"
+                ]
+            ],
+            "2": [
+                [
+                    "beim"
+                ]
+            ],
+            "3": [
+                [
+                    "lernen"
+                ],
+                [
+                    "Fehler"
+                ],
+                [
+                    "rechnen"
+                ],
+                [
+                    "große"
+                ],
+                [
+                    "Zahl"
+                ],
+                [
+                    "Zahlen"
+                ],
+                [
+                    "drei"
+                ],
+                [
+                    "Namen"
+                ]
+            ],
+            "6": [
+                [
+                    "Schüler"
+                ],
+                [
+                    "Lehrer"
+                ]
+            ],
+            "7": [
+                [
+                    "Ziffer"
+                ]
+            ],
+            "9": [
+                [
+                    "bleiben"
+                ],
+                [
+                    "schreiben"
+                ]
+            ],
+            "28": [
+                [
+                    "Schule"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Büchel",
+                    "Buch"
+                ],
+                [
+                    "Heft",
+                    "Theke"
+                ],
+                [
+                    "schreiben",
+                    "schlecht"
+                ],
+                [
+                    "bleiben",
+                    "beim"
+                ]
+            ],
+            "3": [
+                [
+                    "Ziffer",
+                    "Zahl"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 0,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 0,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 0,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 0,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 0,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 1,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 1,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 1,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 1,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 1,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 1,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 1,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüler"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüler"
+            ],
+            "source": 2,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüler"
+            ],
+            "source": 2,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüler"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüler"
+            ],
+            "source": 3,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schüler"
+            ],
+            "source": 4,
+            "target": 101,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schuljahr"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fängt"
+            ],
+            "source": 8,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 13,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 13,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 13,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 13,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 13,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Klasse"
+            ],
+            "source": 14,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "erste"
+            ],
+            "source": 17,
+            "target": 161,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "letzte"
+            ],
+            "source": 17,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 23,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Büchel",
+                "Buch"
+            ],
+            "source": 28,
+            "target": 29,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Geschichte"
+            ],
+            "source": 31,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Heft",
+                "Theke"
+            ],
+            "source": 32,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Griffel"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bleistift"
+            ],
+            "source": 39,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tinte"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Löschpapier"
+            ],
+            "source": 47,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Papier"
+            ],
+            "source": 52,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lehrer"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lehrer"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lehrer"
+            ],
+            "source": 66,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lehrer"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lehrer"
+            ],
+            "source": 67,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 68,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 68,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "ersten"
+            ],
+            "source": 68,
+            "target": 161,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lehrer"
+            ],
+            "source": 68,
+            "target": 190,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lernen"
+            ],
+            "source": 74,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lernen"
+            ],
+            "source": 74,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 75,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 75,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 75,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 76,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Unterricht"
+            ],
+            "source": 76,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 76,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 77,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 77,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schule"
+            ],
+            "source": 79,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lernen"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "merken"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "folgen"
+            ],
+            "source": 84,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 84,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 84,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 84,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 84,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Prüfung"
+            ],
+            "source": 95,
+            "target": 96,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 97,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 97,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 97,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 100,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben"
+            ],
+            "source": 100,
+            "target": 143,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kriegen"
+            ],
+            "source": 108,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geben"
+            ],
+            "source": 108,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gute"
+            ],
+            "source": 118,
+            "target": 147,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Einser"
+            ],
+            "source": 118,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vierer"
+            ],
+            "source": 118,
+            "target": 156,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "volkstümliche"
+            ],
+            "source": 118,
+            "target": 170,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 118,
+            "target": 192,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 118,
+            "target": 193,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fehler"
+            ],
+            "source": 121,
+            "target": 122,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fehler"
+            ],
+            "source": 121,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fehler"
+            ],
+            "source": 122,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stunde"
+            ],
+            "source": 125,
+            "target": 161,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "große"
+            ],
+            "source": 129,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Lesen"
+            ],
+            "source": 131,
+            "target": 132,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bleiben",
+                "beim"
+            ],
+            "source": 132,
+            "target": 143,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 132,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 133,
+            "target": 134,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 133,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 133,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 133,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben",
+                "schlecht"
+            ],
+            "source": 134,
+            "target": 135,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 134,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 134,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 135,
+            "target": 136,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 135,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Brief"
+            ],
+            "source": 136,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schreiben"
+            ],
+            "source": 136,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rechnen"
+            ],
+            "source": 141,
+            "target": 142,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rechnen"
+            ],
+            "source": 141,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rechnen"
+            ],
+            "source": 142,
+            "target": 144,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahl"
+            ],
+            "source": 143,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahl"
+            ],
+            "source": 143,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahl"
+            ],
+            "source": 143,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "drei"
+            ],
+            "source": 143,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "drei"
+            ],
+            "source": 143,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 143,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer"
+            ],
+            "source": 144,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer"
+            ],
+            "source": 144,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer"
+            ],
+            "source": 144,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer"
+            ],
+            "source": 144,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer"
+            ],
+            "source": 145,
+            "target": 152,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer"
+            ],
+            "source": 145,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer"
+            ],
+            "source": 145,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Nummer"
+            ],
+            "source": 147,
+            "target": 148,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahlen"
+            ],
+            "source": 150,
+            "target": 151,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahlen"
+            ],
+            "source": 150,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zahlen"
+            ],
+            "source": 151,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ziffer",
+                "Zahl"
+            ],
+            "source": 152,
+            "target": 153,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ziffer",
+                "Zahl"
+            ],
+            "source": 152,
+            "target": 154,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ziffer",
+                "Zahl"
+            ],
+            "source": 153,
+            "target": 154,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "eins"
+            ],
+            "source": 153,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zwei"
+            ],
+            "source": 154,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aufzählung"
+            ],
+            "source": 155,
+            "target": 157,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "drei"
+            ],
+            "source": 155,
+            "target": 164,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vier"
+            ],
+            "source": 155,
+            "target": 170,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "einzigen"
+            ],
+            "source": 165,
+            "target": 166,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zeichnen"
+            ],
+            "source": 176,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Strich"
+            ],
+            "source": 178,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "malen"
+            ],
+            "source": 185,
+            "target": 186,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 192,
+            "target": 193,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Schule",
+                "gehen",
+                "schwätzen"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Da",
+                "Schule",
+                "geht",
+                "Judenschule"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Schüler",
+                "Schulbub"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Schüler",
+                "Vorzugsschüler"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Schüler",
+                "guter",
+                "schlechter"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Klassenerster"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Anfänger"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Schuljahr"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "fängt",
+                "Schuljahr",
+                "Schulanfang"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Schulschluß"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Schlußprüfung"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Gottesdienst",
+                "Geistamt",
+                "Anfang",
+                "Ende",
+                "Schuljahres",
+                "Dankamt"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Schuldiener"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Schule",
+                "Schulhaus"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Klasse",
+                "Klassenzimmer"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "großen",
+                "untern",
+                "kleinen",
+                "Klassen",
+                "obern"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "Schulbank",
+                "drücken"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Eselbank",
+                "Bank",
+                "letzte",
+                "erste"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "Katheder"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Schulgarten"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Konferenzzimmer"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "Kabinett",
+                "physikalisches"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "Schülerausdruck",
+                "Abort",
+                "etwaiger"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "sonstige",
+                "Schulgebäudes",
+                "Bezeichnungen",
+                "ortsübliche",
+                "Teile"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Schulsachen"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Schulranzen"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Kalier",
+                "Schultasche"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Namenbüchlein",
+                "Fibel"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Buch",
+                "Büchel",
+                "Sinn",
+                "verkleinernden",
+                "Les"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Büchel",
+                "Buch",
+                "Liederbuch"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Katechismus"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "Geschichte",
+                "biblische",
+                "Bibel"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Heft",
+                "Theke"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Heft",
+                "Theke",
+                "Zeichenheft"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Lappen",
+                "Schwamm",
+                "Zugehör",
+                "Schreibtafel"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Taferlklasse",
+                "Tafel"
+            ],
+            "id": "C12"
+        },
+        {
+            "concepts": [
+                "Wandtafel"
+            ],
+            "id": "C13"
+        },
+        {
+            "concepts": [
+                "Wandkarte"
+            ],
+            "id": "C14"
+        },
+        {
+            "concepts": [
+                "Griffel"
+            ],
+            "id": "C15"
+        },
+        {
+            "concepts": [
+                "Bleistift"
+            ],
+            "id": "C16"
+        },
+        {
+            "concepts": [
+                "Griffel",
+                "Bleistift",
+                "spitzen"
+            ],
+            "id": "C17"
+        },
+        {
+            "concepts": [
+                "Metallfeder",
+                "Kielfeder",
+                "lebendig",
+                "Schreibfeder",
+                "Federstiel",
+                "Erinnerung",
+                "Teile"
+            ],
+            "id": "C18"
+        },
+        {
+            "concepts": [
+                "reinigen",
+                "Feder",
+                "eintauchen"
+            ],
+            "id": "C19"
+        },
+        {
+            "concepts": [
+                "Federschachtel"
+            ],
+            "id": "C20"
+        },
+        {
+            "concepts": [
+                "sitzt",
+                "farbigen",
+                "Tinte",
+                "Tinten"
+            ],
+            "id": "C21"
+        },
+        {
+            "concepts": [
+                "Tintenfaß",
+                "Tinte"
+            ],
+            "id": "C22"
+        },
+        {
+            "concepts": [
+                "Patz",
+                "Sau",
+                "Tintenklex"
+            ],
+            "id": "C23"
+        },
+        {
+            "concepts": [
+                "Löschpapier"
+            ],
+            "id": "C24"
+        },
+        {
+            "concepts": [
+                "Löschpapier",
+                "ablöschen"
+            ],
+            "id": "C25"
+        },
+        {
+            "concepts": [
+                "Streusand"
+            ],
+            "id": "C26"
+        },
+        {
+            "concepts": [
+                "Radiergummi"
+            ],
+            "id": "C27"
+        },
+        {
+            "concepts": [
+                "Aussprache",
+                "ausradieren",
+                "radieren"
+            ],
+            "id": "C28"
+        },
+        {
+            "concepts": [
+                "Stücke",
+                "Blätter",
+                "Bogen",
+                "Papier"
+            ],
+            "id": "C29"
+        },
+        {
+            "concepts": [
+                "Papierschere",
+                "Papier",
+                "Goldpapier"
+            ],
+            "id": "C30"
+        },
+        {
+            "concepts": [
+                "Kerl",
+                "papierener"
+            ],
+            "id": "C31"
+        },
+        {
+            "concepts": [
+                "Lineal",
+                "Lenier"
+            ],
+            "id": "C32"
+        },
+        {
+            "concepts": [
+                "linieren"
+            ],
+            "id": "C33"
+        },
+        {
+            "concepts": [
+                "Reißbrett"
+            ],
+            "id": "C34"
+        },
+        {
+            "concepts": [
+                "Malkasten"
+            ],
+            "id": "C35"
+        },
+        {
+            "concepts": [
+                "Pinsel"
+            ],
+            "id": "C36"
+        },
+        {
+            "concepts": [
+                "pinseln"
+            ],
+            "id": "C37"
+        },
+        {
+            "concepts": [
+                "Wasserfarben"
+            ],
+            "id": "C38"
+        },
+        {
+            "concepts": [
+                "Tusche"
+            ],
+            "id": "C39"
+        },
+        {
+            "concepts": [
+                "Schulkatalog"
+            ],
+            "id": "C40"
+        },
+        {
+            "concepts": [
+                "Hantel",
+                "Turngeräte",
+                "Bock",
+                "Kletterstange",
+                "Barren",
+                "Reck"
+            ],
+            "id": "C41"
+        },
+        {
+            "concepts": [
+                "Lehrmittel",
+                "weitere"
+            ],
+            "id": "C42"
+        },
+        {
+            "concepts": [
+                "Schulmeister",
+                "Lehrer"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Gesangslehrer",
+                "Lehrer"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Klasse",
+                "kleine",
+                "ersten",
+                "letzten",
+                "große",
+                "Lehrer"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Schulgehilfe",
+                "Kantner"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Fräulen",
+                "Lehrerin"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Industrielehrerin",
+                "Strickfräulen"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "Katechet"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "Schulleiter"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "lernen",
+                "Mores",
+                "lehren",
+                "Ich"
+            ],
+            "id": "D9"
+        },
+        {
+            "concepts": [
+                "wann",
+                "fängt",
+                "Schule",
+                "Schulunterricht",
+                "heute"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Sonntagsunterricht",
+                "Schule",
+                "Unterricht"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Schule",
+                "austreten",
+                "eintreten"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "einschreiben"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Schule",
+                "ausgeschlossen",
+                "hinausgeworfen"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "lernen",
+                "gelernter",
+                "auswendig",
+                "Tischler",
+                "leicht",
+                "schwer"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "lernen",
+                "verleiten",
+                "einlernen",
+                "erlernen",
+                "Schlechtem",
+                "anlernen"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Kopfe",
+                "merken"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "vergessen",
+                "merken"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "hinten",
+                "folgen",
+                "Unterricht",
+                "mitkommen",
+                "bleiben"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "aufmerksam",
+                "aufpassen"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "unaufmerksam"
+            ],
+            "id": "E12"
+        },
+        {
+            "concepts": [
+                "folgen",
+                "gehorchen"
+            ],
+            "id": "E13"
+        },
+        {
+            "concepts": [
+                "folgsam",
+                "brav",
+                "gehorsam",
+                "artig"
+            ],
+            "id": "E14"
+        },
+        {
+            "concepts": [
+                "unartig",
+                "schlimm",
+                "ungehorsam",
+                "unfolgsam"
+            ],
+            "id": "E15"
+        },
+        {
+            "concepts": [
+                "ausgelassen"
+            ],
+            "id": "E16"
+        },
+        {
+            "concepts": [
+                "aufgeben"
+            ],
+            "id": "E17"
+        },
+        {
+            "concepts": [
+                "Aufgabe",
+                "leichte",
+                "Aufgaben",
+                "Schulaufgabe"
+            ],
+            "id": "E18"
+        },
+        {
+            "concepts": [
+                "Hausausgabe"
+            ],
+            "id": "E19"
+        },
+        {
+            "concepts": [
+                "prüfen"
+            ],
+            "id": "E20"
+        },
+        {
+            "concepts": [
+                "Prüfung"
+            ],
+            "id": "E21"
+        },
+        {
+            "concepts": [
+                "Nachprüfung",
+                "Prüfung"
+            ],
+            "id": "E22"
+        },
+        {
+            "concepts": [
+                "durchfallen",
+                "sitzen",
+                "bleiben"
+            ],
+            "id": "E23"
+        },
+        {
+            "concepts": [
+                "Eseltreiber",
+                "Sitzenbleiber",
+                "Repetent"
+            ],
+            "id": "E24"
+        },
+        {
+            "concepts": [
+                "aufsteigen"
+            ],
+            "id": "E25"
+        },
+        {
+            "concepts": [
+                "nachsitzen",
+                "bleiben"
+            ],
+            "id": "E26"
+        },
+        {
+            "concepts": [
+                "Schüler",
+                "aufrufen"
+            ],
+            "id": "E27"
+        },
+        {
+            "concepts": [
+                "melden"
+            ],
+            "id": "E28"
+        },
+        {
+            "concepts": [
+                "aufzeigen"
+            ],
+            "id": "E29"
+        },
+        {
+            "concepts": [
+                "verschergeln",
+                "angeben"
+            ],
+            "id": "E30"
+        },
+        {
+            "concepts": [
+                "einflüstern"
+            ],
+            "id": "E31"
+        },
+        {
+            "concepts": [
+                "tuscheln"
+            ],
+            "id": "E32"
+        },
+        {
+            "concepts": [
+                "schwänzen",
+                "setzten",
+                "Schule",
+                "pracken",
+                "sterzen"
+            ],
+            "id": "E33"
+        },
+        {
+            "concepts": [
+                "Strafe",
+                "geben",
+                "kriegen"
+            ],
+            "id": "E34"
+        },
+        {
+            "concepts": [
+                "strafen"
+            ],
+            "id": "E35"
+        },
+        {
+            "concepts": [
+                "strafbar"
+            ],
+            "id": "E36"
+        },
+        {
+            "concepts": [
+                "straflos"
+            ],
+            "id": "E37"
+        },
+        {
+            "concepts": [
+                "hinausknien",
+                "hinausstellen",
+                "müssen"
+            ],
+            "id": "E38"
+        },
+        {
+            "concepts": [
+                "Rohrstaberl",
+                "spanische",
+                "Rohr"
+            ],
+            "id": "E39"
+        },
+        {
+            "concepts": [
+                "birkene",
+                "Rute",
+                "Ahnel"
+            ],
+            "id": "E40"
+        },
+        {
+            "concepts": [
+                "kriegen",
+                "Schlag",
+                "Schläge",
+                "Handteller",
+                "Batzen",
+                "Stärke"
+            ],
+            "id": "E41"
+        },
+        {
+            "concepts": [
+                "Schulzeugnis"
+            ],
+            "id": "E42"
+        },
+        {
+            "concepts": [
+                "Zeugnis",
+                "Zeugnisverteilung",
+                "Sittenzeugnis"
+            ],
+            "id": "E43"
+        },
+        {
+            "concepts": [
+                "schlechte",
+                "Einser",
+                "Note",
+                "geben",
+                "Pinsch",
+                "Noten",
+                "gute",
+                "Vierer",
+                "Klassifikations",
+                "Namen",
+                "volkstümliche"
+            ],
+            "id": "E44"
+        },
+        {
+            "concepts": [
+                "Fleißnote",
+                "Sittenpunkt"
+            ],
+            "id": "E45"
+        },
+        {
+            "concepts": [
+                "Fleißzettel"
+            ],
+            "id": "E46"
+        },
+        {
+            "concepts": [
+                "Fehler",
+                "Plutzer"
+            ],
+            "id": "E47"
+        },
+        {
+            "concepts": [
+                "Fehler",
+                "Denkfehler"
+            ],
+            "id": "E48"
+        },
+        {
+            "concepts": [
+                "korrigieren",
+                "verbessern",
+                "ausbessern"
+            ],
+            "id": "E49"
+        },
+        {
+            "concepts": [
+                "Verbesserung",
+                "Korrektur"
+            ],
+            "id": "E50"
+        },
+        {
+            "concepts": [
+                "Schulstunde",
+                "Stunde"
+            ],
+            "id": "E51"
+        },
+        {
+            "concepts": [
+                "Unterrichtspause"
+            ],
+            "id": "E52"
+        },
+        {
+            "concepts": [
+                "fendern",
+                "täuscheln"
+            ],
+            "id": "E53"
+        },
+        {
+            "concepts": [
+                "frei"
+            ],
+            "id": "E54"
+        },
+        {
+            "concepts": [
+                "Kartoffelferien",
+                "Arten",
+                "Schulferien",
+                "Hauptferien",
+                "große"
+            ],
+            "id": "E55"
+        },
+        {
+            "concepts": [
+                "habt",
+                "Gegenstand",
+                "Welchen",
+                "Wir"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Lesen",
+                "lest",
+                "schönes",
+                "gelest",
+                "gelesen",
+                "liest",
+                "lesen"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "dgl",
+                "verhaspeln",
+                "Fehler",
+                "stecken",
+                "bleiben",
+                "beim",
+                "Lesen"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "schreibt",
+                "schreiben"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "schreiben",
+                "beschreiben",
+                "schlecht",
+                "angeschrieben",
+                "schönschreiben"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "schreiben",
+                "schmieren",
+                "tageln",
+                "kratzen",
+                "schlecht"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "schreiben",
+                "Brief"
+            ],
+            "id": "F7"
+        },
+        {
+            "concepts": [
+                "Geschäftsbrief",
+                "Brief"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Stuhlschreiber",
+                "Schreiber"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Schreibstube"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Analphabet"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Rechnen",
+                "schwach",
+                "beinahe",
+                "rechnen"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "berechnen",
+                "rechnen",
+                "ausgerechnet",
+                "ausrechnen",
+                "Rechenmaschine",
+                "verrechnen",
+                "Kopfrechnen",
+                "verrechnet",
+                "berechnend"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "Zusammenrechnen",
+                "Zahl",
+                "drei",
+                "übrig",
+                "bleiben",
+                "beim"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Ziffer",
+                "Ziffern",
+                "rechnen",
+                "schreiben"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Ziffer",
+                "Ziffernfresser"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "beziffern"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "gute",
+                "Nummer"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Hausnummer",
+                "Nummer"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "numerieren"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "niedere",
+                "hohe",
+                "Zahlen"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "ungerade",
+                "gerade",
+                "Zahlen"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Zahl",
+                "Nullerl",
+                "Ziffer",
+                "Null",
+                "große"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Himmel",
+                "Einser",
+                "Feuer",
+                "Zahl",
+                "éin",
+                "Morast",
+                "Ziffer",
+                "Blut",
+                "geworden",
+                "Haus",
+                "eins",
+                "Baum",
+                "gar",
+                "Wasser",
+                "Eins",
+                "Hütte"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Zahl",
+                "Zwei",
+                "zwei",
+                "Hütten",
+                "Bäume",
+                "Ziffer",
+                "Häuser",
+                "Zweier"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "flektierte",
+                "böse",
+                "guten",
+                "wann",
+                "Zahlen",
+                "drei",
+                "viere",
+                "Form",
+                "gebraucht",
+                "Aufzählung",
+                "unflektierte",
+                "Endungs",
+                "Dinge",
+                "Sieben",
+                "20",
+                "vier",
+                "Angabe"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Dreier",
+                "Vierer"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Zehner",
+                "hundertundeine",
+                "30",
+                "Aufzählung",
+                "100",
+                "Ausrede"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Million",
+                "Tausend",
+                "Milliarde"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "Hunderter",
+                "Tausender"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "Millionär",
+                "Milliardär"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "Stunde",
+                "dritte",
+                "erste",
+                "Seite",
+                "ersten",
+                "zweite",
+                "zwölften",
+                "Tausendste",
+                "Hundertsten",
+                "kommen",
+                "Ordnungszahlen"
+            ],
+            "id": "F32"
+        },
+        {
+            "concepts": [
+                "zweimal",
+                "dreimal",
+                "keinmal"
+            ],
+            "id": "F33"
+        },
+        {
+            "concepts": [
+                "viererlei",
+                "einerlei",
+                "dreierlei",
+                "zweierlei"
+            ],
+            "id": "F34"
+        },
+        {
+            "concepts": [
+                "eins",
+                "je",
+                "drei",
+                "zwei"
+            ],
+            "id": "F35"
+        },
+        {
+            "concepts": [
+                "einzige",
+                "einziger",
+                "einzigen"
+            ],
+            "id": "F36"
+        },
+        {
+            "concepts": [
+                "vereinzelt",
+                "einletzig",
+                "einletz",
+                "einzeln",
+                "einzigen"
+            ],
+            "id": "F37"
+        },
+        {
+            "concepts": [
+                "dritt",
+                "zweit"
+            ],
+            "id": "F38"
+        },
+        {
+            "concepts": [
+                "letzte",
+                "beste"
+            ],
+            "id": "F39"
+        },
+        {
+            "concepts": [
+                "zuletzt",
+                "lacht",
+                "besten",
+                "wer",
+                "Letzt"
+            ],
+            "id": "F40"
+        },
+        {
+            "concepts": [
+                "Rechnungsarten",
+                "abziehen",
+                "zusammenzählen",
+                "vier",
+                "Ausdrücke",
+                "volkstümliche"
+            ],
+            "id": "F41"
+        },
+        {
+            "concepts": [
+                "multiplizieren",
+                "hinaufdividieren",
+                "addieren"
+            ],
+            "id": "F42"
+        },
+        {
+            "concepts": [
+                "1+2",
+                "1x7",
+                "mathematischen",
+                "12",
+                "Worten",
+                "lauten",
+                "Formeln"
+            ],
+            "id": "F43"
+        },
+        {
+            "concepts": [
+                "Geschichte"
+            ],
+            "id": "F44"
+        },
+        {
+            "concepts": [
+                "Geographie"
+            ],
+            "id": "F45"
+        },
+        {
+            "concepts": [
+                "Naturgeschichte"
+            ],
+            "id": "F46"
+        },
+        {
+            "concepts": [
+                "Zeichnen"
+            ],
+            "id": "F47"
+        },
+        {
+            "concepts": [
+                "bezeichnen",
+                "zeichnen"
+            ],
+            "id": "F48"
+        },
+        {
+            "concepts": [
+                "Strich"
+            ],
+            "id": "F49"
+        },
+        {
+            "concepts": [
+                "Schattenstrich",
+                "Strich"
+            ],
+            "id": "F50"
+        },
+        {
+            "concepts": [
+                "Linie"
+            ],
+            "id": "F51"
+        },
+        {
+            "concepts": [
+                "stricheln",
+                "schraffieren"
+            ],
+            "id": "F52"
+        },
+        {
+            "concepts": [
+                "umranden",
+                "ausziehen"
+            ],
+            "id": "F53"
+        },
+        {
+            "concepts": [
+                "durchpausen"
+            ],
+            "id": "F54"
+        },
+        {
+            "concepts": [
+                "herausfahren",
+                "Zeichnen",
+                "beim",
+                "danebenfahren"
+            ],
+            "id": "F55"
+        },
+        {
+            "concepts": [
+                "malen",
+                "gemalt",
+                "gemalen"
+            ],
+            "id": "F56"
+        },
+        {
+            "concepts": [
+                "steht",
+                "malen",
+                "angemalener",
+                "bemalen",
+                "Türk"
+            ],
+            "id": "F57"
+        },
+        {
+            "concepts": [
+                "Maler"
+            ],
+            "id": "F58"
+        },
+        {
+            "concepts": [
+                "Malerei"
+            ],
+            "id": "F59"
+        },
+        {
+            "concepts": [
+                "mal",
+                "Gemälde"
+            ],
+            "id": "F60"
+        },
+        {
+            "concepts": [
+                "Turnen",
+                "turnen",
+                "Lehrer"
+            ],
+            "id": "F61"
+        },
+        {
+            "concepts": [
+                "Turnstunde"
+            ],
+            "id": "F62"
+        },
+        {
+            "concepts": [
+                "aufziehen",
+                "Klettern",
+                "Bauchwelle",
+                "Kniebeuge",
+                "Weitspringen",
+                "Turnübungen",
+                "Namen"
+            ],
+            "id": "F63"
+        },
+        {
+            "concepts": [
+                "Namen",
+                "Turnspiele"
+            ],
+            "id": "F64"
+        }
+    ]
+}

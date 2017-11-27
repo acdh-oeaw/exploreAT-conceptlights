@@ -1,0 +1,1589 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "löffeln"
+                ],
+                [
+                    "schon"
+                ],
+                [
+                    "schleifen"
+                ],
+                [
+                    "Messers"
+                ],
+                [
+                    "Schliff"
+                ],
+                [
+                    "besondere"
+                ],
+                [
+                    "Gabel"
+                ],
+                [
+                    "gabeln"
+                ],
+                [
+                    "aufs"
+                ],
+                [
+                    "Flasche"
+                ],
+                [
+                    "Becher"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "wägen"
+                ],
+                [
+                    "wiegen"
+                ],
+                [
+                    "schweren"
+                ],
+                [
+                    "macht"
+                ],
+                [
+                    "Zentner"
+                ],
+                [
+                    "Gramm"
+                ],
+                [
+                    "Pfund"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "Liter"
+                ],
+                [
+                    "wieviel"
+                ],
+                [
+                    "Pfanne"
+                ],
+                [
+                    "Stück"
+                ],
+                [
+                    "gehen"
+                ]
+            ],
+            "2": [
+                [
+                    "schwer"
+                ]
+            ],
+            "3": [
+                [
+                    "Löffel"
+                ],
+                [
+                    "Teller"
+                ],
+                [
+                    "Gewicht"
+                ],
+                [
+                    "Gewäge"
+                ],
+                [
+                    "Maß"
+                ],
+                [
+                    "Scherben"
+                ]
+            ],
+            "6": [
+                [
+                    "Messer"
+                ]
+            ],
+            "8": [
+                [
+                    "leicht"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "legen",
+                    "Waage"
+                ],
+                [
+                    "leicht",
+                    "schwer"
+                ],
+                [
+                    "Fall",
+                    "Verbindungen"
+                ],
+                [
+                    "Ausdrücken",
+                    "leicht"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Stöpsel",
+                    "Pfropfen",
+                    "Stoppel"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "gewogen",
+                    "Formen",
+                    "gewegen",
+                    "gering"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Löffel"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Löffel"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schon"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Löffel"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "löffeln"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 2,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messer"
+            ],
+            "source": 4,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messer"
+            ],
+            "source": 4,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messer"
+            ],
+            "source": 4,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aufs"
+            ],
+            "source": 4,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messer"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messer"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messer"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Messers"
+            ],
+            "source": 6,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "besondere"
+            ],
+            "source": 8,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schleifen"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schliff"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gabel"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gabeln"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teller"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teller"
+            ],
+            "source": 28,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teller"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Flasche"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Stöpsel",
+                "Pfropfen",
+                "Stoppel"
+            ],
+            "source": 35,
+            "target": 36,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Becher"
+            ],
+            "source": 41,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 44,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "legen",
+                "Waage"
+            ],
+            "source": 48,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Gewicht"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewicht"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewicht"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewäge"
+            ],
+            "source": 51,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewäge"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gewäge"
+            ],
+            "source": 54,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wägen"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gewogen",
+                "Formen",
+                "gewegen",
+                "gering"
+            ],
+            "source": 59,
+            "target": 61,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "wiegen"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwer"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht",
+                "schwer"
+            ],
+            "source": 61,
+            "target": 64,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 61,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 61,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 61,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wieviel"
+            ],
+            "source": 61,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schwer"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fall",
+                "Verbindungen"
+            ],
+            "source": 63,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Stück"
+            ],
+            "source": 63,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 64,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 64,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 64,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schweren"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücken",
+                "leicht"
+            ],
+            "source": 69,
+            "target": 71,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "leicht"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "macht"
+            ],
+            "source": 70,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehen"
+            ],
+            "source": 70,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zentner"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gramm"
+            ],
+            "source": 80,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfund"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Liter"
+            ],
+            "source": 88,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 90,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maß"
+            ],
+            "source": 92,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pfanne"
+            ],
+            "source": 96,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scherben"
+            ],
+            "source": 96,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scherben"
+            ],
+            "source": 96,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scherben"
+            ],
+            "source": 99,
+            "target": 100,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "großen",
+                "gestorben",
+                "gegessen",
+                "Weisheit",
+                "weggeworfen",
+                "schon",
+                "Löffel"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "Suppenlöffel",
+                "Löffel",
+                "Löffelstiel"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "gelöffelt",
+                "gut",
+                "essen",
+                "Löffel",
+                "löffeln"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "auszulöffeln",
+                "auslöffeln",
+                "löffeln"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "kurze",
+                "Messer",
+                "aufs",
+                "zücken",
+                "längere",
+                "lange",
+                "tragen"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Messer",
+                "Messerklinge",
+                "Silbermesser",
+                "Taschenmesser"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Messer",
+                "Messers",
+                "Schneide",
+                "mehr",
+                "verloren"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Messerer",
+                "Messerschmied"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Fachausdrücke",
+                "Messerschmiedgewerbes"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "Messer",
+                "möchten",
+                "wetzt",
+                "netto",
+                "geschliffen",
+                "gerade",
+                "wetzen",
+                "schleifen",
+                "schon",
+                "Leute"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "zuschleifen",
+                "schleifen"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Schleifstein",
+                "Schliff"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Schliffes",
+                "Schliff",
+                "Arten",
+                "Messers"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "Schleifergewerbes",
+                "Ausdrücke"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Gabel"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Gabelmacher",
+                "Gabel"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "gabeln"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "aufgabeln",
+                "aufgegabelt",
+                "gabeln",
+                "hast"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "gabelig"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "vierzinkig"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Eßbesteck",
+                "Eßzeug"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "Salatbesteck"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "Gedecke",
+                "Gedeck",
+                "vier",
+                "drei"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "decken",
+                "drückt",
+                "Personen",
+                "wieviele",
+                "Tisch",
+                "gedeckt"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Kaffeetuch"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Serviette",
+                "Mundtuch"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "Serviettenring"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "gibt",
+                "Ausdruck",
+                "Kaffeeservice"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "aufs",
+                "Teller",
+                "schauen",
+                "reden"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "tiefer",
+                "flacher",
+                "Teller"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Wettlaufspiel",
+                "Tellerlecker",
+                "Teller",
+                "Suppenteller",
+                "Spiel"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Schale"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Kaffeeschale"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Flasche"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "SpottN",
+                "Flasche",
+                "Österreicher",
+                "Flascheltrager",
+                "Korbflasche"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Stöpsel",
+                "Pfropfen",
+                "Stoppel"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "Pfropfen",
+                "Stoppelgeld",
+                "Holzstoppel",
+                "Stöpsel",
+                "Stoppel"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "verstöpseln"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Kork",
+                "Pantoffelholz"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "sitzen",
+                "vollem",
+                "Glase",
+                "leerem",
+                "Trinkglas"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "Schnapsglas",
+                "Fliegenglas",
+                "Gläserarten"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Becher"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "Eierbecher",
+                "Bechersack",
+                "Becher"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "bechern"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "Assach",
+                "Asch",
+                "Trinkgefäße",
+                "Napf",
+                "Gocker",
+                "sonstige"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "Waa",
+                "Tuolle",
+                "Einbeulungen",
+                "Wenke",
+                "Geschirr",
+                "Delle",
+                "Kluck"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "ellet",
+                "waanig",
+                "wenket",
+                "Einbuchtungen",
+                "voll",
+                "verbeult",
+                "tu"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "Einzelperson",
+                "großes",
+                "gemeinsames",
+                "kleines",
+                "Salzfaß"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "hält",
+                "ungewiß",
+                "Zufall",
+                "legen",
+                "aussetzen",
+                "liegt",
+                "Waage"
+            ],
+            "id": "B1"
+        },
+        {
+            "concepts": [
+                "Goldwaage",
+                "Zuwaage",
+                "Fleisch",
+                "Waagschale",
+                "legen",
+                "Draufgabe",
+                "Waage",
+                "Knochen"
+            ],
+            "id": "B2"
+        },
+        {
+            "concepts": [
+                "Metall",
+                "Gewicht"
+            ],
+            "id": "B3"
+        },
+        {
+            "concepts": [
+                "geht",
+                "Gewäge",
+                "fällt",
+                "Bedeutung",
+                "Gewicht"
+            ],
+            "id": "B4"
+        },
+        {
+            "concepts": [
+                "Schneidergewicht",
+                "Gewicht",
+                "Gewichtsverlust"
+            ],
+            "id": "B5"
+        },
+        {
+            "concepts": [
+                "erhalten",
+                "Ebenwaage",
+                "läßt",
+                "Gleichgewicht",
+                "bringen"
+            ],
+            "id": "B6"
+        },
+        {
+            "concepts": [
+                "Gewäge",
+                "Übergewicht",
+                "Fürgewäge",
+                "hinüber",
+                "Überschwere",
+                "kriegt"
+            ],
+            "id": "B7"
+        },
+        {
+            "concepts": [
+                "Gewäge",
+                "Hebel"
+            ],
+            "id": "B8"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "gemäß",
+                "wag",
+                "passend",
+                "geneigt",
+                "tüchtig"
+            ],
+            "id": "B9"
+        },
+        {
+            "concepts": [
+                "wägert",
+                "wendet",
+                "bessert"
+            ],
+            "id": "B10"
+        },
+        {
+            "concepts": [
+                "Krisis",
+                "Wägerung",
+                "Wendepunkt"
+            ],
+            "id": "B11"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "gering",
+                "wägen",
+                "gut",
+                "gewegen",
+                "schätzen",
+                "gewogen"
+            ],
+            "id": "B12"
+        },
+        {
+            "concepts": [
+                "wägen",
+                "überwägen"
+            ],
+            "id": "B13"
+        },
+        {
+            "concepts": [
+                "wiegt",
+                "wiegen",
+                "wieviel",
+                "Formen",
+                "gering",
+                "gewegen",
+                "leicht",
+                "schwer",
+                "gewogen"
+            ],
+            "id": "B14"
+        },
+        {
+            "concepts": [
+                "wiederwiegen",
+                "wiegen"
+            ],
+            "id": "B15"
+        },
+        {
+            "concepts": [
+                "schweres",
+                "Verbindungen",
+                "Stück",
+                "schwere",
+                "Dummheit",
+                "Ochse",
+                "Fall",
+                "Rausch",
+                "schwer",
+                "Krankheit",
+                "schwerer"
+            ],
+            "id": "B16"
+        },
+        {
+            "concepts": [
+                "Anfang",
+                "Herz",
+                "leicht",
+                "geworden",
+                "schwer",
+                "nimmt"
+            ],
+            "id": "B17"
+        },
+        {
+            "concepts": [
+                "Schwere"
+            ],
+            "id": "B18"
+        },
+        {
+            "concepts": [
+                "Geschwer",
+                "Bedenken"
+            ],
+            "id": "B19"
+        },
+        {
+            "concepts": [
+                "belasten",
+                "schweren",
+                "Steinen"
+            ],
+            "id": "B20"
+        },
+        {
+            "concepts": [
+                "beschweren",
+                "schweren"
+            ],
+            "id": "B21"
+        },
+        {
+            "concepts": [
+                "leichter",
+                "Ausdrücken",
+                "geringes",
+                "Roß",
+                "Verbindungen",
+                "Fall",
+                "leicht"
+            ],
+            "id": "B22"
+        },
+        {
+            "concepts": [
+                "macht",
+                "gehen",
+                "arbeiten",
+                "leicht",
+                "Leichtes"
+            ],
+            "id": "B23"
+        },
+        {
+            "concepts": [
+                "Ausdrücken",
+                "behende",
+                "leicht",
+                "ringfertig",
+                "leichtfüßig",
+                "flink"
+            ],
+            "id": "B24"
+        },
+        {
+            "concepts": [
+                "Ringe",
+                "Leichte"
+            ],
+            "id": "B25"
+        },
+        {
+            "concepts": [
+                "ringern",
+                "erleichtern"
+            ],
+            "id": "B26"
+        },
+        {
+            "concepts": [
+                "Leichtigkeit"
+            ],
+            "id": "B27"
+        },
+        {
+            "concepts": [
+                "Das",
+                "macht",
+                "Schwierigkeit",
+                "Schwierigkeiten"
+            ],
+            "id": "B28"
+        },
+        {
+            "concepts": [
+                "schwierig"
+            ],
+            "id": "B29"
+        },
+        {
+            "concepts": [
+                "Kilogramm",
+                "Kilo"
+            ],
+            "id": "C1"
+        },
+        {
+            "concepts": [
+                "Zentner",
+                "kg",
+                "Zenggen",
+                "Zenten",
+                "50"
+            ],
+            "id": "C2"
+        },
+        {
+            "concepts": [
+                "Himmelzentensakra",
+                "Zentner",
+                "zentnerschwer",
+                "Zentnergewicht",
+                "Herzen",
+                "Meterzentner",
+                "gefallen"
+            ],
+            "id": "C3"
+        },
+        {
+            "concepts": [
+                "Gramm"
+            ],
+            "id": "C4"
+        },
+        {
+            "concepts": [
+                "Milligramm",
+                "Gramm"
+            ],
+            "id": "C5"
+        },
+        {
+            "concepts": [
+                "Pfund",
+                "Pfunde",
+                "wuchern",
+                "vergraben"
+            ],
+            "id": "C6"
+        },
+        {
+            "concepts": [
+                "Pfund",
+                "pfundweise",
+                "Pfundbirne"
+            ],
+            "id": "C7"
+        },
+        {
+            "concepts": [
+                "pfündig"
+            ],
+            "id": "C8"
+        },
+        {
+            "concepts": [
+                "Gran"
+            ],
+            "id": "C9"
+        },
+        {
+            "concepts": [
+                "Teufel",
+                "Quentlein",
+                "zerreißen",
+                "quintelweise",
+                "Quintel"
+            ],
+            "id": "C10"
+        },
+        {
+            "concepts": [
+                "Gewichtsnamen",
+                "sonstige"
+            ],
+            "id": "C11"
+        },
+        {
+            "concepts": [
+                "Worten",
+                "Liter"
+            ],
+            "id": "D1"
+        },
+        {
+            "concepts": [
+                "Deziliter",
+                "Literglas",
+                "Liter"
+            ],
+            "id": "D2"
+        },
+        {
+            "concepts": [
+                "Maß",
+                "Krügel"
+            ],
+            "id": "D3"
+        },
+        {
+            "concepts": [
+                "Seitel",
+                "10"
+            ],
+            "id": "D4"
+        },
+        {
+            "concepts": [
+                "Maß"
+            ],
+            "id": "D5"
+        },
+        {
+            "concepts": [
+                "Lot"
+            ],
+            "id": "D6"
+        },
+        {
+            "concepts": [
+                "wieviel",
+                "Litermaß",
+                "Maß",
+                "Kopf",
+                "bekannt",
+                "Köpfel"
+            ],
+            "id": "D7"
+        },
+        {
+            "concepts": [
+                "zumessen"
+            ],
+            "id": "D8"
+        },
+        {
+            "concepts": [
+                "Scherben",
+                "Form",
+                "Bratscherben",
+                "Gugelhupfscherben",
+                "Pfanne"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "Omelettenpfannl"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Krapfengabel",
+                "Herausheben",
+                "Pfanne",
+                "Krapfen"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "zerbrochenen",
+                "gehen",
+                "Gefäß",
+                "Glüc",
+                "schlagen",
+                "Scherben",
+                "Stück",
+                "Glases",
+                "irdenes",
+                "Aberglauben",
+                "Art",
+                "Scherppm",
+                "Tschreappm",
+                "minderer",
+                "Porzellans",
+                "beziehen"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Milchscherben",
+                "Scherben"
+            ],
+            "id": "E5"
+        }
+    ]
+}

@@ -1,0 +1,3706 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Pflügen"
+                ],
+                [
+                    "führen"
+                ],
+                [
+                    "Kot"
+                ],
+                [
+                    "denen"
+                ],
+                [
+                    "Arbeit"
+                ],
+                [
+                    "wem"
+                ],
+                [
+                    "Wort"
+                ],
+                [
+                    "Vorrichtungen"
+                ],
+                [
+                    "warum"
+                ],
+                [
+                    "scharf"
+                ],
+                [
+                    "Eggen"
+                ],
+                [
+                    "etwaige"
+                ],
+                [
+                    "Teile"
+                ],
+                [
+                    "Steine"
+                ],
+                [
+                    "heißen"
+                ],
+                [
+                    "abklauben"
+                ],
+                [
+                    "Haufen"
+                ],
+                [
+                    "aufstellen"
+                ],
+                [
+                    "aufgestellt"
+                ],
+                [
+                    "Arten"
+                ],
+                [
+                    "Scheuchen"
+                ],
+                [
+                    "Name"
+                ],
+                [
+                    "jäten"
+                ],
+                [
+                    "Jat"
+                ],
+                [
+                    "Weiberleutarbeit"
+                ],
+                [
+                    "Verwendung"
+                ],
+                [
+                    "Werkzeuge"
+                ],
+                [
+                    "Jätens"
+                ],
+                [
+                    "Jäthaue"
+                ],
+                [
+                    "verwendet"
+                ],
+                [
+                    "lassen"
+                ]
+            ],
+            "2": [
+                [
+                    "Erde"
+                ],
+                [
+                    "Ackererde"
+                ],
+                [
+                    "Sätuch"
+                ],
+                [
+                    "wer"
+                ]
+            ],
+            "3": [
+                [
+                    "Samen"
+                ],
+                [
+                    "Säen"
+                ],
+                [
+                    "Vogelscheuchen"
+                ],
+                [
+                    "Wendungen"
+                ],
+                [
+                    "Disteln"
+                ]
+            ],
+            "4": [
+                [
+                    "Art"
+                ]
+            ],
+            "5": [
+                [
+                    "Ochsen"
+                ],
+                [
+                    "Same"
+                ]
+            ],
+            "6": [
+                [
+                    "Pflug"
+                ],
+                [
+                    "Saat"
+                ],
+                [
+                    "Person"
+                ]
+            ],
+            "7": [
+                [
+                    "beim"
+                ],
+                [
+                    "Beschreibung"
+                ]
+            ],
+            "9": [
+                [
+                    "pflügen"
+                ],
+                [
+                    "Wurzeln"
+                ]
+            ],
+            "10": [
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Acker"
+                ]
+            ],
+            "13": [
+                [
+                    "Namen"
+                ]
+            ],
+            "17": [
+                [
+                    "Rain"
+                ]
+            ],
+            "34": [
+                [
+                    "säen"
+                ]
+            ],
+            "35": [
+                [
+                    "eggen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Rain",
+                    "hinzuackern"
+                ],
+                [
+                    "Ochsen",
+                    "pflügen"
+                ],
+                [
+                    "Geld",
+                    "säen"
+                ],
+                [
+                    "säen",
+                    "Säen"
+                ],
+                [
+                    "Säen",
+                    "beim"
+                ],
+                [
+                    "Mädchen",
+                    "Säen"
+                ],
+                [
+                    "Same",
+                    "Pflanzensame"
+                ],
+                [
+                    "eggen",
+                    "Feldes"
+                ],
+                [
+                    "beim",
+                    "auslassen"
+                ],
+                [
+                    "Streifen",
+                    "beim"
+                ],
+                [
+                    "walgen",
+                    "walzen"
+                ],
+                [
+                    "Würze",
+                    "Wurzeln"
+                ],
+                [
+                    "Namen",
+                    "Felder"
+                ],
+                [
+                    "Warnungszeichen",
+                    "bestellten"
+                ],
+                [
+                    "Beschreibung",
+                    "Namen"
+                ],
+                [
+                    "Beschreibung",
+                    "Nachbildungen"
+                ],
+                [
+                    "Beschreibung",
+                    "Art"
+                ],
+                [
+                    "Korn",
+                    "Hafer"
+                ]
+            ],
+            "2": [
+                [
+                    "Rain",
+                    "Wiese"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Kitze",
+                    "Sätuch",
+                    "Art"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Rain",
+                    "Ackererde",
+                    "Feld",
+                    "Wiese"
+                ],
+                [
+                    "Aufschichten",
+                    "wer",
+                    "besorgt",
+                    "mundartliche"
+                ]
+            ]
+        },
+        "5": {
+            "1": [
+                [
+                    "unteren",
+                    "Erde",
+                    "Ende",
+                    "geneigter",
+                    "oberen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 0,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "hinzuackern"
+            ],
+            "source": 1,
+            "target": 3,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 1,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "warum"
+            ],
+            "source": 1,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "scharf"
+            ],
+            "source": 1,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 2,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 2,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 2,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 3,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 3,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 3,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Teile"
+            ],
+            "source": 3,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain"
+            ],
+            "source": 4,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ochsen"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ochsen"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ochsen"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflügen"
+            ],
+            "source": 5,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 5,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 5,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 5,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ochsen"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ochsen"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 6,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 6,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Name"
+            ],
+            "source": 6,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 6,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ochsen",
+                "pflügen"
+            ],
+            "source": 7,
+            "target": 9,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "pflügen"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 12,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 13,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pflug"
+            ],
+            "source": 15,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 15,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 15,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 15,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 15,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 17,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 17,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 17,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 17,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 17,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 17,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 17,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kot"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ackererde"
+            ],
+            "source": 20,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ackererde"
+            ],
+            "source": 20,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "unteren",
+                "Erde",
+                "Ende",
+                "geneigter",
+                "oberen"
+            ],
+            "source": 21,
+            "target": 22,
+            "target_group": [
+                5,
+                1,
+                0
+            ],
+            "weight": 5
+        },
+        {
+            "coincidences": [
+                "Erde"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 21,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 21,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 21,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 21,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 21,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erde"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "denen"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vorrichtungen"
+            ],
+            "source": 22,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 22,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen",
+                "Felder"
+            ],
+            "source": 22,
+            "target": 89,
+            "target_group": [
+                2,
+                1,
+                12
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 22,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 22,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "Wiese"
+            ],
+            "source": 23,
+            "target": 24,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "Wiese"
+            ],
+            "source": 23,
+            "target": 25,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 23,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 23,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 23,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 23,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Rain",
+                "Ackererde",
+                "Feld",
+                "Wiese"
+            ],
+            "source": 24,
+            "target": 25,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Werkzeuge"
+            ],
+            "source": 24,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arbeit"
+            ],
+            "source": 25,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weiberleutarbeit"
+            ],
+            "source": 25,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 26,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 27,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 27,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geld",
+                "säen"
+            ],
+            "source": 27,
+            "target": 32,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 27,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 27,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 27,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 28,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 29,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 29,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen",
+                "Säen"
+            ],
+            "source": 29,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 29,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 29,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Säen",
+                "beim"
+            ],
+            "source": 29,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Säen"
+            ],
+            "source": 29,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim",
+                "auslassen"
+            ],
+            "source": 29,
+            "target": 71,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 30,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 30,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 30,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 31,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 31,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Samen"
+            ],
+            "source": 31,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Samen"
+            ],
+            "source": 31,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 31,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 32,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 32,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 32,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 33,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 33,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädchen",
+                "Säen"
+            ],
+            "source": 33,
+            "target": 49,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Säen"
+            ],
+            "source": 33,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wem"
+            ],
+            "source": 34,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 34,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sätuch"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sätuch"
+            ],
+            "source": 36,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kitze",
+                "Sätuch",
+                "Art"
+            ],
+            "source": 40,
+            "target": 41,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 40,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 40,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 40,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung",
+                "Art"
+            ],
+            "source": 40,
+            "target": 94,
+            "target_group": [
+                2,
+                1,
+                16
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Art"
+            ],
+            "source": 40,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißen"
+            ],
+            "source": 41,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Art"
+            ],
+            "source": 41,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Art"
+            ],
+            "source": 41,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "säen"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saat"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saat"
+            ],
+            "source": 46,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saat"
+            ],
+            "source": 46,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Säen"
+            ],
+            "source": 49,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Streifen",
+                "beim"
+            ],
+            "source": 49,
+            "target": 71,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 49,
+            "target": 81,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 49,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saat"
+            ],
+            "source": 50,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wort"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saat"
+            ],
+            "source": 50,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 50,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 50,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 50,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Saat"
+            ],
+            "source": 51,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Samen"
+            ],
+            "source": 52,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Same"
+            ],
+            "source": 52,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Same"
+            ],
+            "source": 52,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Same"
+            ],
+            "source": 52,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 52,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 55,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Same"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Same"
+            ],
+            "source": 56,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Same",
+                "Pflanzensame"
+            ],
+            "source": 57,
+            "target": 58,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 61,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 59,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "etwaige"
+            ],
+            "source": 59,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendung"
+            ],
+            "source": 59,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Person"
+            ],
+            "source": 60,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 61,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 61,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 61,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 61,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 61,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 61,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 62,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 62,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 62,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 62,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 62,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 62,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 63,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 63,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 63,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 63,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 63,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eggen"
+            ],
+            "source": 64,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 67,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 67,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen",
+                "Feldes"
+            ],
+            "source": 68,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 68,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 69,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "eggen"
+            ],
+            "source": 70,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "walgen",
+                "walzen"
+            ],
+            "source": 77,
+            "target": 78,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Steine"
+            ],
+            "source": 79,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "abklauben"
+            ],
+            "source": 79,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Aufschichten",
+                "wer",
+                "besorgt",
+                "mundartliche"
+            ],
+            "source": 81,
+            "target": 85,
+            "target_group": [
+                4,
+                1,
+                1
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Haufen"
+            ],
+            "source": 82,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Würze",
+                "Wurzeln"
+            ],
+            "source": 83,
+            "target": 86,
+            "target_group": [
+                2,
+                1,
+                11
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 83,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 83,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 84,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 84,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 84,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 86,
+            "target": 87,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 86,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 87,
+            "target": 89,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 87,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 87,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wurzeln"
+            ],
+            "source": 87,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verwendet"
+            ],
+            "source": 87,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Warnungszeichen",
+                "bestellten"
+            ],
+            "source": 88,
+            "target": 89,
+            "target_group": [
+                2,
+                1,
+                13
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "aufstellen"
+            ],
+            "source": 88,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 88,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 88,
+            "target": 110,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "aufgestellt"
+            ],
+            "source": 89,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 89,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung",
+                "Namen"
+            ],
+            "source": 89,
+            "target": 93,
+            "target_group": [
+                2,
+                1,
+                14
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 89,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 89,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelscheuchen"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelscheuchen"
+            ],
+            "source": 90,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Scheuchen"
+            ],
+            "source": 91,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung",
+                "Nachbildungen"
+            ],
+            "source": 92,
+            "target": 93,
+            "target_group": [
+                2,
+                1,
+                15
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 92,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Vogelscheuchen"
+            ],
+            "source": 92,
+            "target": 95,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Beschreibung"
+            ],
+            "source": 93,
+            "target": 94,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Namen"
+            ],
+            "source": 93,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Art"
+            ],
+            "source": 94,
+            "target": 107,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jäten"
+            ],
+            "source": 96,
+            "target": 97,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jat"
+            ],
+            "source": 98,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jätens"
+            ],
+            "source": 98,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Disteln"
+            ],
+            "source": 101,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Disteln"
+            ],
+            "source": 101,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Korn",
+                "Hafer"
+            ],
+            "source": 102,
+            "target": 103,
+            "target_group": [
+                2,
+                1,
+                17
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Disteln"
+            ],
+            "source": 102,
+            "target": 104,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Jäthaue"
+            ],
+            "source": 105,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Acker"
+            ],
+            "source": 109,
+            "target": 110,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Rain",
+                "verrainen",
+                "rainen"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Rain",
+                "warum",
+                "scharf",
+                "hinzuackern"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "hinauspflügen",
+                "überrainen",
+                "Grund",
+                "eigenen",
+                "Anlegen",
+                "beim",
+                "Raines"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Ackerboden",
+                "vergrößern",
+                "wegherzwicken",
+                "nutzbaren",
+                "geurteilt",
+                "Bröckel",
+                "hinzuackern",
+                "darüber",
+                "Stückel",
+                "Rain",
+                "wegackern",
+                "Teile"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "völlig",
+                "einackern",
+                "umackern",
+                "Rain",
+                "beseitigen"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "vorangehen",
+                "beim",
+                "Ochsen",
+                "fürgehn",
+                "Pflügen"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Ochsen",
+                "vorgeht",
+                "Person",
+                "Name"
+            ],
+            "id": "F22a"
+        },
+        {
+            "concepts": [
+                "Ochsen",
+                "pflügen"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "Pferden"
+            ],
+            "id": "F23a"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "Ochsen",
+                "Pferd",
+                "ungleich",
+                "zusammengespannt"
+            ],
+            "id": "F23b"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "einspännig"
+            ],
+            "id": "F23c"
+        },
+        {
+            "concepts": [
+                "pflügen",
+                "zweispännig"
+            ],
+            "id": "F23d"
+        },
+        {
+            "concepts": [
+                "Pflug",
+                "lenken"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Stein",
+                "Fels",
+                "Pflug",
+                "anfahren"
+            ],
+            "id": "F24a"
+        },
+        {
+            "concepts": [
+                "Untergrundes",
+                "Folge",
+                "harten",
+                "Pfluges",
+                "Herauswerfen"
+            ],
+            "id": "F24b"
+        },
+        {
+            "concepts": [
+                "úmherreißen",
+                "wenden",
+                "Abschnitte",
+                "Bewegung",
+                "einzelnen",
+                "Pflug",
+                "Ausdrücke"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "Kehre",
+                "Wendung",
+                "gemacht",
+                "Ort"
+            ],
+            "id": "F25a"
+        },
+        {
+            "concepts": [
+                "besonderen",
+                "Namen",
+                "lenkt",
+                "Person",
+                "Pflug"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "jausnen",
+                "Pfluge",
+                "rasten"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Pflügende",
+                "bestimmten",
+                "Ackerteiles",
+                "Bezeichnung",
+                "braucht",
+                "Pflügen",
+                "Bebauen",
+                "Zeit"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Kot",
+                "Ackererde",
+                "führen"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "unteren",
+                "Erde",
+                "abgebaute",
+                "führen",
+                "Äcker",
+                "Ende",
+                "geneigter",
+                "Ausdrücke",
+                "tragen",
+                "oberen"
+            ],
+            "id": "F29a"
+        },
+        {
+            "concepts": [
+                "denen",
+                "unteren",
+                "Vorrichtungen",
+                "Erde",
+                "Felder",
+                "gebracht",
+                "Gesamtname",
+                "Ende",
+                "geneigter",
+                "Bestandteile",
+                "Namen",
+                "oberen"
+            ],
+            "id": "F29b"
+        },
+        {
+            "concepts": [
+                "hinausgetretene",
+                "Erde",
+                "zurückstreifen",
+                "einputzen",
+                "Rain",
+                "Acker",
+                "Kot",
+                "putzen",
+                "Wiese",
+                "einräumen"
+            ],
+            "id": "F29c"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Werkzeuge",
+                "Feld",
+                "Rain",
+                "zurückgebracht",
+                "Ackererde",
+                "Wiese"
+            ],
+            "id": "F29d"
+        },
+        {
+            "concepts": [
+                "leichte",
+                "eingeschätzt",
+                "Einputzarbeit",
+                "Feld",
+                "Rain",
+                "Zurückbringen",
+                "Arbeit",
+                "Ackererde",
+                "Schwierigkeit",
+                "Wiese",
+                "Weiberleutarbeit"
+            ],
+            "id": "F29e"
+        },
+        {
+            "concepts": [
+                "säen"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "säen",
+                "Mehl",
+                "Bauernsprüche",
+                "Bedeutung",
+                "Geld",
+                "ausstreuen",
+                "Angabe"
+            ],
+            "id": "G1a"
+        },
+        {
+            "concepts": [
+                "dicht",
+                "Säens",
+                "Arten",
+                "dick"
+            ],
+            "id": "G1b"
+        },
+        {
+            "concepts": [
+                "säen",
+                "dünn",
+                "Scherze",
+                "auslassen",
+                "schitter",
+                "Säen",
+                "beim"
+            ],
+            "id": "G1c"
+        },
+        {
+            "concepts": [
+                "Wind",
+                "säen",
+                "widrigem",
+                "Hilfsmittel"
+            ],
+            "id": "G1d"
+        },
+        {
+            "concepts": [
+                "säen",
+                "Samen",
+                "gleichbedeutende",
+                "Ausdrücke",
+                "auswerfen"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "säen",
+                "Vb",
+                "ganze",
+                "versäen",
+                "angesät",
+                "überall",
+                "versät",
+                "Geld",
+                "verstreut",
+                "verloren"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "säen",
+                "Bräuche",
+                "Liebhabers",
+                "Spänen",
+                "Mädchen",
+                "beziehen",
+                "Saathahn",
+                "bestreuen",
+                "Spreu",
+                "Säen",
+                "Weg",
+                "Rolle"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "wem",
+                "Leeche",
+                "Säreihe",
+                "Leechen",
+                "abstecken",
+                "abgesteckt"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "wem",
+                "guten",
+                "Baumann",
+                "kommt",
+                "behält",
+                "Eigenschaften",
+                "Mannerleutarbeit",
+                "schlechten",
+                "Sämann",
+                "Säer",
+                "Arbeit",
+                "Säers",
+                "Bauer"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Fetzen",
+                "Sätuch"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Säsack"
+            ],
+            "id": "G7a"
+        },
+        {
+            "concepts": [
+                "Säkorb"
+            ],
+            "id": "G7b"
+        },
+        {
+            "concepts": [
+                "Säsumper",
+                "getragen",
+                "gehalten"
+            ],
+            "id": "G7c"
+        },
+        {
+            "concepts": [
+                "Sätuch",
+                "Beschreibung",
+                "Kitze",
+                "Art",
+                "gehandhabt"
+            ],
+            "id": "G7d"
+        },
+        {
+            "concepts": [
+                "dienenden",
+                "Sätuch",
+                "Leinwand",
+                "Bänder",
+                "geflochten",
+                "gedreht",
+                "Zubinden",
+                "Kitze",
+                "Art",
+                "heißen",
+                "Zitzeln"
+            ],
+            "id": "G7e"
+        },
+        {
+            "concepts": [
+                "Säriemen"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Säheiliger"
+            ],
+            "id": "G8a"
+        },
+        {
+            "concepts": [
+                "säen",
+                "Säspruch",
+                "subst"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "säen",
+                "Ableitungen",
+                "Säerei"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Saat"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Wintersaat"
+            ],
+            "id": "G11a"
+        },
+        {
+            "concepts": [
+                "Sommersaat"
+            ],
+            "id": "G11b"
+        },
+        {
+            "concepts": [
+                "muß",
+                "Kind",
+                "übersehener",
+                "kriegt",
+                "macht",
+                "Streifen",
+                "stirbt",
+                "acht",
+                "Jahr",
+                "Untersaat",
+                "wer",
+                "Säen",
+                "gebt",
+                "Mädchen",
+                "Hof",
+                "arbeitenden",
+                "nachsäen",
+                "beim",
+                "jemand",
+                "sagt",
+                "später",
+                "kei"
+            ],
+            "id": "G11c"
+        },
+        {
+            "concepts": [
+                "Aussaat",
+                "Wort",
+                "Kleesaat",
+                "Vierling",
+                "Ackermaß",
+                "Saat",
+                "Ansaat",
+                "Acker",
+                "Rübensaat",
+                "bedeutet"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Saatzeit",
+                "Saat",
+                "Saatfeld"
+            ],
+            "id": "G12a"
+        },
+        {
+            "concepts": [
+                "Wort",
+                "Same",
+                "behalten",
+                "lassen",
+                "Samen",
+                "wechseln"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Samenkorn"
+            ],
+            "id": "G13a"
+        },
+        {
+            "concepts": [
+                "Sämerei",
+                "Blumen",
+                "en",
+                "Samlach",
+                "Sammelwerk",
+                "Sammelnamen",
+                "Gartenpflanzen",
+                "Gesämlach",
+                "Samen"
+            ],
+            "id": "G13b"
+        },
+        {
+            "concepts": [
+                "Vorrichtungen",
+                "Reinigung",
+                "Ausdrücke",
+                "hiefür",
+                "Samens"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "worin",
+                "Same",
+                "Behälter",
+                "Samhafen",
+                "aufbewahrt"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Vogelsame",
+                "Same",
+                "Pflanzensame",
+                "Leinsame",
+                "Grassame"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Samerdäpfel",
+                "Samengetreide",
+                "Same",
+                "Pflanzensame"
+            ],
+            "id": "G16a"
+        },
+        {
+            "concepts": [
+                "adnen",
+                "etwaige",
+                "arn",
+                "Verwendung",
+                "übertragener",
+                "bretten",
+                "Wortes",
+                "egen",
+                "eggen"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "eggt",
+                "Person"
+            ],
+            "id": "H1a"
+        },
+        {
+            "concepts": [
+                "bracheggen",
+                "Halmacker",
+                "eggen"
+            ],
+            "id": "H1b"
+        },
+        {
+            "concepts": [
+                "eggen",
+                "zwiebrach"
+            ],
+            "id": "H1c"
+        },
+        {
+            "concepts": [
+                "Ruhr",
+                "Dung",
+                "eingeackerten",
+                "eggen"
+            ],
+            "id": "H1d"
+        },
+        {
+            "concepts": [
+                "zusammenreißen",
+                "reißen",
+                "letztes",
+                "warum",
+                "genannt",
+                "Eggen",
+                "Säen"
+            ],
+            "id": "H1e"
+        },
+        {
+            "concepts": [
+                "eineggen",
+                "Übereggen",
+                "Saat"
+            ],
+            "id": "H1f"
+        },
+        {
+            "concepts": [
+                "auseggen"
+            ],
+            "id": "H1g"
+        },
+        {
+            "concepts": [
+                "eggen",
+                "überdrehen",
+                "scharf",
+                "rühren"
+            ],
+            "id": "H1h"
+        },
+        {
+            "concepts": [
+                "streifen",
+                "Feldes",
+                "niederstreifen",
+                "einstreifen",
+                "eggen",
+                "Länge"
+            ],
+            "id": "H1i"
+        },
+        {
+            "concepts": [
+                "schips",
+                "schräg",
+                "Feldes",
+                "schremsüber",
+                "Diagonale",
+                "Breite",
+                "überzwerch",
+                "schrems",
+                "geschrams",
+                "schatz",
+                "überwärts",
+                "eggen",
+                "quer",
+                "schetzen"
+            ],
+            "id": "H1k"
+        },
+        {
+            "concepts": [
+                "eggen",
+                "Kreise",
+                "genauer",
+                "Spirale"
+            ],
+            "id": "H1l"
+        },
+        {
+            "concepts": [
+                "fürschlagen",
+                "Streifen",
+                "auslassen",
+                "fußbreit",
+                "Eggen",
+                "vorteilen",
+                "beim"
+            ],
+            "id": "H1m"
+        },
+        {
+            "concepts": [
+                "eggen",
+                "abeggen",
+                "nacheggen",
+                "sonstige"
+            ],
+            "id": "H1n"
+        },
+        {
+            "concepts": [
+                "etwaige",
+                "beschwert",
+                "womit",
+                "Egge"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "klopfen",
+                "schlagen",
+                "schlägeln",
+                "zerkleinern",
+                "Schollen",
+                "treten"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Gerät",
+                "Schlägel"
+            ],
+            "id": "H3a"
+        },
+        {
+            "concepts": [
+                "Gerätes",
+                "Schlägelstiel",
+                "Teile"
+            ],
+            "id": "H3b"
+        },
+        {
+            "concepts": [
+                "walgen",
+                "walgeln",
+                "walzen"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "walgen",
+                "walzen",
+                "abwalgen"
+            ],
+            "id": "H4a"
+        },
+        {
+            "concepts": [
+                "lesen",
+                "abklauben",
+                "Steine",
+                "klauben",
+                "schwenden"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "zusammenschichten",
+                "Steine"
+            ],
+            "id": "H5a"
+        },
+        {
+            "concepts": [
+                "Aufschichten",
+                "besorgt",
+                "mundartliche",
+                "Audrücke",
+                "Klauben",
+                "wer"
+            ],
+            "id": "H5b"
+        },
+        {
+            "concepts": [
+                "aufgeschichteten",
+                "Haufen",
+                "Steinen",
+                "heißen"
+            ],
+            "id": "H5c"
+        },
+        {
+            "concepts": [
+                "Würze",
+                "abklauben",
+                "Wurzeln"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Haufen",
+                "legen",
+                "wohin",
+                "Wurzeln"
+            ],
+            "id": "H6a"
+        },
+        {
+            "concepts": [
+                "Aufschichten",
+                "besorgt",
+                "mundartliche",
+                "Sammeln",
+                "wer",
+                "Ausdrücke"
+            ],
+            "id": "H6b"
+        },
+        {
+            "concepts": [
+                "Würze",
+                "gehäuften",
+                "verbrennen",
+                "Wurzeln"
+            ],
+            "id": "H6c"
+        },
+        {
+            "concepts": [
+                "Asche",
+                "verwendet",
+                "Wurzeln",
+                "überhaupt",
+                "Dünger",
+                "verbrannten",
+                "Namen"
+            ],
+            "id": "H6d"
+        },
+        {
+            "concepts": [
+                "niemand",
+                "bestellten",
+                "Acker",
+                "aufstellen",
+                "Warnungszeichen",
+                "gehe"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "kurze",
+                "Felder",
+                "bestellten",
+                "aufgestellt",
+                "Beschreibung",
+                "Namen",
+                "Warnungszeichen"
+            ],
+            "id": "H7a"
+        },
+        {
+            "concepts": [
+                "aufstellen",
+                "Vogelscheuchen"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "Breinscheuche",
+                "besonders",
+                "Feldern",
+                "Vogelscheuche",
+                "Scheuche",
+                "Scheuchen",
+                "aufgestellt"
+            ],
+            "id": "H8a"
+        },
+        {
+            "concepts": [
+                "Nachbildungen",
+                "Tatermann",
+                "menschlichen",
+                "Beschreibung",
+                "Gestalt",
+                "Arten",
+                "Vogelscheuchen",
+                "Krautmännlein"
+            ],
+            "id": "H8b"
+        },
+        {
+            "concepts": [
+                "Vögel",
+                "Nachbildungen",
+                "Federn",
+                "besteckt",
+                "Scheuchen",
+                "Schnur",
+                "Beschreibung",
+                "Vögeln",
+                "Erdäpfel",
+                "Namen",
+                "aufgehängte"
+            ],
+            "id": "H8c"
+        },
+        {
+            "concepts": [
+                "Vogelschreppe",
+                "Lärmwerkzeuge",
+                "Name",
+                "Vogelschreck",
+                "Beschreibung",
+                "Art",
+                "Klapper"
+            ],
+            "id": "H8d"
+        },
+        {
+            "concepts": [
+                "schaut",
+                "Krautscheuche",
+                "Vergleiche",
+                "Vogelscheuchen"
+            ],
+            "id": "H8e"
+        },
+        {
+            "concepts": [
+                "jäten",
+                "Konjugationsformen",
+                "gejäten"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "jäten",
+                "nachjäten"
+            ],
+            "id": "H9a"
+        },
+        {
+            "concepts": [
+                "Jat",
+                "Jätens",
+                "Handlung"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "Jatach",
+                "Jat",
+                "Jöt",
+                "gejätet",
+                "Jätach",
+                "Jät"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "jätet",
+                "Jaterin",
+                "Jater",
+                "benannt",
+                "Person",
+                "Jäten",
+                "gilt",
+                "Weiberleutarbeit"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "ausstechen",
+                "Disteln",
+                "grasen",
+                "ausziehen",
+                "stechen"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Korn",
+                "stehen",
+                "Hafer",
+                "Disteln",
+                "je",
+                "nachdem",
+                "Weizen",
+                "Namen"
+            ],
+            "id": "H13a"
+        },
+        {
+            "concepts": [
+                "Korn",
+                "nennt",
+                "verziehen",
+                "Wurzeln",
+                "Distelwuchses",
+                "Einwirkung",
+                "Hafer",
+                "schädliche"
+            ],
+            "id": "H13b"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Verwendung",
+                "Disteln",
+                "ausgezogenen",
+                "Viehfutter"
+            ],
+            "id": "H13c"
+        },
+        {
+            "concepts": [
+                "Jäthaue",
+                "Werkzeuge",
+                "Jätens"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Jäthaue",
+                "arbeiten",
+                "jäthauen"
+            ],
+            "id": "H14a"
+        },
+        {
+            "concepts": [
+                "Handschuhe",
+                "verwendet",
+                "Distelausziehen",
+                "Art",
+                "besonderer",
+                "Benennung"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "Inhalt",
+                "Jäterinnen",
+                "Personen",
+                "Form",
+                "Grüße",
+                "Jatergruß",
+                "Proben",
+                "vorübergehender",
+                "Antwort",
+                "Ansprache"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "lassen",
+                "verwahrlosen",
+                "herunterkommen"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "Acker",
+                "ausrauben",
+                "aussaugen"
+            ],
+            "id": "H17a"
+        },
+        {
+            "concepts": [
+                "Raubbau"
+            ],
+            "id": "H17b"
+        }
+    ]
+}

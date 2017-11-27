@@ -1,0 +1,1472 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "entwickeln"
+                ],
+                [
+                    "gegangen"
+                ],
+                [
+                    "zahlen"
+                ],
+                [
+                    "Weg"
+                ]
+            ],
+            "2": [
+                [
+                    "gut"
+                ]
+            ],
+            "3": [
+                [
+                    "Formen"
+                ],
+                [
+                    "worden"
+                ]
+            ],
+            "5": [
+                [
+                    "lassen"
+                ]
+            ],
+            "6": [
+                [
+                    "mißraten"
+                ],
+                [
+                    "bewegen"
+                ]
+            ],
+            "20": [
+                [
+                    "geht"
+                ]
+            ],
+            "21": [
+                [
+                    "geraten"
+                ]
+            ],
+            "25": [
+                [
+                    "gehn"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "gut",
+                    "geht"
+                ],
+                [
+                    "geht",
+                    "gehst"
+                ],
+                [
+                    "geht",
+                    "Teig"
+                ],
+                [
+                    "geht",
+                    "Farbe"
+                ],
+                [
+                    "lassen",
+                    "geht"
+                ]
+            ],
+            "3": [
+                [
+                    "verbunden",
+                    "worden"
+                ],
+                [
+                    "gehn",
+                    "geht"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entwickeln"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verbunden",
+                "worden"
+            ],
+            "source": 2,
+            "target": 3,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "verbunden",
+                "worden"
+            ],
+            "source": 2,
+            "target": 4,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 2,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 2,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "worden"
+            ],
+            "source": 2,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 2,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 2,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "verbunden",
+                "worden"
+            ],
+            "source": 3,
+            "target": 4,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "worden"
+            ],
+            "source": 3,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "worden"
+            ],
+            "source": 4,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 6,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 6,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 6,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 6,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 6,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 7,
+            "target": 8,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 7,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 7,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 7,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 8,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 8,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 9,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 9,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 9,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 10,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 10,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geraten"
+            ],
+            "source": 11,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mißraten"
+            ],
+            "source": 12,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mißraten"
+            ],
+            "source": 12,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mißraten"
+            ],
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mißraten"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mißraten"
+            ],
+            "source": 13,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "mißraten"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bewegen"
+            ],
+            "source": 16,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bewegen"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bewegen"
+            ],
+            "source": 16,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bewegen"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bewegen"
+            ],
+            "source": 17,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bewegen"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 20,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 20,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 20,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 20,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 20,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 20,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 21,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn",
+                "geht"
+            ],
+            "source": 21,
+            "target": 24,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 21,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn",
+                "geht"
+            ],
+            "source": 21,
+            "target": 27,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 21,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gegangen"
+            ],
+            "source": 21,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 21,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 21,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "Teig"
+            ],
+            "source": 21,
+            "target": 36,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 21,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 21,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 22,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 22,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 22,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 22,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 22,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 23,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 23,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 23,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 23,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 23,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 23,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 24,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn",
+                "geht"
+            ],
+            "source": 24,
+            "target": 27,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 24,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 24,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "gehst"
+            ],
+            "source": 24,
+            "target": 32,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 24,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 24,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 24,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 26,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 26,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut",
+                "geht"
+            ],
+            "source": 27,
+            "target": 31,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 27,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 27,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 27,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 27,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "zahlen"
+            ],
+            "source": 29,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 29,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "lassen"
+            ],
+            "source": 29,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gehn"
+            ],
+            "source": 29,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 31,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 31,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht"
+            ],
+            "source": 32,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "geht",
+                "Farbe"
+            ],
+            "source": 32,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "lassen",
+                "geht"
+            ],
+            "source": 36,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "geboren",
+                "Befehlsform",
+                "Formen",
+                "entstehn"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "entwickeln",
+                "übergehen",
+                "alleinstehend",
+                "gestalten",
+                "dar"
+            ],
+            "id": "A1a"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "wur",
+                "statt",
+                "Formen",
+                "sterben",
+                "Form",
+                "lassen",
+                "geworden",
+                "abweichend",
+                "verbunden",
+                "wuret",
+                "worden"
+            ],
+            "id": "A1b"
+        },
+        {
+            "concepts": [
+                "laufend",
+                "raufend",
+                "worden",
+                "verbunden"
+            ],
+            "id": "A1c"
+        },
+        {
+            "concepts": [
+                "gewählt",
+                "Umschreibungen",
+                "worden",
+                "verbunden"
+            ],
+            "id": "A1d"
+        },
+        {
+            "concepts": [
+                "überwerden"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "entwickeln",
+                "gut",
+                "gerät",
+                "geraten"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "schaden",
+                "geraten",
+                "durcheinander",
+                "vergeraten",
+                "angeraten"
+            ],
+            "id": "A3a"
+        },
+        {
+            "concepts": [
+                "gerätig",
+                "geraten"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "ånkhråtig",
+                "ångraade",
+                "geraten",
+                "angerätig"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Angeräte",
+                "geraten"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "geraten",
+                "Angerätigkeit"
+            ],
+            "id": "A6a"
+        },
+        {
+            "concepts": [
+                "mißraten"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "mißraten",
+                "mißrätig"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "mißraten",
+                "Mißrätigkeit"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "mißraten",
+                "weitere"
+            ],
+            "id": "A9a"
+        },
+        {
+            "concepts": [
+                "bewegen",
+                "weit"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "bewegen",
+                "Bewegung"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "bewegen",
+                "beweglich"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "bewegen",
+                "alert"
+            ],
+            "id": "A12a"
+        },
+        {
+            "concepts": [
+                "gengen",
+                "gengat",
+                "Formen",
+                "gee",
+                "gingat",
+                "gangen",
+                "gema",
+                "göi",
+                "tritt",
+                "geen",
+                "gehn",
+                "gengama",
+                "gea"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "lernen",
+                "geht",
+                "Ware",
+                "Mühle",
+                "allein",
+                "fahren",
+                "Zeit",
+                "Atem",
+                "Werkel",
+                "Wind",
+                "reiten",
+                "Rock",
+                "braucht",
+                "gegangen",
+                "Stunden",
+                "Teig",
+                "gehn",
+                "versteht",
+                "Uhr",
+                "Gehn"
+            ],
+            "id": "A13a"
+        },
+        {
+            "concepts": [
+                "Meile",
+                "Straße",
+                "Tanz",
+                "kleinen",
+                "Gang",
+                "gehn",
+                "Schritt",
+                "Weg"
+            ],
+            "id": "A13b"
+        },
+        {
+            "concepts": [
+                "zittert",
+                "geht",
+                "Hand"
+            ],
+            "id": "A13c"
+        },
+        {
+            "concepts": [
+                "geht",
+                "aufs",
+                "Gericht",
+                "Brücke",
+                "gehst",
+                "Leben",
+                "Antworten",
+                "weitergehn",
+                "Hals",
+                "Arbeit",
+                "Land",
+                "gehn",
+                "Wasser",
+                "ans"
+            ],
+            "id": "A13d"
+        },
+        {
+            "concepts": [],
+            "id": "A13e"
+        },
+        {
+            "concepts": [
+                "karten",
+                "beichten",
+                "suchen",
+                "spazieren",
+                "betteln",
+                "gehn",
+                "pransen"
+            ],
+            "id": "A13f"
+        },
+        {
+            "concepts": [
+                "Begleitumständen",
+                "geht",
+                "halbwegs",
+                "Ort",
+                "mittlern",
+                "schief",
+                "einwärts",
+                "ebenaus",
+                "abwärts",
+                "gehext",
+                "schön",
+                "gut",
+                "recht",
+                "geschmiert",
+                "Lied",
+                "gehn",
+                "krumm",
+                "beim",
+                "Orgel",
+                "lautet"
+            ],
+            "id": "A13g"
+        },
+        {
+            "concepts": [
+                "müßiggehn",
+                "Zusammenrückungen"
+            ],
+            "id": "A13h"
+        },
+        {
+            "concepts": [
+                "laß",
+                "farzen",
+                "Sie",
+                "Pferde",
+                "lassen",
+                "brauchen",
+                "Dinge",
+                "gehn",
+                "zahlen",
+                "läßt"
+            ],
+            "id": "A13i"
+        },
+        {
+            "concepts": [
+                "gegangen",
+                "worden"
+            ],
+            "id": "A13k"
+        },
+        {
+            "concepts": [
+                "gut",
+                "geht",
+                "schlecht"
+            ],
+            "id": "A13l"
+        },
+        {
+            "concepts": [
+                "abgehn",
+                "geht",
+                "ab",
+                "Farbe",
+                "gehst",
+                "Blut",
+                "Abgehenden",
+                "Mond"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "Abgang",
+                "Abgänglein"
+            ],
+            "id": "A14a"
+        },
+        {
+            "concepts": [
+                "Angehende",
+                "geraten",
+                "angehn",
+                "verstopfen",
+                "betreffen",
+                "anfangen",
+                "zahlen",
+                "berühren"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Angang",
+                "Aberglaube"
+            ],
+            "id": "A15a"
+        },
+        {
+            "concepts": [
+                "Nuß",
+                "Messer",
+                "Schuh",
+                "geht",
+                "Türe",
+                "Fuß",
+                "aufgehn",
+                "verbraucht",
+                "jemand",
+                "verbrauchen",
+                "erwischen",
+                "lassen",
+                "Milch",
+                "Sonne",
+                "Schalen",
+                "Knopf",
+                "Teig"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "Aufgang",
+                "gen"
+            ],
+            "id": "A16a"
+        },
+        {
+            "concepts": [
+                "Rechnung",
+                "geht",
+                "Farbe",
+                "ausgehn",
+                "Weg",
+                "Magd",
+                "lassen",
+                "Vorrat",
+                "ausgehen",
+                "Haare"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "Ausgang"
+            ],
+            "id": "A17a"
+        },
+        {
+            "concepts": [
+                "Ausgeher"
+            ],
+            "id": "A17b"
+        },
+        {
+            "concepts": [
+                "Sünde",
+                "Grenze",
+                "begehn"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "gehn",
+                "Sohle",
+                "durchgehn"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Durchgang"
+            ],
+            "id": "A19a"
+        },
+        {
+            "concepts": [
+                "Durchgeher"
+            ],
+            "id": "A19b"
+        },
+        {
+            "concepts": [
+                "durchgeherisch"
+            ],
+            "id": "A19c"
+        }
+    ]
+}

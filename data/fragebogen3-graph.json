@@ -1,0 +1,1950 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "darauf"
+                ],
+                [
+                    "Weihfleisch"
+                ],
+                [
+                    "Weihe"
+                ],
+                [
+                    "Speisenweihe"
+                ],
+                [
+                    "Geweihten"
+                ],
+                [
+                    "Schießen"
+                ],
+                [
+                    "oft"
+                ],
+                [
+                    "Osterfladen"
+                ],
+                [
+                    "dar"
+                ],
+                [
+                    "Karsamstag"
+                ],
+                [
+                    "beim"
+                ],
+                [
+                    "Reihenfolge"
+                ],
+                [
+                    "Ausdrücke"
+                ],
+                [
+                    "Holz"
+                ],
+                [
+                    "sonstige"
+                ],
+                [
+                    "heißen"
+                ],
+                [
+                    "Sonntag"
+                ],
+                [
+                    "Gebräuche"
+                ]
+            ],
+            "2": [
+                [
+                    "Weihefeuer"
+                ],
+                [
+                    "Ostern"
+                ]
+            ],
+            "3": [
+                [
+                    "Ostermorgen"
+                ],
+                [
+                    "nennt"
+                ]
+            ],
+            "4": [
+                [
+                    "Volksglaube"
+                ]
+            ],
+            "5": [
+                [
+                    "wer"
+                ]
+            ],
+            "7": [
+                [
+                    "Bräuche"
+                ],
+                [
+                    "dabei"
+                ]
+            ],
+            "8": [
+                [
+                    "Ostersonntag"
+                ]
+            ],
+            "9": [
+                [
+                    "Eier"
+                ],
+                [
+                    "womit"
+                ]
+            ],
+            "14": [
+                [
+                    "wann"
+                ]
+            ],
+            "20": [
+                [
+                    "heißt"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Weihe",
+                    "gebrachten"
+                ],
+                [
+                    "Sachen",
+                    "weihenden"
+                ],
+                [
+                    "Volksglaube",
+                    "Weihe"
+                ],
+                [
+                    "Volksglaube",
+                    "Speisen"
+                ],
+                [
+                    "Ausdrücke",
+                    "woraus"
+                ],
+                [
+                    "Ausdrücke",
+                    "Eier"
+                ],
+                [
+                    "womit",
+                    "wann"
+                ],
+                [
+                    "Ostersonntag",
+                    "Ostermontag"
+                ],
+                [
+                    "Ostersonntag",
+                    "Ostern"
+                ]
+            ],
+            "3": [
+                [
+                    "Bräuche",
+                    "dabei"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "entzündet",
+                    "Weihefeuer",
+                    "heißt"
+                ],
+                [
+                    "gibt",
+                    "besteht",
+                    "wer"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Karsamstag"
+            ],
+            "source": 0,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weihefeuer"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "entzündet",
+                "Weihefeuer",
+                "heißt"
+            ],
+            "source": 1,
+            "target": 3,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 1,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 1,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 1,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 1,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 1,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 1,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 1,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 1,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weihefeuer"
+            ],
+            "source": 2,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche",
+                "dabei"
+            ],
+            "source": 2,
+            "target": 8,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bräuche",
+                "dabei"
+            ],
+            "source": 2,
+            "target": 24,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 2,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 2,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 2,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 3,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 3,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 3,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 3,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Holz"
+            ],
+            "source": 3,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 3,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gibt",
+                "besteht",
+                "wer"
+            ],
+            "source": 4,
+            "target": 6,
+            "target_group": [
+                3,
+                1,
+                1
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "darauf"
+            ],
+            "source": 4,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 4,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 4,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 6,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 6,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 6,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 6,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "woraus"
+            ],
+            "source": 6,
+            "target": 46,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 6,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 6,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit",
+                "wann"
+            ],
+            "source": 6,
+            "target": 53,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bräuche",
+                "dabei"
+            ],
+            "source": 8,
+            "target": 24,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 8,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 8,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 8,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 8,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonntag"
+            ],
+            "source": 9,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weihe",
+                "gebrachten"
+            ],
+            "source": 10,
+            "target": 13,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Weihe"
+            ],
+            "source": 10,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weihfleisch"
+            ],
+            "source": 11,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Osterfladen"
+            ],
+            "source": 12,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube",
+                "Weihe"
+            ],
+            "source": 13,
+            "target": 17,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 13,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 13,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 13,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 13,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 13,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 13,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 13,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 13,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nennt"
+            ],
+            "source": 14,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wer"
+            ],
+            "source": 14,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nennt"
+            ],
+            "source": 14,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sachen",
+                "weihenden"
+            ],
+            "source": 15,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Volksglaube",
+                "Speisen"
+            ],
+            "source": 17,
+            "target": 23,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 17,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speisenweihe"
+            ],
+            "source": 18,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schießen"
+            ],
+            "source": 18,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 20,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geweihten"
+            ],
+            "source": 20,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 20,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 20,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 20,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 21,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "oft"
+            ],
+            "source": 21,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 21,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 21,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 21,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 22,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 22,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 22,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 23,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dar"
+            ],
+            "source": 23,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 23,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Reihenfolge"
+            ],
+            "source": 23,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 23,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 23,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gebräuche"
+            ],
+            "source": 23,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 24,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 24,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 24,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 24,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 26,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 26,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 26,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag",
+                "Ostern"
+            ],
+            "source": 26,
+            "target": 58,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ostern"
+            ],
+            "source": 26,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostermorgen"
+            ],
+            "source": 27,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostermorgen"
+            ],
+            "source": 27,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bräuche"
+            ],
+            "source": 27,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostermorgen"
+            ],
+            "source": 32,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 32,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 32,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 35,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 35,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 36,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 36,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 42,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 42,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 42,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "womit"
+            ],
+            "source": 44,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "Eier"
+            ],
+            "source": 45,
+            "target": 46,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 45,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißt"
+            ],
+            "source": 45,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 45,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Eier"
+            ],
+            "source": 46,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "nennt"
+            ],
+            "source": 46,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "heißen"
+            ],
+            "source": 46,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 51,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag",
+                "Ostermontag"
+            ],
+            "source": 54,
+            "target": 57,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 54,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostersonntag"
+            ],
+            "source": 57,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ostern"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Karsamstag",
+                "Judassamstag"
+            ],
+            "id": "E1"
+        },
+        {
+            "concepts": [
+                "heißt",
+                "entzündet",
+                "womit",
+                "Weihefeuer",
+                "Platz",
+                "Feuerweihe"
+            ],
+            "id": "E2"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Herumtragen",
+                "abgebrannten",
+                "dabei",
+                "verschafft",
+                "Haus",
+                "Zunderschwammschwingen",
+                "Weihefeuer",
+                "Scheites"
+            ],
+            "id": "E3"
+        },
+        {
+            "concepts": [
+                "wogegen",
+                "benützt",
+                "heißt",
+                "Span",
+                "schützt",
+                "Scheitträger",
+                "wozu",
+                "Scheit",
+                "entzündet",
+                "Holz",
+                "Weihefeuer"
+            ],
+            "id": "E3a"
+        },
+        {
+            "concepts": [
+                "Herdfeuer",
+                "besteht",
+                "worin",
+                "acht",
+                "Belohnung",
+                "gibt",
+                "lange",
+                "neue",
+                "brennen",
+                "darauf",
+                "wer"
+            ],
+            "id": "E3b"
+        },
+        {
+            "concepts": [
+                "Fastenfeuer",
+                "Jaudesfeuer",
+                "Judaskohle",
+                "Judassteckerl"
+            ],
+            "id": "E4"
+        },
+        {
+            "concepts": [
+                "Holzstoß",
+                "Ostermann",
+                "Asche",
+                "wann",
+                "besteht",
+                "bezei",
+                "Material",
+                "zündet",
+                "womit",
+                "Anzünder",
+                "verbrannt",
+                "gibt",
+                "beschenkt",
+                "woraus",
+                "wer",
+                "Judas",
+                "Stoß",
+                "Ausdrücke",
+                "Judasverbrennen"
+            ],
+            "id": "E4a"
+        },
+        {
+            "concepts": [
+                "Verwendung",
+                "Osterwasser",
+                "Wasserweihe"
+            ],
+            "id": "E5"
+        },
+        {
+            "concepts": [
+                "Glockenläuten",
+                "Bräuche",
+                "dabei",
+                "erste"
+            ],
+            "id": "E6"
+        },
+        {
+            "concepts": [
+                "Fleischweihe",
+                "statt",
+                "Sonntag",
+                "erst",
+                "findet"
+            ],
+            "id": "E7"
+        },
+        {
+            "concepts": [
+                "Gesamtname",
+                "Weihe",
+                "Lebensmittel",
+                "gebrachten"
+            ],
+            "id": "E7a"
+        },
+        {
+            "concepts": [
+                "ausgewählt",
+                "Fleischarten",
+                "Osterschinken",
+                "Weihfleisch"
+            ],
+            "id": "E7b"
+        },
+        {
+            "concepts": [
+                "Osterfladen",
+                "geweiht",
+                "Wacker",
+                "Mehlspeisen",
+                "Kuchen"
+            ],
+            "id": "E7c"
+        },
+        {
+            "concepts": [
+                "beschaffen",
+                "Ostersalz",
+                "Verzehren",
+                "sollen",
+                "Volksglaube",
+                "bezieht",
+                "Eier",
+                "Beilagen",
+                "Seite",
+                "geöffnet",
+                "gebrachten",
+                "Weihe",
+                "darauf",
+                "Osterkren",
+                "Zündholz",
+                "beim",
+                "Weihfleisch",
+                "sonstige"
+            ],
+            "id": "E7d"
+        },
+        {
+            "concepts": [
+                "wem",
+                "nennt",
+                "Widderbraten",
+                "Widder",
+                "verzehrt",
+                "Spender",
+                "stiftet",
+                "Bezeichnung",
+                "geschmückt",
+                "wer",
+                "Osterkalb",
+                "Osterlamm"
+            ],
+            "id": "E7e"
+        },
+        {
+            "concepts": [
+                "weihenden",
+                "Sachen",
+                "getragen",
+                "Korb",
+                "Schaff"
+            ],
+            "id": "E7f"
+        },
+        {
+            "concepts": [
+                "weihenden",
+                "zugedeckt",
+                "Weihtuch",
+                "Sachen",
+                "Tuch"
+            ],
+            "id": "E7g"
+        },
+        {
+            "concepts": [
+                "Weihetragerin",
+                "Volksglaube",
+                "Speisen",
+                "Person",
+                "trägt",
+                "Weihe",
+                "tragen"
+            ],
+            "id": "E7h"
+        },
+        {
+            "concepts": [
+                "Schießen",
+                "Speisenweihe",
+                "Weiheschießen"
+            ],
+            "id": "E7i"
+        },
+        {
+            "concepts": [
+                "Speisenweihe",
+                "Späße"
+            ],
+            "id": "E7k"
+        },
+        {
+            "concepts": [
+                "heißt",
+                "erhält",
+                "Geweihten",
+                "Pfarrer",
+                "Mesner"
+            ],
+            "id": "E7l"
+        },
+        {
+            "concepts": [
+                "Urständfahne",
+                "wann",
+                "oft",
+                "Auferstehung",
+                "gefeiert",
+                "Heilandsbild",
+                "Urständ",
+                "Siegesfahne"
+            ],
+            "id": "E8"
+        },
+        {
+            "concepts": [
+                "heißt",
+                "Allelujasingen",
+                "Allelujablümlein",
+                "Alleluja",
+                "Blume"
+            ],
+            "id": "E8a"
+        },
+        {
+            "concepts": [
+                "wann",
+                "geschieht",
+                "Osterabend",
+                "aufgeteilt",
+                "Volksglaube",
+                "Speisen",
+                "Dienstboten",
+                "beginnt",
+                "Gebräuche",
+                "geweihten",
+                "essen",
+                "Resten",
+                "Umständen",
+                "Geweihten",
+                "Reihenfolge",
+                "dar"
+            ],
+            "id": "E9"
+        },
+        {
+            "concepts": [
+                "Bräuche",
+                "Feuer",
+                "dabei",
+                "Osternacht",
+                "Osterfeuer"
+            ],
+            "id": "E10"
+        },
+        {
+            "concepts": [
+                "Durchschnitt",
+                "sucht",
+                "Kreuzltragen",
+                "Bilmesschnitt",
+                "Mitteln",
+                "Karsamstagsaberglaube"
+            ],
+            "id": "E11"
+        },
+        {
+            "concepts": [
+                "Osternwünschen",
+                "Ostertag",
+                "Ostersonntag",
+                "Ostern"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Wasserschöpfen",
+                "Schießen",
+                "Bräuche",
+                "Ostermorgen"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "steht",
+                "Treidsaher",
+                "Osterschüssel"
+            ],
+            "id": "F2a"
+        },
+        {
+            "concepts": [
+                "Getreidbeten"
+            ],
+            "id": "F2b"
+        },
+        {
+            "concepts": [
+                "gehn",
+                "Grüne",
+                "Grünwasengang"
+            ],
+            "id": "F2c"
+        },
+        {
+            "concepts": [
+                "Beten",
+                "Bäume",
+                "Bäumen",
+                "Schütteln"
+            ],
+            "id": "F2d"
+        },
+        {
+            "concepts": [
+                "heißt",
+                "spät",
+                "aufsteht",
+                "letzter",
+                "Osterbloch",
+                "Bloch",
+                "Ostermorgen"
+            ],
+            "id": "F2e"
+        },
+        {
+            "concepts": [
+                "Schmeckostern"
+            ],
+            "id": "F2f"
+        },
+        {
+            "concepts": [
+                "oft",
+                "Sonne",
+                "glaubt",
+                "hüpft",
+                "Ostermorgen"
+            ],
+            "id": "F2g"
+        },
+        {
+            "concepts": [
+                "wann",
+                "Emausgehn"
+            ],
+            "id": "F2h"
+        },
+        {
+            "concepts": [
+                "mittags",
+                "Eierwecken",
+                "Osterfladen",
+                "Osterkuchen",
+                "Osterspeisen",
+                "bereitet",
+                "Osterfähnlein",
+                "Osterflecken",
+                "Ostersuppe",
+                "abends",
+                "Hahnenbrot",
+                "Lampelbrot",
+                "womit",
+                "Osterbraten"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Osterbier",
+                "Ostergetränke",
+                "verwendet",
+                "besondere",
+                "Arten"
+            ],
+            "id": "F3a"
+        },
+        {
+            "concepts": [
+                "Osterpredigt",
+                "Ostergottesdienst",
+                "Ostermesse"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Ostermärlein"
+            ],
+            "id": "F4a"
+        },
+        {
+            "concepts": [
+                "Ministrantenschwänke"
+            ],
+            "id": "F4b"
+        },
+        {
+            "concepts": [
+                "Osterheiligenbilder",
+                "stellen",
+                "Aufschriften",
+                "dar"
+            ],
+            "id": "F4c"
+        },
+        {
+            "concepts": [
+                "Fasten",
+                "Ostersonntag",
+                "Volksglaube"
+            ],
+            "id": "F4d"
+        },
+        {
+            "concepts": [
+                "Karsamstag",
+                "Betrugsarten",
+                "Bräuche",
+                "Beginn",
+                "festlicher",
+                "Eierpicken",
+                "turtschen",
+                "Ostereiern",
+                "beckn",
+                "beim",
+                "Reihenfolge"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "specken",
+                "Stürzen",
+                "Einwerfen",
+                "Eierhacken",
+                "Münzen",
+                "Eier",
+                "womit",
+                "spitzeln",
+                "Einhauen",
+                "stürzen"
+            ],
+            "id": "G1a"
+        },
+        {
+            "concepts": [
+                "scheiben",
+                "Eierlaufen",
+                "übliche",
+                "heißt",
+                "worauf",
+                "Eierrisel",
+                "rollen",
+                "Gestell",
+                "zwei",
+                "sagt",
+                "Eier",
+                "schieben",
+                "Eierwalgen",
+                "titschen",
+                "dabei",
+                "Eierspiele",
+                "Ausdrücke",
+                "läßt",
+                "berühren"
+            ],
+            "id": "G1b"
+        },
+        {
+            "concepts": [
+                "gemacht",
+                "nennt",
+                "verstärkte",
+                "Nachbildungen",
+                "Eier",
+                "Eiern",
+                "künstlich",
+                "woraus",
+                "Holz",
+                "heißen",
+                "beschädigten",
+                "Pecheier",
+                "Holzeier",
+                "ausgepichte",
+                "Ausdrücke"
+            ],
+            "id": "G1c"
+        },
+        {
+            "concepts": [
+                "bitten",
+                "einsammeln",
+                "holen",
+                "Eier",
+                "betteln",
+                "sammelt",
+                "wer"
+            ],
+            "id": "G1d"
+        },
+        {
+            "concepts": [
+                "Osterritt"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Ostertanz"
+            ],
+            "id": "G2a"
+        },
+        {
+            "concepts": [
+                "Osterwiese"
+            ],
+            "id": "G2b"
+        },
+        {
+            "concepts": [
+                "wann",
+                "Gansrennen",
+                "Spiele",
+                "Osterspiel",
+                "Belustigungen",
+                "sonstige"
+            ],
+            "id": "G2c"
+        },
+        {
+            "concepts": [
+                "Osterspiele",
+                "dramatische",
+                "Osterlieder",
+                "Aufführungen",
+                "Ostersprüchlein"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "wann",
+                "Liebespaare",
+                "Geschenken",
+                "klauben",
+                "Ranftl",
+                "womit",
+                "Ostergeschenke",
+                "beschenken",
+                "Absammeln"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Godenkinder",
+                "Ostersonntag",
+                "gegeben",
+                "Gotelkipfel",
+                "ausgewanden",
+                "Ostermontag",
+                "Patengeschenke",
+                "heißen"
+            ],
+            "id": "G4a"
+        },
+        {
+            "concepts": [
+                "Ostermarkt"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Osterjagd"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Ostersonntag",
+                "heißt",
+                "Tage",
+                "Osterzinstag",
+                "einzelnen",
+                "Ostermontag",
+                "Osterdienstag",
+                "Woche"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Samstag",
+                "Ostersonntag",
+                "Ostern",
+                "kleine",
+                "Sonntag",
+                "weißer",
+                "Mettag",
+                "Freudensonntag"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Ostern",
+                "dei",
+                "Schauerkerze",
+                "dabei",
+                "Agnus",
+                "Aberglaube",
+                "Osterwachs"
+            ],
+            "id": "I"
+        },
+        {
+            "concepts": [
+                "Lostage",
+                "Gebräuche",
+                "Oktave",
+                "Osterwoche",
+                "Wetterregeln"
+            ],
+            "id": "K"
+        }
+    ]
+}

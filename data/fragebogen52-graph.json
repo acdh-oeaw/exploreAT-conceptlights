@@ -1,0 +1,3316 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "klieben"
+                ],
+                [
+                    "schleißen"
+                ],
+                [
+                    "splittern"
+                ],
+                [
+                    "streuen"
+                ],
+                [
+                    "stieben"
+                ],
+                [
+                    "stöbern"
+                ],
+                [
+                    "Bruch"
+                ],
+                [
+                    "wehen"
+                ],
+                [
+                    "blasen"
+                ],
+                [
+                    "blähen"
+                ],
+                [
+                    "Wörter"
+                ],
+                [
+                    "Sonstiges"
+                ],
+                [
+                    "Quelle"
+                ],
+                [
+                    "schäumen"
+                ]
+            ],
+            "3": [
+                [
+                    "hauen"
+                ],
+                [
+                    "spritzen"
+                ],
+                [
+                    "Wasser"
+                ],
+                [
+                    "gießen"
+                ],
+                [
+                    "schöpfen"
+                ]
+            ],
+            "5": [
+                [
+                    "fließen"
+                ]
+            ],
+            "6": [
+                [
+                    "spalten"
+                ],
+                [
+                    "brechen"
+                ],
+                [
+                    "schlagen"
+                ],
+                [
+                    "rinnen"
+                ]
+            ],
+            "8": [
+                [
+                    "sieden"
+                ]
+            ],
+            "9": [
+                [
+                    "kommt"
+                ]
+            ],
+            "17": [
+                [
+                    "Verwendungen"
+                ]
+            ],
+            "35": [
+                [
+                    "Ausdrücke"
+                ]
+            ],
+            "90": [
+                [
+                    "Formen"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Formen",
+                    "Holz"
+                ],
+                [
+                    "kommt",
+                    "fließen"
+                ],
+                [
+                    "Formen",
+                    "sieden"
+                ],
+                [
+                    "wallen",
+                    "sieden"
+                ],
+                [
+                    "Ausdrücke",
+                    "sonstige"
+                ]
+            ],
+            "3": [
+                [
+                    "schroten",
+                    "schröten"
+                ],
+                [
+                    "Weinbau",
+                    "hauen"
+                ]
+            ],
+            "28": [
+                [
+                    "Formen",
+                    "Verwendungen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "spalten"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 3,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spalten"
+            ],
+            "source": 0,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spalten"
+            ],
+            "source": 0,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 0,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spalten"
+            ],
+            "source": 2,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spalten"
+            ],
+            "source": 2,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "klieben"
+            ],
+            "source": 3,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 3,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schroten",
+                "schröten"
+            ],
+            "source": 6,
+            "target": 7,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "schroten",
+                "schröten"
+            ],
+            "source": 6,
+            "target": 9,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 6,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schroten",
+                "schröten"
+            ],
+            "source": 7,
+            "target": 9,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "splittern"
+            ],
+            "source": 11,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schleißen"
+            ],
+            "source": 14,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 25,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wörter"
+            ],
+            "source": 14,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 14,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spalten"
+            ],
+            "source": 17,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 18,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "streuen"
+            ],
+            "source": 19,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 20,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stieben"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "stöbern"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 24,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 24,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 24,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 24,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 24,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 24,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 25,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 25,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Holz"
+            ],
+            "source": 25,
+            "target": 30,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 25,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 26,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 26,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bruch"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "brechen"
+            ],
+            "source": 28,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 29,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 29,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 29,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 29,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 29,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlagen"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlagen"
+            ],
+            "source": 30,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlagen"
+            ],
+            "source": 30,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 30,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlagen"
+            ],
+            "source": 31,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlagen"
+            ],
+            "source": 31,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 43,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 51,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 31,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 33,
+            "target": 34,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schlagen"
+            ],
+            "source": 33,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 33,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 33,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 35,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 43,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 51,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 56,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 34,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 34,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt"
+            ],
+            "source": 34,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 34,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 66,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 83,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 34,
+            "target": 85,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Weinbau",
+                "hauen"
+            ],
+            "source": 35,
+            "target": 36,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Weinbau",
+                "hauen"
+            ],
+            "source": 35,
+            "target": 38,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "hauen"
+            ],
+            "source": 35,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 43,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 51,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 56,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 35,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 35,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 66,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 83,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 35,
+            "target": 85,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Weinbau",
+                "hauen"
+            ],
+            "source": 36,
+            "target": 38,
+            "target_group": [
+                2,
+                3,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "hauen"
+            ],
+            "source": 36,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hauen"
+            ],
+            "source": 38,
+            "target": 40,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 40,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 40,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 40,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "source": 40,
+            "target": 79,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "wehen"
+            ],
+            "source": 41,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "blasen"
+            ],
+            "source": 43,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 43,
+            "target": 51,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 43,
+            "target": 56,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 43,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 43,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 43,
+            "target": 66,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 43,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 43,
+            "target": 83,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 43,
+            "target": 85,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "blähen"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonstiges"
+            ],
+            "source": 46,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rinnen"
+            ],
+            "source": 51,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rinnen"
+            ],
+            "source": 51,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 51,
+            "target": 56,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 51,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rinnen"
+            ],
+            "source": 51,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 51,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 51,
+            "target": 66,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 51,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 51,
+            "target": 83,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 51,
+            "target": 85,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "rinnen"
+            ],
+            "source": 52,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rinnen"
+            ],
+            "source": 52,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "rinnen"
+            ],
+            "source": 55,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fließen"
+            ],
+            "source": 56,
+            "target": 57,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fließen"
+            ],
+            "source": 56,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 56,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fließen"
+            ],
+            "source": 56,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 56,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 56,
+            "target": 66,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 56,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 56,
+            "target": 83,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 56,
+            "target": 85,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fließen"
+            ],
+            "source": 57,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fließen"
+            ],
+            "source": 57,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "kommt",
+                "fließen"
+            ],
+            "source": 59,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 60,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 60,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 60,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 60,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Quelle"
+            ],
+            "source": 61,
+            "target": 62,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "sieden"
+            ],
+            "source": 64,
+            "target": 66,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 64,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 64,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wallen",
+                "sieden"
+            ],
+            "source": 64,
+            "target": 70,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 64,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen"
+            ],
+            "source": 64,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 66,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 66,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 66,
+            "target": 83,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 66,
+            "target": 85,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 67,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sieden"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 70,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 70,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 70,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schäumen"
+            ],
+            "source": 71,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 73,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 73,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Ausdrücke"
+            ],
+            "source": 75,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wasser"
+            ],
+            "source": 75,
+            "target": 80,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wasser"
+            ],
+            "source": 75,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spritzen"
+            ],
+            "source": 76,
+            "target": 78,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spritzen"
+            ],
+            "source": 76,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "spritzen"
+            ],
+            "source": 78,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wasser"
+            ],
+            "source": 80,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Verwendungen"
+            ],
+            "source": 82,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Formen",
+                "Verwendungen"
+            ],
+            "source": 83,
+            "target": 85,
+            "target_group": [
+                2,
+                28,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "gießen"
+            ],
+            "source": 85,
+            "target": 86,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gießen"
+            ],
+            "source": 85,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gießen"
+            ],
+            "source": 86,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schöpfen"
+            ],
+            "source": 89,
+            "target": 90,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schöpfen"
+            ],
+            "source": 89,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "schöpfen"
+            ],
+            "source": 90,
+            "target": 92,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Formen",
+                "spalten"
+            ],
+            "id": "L8"
+        },
+        {
+            "concepts": [
+                "speltenhellig",
+                "Spältel",
+                "Spalte",
+                "Spelte",
+                "funkelspelternagelneu",
+                "Zwiespalt",
+                "Spalt",
+                "Apfelspältel",
+                "dürr"
+            ],
+            "id": "L8a"
+        },
+        {
+            "concepts": [
+                "spälteln",
+                "Spältling",
+                "zwiespältig",
+                "spalten"
+            ],
+            "id": "L8b"
+        },
+        {
+            "concepts": [
+                "zerklieben",
+                "Kliebhacke",
+                "Formen",
+                "klieben"
+            ],
+            "id": "L9"
+        },
+        {
+            "concepts": [
+                "Kluppe",
+                "Klub",
+                "Kloben",
+                "Kluft"
+            ],
+            "id": "L9a"
+        },
+        {
+            "concepts": [
+                "klüftig",
+                "kluppen",
+                "klieben"
+            ],
+            "id": "L9b"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "schroten",
+                "schröten"
+            ],
+            "id": "L10"
+        },
+        {
+            "concepts": [
+                "einschroten",
+                "Schrotmesser",
+                "schroten",
+                "schröten"
+            ],
+            "id": "L10a"
+        },
+        {
+            "concepts": [
+                "Schrot",
+                "Schrote",
+                "Schröte",
+                "Sägschrot"
+            ],
+            "id": "L10b"
+        },
+        {
+            "concepts": [
+                "Schröter",
+                "schroten",
+                "schrötig",
+                "beinschrötig",
+                "schröten"
+            ],
+            "id": "L10c"
+        },
+        {
+            "concepts": [
+                "spleißen",
+                "Spleiße",
+                "Splisse"
+            ],
+            "id": "L11"
+        },
+        {
+            "concepts": [
+                "splittern",
+                "Splitter"
+            ],
+            "id": "L12"
+        },
+        {
+            "concepts": [
+                "Spreißel",
+                "Sprissel",
+                "spreißeln",
+                "Spreiß"
+            ],
+            "id": "L13"
+        },
+        {
+            "concepts": [
+                "Spreitel",
+                "spraiten",
+                "spreiteln"
+            ],
+            "id": "L14"
+        },
+        {
+            "concepts": [
+                "schleißen",
+                "Formen",
+                "Wörter",
+                "schlaißen",
+                "Unterschiede"
+            ],
+            "id": "L15"
+        },
+        {
+            "concepts": [
+                "schleißen",
+                "Verschleiß",
+                "verschlissen",
+                "zerschlissen",
+                "zerschleißen"
+            ],
+            "id": "L15a"
+        },
+        {
+            "concepts": [
+                "schritzen",
+                "schleißig",
+                "schlitzen",
+                "Schlaiße",
+                "Schliß",
+                "Schleiße",
+                "Schlitz",
+                "Schritz"
+            ],
+            "id": "L15b"
+        },
+        {
+            "concepts": [
+                "schrenzen",
+                "Schranz",
+                "spalten"
+            ],
+            "id": "L16"
+        },
+        {
+            "concepts": [
+                "splittern",
+                "Ausdrücke",
+                "spalten"
+            ],
+            "id": "L17"
+        },
+        {
+            "concepts": [
+                "zettelecht",
+                "zetteln",
+                "einzel",
+                "zetten",
+                "gehn",
+                "streuen",
+                "kommen"
+            ],
+            "id": "L18"
+        },
+        {
+            "concepts": [
+                "streuen",
+                "Ausdrücke"
+            ],
+            "id": "L18a"
+        },
+        {
+            "concepts": [
+                "stieben",
+                "steuben",
+                "Stieber",
+                "Bofist"
+            ],
+            "id": "L19"
+        },
+        {
+            "concepts": [
+                "stöbern"
+            ],
+            "id": "L19a"
+        },
+        {
+            "concepts": [
+                "Stürer",
+                "stüren"
+            ],
+            "id": "L19b"
+        },
+        {
+            "concepts": [
+                "stieben",
+                "Ausdrücke",
+                "stöbern"
+            ],
+            "id": "L20"
+        },
+        {
+            "concepts": [
+                "bricht",
+                "Wort",
+                "Glas",
+                "Formen",
+                "brechen",
+                "Wein",
+                "Holz",
+                "Flachsbrechen"
+            ],
+            "id": "L21"
+        },
+        {
+            "concepts": [
+                "brechen",
+                "Gebrechen",
+                "Brecheisen"
+            ],
+            "id": "L21a"
+        },
+        {
+            "concepts": [
+                "Ausbruch",
+                "Bruchsalz",
+                "Bruch"
+            ],
+            "id": "L21b"
+        },
+        {
+            "concepts": [
+                "brechen",
+                "Brecher",
+                "gebrechlich",
+                "brüchig"
+            ],
+            "id": "L21c"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "zerspringen",
+                "Sinne",
+                "Bruch",
+                "Gebresten",
+                "brechen",
+                "platzen",
+                "Brust",
+                "bresten",
+                "Ausdrücke"
+            ],
+            "id": "L22"
+        },
+        {
+            "concepts": [
+                "Stunde",
+                "Vater",
+                "Farbe",
+                "schlagen",
+                "Kind",
+                "Formen",
+                "geschlagen",
+                "schlägt",
+                "Art",
+                "Pferd",
+                "Gegner",
+                "Holz",
+                "Grüne",
+                "Uhr",
+                "Mann",
+                "Baum"
+            ],
+            "id": "L23"
+        },
+        {
+            "concepts": [
+                "deren",
+                "schlagen",
+                "Verwendungen"
+            ],
+            "id": "L23a"
+        },
+        {
+            "concepts": [
+                "Schlegel",
+                "schlegelfest",
+                "Schlag",
+                "Schlacht",
+                "Schlegelhaube",
+                "Schlage",
+                "Schlagbaum",
+                "Urschlacht"
+            ],
+            "id": "L23b"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "schlagen",
+                "einschlägig",
+                "Schläger",
+                "schlächtig"
+            ],
+            "id": "L23c"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Bleu",
+                "Formen",
+                "bleueln",
+                "Verwendungen",
+                "Bleuer",
+                "bleuen",
+                "Bleuel"
+            ],
+            "id": "L24"
+        },
+        {
+            "concepts": [
+                "Verwendungen",
+                "Weinbau",
+                "hauen",
+                "Formen"
+            ],
+            "id": "L25"
+        },
+        {
+            "concepts": [
+                "Weinbau",
+                "hauen"
+            ],
+            "id": "L25a"
+        },
+        {
+            "concepts": [
+                "Hieb"
+            ],
+            "id": "L25b"
+        },
+        {
+            "concepts": [
+                "Hauer",
+                "Verhau",
+                "hauen",
+                "Weinbau",
+                "Häugel",
+                "Häuel"
+            ],
+            "id": "L25c"
+        },
+        {
+            "concepts": [
+                "Tennboß",
+                "Boßer",
+                "boßen"
+            ],
+            "id": "L26"
+        },
+        {
+            "concepts": [
+                "schneckern",
+                "picken",
+                "schlagen",
+                "pecken",
+                "hauen",
+                "Pecker",
+                "peckatzen",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "L27"
+        },
+        {
+            "concepts": [
+                "wehen",
+                "wächeln",
+                "huwächeln",
+                "zuwächeln",
+                "Wächeler",
+                "Wächel",
+                "Gewäde",
+                "Windwächel"
+            ],
+            "id": "M1"
+        },
+        {
+            "concepts": [
+                "wedeln",
+                "Fliegenwadel",
+                "Wadel",
+                "Tannenwedel",
+                "wadeln",
+                "Wedel"
+            ],
+            "id": "M2"
+        },
+        {
+            "concepts": [
+                "blasen",
+                "Formen",
+                "Verwendungen",
+                "Blasbalg"
+            ],
+            "id": "M3"
+        },
+        {
+            "concepts": [
+                "Blaser",
+                "Blase"
+            ],
+            "id": "M3a"
+        },
+        {
+            "concepts": [
+                "blähnen",
+                "blähen",
+                "Bläher",
+                "Blähe",
+                "anblächeln",
+                "anblähnen",
+                "blad",
+                "Blächel",
+                "blächeln",
+                "Blähhals",
+                "Blähung"
+            ],
+            "id": "M4"
+        },
+        {
+            "concepts": [
+                "Sonstiges",
+                "blähen",
+                "fläheln",
+                "wehen",
+                "blasen"
+            ],
+            "id": "M5"
+        },
+        {
+            "concepts": [
+                "femmezen",
+                "flinsen",
+                "flimmern",
+                "femmern",
+                "Wörter"
+            ],
+            "id": "M6"
+        },
+        {
+            "concepts": [
+                "fledern",
+                "flackern",
+                "flaugezen"
+            ],
+            "id": "M7"
+        },
+        {
+            "concepts": [
+                "flinken",
+                "glitzen",
+                "glasten",
+                "blinken",
+                "blinkezen"
+            ],
+            "id": "M8"
+        },
+        {
+            "concepts": [
+                "sprankezen",
+                "sprackeln",
+                "sprühen",
+                "spratzeln"
+            ],
+            "id": "M9"
+        },
+        {
+            "concepts": [
+                "rinnend",
+                "Formen",
+                "Verwendungen",
+                "geronnen",
+                "rinnen"
+            ],
+            "id": "M10"
+        },
+        {
+            "concepts": [
+                "rinnen"
+            ],
+            "id": "M10a"
+        },
+        {
+            "concepts": [
+                "Rinne",
+                "Runne"
+            ],
+            "id": "M10b"
+        },
+        {
+            "concepts": [
+                "Runst",
+                "Runse",
+                "Runze",
+                "Runs"
+            ],
+            "id": "M10c"
+        },
+        {
+            "concepts": [
+                "blutrünstig",
+                "Gerinsel",
+                "rinnen",
+                "Rinnsal"
+            ],
+            "id": "M10d"
+        },
+        {
+            "concepts": [
+                "Formen",
+                "Verwendungen",
+                "fließen"
+            ],
+            "id": "M11"
+        },
+        {
+            "concepts": [
+                "fließen"
+            ],
+            "id": "M11a"
+        },
+        {
+            "concepts": [
+                "Wasserfluß",
+                "Fluß",
+                "Flußbett",
+                "Fließpapier"
+            ],
+            "id": "M11b"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Flüsse",
+                "flott",
+                "fließen",
+                "lose",
+                "Floß",
+                "flößen",
+                "überflüssig",
+                "floß",
+                "flüssig"
+            ],
+            "id": "M11c"
+        },
+        {
+            "concepts": [
+                "quellen",
+                "Formen"
+            ],
+            "id": "M12"
+        },
+        {
+            "concepts": [
+                "Quelle",
+                "Quell"
+            ],
+            "id": "M12a"
+        },
+        {
+            "concepts": [
+                "Sonstiges",
+                "Quelle",
+                "Hidel",
+                "kommt",
+                "sifern",
+                "fließen",
+                "Hidlwasser",
+                "unterirdische",
+                "sickern",
+                "Högbrunnen",
+                "langsam",
+                "rinnen",
+                "Higel"
+            ],
+            "id": "M13"
+        },
+        {
+            "concepts": [
+                "sprudeln",
+                "Sprudler",
+                "Sprudel"
+            ],
+            "id": "M14"
+        },
+        {
+            "concepts": [
+                "wallen",
+                "Waller",
+                "Formen",
+                "sieden",
+                "wellen",
+                "Wall",
+                "wallezen"
+            ],
+            "id": "M15"
+        },
+        {
+            "concepts": [
+                "Welle"
+            ],
+            "id": "M15a"
+        },
+        {
+            "concepts": [
+                "Verwendungen",
+                "Formen",
+                "sieden"
+            ],
+            "id": "M16"
+        },
+        {
+            "concepts": [
+                "sieden"
+            ],
+            "id": "M16a"
+        },
+        {
+            "concepts": [
+                "Sodbrennen",
+                "Sud",
+                "Sod"
+            ],
+            "id": "M16b"
+        },
+        {
+            "concepts": [
+                "siedig",
+                "sieden",
+                "Leimsieder",
+                "Sudler",
+                "sudeln",
+                "siedenig"
+            ],
+            "id": "M16c"
+        },
+        {
+            "concepts": [
+                "wallen",
+                "sieden",
+                "Ausdrücke"
+            ],
+            "id": "M17"
+        },
+        {
+            "concepts": [
+                "Schaum",
+                "schäumen",
+                "schäumig"
+            ],
+            "id": "M18"
+        },
+        {
+            "concepts": [
+                "Gist",
+                "gesten",
+                "gisten",
+                "Gest"
+            ],
+            "id": "M19"
+        },
+        {
+            "concepts": [
+                "Ausdrücke",
+                "schäumen"
+            ],
+            "id": "M20"
+        },
+        {
+            "concepts": [
+                "Geschwapper",
+                "schwappen",
+                "schweppen"
+            ],
+            "id": "M21"
+        },
+        {
+            "concepts": [
+                "änteln",
+                "schwaibezen",
+                "schwadern",
+                "Klinkerle",
+                "lämpeln",
+                "Seen",
+                "Glingger",
+                "unruhig",
+                "Geschwader",
+                "bewegte",
+                "schwatteln",
+                "etwa",
+                "Wasser",
+                "schwibezen",
+                "schwanken",
+                "Ausdrücke",
+                "Gläschen"
+            ],
+            "id": "M22"
+        },
+        {
+            "concepts": [
+                "spritzen",
+                "sprutzen",
+                "spritzhal"
+            ],
+            "id": "M23"
+        },
+        {
+            "concepts": [
+                "Feuerspritze",
+                "Sprutz",
+                "Spritze",
+                "Spritzbüchse",
+                "Sprutze"
+            ],
+            "id": "M23a"
+        },
+        {
+            "concepts": [
+                "Spritzer",
+                "spritzen"
+            ],
+            "id": "M23b"
+        },
+        {
+            "concepts": [
+                "spritzen",
+                "spratzen",
+                "spradern",
+                "Spratzel",
+                "Ausdrücke",
+                "sonstige"
+            ],
+            "id": "M24"
+        },
+        {
+            "concepts": [
+                "Tauchber",
+                "untertauchen",
+                "drücken",
+                "antauchen",
+                "beiden",
+                "tauchen",
+                "Wasser"
+            ],
+            "id": "M25"
+        },
+        {
+            "concepts": [
+                "Tauche",
+                "Tauch"
+            ],
+            "id": "M25a"
+        },
+        {
+            "concepts": [
+                "tunken",
+                "Tunker",
+                "Verwendungen"
+            ],
+            "id": "M26"
+        },
+        {
+            "concepts": [
+                "waten",
+                "Formen",
+                "Verwendungen"
+            ],
+            "id": "M27"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "patschen",
+                "bewegen",
+                "pantschen",
+                "Wasser"
+            ],
+            "id": "M28"
+        },
+        {
+            "concepts": [
+                "Verwendungen",
+                "Formen",
+                "gießen"
+            ],
+            "id": "M29"
+        },
+        {
+            "concepts": [
+                "Gießkanne",
+                "gießen"
+            ],
+            "id": "M29a"
+        },
+        {
+            "concepts": [
+                "Güß",
+                "Gieße",
+                "Guß",
+                "Güsse",
+                "Goss"
+            ],
+            "id": "M29b"
+        },
+        {
+            "concepts": [
+                "guseln",
+                "güsseln",
+                "gießen",
+                "güssen",
+                "Gusel",
+                "güssig"
+            ],
+            "id": "M29c"
+        },
+        {
+            "concepts": [
+                "schöpfen"
+            ],
+            "id": "M30"
+        },
+        {
+            "concepts": [
+                "Schöpfeimer",
+                "schöpfen"
+            ],
+            "id": "M30a"
+        },
+        {
+            "concepts": [
+                "Schapfe"
+            ],
+            "id": "M30b"
+        },
+        {
+            "concepts": [
+                "schöpfen",
+                "Abschapfet",
+                "Schöpfer",
+                "Schöpfgefäß",
+                "schapfen"
+            ],
+            "id": "M30c"
+        }
+    ]
+}

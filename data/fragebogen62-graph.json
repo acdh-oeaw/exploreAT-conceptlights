@@ -1,0 +1,2001 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Näsling"
+                ],
+                [
+                    "Maikäfer"
+                ],
+                [
+                    "Sonnwendkäfer"
+                ],
+                [
+                    "Kornwurm"
+                ],
+                [
+                    "Schmetterlinge"
+                ],
+                [
+                    "Große"
+                ],
+                [
+                    "Grillen"
+                ],
+                [
+                    "Blattlaus"
+                ],
+                [
+                    "hervorgerufener"
+                ],
+                [
+                    "Spinne"
+                ]
+            ],
+            "2": [
+                [
+                    "Kleiner"
+                ],
+                [
+                    "Großer"
+                ],
+                [
+                    "Schabe"
+                ]
+            ],
+            "3": [
+                [
+                    "Käfer"
+                ],
+                [
+                    "Gemeiner"
+                ]
+            ],
+            "6": [
+                [
+                    "Arten"
+                ],
+                [
+                    "Floh"
+                ],
+                [
+                    "Fliege"
+                ],
+                [
+                    "Volksglaube"
+                ]
+            ],
+            "15": [
+                [
+                    "sonstige"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Großer",
+                    "Kleiner"
+                ],
+                [
+                    "Motte",
+                    "Schabe"
+                ]
+            ],
+            "6": [
+                [
+                    "bekannte",
+                    "sonstige"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Näsling"
+            ],
+            "source": 9,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannte",
+                "sonstige"
+            ],
+            "source": 29,
+            "target": 63,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "bekannte",
+                "sonstige"
+            ],
+            "source": 29,
+            "target": 100,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 29,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 29,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 29,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannte",
+                "sonstige"
+            ],
+            "source": 29,
+            "target": 184,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Käfer"
+            ],
+            "source": 30,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Käfer"
+            ],
+            "source": 30,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Käfer"
+            ],
+            "source": 31,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 35,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 35,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 35,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Maikäfer"
+            ],
+            "source": 40,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sonnwendkäfer"
+            ],
+            "source": 42,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gemeiner"
+            ],
+            "source": 44,
+            "target": 47,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gemeiner"
+            ],
+            "source": 44,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kleiner"
+            ],
+            "source": 45,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kleiner"
+            ],
+            "source": 45,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gemeiner"
+            ],
+            "source": 47,
+            "target": 135,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fliege"
+            ],
+            "source": 51,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fliege"
+            ],
+            "source": 51,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fliege"
+            ],
+            "source": 51,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 52,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 52,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Kornwurm"
+            ],
+            "source": 55,
+            "target": 98,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Arten"
+            ],
+            "source": 56,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 62,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 62,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 62,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannte",
+                "sonstige"
+            ],
+            "source": 63,
+            "target": 100,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 63,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 63,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 63,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannte",
+                "sonstige"
+            ],
+            "source": 63,
+            "target": 184,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 65,
+            "target": 173,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 65,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Großer"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Großer",
+                "Kleiner"
+            ],
+            "source": 68,
+            "target": 75,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Großer"
+            ],
+            "source": 70,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Motte",
+                "Schabe"
+            ],
+            "source": 96,
+            "target": 97,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Schabe"
+            ],
+            "source": 96,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schabe"
+            ],
+            "source": 97,
+            "target": 145,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Schmetterlinge"
+            ],
+            "source": 100,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 100,
+            "target": 114,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 100,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 100,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bekannte",
+                "sonstige"
+            ],
+            "source": 100,
+            "target": 184,
+            "target_group": [
+                2,
+                6,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 114,
+            "target": 121,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 114,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 114,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Große"
+            ],
+            "source": 119,
+            "target": 149,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 121,
+            "target": 177,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 121,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fliege"
+            ],
+            "source": 127,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fliege"
+            ],
+            "source": 127,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fliege"
+            ],
+            "source": 128,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Floh"
+            ],
+            "source": 135,
+            "target": 137,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Floh"
+            ],
+            "source": 135,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Floh"
+            ],
+            "source": 135,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Floh"
+            ],
+            "source": 137,
+            "target": 138,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Floh"
+            ],
+            "source": 137,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Floh"
+            ],
+            "source": 138,
+            "target": 139,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grillen"
+            ],
+            "source": 153,
+            "target": 154,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blattlaus"
+            ],
+            "source": 160,
+            "target": 161,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "hervorgerufener"
+            ],
+            "source": 161,
+            "target": 165,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Spinne"
+            ],
+            "source": 173,
+            "target": 178,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Volksglaube"
+            ],
+            "source": 173,
+            "target": 179,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "sonstige"
+            ],
+            "source": 177,
+            "target": 184,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Albel",
+                "Zwiebelfisch",
+                "Spitzlaube",
+                "Laukel",
+                "Nestling",
+                "Postknecht"
+            ],
+            "id": "E95"
+        },
+        {
+            "concepts": [
+                "Schneiderfisch",
+                "Schußlaube"
+            ],
+            "id": "E96"
+        },
+        {
+            "concepts": [
+                "Seelaube",
+                "Schiedling"
+            ],
+            "id": "E97"
+        },
+        {
+            "concepts": [
+                "Rotschiedel",
+                "Rapfen",
+                "Raps",
+                "Schiedfisch"
+            ],
+            "id": "E98"
+        },
+        {
+            "concepts": [
+                "Gängling",
+                "Bratfisch",
+                "Brater",
+                "Dickkopf",
+                "Gengel"
+            ],
+            "id": "E99"
+        },
+        {
+            "concepts": [
+                "Schwallfisch",
+                "Plötze",
+                "Rotfeder",
+                "Rotauge"
+            ],
+            "id": "E100"
+        },
+        {
+            "concepts": [
+                "Frauenfisch"
+            ],
+            "id": "E101"
+        },
+        {
+            "concepts": [
+                "Graunerfling",
+                "Perlfisch"
+            ],
+            "id": "E102"
+        },
+        {
+            "concepts": [
+                "Sandeberl",
+                "Altel",
+                "Eitel",
+                "Kühlnigg",
+                "Alant"
+            ],
+            "id": "E103"
+        },
+        {
+            "concepts": [
+                "Schmerling",
+                "Angelfisch",
+                "Näsling"
+            ],
+            "id": "E104"
+        },
+        {
+            "concepts": [
+                "Rießling"
+            ],
+            "id": "E105"
+        },
+        {
+            "concepts": [
+                "Pfrille",
+                "Erlkreß",
+                "Sonnfischel",
+                "Ellering",
+                "Elritze",
+                "Zankerl",
+                "Grimpel",
+                "Spirling"
+            ],
+            "id": "E106"
+        },
+        {
+            "concepts": [
+                "Näsling",
+                "Kräuterling",
+                "Nasfisch",
+                "Nasel"
+            ],
+            "id": "E107"
+        },
+        {
+            "concepts": [
+                "Schlammbeißer",
+                "Mistgurre",
+                "Wetterfisch",
+                "Bißgurre"
+            ],
+            "id": "E108"
+        },
+        {
+            "concepts": [
+                "Bartgrundel",
+                "Schmerle"
+            ],
+            "id": "E109"
+        },
+        {
+            "concepts": [
+                "Dorngrundel",
+                "Steinbeißer"
+            ],
+            "id": "E110"
+        },
+        {
+            "concepts": [
+                "Hering"
+            ],
+            "id": "E111"
+        },
+        {
+            "concepts": [
+                "Makrele"
+            ],
+            "id": "E112"
+        },
+        {
+            "concepts": [
+                "Sprotte",
+                "Breitling"
+            ],
+            "id": "E113"
+        },
+        {
+            "concepts": [
+                "Sardine"
+            ],
+            "id": "E114"
+        },
+        {
+            "concepts": [
+                "Sardelle"
+            ],
+            "id": "E115"
+        },
+        {
+            "concepts": [
+                "Aal",
+                "Aalfisch"
+            ],
+            "id": "E116"
+        },
+        {
+            "concepts": [
+                "Stör"
+            ],
+            "id": "E117"
+        },
+        {
+            "concepts": [
+                "Stürl",
+                "Sterlett"
+            ],
+            "id": "E118"
+        },
+        {
+            "concepts": [
+                "Spitznase",
+                "Scherk",
+                "Sternhausen"
+            ],
+            "id": "E119"
+        },
+        {
+            "concepts": [
+                "Hausen"
+            ],
+            "id": "E120"
+        },
+        {
+            "concepts": [
+                "Hausenblase"
+            ],
+            "id": "E121"
+        },
+        {
+            "concepts": [
+                "Neunauge",
+                "Pricke"
+            ],
+            "id": "E122"
+        },
+        {
+            "concepts": [
+                "Haifisch"
+            ],
+            "id": "E123"
+        },
+        {
+            "concepts": [
+                "Fische",
+                "bekannte",
+                "sonstige"
+            ],
+            "id": "E124"
+        },
+        {
+            "concepts": [
+                "Käfer"
+            ],
+            "id": "F1"
+        },
+        {
+            "concepts": [
+                "Käferbaum",
+                "Käfer"
+            ],
+            "id": "F2"
+        },
+        {
+            "concepts": [
+                "Gartenlaufkäfer"
+            ],
+            "id": "F3"
+        },
+        {
+            "concepts": [
+                "Goldhenne"
+            ],
+            "id": "F4"
+        },
+        {
+            "concepts": [
+                "Getreidelaufkäfer"
+            ],
+            "id": "F5"
+        },
+        {
+            "concepts": [
+                "Schwimmkäfer",
+                "Arten"
+            ],
+            "id": "F6"
+        },
+        {
+            "concepts": [
+                "Totengräber"
+            ],
+            "id": "F8"
+        },
+        {
+            "concepts": [
+                "Aaskäfer"
+            ],
+            "id": "F9"
+        },
+        {
+            "concepts": [
+                "Pelzkäfer"
+            ],
+            "id": "F10"
+        },
+        {
+            "concepts": [
+                "Gehürnleinskäfer"
+            ],
+            "id": "F11"
+        },
+        {
+            "concepts": [
+                "Maikäfer",
+                "Rangger"
+            ],
+            "id": "F12"
+        },
+        {
+            "concepts": [
+                "Engerling"
+            ],
+            "id": "F13"
+        },
+        {
+            "concepts": [
+                "ähnelt",
+                "Maikäfer",
+                "Sonnwendkäfer"
+            ],
+            "id": "F14"
+        },
+        {
+            "concepts": [
+                "Nashornkäfer"
+            ],
+            "id": "F15"
+        },
+        {
+            "concepts": [
+                "Gemeiner",
+                "Goldkäfer"
+            ],
+            "id": "F16"
+        },
+        {
+            "concepts": [
+                "Rosenkäfer",
+                "Kleiner"
+            ],
+            "id": "F17"
+        },
+        {
+            "concepts": [
+                "Schmied",
+                "Saatschnellkäfer",
+                "Steckenschlager",
+                "Schuster"
+            ],
+            "id": "F18"
+        },
+        {
+            "concepts": [
+                "Johanniswürmchen",
+                "Gemeiner",
+                "Kleines",
+                "Sonnwendkäfer"
+            ],
+            "id": "F19"
+        },
+        {
+            "concepts": [
+                "Totenuhr",
+                "Trotzkopf"
+            ],
+            "id": "F20"
+        },
+        {
+            "concepts": [
+                "Mehlkäfer",
+                "Müller"
+            ],
+            "id": "F21"
+        },
+        {
+            "concepts": [
+                "Mehlwurm",
+                "Larve",
+                "Mehlkäfers"
+            ],
+            "id": "F22"
+        },
+        {
+            "concepts": [
+                "Spanische",
+                "Fliege"
+            ],
+            "id": "F23"
+        },
+        {
+            "concepts": [
+                "Arten",
+                "Rüsselkäfer"
+            ],
+            "id": "F24"
+        },
+        {
+            "concepts": [
+                "Zapfenwickler",
+                "Drechsler",
+                "Botzenstecher",
+                "Rebenstecher"
+            ],
+            "id": "F25"
+        },
+        {
+            "concepts": [
+                "Stecher",
+                "Apfelblütenstecher"
+            ],
+            "id": "F26"
+        },
+        {
+            "concepts": [
+                "Wibel",
+                "Schwarzer",
+                "Kornwurm"
+            ],
+            "id": "F27"
+        },
+        {
+            "concepts": [
+                "Borkenkäfer",
+                "Arten"
+            ],
+            "id": "F28"
+        },
+        {
+            "concepts": [
+                "Zimmermann"
+            ],
+            "id": "F29"
+        },
+        {
+            "concepts": [
+                "Handwerker"
+            ],
+            "id": "F30"
+        },
+        {
+            "concepts": [
+                "Bockkäfer",
+                "Arten"
+            ],
+            "id": "F31"
+        },
+        {
+            "concepts": [
+                "Bohnenkäfer"
+            ],
+            "id": "F32"
+        },
+        {
+            "concepts": [
+                "Erdfloh"
+            ],
+            "id": "F33"
+        },
+        {
+            "concepts": [
+                "Marienkäfer",
+                "Himmelsprinzerl",
+                "Herrgottkalberl",
+                "Sprüche",
+                "Volksglaube",
+                "Frauenkäfer",
+                "Flinserl"
+            ],
+            "id": "F34"
+        },
+        {
+            "concepts": [
+                "bekannte",
+                "Käfer",
+                "sonstige"
+            ],
+            "id": "F35"
+        },
+        {
+            "concepts": [
+                "nennt",
+                "Käferlarven"
+            ],
+            "id": "F36"
+        },
+        {
+            "concepts": [
+                "Volksglaube",
+                "Mistkäfer"
+            ],
+            "id": "F37"
+        },
+        {
+            "concepts": [
+                "Beinfalter",
+                "Fraunmolter",
+                "Schmetterling"
+            ],
+            "id": "G1"
+        },
+        {
+            "concepts": [
+                "Schwalbenschwanz"
+            ],
+            "id": "G2"
+        },
+        {
+            "concepts": [
+                "Großer",
+                "Kleiner",
+                "Kohlweißling",
+                "Krautscheißer"
+            ],
+            "id": "G3"
+        },
+        {
+            "concepts": [
+                "Zitronenfalter"
+            ],
+            "id": "G4"
+        },
+        {
+            "concepts": [
+                "Großer",
+                "Perlmutterfalter"
+            ],
+            "id": "G5"
+        },
+        {
+            "concepts": [
+                "Silberstrich",
+                "Kaisermantel"
+            ],
+            "id": "G6"
+        },
+        {
+            "concepts": [
+                "Tagpfauenauge",
+                "Pfauenspiegel"
+            ],
+            "id": "G7"
+        },
+        {
+            "concepts": [
+                "Admiral"
+            ],
+            "id": "G8"
+        },
+        {
+            "concepts": [
+                "Trauermantel"
+            ],
+            "id": "G9"
+        },
+        {
+            "concepts": [
+                "Großer",
+                "Kleiner",
+                "Fuchs"
+            ],
+            "id": "G10"
+        },
+        {
+            "concepts": [
+                "Bläuling"
+            ],
+            "id": "G11"
+        },
+        {
+            "concepts": [
+                "Totenkopf"
+            ],
+            "id": "G12"
+        },
+        {
+            "concepts": [
+                "Nachtfalter",
+                "Zauberin",
+                "Schwärmer"
+            ],
+            "id": "G13"
+        },
+        {
+            "concepts": [
+                "Ligusterschwärmer"
+            ],
+            "id": "G14"
+        },
+        {
+            "concepts": [
+                "Wolfsmilchschwärmer"
+            ],
+            "id": "G15"
+        },
+        {
+            "concepts": [
+                "Orleanderschwärmer"
+            ],
+            "id": "G16"
+        },
+        {
+            "concepts": [
+                "Taubenschwänzchen"
+            ],
+            "id": "G17"
+        },
+        {
+            "concepts": [
+                "Bär",
+                "Brauner"
+            ],
+            "id": "G18"
+        },
+        {
+            "concepts": [
+                "Spinner"
+            ],
+            "id": "G19"
+        },
+        {
+            "concepts": [
+                "Nachtpfauenauge"
+            ],
+            "id": "G20"
+        },
+        {
+            "concepts": [
+                "Ailanthusspinner"
+            ],
+            "id": "G21"
+        },
+        {
+            "concepts": [
+                "Maulbeerspinner"
+            ],
+            "id": "G22"
+        },
+        {
+            "concepts": [
+                "Ringelspinner"
+            ],
+            "id": "G23"
+        },
+        {
+            "concepts": [
+                "Nonne"
+            ],
+            "id": "G24"
+        },
+        {
+            "concepts": [
+                "Eule"
+            ],
+            "id": "G25"
+        },
+        {
+            "concepts": [
+                "Ordensband"
+            ],
+            "id": "G26"
+        },
+        {
+            "concepts": [
+                "Spanner"
+            ],
+            "id": "G27"
+        },
+        {
+            "concepts": [
+                "Pflaumenwickler"
+            ],
+            "id": "G28"
+        },
+        {
+            "concepts": [
+                "Lichtmotte",
+                "Zünsler"
+            ],
+            "id": "G29"
+        },
+        {
+            "concepts": [
+                "Wachsmotte"
+            ],
+            "id": "G30"
+        },
+        {
+            "concepts": [
+                "Motte",
+                "Schabe"
+            ],
+            "id": "G31"
+        },
+        {
+            "concepts": [
+                "Motte",
+                "Schabe",
+                "schabenfräßig"
+            ],
+            "id": "G32"
+        },
+        {
+            "concepts": [
+                "Weißer",
+                "Kornwurm"
+            ],
+            "id": "G33"
+        },
+        {
+            "concepts": [
+                "Pelzmotte"
+            ],
+            "id": "G34"
+        },
+        {
+            "concepts": [
+                "bekannte",
+                "Schmetterlinge",
+                "sonstige"
+            ],
+            "id": "G35"
+        },
+        {
+            "concepts": [
+                "Schmetterlingsrüssel"
+            ],
+            "id": "G36"
+        },
+        {
+            "concepts": [
+                "Schmetterlinge",
+                "dser",
+                "Fühler"
+            ],
+            "id": "G37"
+        },
+        {
+            "concepts": [
+                "Raupe",
+                "Schmetterlings",
+                "Wurm"
+            ],
+            "id": "G38"
+        },
+        {
+            "concepts": [
+                "besondere",
+                "RaupenN",
+                "Grotzenwurm"
+            ],
+            "id": "G39"
+        },
+        {
+            "concepts": [
+                "Wilde",
+                "Biene"
+            ],
+            "id": "H1"
+        },
+        {
+            "concepts": [
+                "Erdbiene",
+                "Kotbein"
+            ],
+            "id": "H2"
+        },
+        {
+            "concepts": [
+                "Bummel",
+                "Hummel"
+            ],
+            "id": "H3"
+        },
+        {
+            "concepts": [
+                "Kothummel",
+                "Hummelarten"
+            ],
+            "id": "H4"
+        },
+        {
+            "concepts": [
+                "Wespe"
+            ],
+            "id": "H5"
+        },
+        {
+            "concepts": [
+                "Wespennest"
+            ],
+            "id": "H6"
+        },
+        {
+            "concepts": [
+                "Holzwespe"
+            ],
+            "id": "H7"
+        },
+        {
+            "concepts": [
+                "Gallwespe"
+            ],
+            "id": "H8"
+        },
+        {
+            "concepts": [
+                "Schlupfwespe"
+            ],
+            "id": "H9"
+        },
+        {
+            "concepts": [
+                "Wespenarten",
+                "sonstige"
+            ],
+            "id": "H10"
+        },
+        {
+            "concepts": [
+                "Hunaß",
+                "Hornisse"
+            ],
+            "id": "H11"
+        },
+        {
+            "concepts": [
+                "Ameise"
+            ],
+            "id": "H12"
+        },
+        {
+            "concepts": [
+                "Ameishaufen"
+            ],
+            "id": "H13"
+        },
+        {
+            "concepts": [
+                "Ameiseier"
+            ],
+            "id": "H14"
+        },
+        {
+            "concepts": [
+                "Waldameise",
+                "Waldbär",
+                "Große"
+            ],
+            "id": "H15"
+        },
+        {
+            "concepts": [
+                "Kotameise"
+            ],
+            "id": "H16"
+        },
+        {
+            "concepts": [
+                "Ameisenarten",
+                "sonstige"
+            ],
+            "id": "H17"
+        },
+        {
+            "concepts": [
+                "Mücke"
+            ],
+            "id": "H18"
+        },
+        {
+            "concepts": [
+                "Gritze",
+                "Kribbelmücke"
+            ],
+            "id": "H19"
+        },
+        {
+            "concepts": [
+                "Flansche",
+                "Stechmücke",
+                "Stanze",
+                "Gelse"
+            ],
+            "id": "H20"
+        },
+        {
+            "concepts": [
+                "Gelsenstich"
+            ],
+            "id": "H21"
+        },
+        {
+            "concepts": [
+                "Rinderbremse",
+                "Breme"
+            ],
+            "id": "H22"
+        },
+        {
+            "concepts": [
+                "Fliege"
+            ],
+            "id": "H23"
+        },
+        {
+            "concepts": [
+                "Fliegenleim",
+                "Fliege"
+            ],
+            "id": "H24"
+        },
+        {
+            "concepts": [
+                "Spauk",
+                "Gelß",
+                "Biesmannel",
+                "Biesfliege"
+            ],
+            "id": "H25"
+        },
+        {
+            "concepts": [
+                "Reißaus",
+                "Dasselfliege",
+                "Vieh",
+                "nehmen",
+                "spauken",
+                "biesen"
+            ],
+            "id": "H26"
+        },
+        {
+            "concepts": [
+                "Fleischfliege"
+            ],
+            "id": "H27"
+        },
+        {
+            "concepts": [
+                "Stubenfliege"
+            ],
+            "id": "H28"
+        },
+        {
+            "concepts": [
+                "Schmeißfliege",
+                "Brummer"
+            ],
+            "id": "H29"
+        },
+        {
+            "concepts": [
+                "Schafzecke"
+            ],
+            "id": "H30"
+        },
+        {
+            "concepts": [
+                "Gemeiner",
+                "Floh"
+            ],
+            "id": "H31"
+        },
+        {
+            "concepts": [
+                "suchen",
+                "flöhen",
+                "Flöhe"
+            ],
+            "id": "H32"
+        },
+        {
+            "concepts": [
+                "Floh"
+            ],
+            "id": "H33"
+        },
+        {
+            "concepts": [
+                "springt",
+                "Floh",
+                "krabbelt",
+                "hupft",
+                "beißt"
+            ],
+            "id": "H34"
+        },
+        {
+            "concepts": [
+                "erdrücken",
+                "Floh"
+            ],
+            "id": "H35"
+        },
+        {
+            "concepts": [
+                "Ameisenlöwe"
+            ],
+            "id": "H36"
+        },
+        {
+            "concepts": [
+                "Florfliege"
+            ],
+            "id": "H37"
+        },
+        {
+            "concepts": [
+                "Gletschergast",
+                "Schnabeljungfer"
+            ],
+            "id": "H38"
+        },
+        {
+            "concepts": [
+                "Eintagsfliege"
+            ],
+            "id": "H39"
+        },
+        {
+            "concepts": [
+                "Wasserjungfer",
+                "Glaserer",
+                "Brettschneider"
+            ],
+            "id": "H40"
+        },
+        {
+            "concepts": [
+                "Deutsche",
+                "Schabe",
+                "Russe"
+            ],
+            "id": "H41"
+        },
+        {
+            "concepts": [
+                "Küchenschabe",
+                "Schwabe"
+            ],
+            "id": "H42"
+        },
+        {
+            "concepts": [
+                "Gottesanbeterin"
+            ],
+            "id": "H43"
+        },
+        {
+            "concepts": [
+                "Heuschrecke"
+            ],
+            "id": "H44"
+        },
+        {
+            "concepts": [
+                "Heuschreckenarten",
+                "braune",
+                "Große",
+                "Schnarrheuschrecke",
+                "grüne"
+            ],
+            "id": "H45"
+        },
+        {
+            "concepts": [
+                "Heuschrecken",
+                "schnarren"
+            ],
+            "id": "H46"
+        },
+        {
+            "concepts": [
+                "Grille"
+            ],
+            "id": "H47"
+        },
+        {
+            "concepts": [
+                "Hausgrille"
+            ],
+            "id": "H48"
+        },
+        {
+            "concepts": [
+                "Grillen",
+                "kitzeln"
+            ],
+            "id": "H49"
+        },
+        {
+            "concepts": [
+                "Grillen",
+                "zirpen"
+            ],
+            "id": "H50"
+        },
+        {
+            "concepts": [
+                "Zwerge",
+                "Maulwurfsgrille",
+                "Werre"
+            ],
+            "id": "H51"
+        },
+        {
+            "concepts": [
+                "Ohrenwützel",
+                "Ohrwurm",
+                "Ohrhohle"
+            ],
+            "id": "H52"
+        },
+        {
+            "concepts": [
+                "Zuckergast"
+            ],
+            "id": "H53"
+        },
+        {
+            "concepts": [
+                "Laus"
+            ],
+            "id": "H54"
+        },
+        {
+            "concepts": [
+                "Lausarten",
+                "Hühnerlaus"
+            ],
+            "id": "H55"
+        },
+        {
+            "concepts": [
+                "Blattlaus"
+            ],
+            "id": "H56"
+        },
+        {
+            "concepts": [
+                "Belag",
+                "hervorgerufener",
+                "Blattlaus",
+                "Honigtau"
+            ],
+            "id": "H57"
+        },
+        {
+            "concepts": [
+                "Baumlaus"
+            ],
+            "id": "H58"
+        },
+        {
+            "concepts": [
+                "Obstbäumen",
+                "Blutlaus"
+            ],
+            "id": "H59"
+        },
+        {
+            "concepts": [
+                "Zikade"
+            ],
+            "id": "H60"
+        },
+        {
+            "concepts": [
+                "hervorgerufener",
+                "Zikaden",
+                "Schleim",
+                "Kuckucksspeichel",
+                "Weiden"
+            ],
+            "id": "H61"
+        },
+        {
+            "concepts": [
+                "Wasserwanze",
+                "Wasserinsekten"
+            ],
+            "id": "H62"
+        },
+        {
+            "concepts": [
+                "Wanze"
+            ],
+            "id": "H63"
+        },
+        {
+            "concepts": [
+                "Bettwanze"
+            ],
+            "id": "H64"
+        },
+        {
+            "concepts": [
+                "Kachel",
+                "Baumwanze"
+            ],
+            "id": "H65"
+        },
+        {
+            "concepts": [
+                "Assel"
+            ],
+            "id": "H66"
+        },
+        {
+            "concepts": [
+                "Kellerassel"
+            ],
+            "id": "H67"
+        },
+        {
+            "concepts": [
+                "Tausendfüßler",
+                "Vielfuß"
+            ],
+            "id": "H68"
+        },
+        {
+            "concepts": [
+                "saicht",
+                "Spinne",
+                "Volksglaube",
+                "bekommt",
+                "Krätze",
+                "giftig",
+                "davon"
+            ],
+            "id": "H69"
+        },
+        {
+            "concepts": [
+                "Heilmittel",
+                "Spinnennetz"
+            ],
+            "id": "H70"
+        },
+        {
+            "concepts": [
+                "Kreuzspinne"
+            ],
+            "id": "H71"
+        },
+        {
+            "concepts": [
+                "Gliederspinne",
+                "Weberknecht",
+                "Habermahder"
+            ],
+            "id": "H72"
+        },
+        {
+            "concepts": [
+                "Spinnenarten",
+                "Wasserspinne",
+                "sonstige"
+            ],
+            "id": "H73"
+        },
+        {
+            "concepts": [
+                "saugt",
+                "Spinne",
+                "Fliege"
+            ],
+            "id": "H74"
+        },
+        {
+            "concepts": [
+                "Altweibersommer",
+                "Volksglaube",
+                "Marienfäden"
+            ],
+            "id": "H75"
+        },
+        {
+            "concepts": [
+                "Skorpion"
+            ],
+            "id": "H76"
+        },
+        {
+            "concepts": [
+                "Milbe"
+            ],
+            "id": "H77"
+        },
+        {
+            "concepts": [
+                "Krätzmilben",
+                "Milbenarten"
+            ],
+            "id": "H78"
+        },
+        {
+            "concepts": [
+                "Zecke",
+                "Holzbock"
+            ],
+            "id": "H79"
+        },
+        {
+            "concepts": [
+                "bekannte",
+                "Insekten",
+                "sonstige"
+            ],
+            "id": "H80"
+        }
+    ]
+}

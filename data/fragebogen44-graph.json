@@ -1,0 +1,2652 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "fährt"
+                ],
+                [
+                    "Alm"
+                ],
+                [
+                    "erfahren"
+                ],
+                [
+                    "Erfahrung"
+                ],
+                [
+                    "Wendungen"
+                ],
+                [
+                    "vorfahren"
+                ],
+                [
+                    "Pferd"
+                ],
+                [
+                    "Grundstück"
+                ],
+                [
+                    "widerfahren"
+                ],
+                [
+                    "Fahrer"
+                ],
+                [
+                    "Fahrt"
+                ],
+                [
+                    "bringen"
+                ],
+                [
+                    "Fuhr"
+                ],
+                [
+                    "gut"
+                ],
+                [
+                    "Zufuhr"
+                ],
+                [
+                    "Mädel"
+                ],
+                [
+                    "Geschäft"
+                ],
+                [
+                    "jemanden"
+                ],
+                [
+                    "überfahren"
+                ],
+                [
+                    "betrügen"
+                ],
+                [
+                    "Weg"
+                ],
+                [
+                    "wegführen"
+                ],
+                [
+                    "zurückführen"
+                ],
+                [
+                    "Führung"
+                ],
+                [
+                    "Führerei"
+                ]
+            ],
+            "2": [
+                [
+                    "durchführen"
+                ]
+            ],
+            "3": [
+                [
+                    "jemand"
+                ],
+                [
+                    "Anführer"
+                ],
+                [
+                    "Führer"
+                ]
+            ],
+            "5": [
+                [
+                    "beim"
+                ]
+            ],
+            "8": [
+                [
+                    "Wagen"
+                ]
+            ],
+            "10": [
+                [
+                    "führen"
+                ]
+            ],
+            "15": [
+                [
+                    "weitere"
+                ]
+            ],
+            "24": [
+                [
+                    "Fuhre"
+                ]
+            ],
+            "63": [
+                [
+                    "fahren"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Alm",
+                    "fahr"
+                ],
+                [
+                    "fahren",
+                    "anstoßen"
+                ],
+                [
+                    "Alm",
+                    "fahren"
+                ],
+                [
+                    "fahren",
+                    "Wagen"
+                ],
+                [
+                    "übertreffen",
+                    "Fahren"
+                ],
+                [
+                    "beim",
+                    "Messen"
+                ],
+                [
+                    "Gefare",
+                    "Far"
+                ],
+                [
+                    "Fuder",
+                    "Fuhre"
+                ],
+                [
+                    "Fuhre",
+                    "Benehmen"
+                ],
+                [
+                    "abnützen",
+                    "Wagen"
+                ],
+                [
+                    "durchführen",
+                    "Ort"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Fährte",
+                    "Fuhre",
+                    "Gang"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Fahrgelegenheit",
+                    "Fuhre",
+                    "Beförderung",
+                    "Fracht"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fährt"
+            ],
+            "source": 0,
+            "target": 10,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alm",
+                "fahr"
+            ],
+            "source": 0,
+            "target": 12,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fahren",
+                "anstoßen"
+            ],
+            "source": 0,
+            "target": 14,
+            "target_group": [
+                2,
+                1,
+                1
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Alm",
+                "fahren"
+            ],
+            "source": 0,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                2
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 0,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 2,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren",
+                "Wagen"
+            ],
+            "source": 1,
+            "target": 16,
+            "target_group": [
+                2,
+                1,
+                3
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 1,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 1,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 1,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 1,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 5,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 2,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 6,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 5,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 6,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 6,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 6,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 6,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 6,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 6,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 7,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 7,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 7,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 7,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 7,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 7,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 7,
+            "target": 75,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 7,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 7,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 7,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 9,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 9,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 9,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 9,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 9,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fahrer"
+            ],
+            "source": 10,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fahrt"
+            ],
+            "source": 11,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuder",
+                "Fuhre"
+            ],
+            "source": 11,
+            "target": 65,
+            "target_group": [
+                2,
+                1,
+                7
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 11,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 11,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 11,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 11,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 11,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 11,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Alm"
+            ],
+            "source": 12,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wendungen"
+            ],
+            "source": 12,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 14,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 14,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 14,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 14,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 14,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 16,
+            "target": 18,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 16,
+            "target": 22,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "vorfahren"
+            ],
+            "source": 16,
+            "target": 30,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 16,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 16,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 16,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 16,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 18,
+            "target": 27,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 18,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 18,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 18,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wagen"
+            ],
+            "source": 18,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "erfahren"
+            ],
+            "source": 22,
+            "target": 23,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Erfahrung"
+            ],
+            "source": 22,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "übertreffen",
+                "Fahren"
+            ],
+            "source": 22,
+            "target": 33,
+            "target_group": [
+                2,
+                1,
+                4
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 22,
+            "target": 58,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 22,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bringen"
+            ],
+            "source": 22,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grundstück"
+            ],
+            "source": 25,
+            "target": 42,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Pferd"
+            ],
+            "source": 27,
+            "target": 33,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 27,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 27,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "gut"
+            ],
+            "source": 27,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemand"
+            ],
+            "source": 33,
+            "target": 36,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "abnützen",
+                "Wagen"
+            ],
+            "source": 33,
+            "target": 102,
+            "target_group": [
+                2,
+                1,
+                9
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Messen"
+            ],
+            "source": 35,
+            "target": 38,
+            "target_group": [
+                2,
+                1,
+                5
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "widerfahren"
+            ],
+            "source": 42,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "überfahren"
+            ],
+            "source": 42,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 58,
+            "target": 59,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 58,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "fahren"
+            ],
+            "source": 58,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 58,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 58,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 58,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 59,
+            "target": 60,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 59,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 59,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 59,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 60,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 60,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 60,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Gefare",
+                "Far"
+            ],
+            "source": 61,
+            "target": 62,
+            "target_group": [
+                2,
+                1,
+                6
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 65,
+            "target": 66,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 65,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fahrgelegenheit",
+                "Fuhre",
+                "Beförderung",
+                "Fracht"
+            ],
+            "source": 65,
+            "target": 68,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 65,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 65,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 65,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 66,
+            "target": 67,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 66,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre",
+                "Benehmen"
+            ],
+            "source": 66,
+            "target": 69,
+            "target_group": [
+                2,
+                1,
+                8
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 66,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhr"
+            ],
+            "source": 66,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 66,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 67,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 67,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fährte",
+                "Fuhre",
+                "Gang"
+            ],
+            "source": 67,
+            "target": 70,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 67,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 68,
+            "target": 69,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 68,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 68,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Zufuhr"
+            ],
+            "source": 68,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 69,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 69,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Fuhre"
+            ],
+            "source": 70,
+            "target": 74,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 75,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 75,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 75,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 76,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Führer"
+            ],
+            "source": 76,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Mädel"
+            ],
+            "source": 76,
+            "target": 88,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Geschäft"
+            ],
+            "source": 76,
+            "target": 93,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 76,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Führer"
+            ],
+            "source": 76,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Weg"
+            ],
+            "source": 77,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "führen"
+            ],
+            "source": 77,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anführer"
+            ],
+            "source": 79,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anführer"
+            ],
+            "source": 79,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Führer"
+            ],
+            "source": 79,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Führung"
+            ],
+            "source": 80,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Führerei"
+            ],
+            "source": 81,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wegführen"
+            ],
+            "source": 82,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Anführer"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "jemanden"
+            ],
+            "source": 83,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "betrügen"
+            ],
+            "source": 83,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "durchführen"
+            ],
+            "source": 88,
+            "target": 91,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "durchführen"
+            ],
+            "source": 88,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "durchführen",
+                "Ort"
+            ],
+            "source": 91,
+            "target": 102,
+            "target_group": [
+                2,
+                1,
+                10
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "zurückführen"
+            ],
+            "source": 99,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 116,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 116,
+            "target": 118,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "weitere"
+            ],
+            "source": 117,
+            "target": 118,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Alm",
+                "Blitz",
+                "anstoßen",
+                "Hose",
+                "fahren",
+                "Formen",
+                "auseinander",
+                "Kopf",
+                "Gesich",
+                "rasch",
+                "bewegen",
+                "fährt",
+                "fahr",
+                "reisen"
+            ],
+            "id": "A1"
+        },
+        {
+            "concepts": [
+                "zwei",
+                "fahre",
+                "fahren",
+                "geh",
+                "Ortsbestimmungen",
+                "alleinstehend",
+                "Euer",
+                "reiten",
+                "Gnaden",
+                "Wagen",
+                "gehn",
+                "Fiakerformel"
+            ],
+            "id": "A1a"
+        },
+        {
+            "concepts": [
+                "fahren",
+                "fuhrwerken"
+            ],
+            "id": "A1b"
+        },
+        {
+            "concepts": [
+                "Wägeleinfahren"
+            ],
+            "id": "A1c"
+        },
+        {
+            "concepts": [
+                "freifahren"
+            ],
+            "id": "A1d"
+        },
+        {
+            "concepts": [
+                "fahren",
+                "einkaufen"
+            ],
+            "id": "A1e"
+        },
+        {
+            "concepts": [
+                "lassen",
+                "fahren"
+            ],
+            "id": "A1f"
+        },
+        {
+            "concepts": [
+                "Korn",
+                "Tenne",
+                "fahren",
+                "führen"
+            ],
+            "id": "A1g"
+        },
+        {
+            "concepts": [
+                "Schuster",
+                "fahrendes",
+                "fahrend",
+                "Gut",
+                "fahrende"
+            ],
+            "id": "A1h"
+        },
+        {
+            "concepts": [
+                "fahren",
+                "sonstiger"
+            ],
+            "id": "A1i"
+        },
+        {
+            "concepts": [
+                "tun",
+                "Bewegung",
+                "fährt",
+                "Person",
+                "Flößer",
+                "Fahrer",
+                "rasche",
+                "Fuhrmann"
+            ],
+            "id": "A2"
+        },
+        {
+            "concepts": [
+                "Fuhre",
+                "kommt",
+                "Bürde",
+                "Fahrt",
+                "Fuder",
+                "Färtlein",
+                "Fert"
+            ],
+            "id": "A3"
+        },
+        {
+            "concepts": [
+                "Alm",
+                "Wendungen",
+                "ab",
+                "abfahren",
+                "sterben",
+                "fahr"
+            ],
+            "id": "A4"
+        },
+        {
+            "concepts": [
+                "Abfahrt"
+            ],
+            "id": "A4a"
+        },
+        {
+            "concepts": [
+                "anstoßen",
+                "fahren",
+                "jemand",
+                "beginnen",
+                "anfahren"
+            ],
+            "id": "A5"
+        },
+        {
+            "concepts": [
+                "Anfahrt"
+            ],
+            "id": "A5a"
+        },
+        {
+            "concepts": [
+                "Alm",
+                "Himmel",
+                "aufhören",
+                "Höhe",
+                "festlich",
+                "vorfahren",
+                "fahren",
+                "Wagen",
+                "auffahren"
+            ],
+            "id": "A6"
+        },
+        {
+            "concepts": [
+                "Auffahrt"
+            ],
+            "id": "A6a"
+        },
+        {
+            "concepts": [
+                "ausfahren",
+                "ausholen",
+                "Hand",
+                "Schreiben",
+                "Wagen",
+                "Arm",
+                "beim"
+            ],
+            "id": "A7"
+        },
+        {
+            "concepts": [
+                "Ausfahrt"
+            ],
+            "id": "A7a"
+        },
+        {
+            "concepts": [
+                "Ausfahrets"
+            ],
+            "id": "A7b"
+        },
+        {
+            "concepts": [
+                "befahren"
+            ],
+            "id": "A8"
+        },
+        {
+            "concepts": [
+                "zugrunde",
+                "übertreffen",
+                "Erfahrung",
+                "fahren",
+                "richten",
+                "Ende",
+                "erfahren",
+                "bringen",
+                "Fahren"
+            ],
+            "id": "A9"
+        },
+        {
+            "concepts": [
+                "erfahren",
+                "unerfahren"
+            ],
+            "id": "A9a"
+        },
+        {
+            "concepts": [
+                "Erfahrung"
+            ],
+            "id": "A9b"
+        },
+        {
+            "concepts": [
+                "Rechte",
+                "durchfahren",
+                "Bräuche",
+                "Grundstück"
+            ],
+            "id": "A10"
+        },
+        {
+            "concepts": [
+                "Durchfahrt"
+            ],
+            "id": "A10a"
+        },
+        {
+            "concepts": [
+                "beim",
+                "Mähen",
+                "eingefahrenes",
+                "Boden",
+                "Stück",
+                "gut",
+                "einfahren",
+                "Almvieh",
+                "Pferd",
+                "heimfahren",
+                "fremden",
+                "Pflug"
+            ],
+            "id": "A11"
+        },
+        {
+            "concepts": [
+                "Einfahrer"
+            ],
+            "id": "A11a"
+        },
+        {
+            "concepts": [
+                "Heimfahrt",
+                "Einfahrt",
+                "fremdes",
+                "Gelände"
+            ],
+            "id": "A11b"
+        },
+        {
+            "concepts": [
+                "Wendungen",
+                "links",
+                "vorfahren",
+                "rechts",
+                "Vorschrift"
+            ],
+            "id": "A12"
+        },
+        {
+            "concepts": [
+                "Fürfahrer"
+            ],
+            "id": "A12a"
+        },
+        {
+            "concepts": [
+                "Vorfahrtsrecht",
+                "Vorfahrt"
+            ],
+            "id": "A12b"
+        },
+        {
+            "concepts": [
+                "übertreffen",
+                "jemand",
+                "abnützen",
+                "Pferd",
+                "Wagen",
+                "herfahren",
+                "Straße",
+                "Richtungsausdrücke",
+                "Fahren"
+            ],
+            "id": "A13"
+        },
+        {
+            "concepts": [
+                "Herfahrt"
+            ],
+            "id": "A13a"
+        },
+        {
+            "concepts": [
+                "zuherfahren",
+                "beim",
+                "Messen"
+            ],
+            "id": "A14"
+        },
+        {
+            "concepts": [
+                "jemand",
+                "hinfahren"
+            ],
+            "id": "A15"
+        },
+        {
+            "concepts": [
+                "Hinfahrt"
+            ],
+            "id": "A15a"
+        },
+        {
+            "concepts": [
+                "zuhinfahren",
+                "beim",
+                "Messen"
+            ],
+            "id": "A16"
+        },
+        {
+            "concepts": [
+                "nachfahren"
+            ],
+            "id": "A17"
+        },
+        {
+            "concepts": [
+                "Nachfahrer"
+            ],
+            "id": "A17a"
+        },
+        {
+            "concepts": [
+                "niederfahren"
+            ],
+            "id": "A18"
+        },
+        {
+            "concepts": [
+                "überfahren",
+                "Grundstück",
+                "Betonung",
+                "widerfahren",
+                "übertreten"
+            ],
+            "id": "A19"
+        },
+        {
+            "concepts": [
+                "Überfahrer"
+            ],
+            "id": "A19a"
+        },
+        {
+            "concepts": [
+                "Überfahrtsrecht",
+                "Überfahrt"
+            ],
+            "id": "A19b"
+        },
+        {
+            "concepts": [
+                "umfahren"
+            ],
+            "id": "A20"
+        },
+        {
+            "concepts": [
+                "Umfahrer"
+            ],
+            "id": "A20a"
+        },
+        {
+            "concepts": [
+                "Umfahrt"
+            ],
+            "id": "A20b"
+        },
+        {
+            "concepts": [
+                "unterfahren",
+                "Betonungen"
+            ],
+            "id": "A21"
+        },
+        {
+            "concepts": [
+                "verfahren",
+                "vorgehn"
+            ],
+            "id": "A22"
+        },
+        {
+            "concepts": [
+                "widerfahren"
+            ],
+            "id": "A23"
+        },
+        {
+            "concepts": [
+                "zufahren"
+            ],
+            "id": "A24"
+        },
+        {
+            "concepts": [
+                "Hausfreund",
+                "Zufahrer"
+            ],
+            "id": "A24a"
+        },
+        {
+            "concepts": [
+                "Zufahrt"
+            ],
+            "id": "A24b"
+        },
+        {
+            "concepts": [
+                "retourfahren",
+                "zurückfahren"
+            ],
+            "id": "A25"
+        },
+        {
+            "concepts": [
+                "Retourfahrt",
+                "Rückfahrt"
+            ],
+            "id": "A25a"
+        },
+        {
+            "concepts": [
+                "zusammenfahren"
+            ],
+            "id": "A26"
+        },
+        {
+            "concepts": [
+                "dazufahren"
+            ],
+            "id": "A27"
+        },
+        {
+            "concepts": [
+                "Fahrgeld",
+                "fahren",
+                "weitere"
+            ],
+            "id": "A28"
+        },
+        {
+            "concepts": [
+                "Urfahrer",
+                "weitere",
+                "Fahrer"
+            ],
+            "id": "A29"
+        },
+        {
+            "concepts": [
+                "Naufahrt",
+                "weitere",
+                "Fahrt"
+            ],
+            "id": "A30"
+        },
+        {
+            "concepts": [
+                "Fare",
+                "Gefare",
+                "Far",
+                "wilde"
+            ],
+            "id": "A31"
+        },
+        {
+            "concepts": [
+                "Nachtfar",
+                "Far",
+                "Gefare",
+                "ON",
+                "Urfar"
+            ],
+            "id": "A31a"
+        },
+        {
+            "concepts": [
+                "farig",
+                "willfärig",
+                "färig"
+            ],
+            "id": "A32"
+        },
+        {
+            "concepts": [
+                "Fahrnis",
+                "Baumannsfahrnis"
+            ],
+            "id": "A33"
+        },
+        {
+            "concepts": [
+                "Fuhre",
+                "finden",
+                "Fahrgelegenheit",
+                "fahren",
+                "Fuder",
+                "Fracht",
+                "übernehmen",
+                "Brot",
+                "Schiff",
+                "aufnehmen",
+                "essen",
+                "Beförderung",
+                "Geführte",
+                "Grobheiten"
+            ],
+            "id": "A34"
+        },
+        {
+            "concepts": [
+                "tolle",
+                "Fuhre",
+                "Fuhr",
+                "Benehmen"
+            ],
+            "id": "A34a"
+        },
+        {
+            "concepts": [
+                "Fährte",
+                "Fuhre",
+                "Gang"
+            ],
+            "id": "A34b"
+        },
+        {
+            "concepts": [
+                "Fuhrlohn",
+                "Fuhre",
+                "Fahrgelegenheit",
+                "Holzfuhr",
+                "Fracht",
+                "Zufuhr",
+                "Beförderung",
+                "Geführtes"
+            ],
+            "id": "A35"
+        },
+        {
+            "concepts": [
+                "Höllenfuhr",
+                "Fuhre",
+                "Benehmen"
+            ],
+            "id": "A35a"
+        },
+        {
+            "concepts": [
+                "Fuhre",
+                "Fährte",
+                "Wildgang",
+                "Gang",
+                "Wildfuhr"
+            ],
+            "id": "A35b"
+        },
+        {
+            "concepts": [
+                "Geführ"
+            ],
+            "id": "A36"
+        },
+        {
+            "concepts": [
+                "zustande",
+                "fuhren",
+                "Sache",
+                "handhaben",
+                "erfuhren",
+                "bringen"
+            ],
+            "id": "A37"
+        },
+        {
+            "concepts": [
+                "Fuhrung",
+                "Fuhr"
+            ],
+            "id": "A38"
+        },
+        {
+            "concepts": [
+                "Fuhre",
+                "ungeführt",
+                "unhandlich",
+                "ungeschickt",
+                "geführ",
+                "abführig",
+                "fuhrlich",
+                "ig"
+            ],
+            "id": "A39"
+        },
+        {
+            "concepts": [
+                "Lasten",
+                "Stroh",
+                "führen"
+            ],
+            "id": "A40"
+        },
+        {
+            "concepts": [
+                "Mädel",
+                "Zügel",
+                "Ware",
+                "Tanz",
+                "Führer",
+                "führen",
+                "schlecht",
+                "Hammer",
+                "Geschäft",
+                "gut",
+                "Regiment",
+                "Kassa",
+                "Prozeß",
+                "leiten"
+            ],
+            "id": "A40a"
+        },
+        {
+            "concepts": [
+                "Guten",
+                "Weg",
+                "führen",
+                "führt"
+            ],
+            "id": "A40b"
+        },
+        {
+            "concepts": [
+                "vollführen"
+            ],
+            "id": "A40c"
+        },
+        {
+            "concepts": [
+                "Führerin",
+                "Knecht",
+                "Bergführer",
+                "Führer",
+                "Anführer",
+                "Grad",
+                "Leitkuh"
+            ],
+            "id": "A41"
+        },
+        {
+            "concepts": [
+                "Führung",
+                "Werkzeugen",
+                "Maschinen"
+            ],
+            "id": "A42"
+        },
+        {
+            "concepts": [
+                "Führerei",
+                "Führet"
+            ],
+            "id": "A43"
+        },
+        {
+            "concepts": [
+                "Abführmittel",
+                "abliefern",
+                "erzeugen",
+                "Abführen",
+                "Gegenmittel",
+                "wegführen",
+                "Durchfall",
+                "abführen"
+            ],
+            "id": "A44"
+        },
+        {
+            "concepts": [
+                "anhäufen",
+                "betrügen",
+                "jemanden",
+                "Anführer",
+                "Zufuhr",
+                "anleiten",
+                "anführen"
+            ],
+            "id": "A45"
+        },
+        {
+            "concepts": [
+                "Anführer"
+            ],
+            "id": "A45a"
+        },
+        {
+            "concepts": [
+                "aufführen"
+            ],
+            "id": "A46"
+        },
+        {
+            "concepts": [
+                "Aufführer"
+            ],
+            "id": "A46a"
+        },
+        {
+            "concepts": [
+                "Aufführung"
+            ],
+            "id": "A46b"
+        },
+        {
+            "concepts": [
+                "Mädel",
+                "entwenden",
+                "begleiten",
+                "durchführen",
+                "ausführen",
+                "hinausführen",
+                "bespötteln"
+            ],
+            "id": "A47"
+        },
+        {
+            "concepts": [
+                "Ausführung"
+            ],
+            "id": "A47a"
+        },
+        {
+            "concepts": [
+                "erführen"
+            ],
+            "id": "A48"
+        },
+        {
+            "concepts": [
+                "durchführen",
+                "Ort"
+            ],
+            "id": "A49"
+        },
+        {
+            "concepts": [
+                "Durchführung"
+            ],
+            "id": "A49a"
+        },
+        {
+            "concepts": [
+                "Geschäft",
+                "Arrest",
+                "einführen",
+                "Getreide"
+            ],
+            "id": "A50"
+        },
+        {
+            "concepts": [
+                "Einführung"
+            ],
+            "id": "A50a"
+        },
+        {
+            "concepts": [
+                "herführen"
+            ],
+            "id": "A51"
+        },
+        {
+            "concepts": [
+                "zuherführen"
+            ],
+            "id": "A52"
+        },
+        {
+            "concepts": [
+                "hinführen"
+            ],
+            "id": "A53"
+        },
+        {
+            "concepts": [
+                "zuhinführen"
+            ],
+            "id": "A54"
+        },
+        {
+            "concepts": [
+                "hinterführen",
+                "Türriegel",
+                "zurückführen",
+                "jemanden"
+            ],
+            "id": "A55"
+        },
+        {
+            "concepts": [
+                "nachführen"
+            ],
+            "id": "A56"
+        },
+        {
+            "concepts": [
+                "niederführen"
+            ],
+            "id": "A57"
+        },
+        {
+            "concepts": [
+                "betrügen",
+                "überführter",
+                "überfahren",
+                "Ort",
+                "durchführen",
+                "Wagen",
+                "abnützen",
+                "Leiche",
+                "überführen"
+            ],
+            "id": "A58"
+        },
+        {
+            "concepts": [
+                "Überführer"
+            ],
+            "id": "A58a"
+        },
+        {
+            "concepts": [
+                "Überführung"
+            ],
+            "id": "A58b"
+        },
+        {
+            "concepts": [
+                "umführen"
+            ],
+            "id": "A59"
+        },
+        {
+            "concepts": [
+                "Irre",
+                "verleiten",
+                "zerstören",
+                "verführen",
+                "wegführen",
+                "unterschlagen",
+                "Weg",
+                "auseinanderführen"
+            ],
+            "id": "A60"
+        },
+        {
+            "concepts": [
+                "Verführer"
+            ],
+            "id": "A60a"
+        },
+        {
+            "concepts": [
+                "Verführung"
+            ],
+            "id": "A60b"
+        },
+        {
+            "concepts": [
+                "verführerisch"
+            ],
+            "id": "A60c"
+        },
+        {
+            "concepts": [
+                "widerführen"
+            ],
+            "id": "A61"
+        },
+        {
+            "concepts": [
+                "hinzuführen",
+                "Stier",
+                "zuführen"
+            ],
+            "id": "A62"
+        },
+        {
+            "concepts": [
+                "Zuführer"
+            ],
+            "id": "A62a"
+        },
+        {
+            "concepts": [
+                "zurückführen"
+            ],
+            "id": "A63"
+        },
+        {
+            "concepts": [
+                "zusammenführen"
+            ],
+            "id": "A64"
+        },
+        {
+            "concepts": [
+                "dazuführen"
+            ],
+            "id": "A65"
+        },
+        {
+            "concepts": [
+                "zerführen",
+                "führen",
+                "weitere"
+            ],
+            "id": "A66"
+        },
+        {
+            "concepts": [
+                "Rädelführer",
+                "Führer",
+                "weitere",
+                "Führertschako"
+            ],
+            "id": "A67"
+        },
+        {
+            "concepts": [
+                "Führung",
+                "Führerei",
+                "weitere"
+            ],
+            "id": "A68"
+        }
+    ]
+}

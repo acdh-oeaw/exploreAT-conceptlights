@@ -1,0 +1,3140 @@
+{
+    "coincident_groups": {
+        "1": {
+            "1": [
+                [
+                    "Totentier"
+                ],
+                [
+                    "versehen"
+                ],
+                [
+                    "Sterben"
+                ],
+                [
+                    "Seele"
+                ],
+                [
+                    "Sterbenden"
+                ],
+                [
+                    "Tod"
+                ],
+                [
+                    "Blumen"
+                ],
+                [
+                    "dabei"
+                ],
+                [
+                    "Trauergäste"
+                ],
+                [
+                    "letzte"
+                ],
+                [
+                    "tragen"
+                ],
+                [
+                    "beigelegt"
+                ],
+                [
+                    "Seelenmesse"
+                ],
+                [
+                    "Tage"
+                ],
+                [
+                    "bewirtet"
+                ],
+                [
+                    "Grabbesuch"
+                ],
+                [
+                    "Licht"
+                ],
+                [
+                    "Inschriften"
+                ],
+                [
+                    "wann"
+                ],
+                [
+                    "Speisen"
+                ]
+            ],
+            "2": [
+                [
+                    "Bedeutung"
+                ]
+            ],
+            "3": [
+                [
+                    "Sterbesakrament"
+                ],
+                [
+                    "Leichnam"
+                ],
+                [
+                    "Totenbahre"
+                ],
+                [
+                    "Begräbnis"
+                ],
+                [
+                    "liegen"
+                ],
+                [
+                    "Tote"
+                ],
+                [
+                    "Totenmahl"
+                ],
+                [
+                    "Toten"
+                ]
+            ],
+            "15": [
+                [
+                    "Trauerzug"
+                ],
+                [
+                    "Grab"
+                ]
+            ],
+            "18": [
+                [
+                    "beim"
+                ]
+            ],
+            "133": [
+                [
+                    "Leiche"
+                ]
+            ]
+        },
+        "2": {
+            "1": [
+                [
+                    "Bedeutung",
+                    "beigemessen"
+                ]
+            ],
+            "2": [
+                [
+                    "beim",
+                    "Totenmahl"
+                ]
+            ],
+            "3": [
+                [
+                    "Abtransport",
+                    "Leiche"
+                ]
+            ]
+        },
+        "3": {
+            "1": [
+                [
+                    "Wöchnerinnen",
+                    "verstorbene",
+                    "Beigaben"
+                ]
+            ]
+        },
+        "4": {
+            "1": [
+                [
+                    "Totenmahl",
+                    "Nachrede",
+                    "beim",
+                    "Verstorbenen"
+                ]
+            ]
+        }
+    },
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "coincidences": [
+                "Tod"
+            ],
+            "source": 0,
+            "target": 45,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Totentier"
+            ],
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegen"
+            ],
+            "source": 8,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegen"
+            ],
+            "source": 8,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sterben"
+            ],
+            "source": 10,
+            "target": 21,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sterbenden"
+            ],
+            "source": 10,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "versehen"
+            ],
+            "source": 11,
+            "target": 12,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sterbesakrament"
+            ],
+            "source": 13,
+            "target": 14,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sterbesakrament"
+            ],
+            "source": 13,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Sterbesakrament"
+            ],
+            "source": 14,
+            "target": 16,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "letzte"
+            ],
+            "source": 15,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leichnam"
+            ],
+            "source": 19,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leichnam"
+            ],
+            "source": 19,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tote"
+            ],
+            "source": 19,
+            "target": 53,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tote"
+            ],
+            "source": 19,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 21,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 21,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 21,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 21,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 21,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 21,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 24,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 24,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 24,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 24,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 24,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seele"
+            ],
+            "source": 25,
+            "target": 26,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutung"
+            ],
+            "source": 27,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutung"
+            ],
+            "source": 27,
+            "target": 29,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beigelegt"
+            ],
+            "source": 27,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Bedeutung",
+                "beigemessen"
+            ],
+            "source": 28,
+            "target": 29,
+            "target_group": [
+                2,
+                1,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 31,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 29,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leichnam"
+            ],
+            "source": 31,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 44,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 31,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Wöchnerinnen",
+                "verstorbene",
+                "Beigaben"
+            ],
+            "source": 34,
+            "target": 59,
+            "target_group": [
+                3,
+                1,
+                0
+            ],
+            "weight": 3
+        },
+        {
+            "coincidences": [
+                "Totenbahre"
+            ],
+            "source": 36,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Totenbahre"
+            ],
+            "source": 36,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Totenbahre"
+            ],
+            "source": 37,
+            "target": 38,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "liegen"
+            ],
+            "source": 38,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 44,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Begräbnis"
+            ],
+            "source": 45,
+            "target": 46,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Begräbnis"
+            ],
+            "source": 45,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Begräbnis"
+            ],
+            "source": 46,
+            "target": 48,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 49,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 46,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 50,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 49,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "wann"
+            ],
+            "source": 49,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 52,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 50,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "dabei"
+            ],
+            "source": 51,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 55,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 52,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tote"
+            ],
+            "source": 53,
+            "target": 54,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Blumen"
+            ],
+            "source": 55,
+            "target": 56,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 63,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 55,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauergäste"
+            ],
+            "source": 56,
+            "target": 76,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Toten"
+            ],
+            "source": 59,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Toten"
+            ],
+            "source": 59,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 64,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 63,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 64,
+            "target": 65,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 64,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 64,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 64,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 64,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 64,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 64,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 65,
+            "target": 70,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 65,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 65,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 65,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 65,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 65,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Tage"
+            ],
+            "source": 67,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 70,
+            "target": 71,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 70,
+            "target": 72,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 70,
+            "target": 73,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 70,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 70,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abtransport",
+                "Leiche"
+            ],
+            "source": 71,
+            "target": 72,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Abtransport",
+                "Leiche"
+            ],
+            "source": 71,
+            "target": 73,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 71,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 71,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Abtransport",
+                "Leiche"
+            ],
+            "source": 72,
+            "target": 73,
+            "target_group": [
+                2,
+                3,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 72,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 72,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 73,
+            "target": 77,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 73,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "bewirtet"
+            ],
+            "source": 76,
+            "target": 111,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Leiche"
+            ],
+            "source": 77,
+            "target": 79,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Toten"
+            ],
+            "source": 77,
+            "target": 127,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "tragen"
+            ],
+            "source": 78,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 81,
+            "target": 82,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 81,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 81,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 81,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 81,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 82,
+            "target": 83,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 82,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 82,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 82,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 83,
+            "target": 84,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 83,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 83,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 84,
+            "target": 85,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 84,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Trauerzug"
+            ],
+            "source": 85,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 97,
+            "target": 99,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 97,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 97,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 97,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 97,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 99,
+            "target": 102,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 99,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 99,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 99,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 102,
+            "target": 103,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 102,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 102,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 103,
+            "target": 106,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 103,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grab"
+            ],
+            "source": 106,
+            "target": 126,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Seelenmesse"
+            ],
+            "source": 107,
+            "target": 108,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Speisen"
+            ],
+            "source": 111,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Totenmahl"
+            ],
+            "source": 114,
+            "target": 115,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Totenmahl"
+            ],
+            "source": 114,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Totenmahl"
+            ],
+            "source": 114,
+            "target": 117,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Totenmahl"
+            ],
+            "source": 115,
+            "target": 116,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim",
+                "Totenmahl"
+            ],
+            "source": 115,
+            "target": 117,
+            "target_group": [
+                2,
+                2,
+                0
+            ],
+            "weight": 2
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 115,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 115,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Totenmahl",
+                "Nachrede",
+                "beim",
+                "Verstorbenen"
+            ],
+            "source": 116,
+            "target": 117,
+            "target_group": [
+                4,
+                1,
+                0
+            ],
+            "weight": 4
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 116,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 116,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 117,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 117,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Grabbesuch"
+            ],
+            "source": 119,
+            "target": 120,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "beim"
+            ],
+            "source": 120,
+            "target": 130,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Inschriften"
+            ],
+            "source": 123,
+            "target": 129,
+            "weight": 1
+        },
+        {
+            "coincidences": [
+                "Licht"
+            ],
+            "source": 126,
+            "target": 127,
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "concepts": [
+                "Tod",
+                "Personifikationen"
+            ],
+            "id": "1"
+        },
+        {
+            "concepts": [
+                "Todes",
+                "Vorzeichen"
+            ],
+            "id": "2"
+        },
+        {
+            "concepts": [
+                "Subjekt",
+                "anmelden"
+            ],
+            "id": "3"
+        },
+        {
+            "concepts": [
+                "Totentier",
+                "Totenvogel",
+                "Käuzchen"
+            ],
+            "id": "4"
+        },
+        {
+            "concepts": [
+                "Totentier",
+                "Natter"
+            ],
+            "id": "5"
+        },
+        {
+            "concepts": [
+                "Totentiere"
+            ],
+            "id": "6"
+        },
+        {
+            "concepts": [
+                "Totenbett"
+            ],
+            "id": "7"
+        },
+        {
+            "concepts": [
+                "Sterbezimmer"
+            ],
+            "id": "8"
+        },
+        {
+            "concepts": [
+                "liegen",
+                "Zügen",
+                "letzten"
+            ],
+            "id": "9a"
+        },
+        {
+            "concepts": [
+                "zieht",
+                "Sterbende",
+                "schon"
+            ],
+            "id": "9b"
+        },
+        {
+            "concepts": [
+                "Sterben",
+                "erleichtern",
+                "tut",
+                "Sterbenden"
+            ],
+            "id": "9c"
+        },
+        {
+            "concepts": [
+                "versehen",
+                "Sterbesakramenten"
+            ],
+            "id": "9d"
+        },
+        {
+            "concepts": [
+                "gehn",
+                "versehen"
+            ],
+            "id": "9e"
+        },
+        {
+            "concepts": [
+                "Wegzehrung",
+                "Sterbesakrament"
+            ],
+            "id": "9f"
+        },
+        {
+            "concepts": [
+                "Sterbesakrament",
+                "Himmelsbrot"
+            ],
+            "id": "9g"
+        },
+        {
+            "concepts": [
+                "Ölung",
+                "letzte"
+            ],
+            "id": "9h"
+        },
+        {
+            "concepts": [
+                "schicken",
+                "holen",
+                "Sterbesakrament",
+                "Herrn",
+                "Geistlichen"
+            ],
+            "id": "9i"
+        },
+        {
+            "concepts": [
+                "gestorben",
+                "Ausdrücke",
+                "sterben"
+            ],
+            "id": "10"
+        },
+        {
+            "concepts": [
+                "tot"
+            ],
+            "id": "10a"
+        },
+        {
+            "concepts": [
+                "Tote",
+                "Leichnam"
+            ],
+            "id": "10b"
+        },
+        {
+            "concepts": [
+                "scheintot"
+            ],
+            "id": "10c"
+        },
+        {
+            "concepts": [
+                "Sterben",
+                "Lichteinhalten",
+                "beim"
+            ],
+            "id": "11"
+        },
+        {
+            "concepts": [
+                "Sterbekerze"
+            ],
+            "id": "12"
+        },
+        {
+            "concepts": [
+                "Augen",
+                "zudrücken"
+            ],
+            "id": "13"
+        },
+        {
+            "concepts": [
+                "oft",
+                "Läuten",
+                "läuten",
+                "absetzen",
+                "Zügenglocke",
+                "beim"
+            ],
+            "id": "14"
+        },
+        {
+            "concepts": [
+                "formelhafte",
+                "ausbeten",
+                "Gebetschlüsse",
+                "ausfahrende",
+                "beten",
+                "Seele"
+            ],
+            "id": "15"
+        },
+        {
+            "concepts": [
+                "fährt",
+                "Gestalt",
+                "Seele"
+            ],
+            "id": "15a"
+        },
+        {
+            "concepts": [
+                "Wehen",
+                "beigelegt",
+                "Sterbens",
+                "Bedeutung",
+                "Windes",
+                "Leichenfeier"
+            ],
+            "id": "15b"
+        },
+        {
+            "concepts": [
+                "Bedeutung",
+                "beigemessen",
+                "Zuckungen",
+                "Sterbenden"
+            ],
+            "id": "15c"
+        },
+        {
+            "concepts": [
+                "Bedeutung",
+                "beigemessen",
+                "Leiche",
+                "Geräuschen"
+            ],
+            "id": "15d"
+        },
+        {
+            "concepts": [
+                "Totenbeschau"
+            ],
+            "id": "16"
+        },
+        {
+            "concepts": [
+                "waschen",
+                "Leichnam",
+                "Leiche"
+            ],
+            "id": "17"
+        },
+        {
+            "concepts": [
+                "Leichnam",
+                "ankleiden",
+                "anlegen"
+            ],
+            "id": "18"
+        },
+        {
+            "concepts": [
+                "Totenhemd"
+            ],
+            "id": "19"
+        },
+        {
+            "concepts": [
+                "Wöchnerinnen",
+                "Beigaben",
+                "verstorbene",
+                "besondere",
+                "Totenkleid"
+            ],
+            "id": "20"
+        },
+        {
+            "concepts": [
+                "Bahre"
+            ],
+            "id": "21"
+        },
+        {
+            "concepts": [
+                "Totenbahre",
+                "Laden"
+            ],
+            "id": "21a"
+        },
+        {
+            "concepts": [
+                "Totenbahre",
+                "Brett",
+                "Rebrett"
+            ],
+            "id": "21b"
+        },
+        {
+            "concepts": [
+                "liegen",
+                "Totenbahre",
+                "Nagel"
+            ],
+            "id": "21c"
+        },
+        {
+            "concepts": [
+                "Totentruhe"
+            ],
+            "id": "22"
+        },
+        {
+            "concepts": [
+                "Sarg"
+            ],
+            "id": "22a"
+        },
+        {
+            "concepts": [
+                "Sargnagel"
+            ],
+            "id": "23"
+        },
+        {
+            "concepts": [
+                "Sargdeckel"
+            ],
+            "id": "24"
+        },
+        {
+            "concepts": [
+                "Leichenbitter",
+                "Leichenansager"
+            ],
+            "id": "25"
+        },
+        {
+            "concepts": [
+                "ansagen",
+                "Leiche",
+                "einladen",
+                "einsagen"
+            ],
+            "id": "26"
+        },
+        {
+            "concepts": [
+                "Tod",
+                "Begräbnis",
+                "Zeit"
+            ],
+            "id": "26a"
+        },
+        {
+            "concepts": [
+                "Begräbnis",
+                "Leichenbegängnis",
+                "Leicht",
+                "Leiche"
+            ],
+            "id": "27"
+        },
+        {
+            "concepts": [
+                "Begräbnisfeier",
+                "Kondukt"
+            ],
+            "id": "27a"
+        },
+        {
+            "concepts": [
+                "Begräbnis",
+                "Jungfrauen",
+                "Ehrentag"
+            ],
+            "id": "27b"
+        },
+        {
+            "concepts": [
+                "verschieden",
+                "wann",
+                "Kind",
+                "Form",
+                "Ausläuten",
+                "Mann",
+                "Leiche",
+                "Weib"
+            ],
+            "id": "28"
+        },
+        {
+            "concepts": [
+                "kleinem",
+                "Geläute",
+                "großem",
+                "einläuten",
+                "Leiche"
+            ],
+            "id": "28a"
+        },
+        {
+            "concepts": [
+                "deren",
+                "gesungen",
+                "Totenwacht",
+                "Spiele",
+                "dabei",
+                "verabreicht",
+                "Lieder",
+                "Gebete",
+                "Namen"
+            ],
+            "id": "29"
+        },
+        {
+            "concepts": [
+                "aufbahren",
+                "Leiche"
+            ],
+            "id": "30"
+        },
+        {
+            "concepts": [
+                "Gemach",
+                "Tote",
+                "aufgebahrt"
+            ],
+            "id": "30a"
+        },
+        {
+            "concepts": [
+                "kommt",
+                "Tote",
+                "aufgebahrte",
+                "liegen",
+                "Richtung"
+            ],
+            "id": "30b"
+        },
+        {
+            "concepts": [
+                "ausgeliehen",
+                "woher",
+                "Blumen",
+                "Kirche",
+                "aufputzen",
+                "Kränze",
+                "nimmt",
+                "Leiche"
+            ],
+            "id": "31"
+        },
+        {
+            "concepts": [
+                "Trauergäste",
+                "Blumen",
+                "Blumensträuße"
+            ],
+            "id": "32"
+        },
+        {
+            "concepts": [
+                "Totenkränzel"
+            ],
+            "id": "33"
+        },
+        {
+            "concepts": [
+                "Totenkrone"
+            ],
+            "id": "33a"
+        },
+        {
+            "concepts": [
+                "Beigaben",
+                "Wöchnerinnen",
+                "mitgegeben",
+                "verstorbene",
+                "einzelnen",
+                "Gesamtname",
+                "Gegenstände",
+                "Toten"
+            ],
+            "id": "34"
+        },
+        {
+            "concepts": [
+                "Lage",
+                "Bahrtuch",
+                "verschiedene",
+                "Farbe"
+            ],
+            "id": "35"
+        },
+        {
+            "concepts": [
+                "Enden",
+                "Bahrtuches",
+                "Maschen"
+            ],
+            "id": "36"
+        },
+        {
+            "concepts": [
+                "Ährenbüschel",
+                "Weihwasser",
+                "stehen",
+                "Stroh"
+            ],
+            "id": "37"
+        },
+        {
+            "concepts": [
+                "dabei",
+                "Besprengen",
+                "gesprochen",
+                "Leiche"
+            ],
+            "id": "38"
+        },
+        {
+            "concepts": [
+                "Anschauen",
+                "Besuch",
+                "Leiche"
+            ],
+            "id": "39"
+        },
+        {
+            "concepts": [
+                "Ausstellen",
+                "Leiche"
+            ],
+            "id": "39a"
+        },
+        {
+            "concepts": [
+                "Begräbnisstunde"
+            ],
+            "id": "40"
+        },
+        {
+            "concepts": [
+                "denen",
+                "Tage",
+                "bestimmte",
+                "beerdigt",
+                "darf",
+                "gibt"
+            ],
+            "id": "40a"
+        },
+        {
+            "concepts": [
+                "Annageln",
+                "Sargdeckels"
+            ],
+            "id": "41"
+        },
+        {
+            "concepts": [
+                "Schwenken",
+                "Heben",
+                "Schwelle",
+                "Sarges"
+            ],
+            "id": "42"
+        },
+        {
+            "concepts": [
+                "Kreuzwegen",
+                "Leiche",
+                "geschieht",
+                "Was"
+            ],
+            "id": "43"
+        },
+        {
+            "concepts": [
+                "Fenster",
+                "Abtransport",
+                "Tür",
+                "öffnen",
+                "Leiche"
+            ],
+            "id": "44"
+        },
+        {
+            "concepts": [
+                "Abtransport",
+                "Fegen",
+                "Leiche",
+                "Bodens"
+            ],
+            "id": "44a"
+        },
+        {
+            "concepts": [
+                "Bettstrohes",
+                "Abtransport",
+                "Verbrennen",
+                "Leiche"
+            ],
+            "id": "44b"
+        },
+        {
+            "concepts": [
+                "Trauerhaus"
+            ],
+            "id": "45"
+        },
+        {
+            "concepts": [
+                "Leidtragende"
+            ],
+            "id": "46"
+        },
+        {
+            "concepts": [
+                "Trauergäste",
+                "bewirtet"
+            ],
+            "id": "46a"
+        },
+        {
+            "concepts": [
+                "gehen",
+                "Ehre",
+                "begleiten",
+                "letzte",
+                "bezeigen",
+                "Toten",
+                "Leiche"
+            ],
+            "id": "47"
+        },
+        {
+            "concepts": [
+                "ewigen",
+                "Ruhe",
+                "tragen"
+            ],
+            "id": "47a"
+        },
+        {
+            "concepts": [
+                "abholen",
+                "Leiche"
+            ],
+            "id": "48"
+        },
+        {
+            "concepts": [
+                "Träger"
+            ],
+            "id": "49"
+        },
+        {
+            "concepts": [
+                "Kreuzelbub",
+                "Trauerzug"
+            ],
+            "id": "50"
+        },
+        {
+            "concepts": [
+                "Trauerzug",
+                "verteilt",
+                "Kerzen"
+            ],
+            "id": "51"
+        },
+        {
+            "concepts": [
+                "Trauerzug",
+                "Windlichter"
+            ],
+            "id": "51a"
+        },
+        {
+            "concepts": [
+                "Trauerzug",
+                "Windlicht",
+                "tragen"
+            ],
+            "id": "51b"
+        },
+        {
+            "concepts": [
+                "Windlichtträger",
+                "Trauerzug"
+            ],
+            "id": "51c"
+        },
+        {
+            "concepts": [
+                "Totenklage"
+            ],
+            "id": "52"
+        },
+        {
+            "concepts": [
+                "Klageweib"
+            ],
+            "id": "52a"
+        },
+        {
+            "concepts": [
+                "Totenfrau"
+            ],
+            "id": "52b"
+        },
+        {
+            "concepts": [
+                "Vorbeter"
+            ],
+            "id": "53"
+        },
+        {
+            "concepts": [
+                "einsegnen"
+            ],
+            "id": "54"
+        },
+        {
+            "concepts": [
+                "Ganzkondukt"
+            ],
+            "id": "55"
+        },
+        {
+            "concepts": [
+                "Polster",
+                "Trauerzug"
+            ],
+            "id": "56"
+        },
+        {
+            "concepts": [
+                "Polsterträger",
+                "innen"
+            ],
+            "id": "57"
+        },
+        {
+            "concepts": [
+                "Leichenzug",
+                "Ordnung"
+            ],
+            "id": "58"
+        },
+        {
+            "concepts": [
+                "Grabrede"
+            ],
+            "id": "59"
+        },
+        {
+            "concepts": [
+                "Gottesacker",
+                "Friedhof"
+            ],
+            "id": "60"
+        },
+        {
+            "concepts": [
+                "Grab",
+                "Grube"
+            ],
+            "id": "61"
+        },
+        {
+            "concepts": [
+                "Gruft"
+            ],
+            "id": "61a"
+        },
+        {
+            "concepts": [
+                "Grab",
+                "beigelegt",
+                "offene",
+                "Vorbedeutung",
+                "Regnen"
+            ],
+            "id": "61b"
+        },
+        {
+            "concepts": [
+                "Grabrichtung",
+                "Geistliche",
+                "umgekehrt"
+            ],
+            "id": "61c"
+        },
+        {
+            "concepts": [
+                "Totengräber"
+            ],
+            "id": "62"
+        },
+        {
+            "concepts": [
+                "Grab",
+                "schaufeln"
+            ],
+            "id": "63"
+        },
+        {
+            "concepts": [
+                "eingraben",
+                "begraben",
+                "Grab",
+                "legen"
+            ],
+            "id": "64"
+        },
+        {
+            "concepts": [
+                "Grablieder"
+            ],
+            "id": "65"
+        },
+        {
+            "concepts": [
+                "Grabgebete"
+            ],
+            "id": "66"
+        },
+        {
+            "concepts": [
+                "nachgeworfen",
+                "Erde",
+                "Handvoll",
+                "Grab"
+            ],
+            "id": "67"
+        },
+        {
+            "concepts": [
+                "Seelenmesse"
+            ],
+            "id": "68"
+        },
+        {
+            "concepts": [
+                "Requiem",
+                "Seelenmesse"
+            ],
+            "id": "68a"
+        },
+        {
+            "concepts": [
+                "Gedächtnisfeiern",
+                "Dreißigster",
+                "Tage"
+            ],
+            "id": "69"
+        },
+        {
+            "concepts": [
+                "Totentages",
+                "Begräbnisses",
+                "Jahrtag",
+                "Gedenktagen",
+                "Verrichtungen"
+            ],
+            "id": "69a"
+        },
+        {
+            "concepts": [
+                "Begräbnissen",
+                "Todesfällen",
+                "bewirtet",
+                "Gebäcke",
+                "Speisen",
+                "Armen",
+                "Jahrtagen",
+                "womit"
+            ],
+            "id": "69b"
+        },
+        {
+            "concepts": [
+                "Trauerkleider"
+            ],
+            "id": "70"
+        },
+        {
+            "concepts": [
+                "Trauerzeit"
+            ],
+            "id": "71"
+        },
+        {
+            "concepts": [
+                "bleibt",
+                "frei",
+                "gehalten",
+                "Totenmahl",
+                "Platz",
+                "Formalitäten"
+            ],
+            "id": "72"
+        },
+        {
+            "concepts": [
+                "beim",
+                "Gerichte",
+                "Abfolge",
+                "Totenmahl"
+            ],
+            "id": "73"
+        },
+        {
+            "concepts": [
+                "beim",
+                "Nachrede",
+                "Verstorbenen",
+                "Totenmahl"
+            ],
+            "id": "74"
+        },
+        {
+            "concepts": [
+                "Nachrede",
+                "Verstorbenen",
+                "nachreden",
+                "Totenmahl",
+                "beim",
+                "halten"
+            ],
+            "id": "74a"
+        },
+        {
+            "concepts": [
+                "Gedächtnismesse"
+            ],
+            "id": "75"
+        },
+        {
+            "concepts": [
+                "Grabbesuch"
+            ],
+            "id": "76"
+        },
+        {
+            "concepts": [
+                "beim",
+                "Grabbeterin",
+                "Grabbesuch"
+            ],
+            "id": "76a"
+        },
+        {
+            "concepts": [
+                "Grabdenkmal",
+                "Grabkreuz"
+            ],
+            "id": "77"
+        },
+        {
+            "concepts": [
+                "Grabdenkmäler"
+            ],
+            "id": "77a"
+        },
+        {
+            "concepts": [
+                "Grabdenkmälern",
+                "Inschriften"
+            ],
+            "id": "78"
+        },
+        {
+            "concepts": [
+                "Grabschmuck"
+            ],
+            "id": "79"
+        },
+        {
+            "concepts": [
+                "Friedhofblumen"
+            ],
+            "id": "80"
+        },
+        {
+            "concepts": [
+                "Grab",
+                "Licht"
+            ],
+            "id": "81"
+        },
+        {
+            "concepts": [
+                "Gedächtnistagen",
+                "Haus",
+                "Toten",
+                "Licht"
+            ],
+            "id": "81a"
+        },
+        {
+            "concepts": [
+                "Beschwörung",
+                "Totenzauber"
+            ],
+            "id": "82"
+        },
+        {
+            "concepts": [
+                "darauf",
+                "Totenbretter",
+                "Inschriften",
+                "aufgestellt"
+            ],
+            "id": "83"
+        },
+        {
+            "concepts": [
+                "Seelen",
+                "wann",
+                "Mehl",
+                "armen",
+                "gestreut",
+                "Speisen",
+                "Wind",
+                "überlaufen",
+                "gefüttert",
+                "Werden",
+                "beim",
+                "Kochen"
+            ],
+            "id": "84"
+        },
+        {
+            "concepts": [
+                "Allerheiligentag",
+                "Todesfall",
+                "erster"
+            ],
+            "id": "85"
+        },
+        {
+            "concepts": [
+                "Kindern",
+                "Selbstmördern",
+                "Beerdigung",
+                "unehelichen",
+                "ungetauften"
+            ],
+            "id": "86"
+        }
+    ]
+}
