@@ -14,7 +14,7 @@ module.exports = {
     javascript: './src/main.js'
   },
   output: {
-    filename: 'build/app.js'
+    filename: './build/app.js'
   },
   devtool: 'source-map',
   // for modules
