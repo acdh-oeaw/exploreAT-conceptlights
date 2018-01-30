@@ -14,11 +14,14 @@ module.exports = {
     javascript: './src/main.js'
   },
   output: {
-    path: __dirname,
-    publicPath: '/',
+    path: path.join(__dirname, 'build'),
     filename: 'app.js'
   },
-  devtool: 'source-map',
+  devServer: {
+        open: true,
+        inline: true,
+        hot: true
+    },
   // for modules
   resolve: {
     modules: [path.join(__dirname, 'node_modules')]
@@ -41,7 +44,7 @@ module.exports = {
       },
       {
         test: /\.html$/,
-        loader: "file-loader?name=build/[name].[ext]"
+        loader: "file-loader?name=[name].[ext]"
       }
     ]
   },
