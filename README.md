@@ -4,12 +4,16 @@ Konzeptlichter/concept lights visually explores concepts occurring in and across
 
 ![conceptlights](img/conceptlights.png?raw=true "Screenshot")
 
-Base template based on [https://github.com/vlandham/vis](https://github.com/vlandham/vis)
+Base template: [https://github.com/vlandham/vis](https://github.com/vlandham/vis)
 
 ## Install requirements
 
-use `npm` to get things installed
+use `npm` or `yarn` to get things installed
 
+```
+yarn i
+```
+or
 ```
 npm install
 ```
@@ -29,4 +33,3 @@ You can also use `npm run` to run `webpack` commands:
 `npm run build`
 
 Now visit http://localhost:8080 and open the console to see some output.
-
