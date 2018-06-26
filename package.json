@@ -4,7 +4,7 @@
   "description": "A simple way to get started with data visualizations using d3 and javascript",
   "main": "index.html",
   "scripts": {
-    "start": "node server.js",
+    "start": "webpack && node server.js",
     "watch": "webpack-dev-server --progress --colors",
     "build": "webpack"
   },
