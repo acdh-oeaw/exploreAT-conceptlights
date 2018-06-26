@@ -9,6 +9,8 @@ if(minimize) {
   plugins.push(new webpack.optimize.UglifyJsPlugin());
 }
 
+plugins.push(new webpack.HotModuleReplacementPlugin())
+
 module.exports = {
   entry: {
     javascript: './src/main.js'
@@ -18,10 +20,9 @@ module.exports = {
     filename: 'app.js'
   },
   devServer: {
-        open: true,
-        inline: true,
-        hot: true
-    },
+    hot: true,
+    open: true      
+  },
   // for modules
   resolve: {
     modules: [path.join(__dirname, 'node_modules')]
