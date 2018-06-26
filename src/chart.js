@@ -42,15 +42,8 @@ export default function (data) {
             //                     .domain(d3.extent(data.links, (d) => d.weight))
             //                     .range(["white", "blue", "red"]);
 
-            const someColors = d3.scaleSequential(scaleChromatic.interpolateReds).domain([0, d3.max(data.links, (d) => d.weight)]);
-
-            // console.log(someColors(0), someColors(1),someColors(2),someColors(3),someColors(4));
-
-            // const defaultOpacity = (d) => {
-            //     return 0.3 + 0.2 * d.weight;
-            // };
-
-            
+            const someColors = d3.scaleSequential(d3.interpolateViridis).domain([0, d3.max(data.links, (d) => d.weight)]);
+      
             // Define the div for the tooltip
             const tooltip = d3tip().attr('class', 'd3-tip').offset([-10, 0]);
 
@@ -312,7 +305,7 @@ export default function (data) {
                         .style('fill', d => color(d.group))
                         .style('fill-opacity', 0.5)
                         .on('mouseover', function (c) {
-                            tooltip.html(`Appearing ${c.group} times`);
+                            tooltip.html(`Appearing in ${c.group} question(s)`);
                             tooltip.show();
                             console.log(c);
                             d3.select(this).style('fill-opacity', 1);
@@ -413,9 +406,6 @@ export default function (data) {
             questionnaireStratum = questionnaireStratum.sort(function(a, b) {
               return naturalCompare(a[0].questionnaireID, b[0].questionnaireID);
             });
-            console.log(questionnaireStratum);
-
-            const generator = d3.line().curve(d3.curveBundle.beta(0.2));
 
             d3.selectAll(`.column-${data.nodes[data.nodes.length - 1].id}`)
               .filter(d => d.isMirror)
@@ -460,7 +450,7 @@ export default function (data) {
             //       .style('display', 'inline');
 
             // const points = [ [50, 330], [75, 200], [280, 75], [300, 75], [475, 300], [600, 200] ];
-            
+            // const generator = d3.line().curve(d3.curveBundle.beta(0.2));
             // console.log(generator(points));
 
 
