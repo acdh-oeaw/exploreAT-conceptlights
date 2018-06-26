@@ -12,8 +12,6 @@ import networkx as nx
 from networkx.readwrite import json_graph
 
 
-stop_words = get_stop_words('de')
-
 def cleanXMLTagContent(stripped_text):
 	text = re.sub(r'\n\s*\n', r' ', stripped_text, flags=re.M)
 	return ' '.join(text.split())
@@ -25,6 +23,8 @@ concept_regex = re.compile(r"mconcept|concept:(.*)")
 
 concepts_num = []
 coincident_num = []
+
+stop_words = get_stop_words('de')
 
 with iopen('./frage-fragebogen-full-tgd01.xml') as frage_file,\
 	 iopen('./dboe-concept-features-fs-lod-tei.xml') as concepts_file:
