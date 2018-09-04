@@ -2,6 +2,8 @@
 # exploreAT-conceptlights
 Konzeptlichter/concept lights visually explores concepts occurring in and across different questions within individual questionnaires. In addition, information concept grouping within questionnaires as well as collocation information is displayed.
 
+[Link to prototype](https://concept-lights.herokuapp.com/)
+
 ![conceptlights](img/conceptlights.png?raw=true "Screenshot")
 
 Base template: [https://github.com/vlandham/vis](https://github.com/vlandham/vis)
